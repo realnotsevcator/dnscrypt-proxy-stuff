@@ -8,7 +8,7 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 HOSTS_URL = "https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts"
-OUTPUT_FILE = "comss_dns_results.txt"
+OUTPUT_FILE = "cloaking-rules-2.txt"
 OPTIONAL_HEADER_FILE = "example-cloaking-rules.txt"
 UA = "Mozilla/5.0 (compatible; comss-doh-check/1.0)"
 
