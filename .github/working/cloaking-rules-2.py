@@ -6,7 +6,6 @@ import re
 import ssl
 import socket
 import struct
-from collections import defaultdict
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
@@ -38,14 +37,15 @@ def get_hosts_from_repo():
         if not line or line.startswith("#"):
             continue
         parts = SPACE_SPLIT.split(line)
-        if len(parts) < 2:
-            continue
-        ip = parts[0]
-        if not IPV4_RE.match(ip):
-            continue
-        for host in parts[1:]:
-            host = host.strip().lower().rstrip(".")
-            if host and not host.startswith("#"):
+        for part in parts:
+            if not part:
+                continue
+            if part.startswith("#"):
+                break
+            if IPV4_RE.match(part):
+                continue
+            host = part.strip().lower().rstrip(".")
+            if host:
                 hosts.append(host)
     seen, uniq = set(), []
     for h in hosts:
@@ -185,27 +185,6 @@ def apex_of(host):
 
 def main():
     all_hosts = get_hosts_from_repo()
-    interesting = {}
-
-    def check(host):
-        sets = resolver_sets(host)
-        comss, g = sets["comss"], sets["google"]
-        if comss == g:
-            return None
-        if comss and comss != g:
-            return (host, comss)
-        return None
-
-    for host in all_hosts:
-        res = check(host)
-        if res:
-            h, comss_ips = res
-            interesting[h] = comss_ips
-
-    groups = defaultdict(dict)
-    for host, ips in interesting.items():
-        groups[apex_of(host)][host] = ips
-
     output_lines = []
     if os.path.isfile(OPTIONAL_HEADER_FILE):
         with open(OPTIONAL_HEADER_FILE, "r", encoding="utf-8", errors="ignore") as f:
@@ -213,15 +192,17 @@ def main():
         output_lines.append("")
     output_lines.append("# comss dns results")
 
-    for apex in sorted(groups.keys()):
-        members = groups[apex]
-        ip_sets = {tuple(sorted(v)) for v in members.values()}
-        if len(ip_sets) == 1:
-            ips = next(iter(members.values()))
-            output_lines.append(f"{apex} {','.join(sorted(ips))}")
-        else:
-            for host in sorted(members.keys()):
-                output_lines.append(f"={host} {','.join(sorted(members[host]))}")
+    for host in all_hosts:
+        sets = resolver_sets(host)
+        comss_ips, google_ips = sets["comss"], sets["google"]
+        if not comss_ips:
+            continue
+        differing = comss_ips - google_ips if google_ips else comss_ips
+        if not differing:
+            continue
+        chosen_ip = sorted(differing)[0]
+        label = host if host == apex_of(host) else f"={host}"
+        output_lines.append(f"{label} {chosen_ip}")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(output_lines).rstrip() + "\n")
