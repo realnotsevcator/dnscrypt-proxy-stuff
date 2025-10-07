@@ -8,7 +8,6 @@
 # In the following example, the same name maps both to IPv4 and IPv6 addresses:
 
 localhost                127.0.0.1
-localhost                ::1
 
 # For load-balancing, multiple IP addresses of the same class can also be
 # provided using the same format, one <pattern> <ip> pair per line.
@@ -26,12 +25,12 @@ localhost                ::1
 
 # comss dns results
 instagram.com 157.240.205.174
-=www.instagram.com 157.240.205.174
-=b.i.instagram.com 157.240.205.174
+=www.instagram.com 57.144.244.34
+=b.i.instagram.com 57.144.244.34
 =z-p42-chat-e2ee-ig.facebook.com 157.240.205.175
 =help.instagram.com 157.240.205.174
 =yt3.ggpht.com 173.194.221.198
-=yt4.ggpht.com 142.251.1.132
+=yt4.ggpht.com 173.194.220.132
 chatgpt.com 94.131.119.22
 =ab.chatgpt.com 94.131.119.22
 =auth.openai.com 94.131.119.22
@@ -57,7 +56,7 @@ sora.com 185.250.151.50
 =alkalimakersuite-pa.clients6.google.com 94.131.119.22
 =assistant-s3-pa.googleapis.com 185.250.151.50
 =proactivebackend-pa.googleapis.com 94.131.119.22
-=o.pki.goog 173.194.220.94
+=o.pki.goog 173.194.221.94
 labs.google 185.250.151.50
 notebooklm.google 94.131.119.22
 =notebooklm.google.com 94.131.119.22
@@ -68,7 +67,7 @@ notebooklm.google 94.131.119.22
 =edgeservices.bing.com 94.131.119.22
 =rewards.bing.com 185.250.151.49
 =xsts.auth.xboxlive.com 94.131.119.22
-=xgpuwebf2p.gssv-play-prod.xboxlive.com 20.50.2.84
+=xgpuwebf2p.gssv-play-prod.xboxlive.com 51.12.31.0
 =xgpuweb.gssv-play-prod.xboxlive.com 20.50.2.84
 =encore.scdn.co 185.5.161.186
 =open.spotify.com 146.75.119.42
@@ -97,13 +96,13 @@ grok.com 134.0.118.88
 =cdn.id.supercell.com 3.164.68.10
 =security.id.supercell.com 13.33.235.111
 =accounts.supercell.com 108.156.22.113
-=game-assets.clashroyaleapp.com 13.33.235.12
+=game-assets.clashroyaleapp.com 3.164.68.107
 =game-assets.clashofclans.com 18.165.140.11
 =clashofclans.inbox.supercell.com 13.33.235.125
 =game-assets.brawlstarsgame.com 3.174.113.101
 =store.supercell.com 18.165.140.113
-=game.clashroyaleapp.com 34.210.93.125
-=gamea.clashofclans.com 100.29.42.242
+=game.clashroyaleapp.com 34.220.45.108
+=gamea.clashofclans.com 18.207.226.157
 =game.brawlstarsgame.com 185.250.151.49
 =game.squadbustersgame.com 18.212.236.61
 deepl.com 8.47.69.0
@@ -127,9 +126,9 @@ deepl.com 8.47.69.0
 =auth.deepl.com 94.131.119.22
 =oneshot-free.www.deepl.com 94.131.119.22
 deezer.com 18.165.122.68
-=www.deezer.com 104.84.152.233
-=payment.deezer.com 104.84.152.233
-weather.com 184.51.234.186
+=www.deezer.com 104.69.222.194
+=payment.deezer.com 104.69.222.194
+weather.com 92.123.205.207
 =upsx.weather.com 13.33.235.115
 guilded.gg 108.156.22.11
 =www.guilded.gg 94.131.119.22
@@ -144,44 +143,22 @@ claude.ai 94.131.119.22
 4pda.to 8.47.69.0
 =s.4pda.to 8.47.69.0
 =appbk.4pda.to 8.47.69.0
-=trae-api-sg.mchost.guru 185.5.161.195
-=api.trae.ai 185.5.161.185
+=trae-api-sg.mchost.guru 94.131.119.22
+=api.trae.ai 94.131.119.22
 =api-sg-central.trae.ai 185.5.161.227
 =api16-normal-alisg.mchost.guru 185.5.161.194
 =www.notion.so 94.131.119.22
 =www.canva.com 94.131.119.22
 =www.intel.com 94.131.119.22
 =www.dell.com 104.103.64.8
-=www.tiktok.com 23.73.4.197
-=developer.nvidia.com 2.22.31.25
+=www.tiktok.com 23.73.2.133
+=developer.nvidia.com 104.69.222.194
 =builds.parsec.app 8.47.69.0
 tria.ge 8.47.69.0
 =api.imgur.com 146.75.116.193
-=www.dyson.com 104.84.152.57
-=www.dyson.fr 104.84.152.184
+=www.dyson.com 104.69.222.203
+=www.dyson.fr 104.69.222.192
 =usher.ttvnw.net 108.156.22.31
 =api.manus.im 94.131.119.22
-=eu.posthog.com 18.158.233.122
 =www.qwant.com 94.131.119.22
 guidedhacking.com 8.47.69.0
-only-fans.uk 0.0.0.0
-only-fans.me 188.114.96.11
-iplogger.org 0.0.0.0
-wl.gl 0.0.0.0
-maper.info 0.0.0.0
-2no.co 0.0.0.0
-yip.su 0.0.0.0
-iplis.ru 0.0.0.0
-ezstat.ru 0.0.0.0
-iplog.co 188.114.96.11
-grabify.org 188.114.96.11
-=log16-platform-ycru.tiktokv.com 2.22.31.19
-=adfox.yandex.ru 0.0.0.0
-=adfstat.yandex.ru 0.0.0.0
-=ads-api.tiktok.com 2.22.31.168
-=ads-api.twitter.com 127.0.0.1
-=ads-dev.pinterest.com 104.103.64.223
-=ads-sg.tiktok.com 2.22.31.32
-=an.yandex.ru 0.0.0.0
-=mc.yandex.ru 0.0.0.0
-=amc.yandex.ru 0.0.0.0
