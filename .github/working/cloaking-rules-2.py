@@ -36,9 +36,9 @@ def get_hosts_from_repo():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
-        parts = SPACE_SPLIT.split(line)
-        if parts and parts[0] in {"0.0.0.0", "127.0.0.1"}:
+        if line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
             continue
+        parts = SPACE_SPLIT.split(line)
         for part in parts:
             if not part:
                 continue
