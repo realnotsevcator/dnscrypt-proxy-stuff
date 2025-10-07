@@ -5,7 +5,6 @@ import logging
 import os
 import re
 import ssl
-import socket
 import struct
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -19,7 +18,6 @@ COMSS_DOH = [
     "https://dns.comss.one/dns-query",
     "https://router.comss.one/dns-query",
 ]
-COMSS_DNS_IPS = ["83.220.169.155", "212.109.195.93"]
 
 IPV4_RE = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")
 SPACE_SPLIT = re.compile(r"\s+")
@@ -173,30 +171,11 @@ def google_json(name):
         LOGGER.exception("Failed Google DNS query for %s", name)
         return set()
 
-def udp_dns_query(server_ip, name):
-    try:
-        LOGGER.info("Sending UDP DNS query to %s for %s", server_ip, name)
-        q = build_dns_query(name)
-        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        try:
-            s.sendto(q, (server_ip, 53))
-            data, _ = s.recvfrom(4096)
-        finally:
-            s.close()
-        ips = parse_dns_message(data)
-        LOGGER.info("UDP DNS response from %s for %s: %s", server_ip, name, ", ".join(sorted(ips)) or "<none>")
-        return ips
-    except Exception:
-        LOGGER.exception("Failed UDP DNS query to %s for %s", server_ip, name)
-        return set()
-
 def resolver_sets(name):
     LOGGER.info("Aggregating resolver responses for %s", name)
     comss_ips = set()
     for base in COMSS_DOH:
         comss_ips |= doh_wire(base, name)
-    for ip in COMSS_DNS_IPS:
-        comss_ips |= udp_dns_query(ip, name)
     google_ips = google_json(name)
     LOGGER.info(
         "Resolver results for %s -> comss: %s | google: %s",
