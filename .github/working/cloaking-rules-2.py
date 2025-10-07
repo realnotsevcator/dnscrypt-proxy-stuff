@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import base64
 import json
+import logging
 import os
 import re
 import ssl
@@ -23,13 +24,22 @@ COMSS_DNS_IPS = ["83.220.169.155", "212.109.195.93"]
 IPV4_RE = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")
 SPACE_SPLIT = re.compile(r"\s+")
 
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+LOGGER = logging.getLogger(__name__)
+
+
 def fetch(url, headers=None, data=None):
+    LOGGER.info("Fetching URL: %s", url)
     req = Request(url, data=data, headers=headers or {"User-Agent": UA})
     ctx = ssl.create_default_context()
     with urlopen(req, context=ctx) as resp:
-        return resp.read()
+        payload = resp.read()
+        LOGGER.info("Received %d bytes from %s", len(payload), url)
+        return payload
 
 def get_hosts_from_repo():
+    LOGGER.info("Downloading hosts list from repository")
     raw = fetch(HOSTS_URL).decode("utf-8", errors="ignore")
     hosts = []
     for line in raw.splitlines():
@@ -54,6 +64,7 @@ def get_hosts_from_repo():
         if h not in seen:
             seen.add(h)
             uniq.append(h)
+    LOGGER.info("Collected %d unique hosts from repository", len(uniq))
     return uniq
 
 def to_idna(name):
@@ -128,17 +139,22 @@ def parse_dns_message(data):
     return ips
 
 def doh_wire(base_url, name):
+    LOGGER.info("Querying DoH endpoint %s for %s", base_url, name)
     q = build_dns_query(name)
     b64 = base64.urlsafe_b64encode(q).decode().rstrip("=")
     url = f"{base_url}?dns={b64}"
     headers = {"User-Agent": UA, "Accept": "application/dns-message"}
     try:
         data = fetch(url, headers=headers)
-        return parse_dns_message(data)
+        ips = parse_dns_message(data)
+        LOGGER.info("DoH response from %s for %s: %s", base_url, name, ", ".join(sorted(ips)) or "<none>")
+        return ips
     except Exception:
+        LOGGER.exception("Failed DoH query against %s for %s", base_url, name)
         return set()
 
 def google_json(name):
+    LOGGER.info("Querying Google DNS JSON API for %s", name)
     params = {"name": to_idna(name), "type": "A", "cd": "false"}
     url = f"https://dns.google/resolve?{urlencode(params)}"
     headers = {"User-Agent": UA, "Accept": "application/dns-json"}
@@ -151,12 +167,15 @@ def google_json(name):
                 d = ans.get("data", "")
                 if IPV4_RE.match(d):
                     ips.add(d)
+        LOGGER.info("Google DNS response for %s: %s", name, ", ".join(sorted(ips)) or "<none>")
         return ips
     except Exception:
+        LOGGER.exception("Failed Google DNS query for %s", name)
         return set()
 
 def udp_dns_query(server_ip, name):
     try:
+        LOGGER.info("Sending UDP DNS query to %s for %s", server_ip, name)
         q = build_dns_query(name)
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         try:
@@ -164,19 +183,30 @@ def udp_dns_query(server_ip, name):
             data, _ = s.recvfrom(4096)
         finally:
             s.close()
-        return parse_dns_message(data)
+        ips = parse_dns_message(data)
+        LOGGER.info("UDP DNS response from %s for %s: %s", server_ip, name, ", ".join(sorted(ips)) or "<none>")
+        return ips
     except Exception:
+        LOGGER.exception("Failed UDP DNS query to %s for %s", server_ip, name)
         return set()
 
 def resolver_sets(name):
+    LOGGER.info("Aggregating resolver responses for %s", name)
     comss_ips = set()
     for base in COMSS_DOH:
         comss_ips |= doh_wire(base, name)
     for ip in COMSS_DNS_IPS:
         comss_ips |= udp_dns_query(ip, name)
+    google_ips = google_json(name)
+    LOGGER.info(
+        "Resolver results for %s -> comss: %s | google: %s",
+        name,
+        ", ".join(sorted(comss_ips)) or "<none>",
+        ", ".join(sorted(google_ips)) or "<none>",
+    )
     return {
         "comss": comss_ips,
-        "google": google_json(name),
+        "google": google_ips,
     }
 
 def apex_of(host):
@@ -186,28 +216,44 @@ def apex_of(host):
     return ".".join(parts[-2:])
 
 def main():
+    LOGGER.info("Starting cloaking rules generation")
     all_hosts = get_hosts_from_repo()
+    LOGGER.info("Loaded %d hosts to evaluate", len(all_hosts))
     output_lines = []
     if os.path.isfile(OPTIONAL_HEADER_FILE):
+        LOGGER.info("Reading optional header from %s", OPTIONAL_HEADER_FILE)
         with open(OPTIONAL_HEADER_FILE, "r", encoding="utf-8", errors="ignore") as f:
-            output_lines.append(f.read().rstrip("\n"))
+            header_contents = f.read().rstrip("\n")
+            output_lines.append(header_contents)
         output_lines.append("")
+    else:
+        LOGGER.info("Optional header file %s not found", OPTIONAL_HEADER_FILE)
     output_lines.append("# comss dns results")
 
+    added_entries = 0
     for host in all_hosts:
+        LOGGER.info("Processing host: %s", host)
         sets = resolver_sets(host)
         comss_ips, google_ips = sets["comss"], sets["google"]
         if not comss_ips:
+            LOGGER.info("Skipping %s: no COMSS IPs returned", host)
             continue
         differing = comss_ips - google_ips if google_ips else comss_ips
         if not differing:
+            LOGGER.info("Skipping %s: COMSS and Google results identical", host)
             continue
         chosen_ip = sorted(differing)[0]
         label = host if host == apex_of(host) else f"={host}"
         output_lines.append(f"{label} {chosen_ip}")
+        added_entries += 1
+        LOGGER.info("Added cloaking rule: %s -> %s", label, chosen_ip)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(output_lines).rstrip() + "\n")
+        payload = "\n".join(output_lines).rstrip() + "\n"
+        f.write(payload)
+        LOGGER.info(
+            "Wrote %d lines (%d rules) to %s", len(output_lines), added_entries, OUTPUT_FILE
+        )
 
 if __name__ == "__main__":
     main()
