@@ -18,6 +18,10 @@ COMSS_DOH = [
     "https://dns.comss.one/dns-query",
     "https://router.comss.one/dns-query",
 ]
+YANDEX_GOOGLE_DOH = [
+    "https://dns.yandex.net/dns-query",
+    "https://dns.google/dns-query",
+]
 
 IPV4_RE = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")
 SPACE_SPLIT = re.compile(r"\s+")
@@ -40,6 +44,7 @@ def get_hosts_from_repo():
     LOGGER.info("Downloading hosts list from repository")
     raw = fetch(HOSTS_URL).decode("utf-8", errors="ignore")
     hosts = []
+    host_redirects = {}
     for line in raw.splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
@@ -47,6 +52,12 @@ def get_hosts_from_repo():
         if line.startswith("0.0.0.0") or line.startswith("127.0.0.1"):
             continue
         parts = SPACE_SPLIT.split(line)
+        mapped_ip = None
+        if parts and IPV4_RE.match(parts[0]):
+            candidate_ip = parts[0]
+            if not candidate_ip.startswith("0.0.0.0") and not candidate_ip.startswith("127."):
+                mapped_ip = candidate_ip
+            parts = parts[1:]
         for part in parts:
             if not part:
                 continue
@@ -57,13 +68,15 @@ def get_hosts_from_repo():
             host = part.strip().lower().rstrip(".")
             if host:
                 hosts.append(host)
+                if mapped_ip:
+                    host_redirects.setdefault(host, mapped_ip)
     seen, uniq = set(), []
     for h in hosts:
         if h not in seen:
             seen.add(h)
             uniq.append(h)
     LOGGER.info("Collected %d unique hosts from repository", len(uniq))
-    return uniq
+    return uniq, host_redirects
 
 def to_idna(name):
     try:
@@ -177,15 +190,20 @@ def resolver_sets(name):
     for base in COMSS_DOH:
         comss_ips |= doh_wire(base, name)
     google_ips = google_json(name)
+    yandex_google_ips = set()
+    for base in YANDEX_GOOGLE_DOH:
+        yandex_google_ips |= doh_wire(base, name)
     LOGGER.info(
-        "Resolver results for %s -> comss: %s | google: %s",
+        "Resolver results for %s -> comss: %s | google: %s | yandex/google DoH: %s",
         name,
         ", ".join(sorted(comss_ips)) or "<none>",
         ", ".join(sorted(google_ips)) or "<none>",
+        ", ".join(sorted(yandex_google_ips)) or "<none>",
     )
     return {
         "comss": comss_ips,
         "google": google_ips,
+        "yandex_google": yandex_google_ips,
     }
 
 def apex_of(host):
@@ -196,7 +214,7 @@ def apex_of(host):
 
 def main():
     LOGGER.info("Starting cloaking rules generation")
-    all_hosts = get_hosts_from_repo()
+    all_hosts, host_redirects = get_hosts_from_repo()
     LOGGER.info("Loaded %d hosts to evaluate", len(all_hosts))
     output_lines = []
     if os.path.isfile(OPTIONAL_HEADER_FILE):
@@ -213,13 +231,37 @@ def main():
     for host in all_hosts:
         LOGGER.info("Processing host: %s", host)
         sets = resolver_sets(host)
-        comss_ips, google_ips = sets["comss"], sets["google"]
+        comss_ips, google_ips, yandex_google_ips = (
+            sets["comss"],
+            sets["google"],
+            sets["yandex_google"],
+        )
         if not comss_ips:
-            LOGGER.info("Skipping %s: no COMSS IPs returned", host)
+            if not (google_ips or yandex_google_ips):
+                mapped_ip = host_redirects.get(host)
+                if mapped_ip:
+                    label = host if host == apex_of(host) else f"={host}"
+                    output_lines.append(f"{label} {mapped_ip}")
+                    added_entries += 1
+                    LOGGER.info(
+                        "Added cloaking rule from hosts mapping: %s -> %s",
+                        label,
+                        mapped_ip,
+                    )
+                else:
+                    LOGGER.info("Skipping %s: no resolver returned an IP", host)
+            else:
+                LOGGER.info(
+                    "Skipping %s: COMSS empty but other resolvers provided results",
+                    host,
+                )
             continue
-        differing = comss_ips - google_ips if google_ips else comss_ips
+        other_ips = google_ips | yandex_google_ips
+        differing = comss_ips - other_ips if other_ips else comss_ips
         if not differing:
-            LOGGER.info("Skipping %s: COMSS and Google results identical", host)
+            LOGGER.info(
+                "Skipping %s: COMSS results overlap with other resolvers", host
+            )
             continue
         chosen_ip = sorted(differing)[0]
         label = host if host == apex_of(host) else f"={host}"
