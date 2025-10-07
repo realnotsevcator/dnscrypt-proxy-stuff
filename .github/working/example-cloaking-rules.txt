@@ -8,7 +8,6 @@
 # In the following example, the same name maps both to IPv4 and IPv6 addresses:
 
 localhost                127.0.0.1
-localhost                ::1
 
 # For load-balancing, multiple IP addresses of the same class can also be
 # provided using the same format, one <pattern> <ip> pair per line.
