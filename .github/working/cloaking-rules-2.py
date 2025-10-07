@@ -22,6 +22,7 @@ custom_domains = ['soundcloud.com', 'genius.com']
 DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 COMSS_DOH_ENDPOINTS = ['https://dns.comss.one/dns-query', 'https://router.comss.one/dns-query']
 TARGET_KEYWORDS = ['*anthropic*', '*claude*', '*openai*', '*chatgpt*', '*goog*', '*grok*']
+COMSS_CACHE = {}
 
 
 def encode_qname(name):
@@ -121,18 +122,23 @@ def doh_wire(base, name):
 
 
 def resolve_via_comss(name):
+    key = name.lower().rstrip('.')
+    if key in COMSS_CACHE:
+        return COMSS_CACHE[key]
+
     ips = set()
     for base in COMSS_DOH_ENDPOINTS:
         try:
             ips |= doh_wire(base, name)
         except Exception as exc:
             print(f"Failed to resolve {name} via {base}: {exc}")
+    COMSS_CACHE[key] = ips
     return ips
 
 
 def needs_comss_override(host):
     host_l = host.lower()
-    return any(keyword in host_l for keyword in TARGET_KEYWORDS)
+    return any(fnmatch.fnmatch(host_l, pattern.lower()) for pattern in TARGET_KEYWORDS)
 
 response = requests.get(URL)
 response.raise_for_status()
@@ -154,6 +160,10 @@ for line in lines:
     if host == best_domain and base_ip is None:
         base_ip = ip
     entries.append((host, ip))
+
+best_domain_ips = resolve_via_comss(best_domain)
+if best_domain_ips:
+    base_ip = sorted(best_domain_ips)[0]
 
 host_to_ip = defaultdict(set)
 subdomains_by_root = defaultdict(list)
