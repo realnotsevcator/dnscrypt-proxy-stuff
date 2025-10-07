@@ -13,7 +13,7 @@ remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*'
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
 no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*oai*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*', '*clashroyale*', '*clashofclans*', '*brawlstars*', '*supercell*']
 example_file = 'example-cloaking-rules.txt'
-output_file = 'cloaking-rules.txt'
+output_file = 'cloaking-rules-2.txt'
 
 best_domain = 'chatgpt.com'
 base_ip = None
