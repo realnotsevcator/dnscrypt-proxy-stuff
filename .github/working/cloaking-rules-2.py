@@ -1,6 +1,12 @@
-import requests
-from collections import defaultdict, Counter
+import base64
 import fnmatch
+import secrets
+import ssl
+import struct
+import urllib.request
+from collections import defaultdict, Counter
+
+import requests
 
 URL = 'https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts'
 remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*', '*tiktok*', '*imgur*', '*4pda*', '*malw.link*']
@@ -12,6 +18,121 @@ output_file = 'cloaking-rules.txt'
 best_domain = 'chatgpt.com'
 base_ip = None
 custom_domains = ['soundcloud.com', 'genius.com']
+
+DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+COMSS_DOH_ENDPOINTS = ['https://dns.comss.one/dns-query', 'https://router.comss.one/dns-query']
+TARGET_KEYWORDS = ['openai', 'chatgpt', 'goog', 'grok', 'x.ai', 'supercell', 'brawlstarsgame', 'clashofclans', 'clashroyaleapp']
+
+
+def encode_qname(name):
+    parts = name.strip('.').split('.')
+    encoded = bytearray()
+    for part in parts:
+        label = part.encode('idna')
+        encoded.append(len(label))
+        encoded.extend(label)
+    encoded.append(0)
+    return bytes(encoded)
+
+
+def build_dns_query(name):
+    transaction_id = secrets.token_bytes(2)
+    flags = struct.pack('>H', 0x0100)
+    qdcount = struct.pack('>H', 1)
+    ancount = struct.pack('>H', 0)
+    nscount = struct.pack('>H', 0)
+    arcount = struct.pack('>H', 0)
+    question = encode_qname(name) + struct.pack('>HH', 1, 1)
+    return b''.join([transaction_id, flags, qdcount, ancount, nscount, arcount, question])
+
+
+def read_name(data, offset):
+    labels = []
+    jumped = False
+    original_offset = offset
+    seen_offsets = set()
+    while True:
+        if offset >= len(data):
+            return '', len(data)
+        if offset in seen_offsets:
+            return '.'.join(labels), (original_offset if jumped else offset)
+        seen_offsets.add(offset)
+        length = data[offset]
+        if length == 0:
+            offset += 1
+            break
+        if length & 0xC0 == 0xC0:
+            if offset + 1 >= len(data):
+                return '', len(data)
+            pointer = ((length & 0x3F) << 8) | data[offset + 1]
+            if not jumped:
+                original_offset = offset + 2
+            offset = pointer
+            jumped = True
+            continue
+        offset += 1
+        label = data[offset:offset + length]
+        labels.append(label.decode('utf-8', 'ignore'))
+        offset += length
+    return '.'.join(labels), (original_offset if jumped else offset)
+
+
+def parse_dns_message(data):
+    if len(data) < 12:
+        return set()
+    header = struct.unpack('>6H', data[:12])
+    qdcount = header[2]
+    ancount = header[3]
+    offset = 12
+    for _ in range(qdcount):
+        _, offset = read_name(data, offset)
+        offset += 4
+    ips = set()
+    for _ in range(ancount):
+        _, offset = read_name(data, offset)
+        if offset + 10 > len(data):
+            break
+        rtype, rclass, ttl, rdlen = struct.unpack_from('>HHIH', data, offset)
+        offset += 10
+        rdata = data[offset:offset + rdlen]
+        offset += rdlen
+        if rtype == 1 and rclass == 1 and rdlen == 4:
+            ips.add('.'.join(str(b) for b in rdata))
+    return ips
+
+
+def doh_wire(base, name):
+    query = build_dns_query(name)
+    payload = base64.urlsafe_b64encode(query).decode().rstrip('=')
+    url = f"{base}?dns={payload}"
+    request = urllib.request.Request(
+        url,
+        headers={
+            'User-Agent': DEFAULT_USER_AGENT,
+            'Accept': 'application/dns-message',
+        },
+    )
+    context = ssl.create_default_context()
+    with urllib.request.urlopen(request, context=context, timeout=10) as response:
+        if response.status != 200:
+            return set()
+        data = response.read()
+    return parse_dns_message(data)
+
+
+def resolve_via_comss(name):
+    ips = set()
+    for base in COMSS_DOH_ENDPOINTS:
+        try:
+            ips |= doh_wire(base, name)
+        except Exception as exc:
+            print(f"Failed to resolve {name} via {base}: {exc}")
+    return ips
+
+
+def needs_comss_override(host):
+    host_l = host.lower()
+    return any(keyword in host_l for keyword in TARGET_KEYWORDS)
 
 response = requests.get(URL)
 response.raise_for_status()
@@ -74,6 +195,12 @@ for root, items in subdomains_by_root.items():
 if base_ip:
     for custom_domain in custom_domains:
         final_hosts.setdefault(custom_domain, set()).add(base_ip)
+
+for host in list(final_hosts):
+    if needs_comss_override(host):
+        comss_ips = resolve_via_comss(host)
+        if comss_ips:
+            final_hosts[host] = comss_ips
 
 with open(example_file, 'r', encoding='utf-8') as f:
     base = f.read()
