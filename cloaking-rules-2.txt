@@ -65,6 +65,7 @@ elevenreader.io 204.12.192.222
 =game.clashroyaleapp.com 45.95.233.23
 =gamea.clashofclans.com 64.188.98.242
 =gemini.google.com 94.131.119.22
+=gemini.google.com 94.131.119.24
 =generativelanguage.googleapis.com 94.131.119.22
 =gew1-spclient.spotify.com 204.12.192.222
 grok.com 134.0.118.88
