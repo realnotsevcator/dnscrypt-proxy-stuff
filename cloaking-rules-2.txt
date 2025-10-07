@@ -25,11 +25,11 @@ localhost                127.0.0.1
 
 # comss dns results
 instagram.com 157.240.205.174
-=www.instagram.com 57.144.244.34
-=b.i.instagram.com 57.144.244.34
+=www.instagram.com 157.240.205.174
+=b.i.instagram.com 157.240.205.174
 =z-p42-chat-e2ee-ig.facebook.com 157.240.205.175
 =help.instagram.com 157.240.205.174
-=yt3.ggpht.com 173.194.221.198
+=yt3.ggpht.com 64.233.164.198
 =yt4.ggpht.com 173.194.220.132
 chatgpt.com 94.131.119.22
 =ab.chatgpt.com 94.131.119.22
@@ -67,9 +67,9 @@ notebooklm.google 94.131.119.22
 =edgeservices.bing.com 94.131.119.22
 =rewards.bing.com 185.250.151.49
 =xsts.auth.xboxlive.com 94.131.119.22
-=xgpuwebf2p.gssv-play-prod.xboxlive.com 51.12.31.0
+=xgpuwebf2p.gssv-play-prod.xboxlive.com 20.50.2.84
 =xgpuweb.gssv-play-prod.xboxlive.com 20.50.2.84
-=encore.scdn.co 185.5.161.186
+=encore.scdn.co 2.19.181.41
 =open.spotify.com 146.75.119.42
 =api.github.com 94.131.119.22
 =api.individual.githubcopilot.com 94.131.119.22
@@ -101,8 +101,8 @@ grok.com 134.0.118.88
 =clashofclans.inbox.supercell.com 13.33.235.125
 =game-assets.brawlstarsgame.com 3.174.113.101
 =store.supercell.com 18.165.140.113
-=game.clashroyaleapp.com 34.220.45.108
-=gamea.clashofclans.com 18.207.226.157
+=game.clashroyaleapp.com 35.167.109.250
+=gamea.clashofclans.com 18.212.4.198
 =game.brawlstarsgame.com 185.250.151.49
 =game.squadbustersgame.com 18.212.236.61
 deepl.com 8.47.69.0
@@ -135,7 +135,7 @@ guilded.gg 108.156.22.11
 =api.fitbit.com 108.177.14.95
 =fitbit-pa.googleapis.com 108.177.14.95
 =fitbitvestibuleshim-pa.googleapis.com 108.177.14.95
-=fitbit.google.com 108.177.14.100
+=fitbit.google.com 173.194.220.100
 claude.ai 94.131.119.22
 =console.anthropic.com 94.131.119.22
 =auth.anthropic.com 94.131.119.22
@@ -151,13 +151,13 @@ claude.ai 94.131.119.22
 =www.canva.com 94.131.119.22
 =www.intel.com 94.131.119.22
 =www.dell.com 104.103.64.8
-=www.tiktok.com 23.73.2.133
+=www.tiktok.com 23.73.2.132
 =developer.nvidia.com 104.69.222.194
 =builds.parsec.app 8.47.69.0
 tria.ge 8.47.69.0
 =api.imgur.com 146.75.116.193
-=www.dyson.com 104.69.222.203
-=www.dyson.fr 104.69.222.192
+=www.dyson.com 104.69.222.153
+=www.dyson.fr 104.69.222.10
 =usher.ttvnw.net 108.156.22.31
 =api.manus.im 94.131.119.22
 =www.qwant.com 94.131.119.22
