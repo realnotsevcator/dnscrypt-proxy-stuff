@@ -19,7 +19,7 @@ COMSS_DOH = [
     "https://router.comss.one/dns-query",
 ]
 YANDEX_GOOGLE_DOH = [
-    "https://common.dot.dns.yandex.net/dns-query",
+    "https://cloudflare-dns.com/dns-query",
     "https://dns.google/dns-query",
 ]
 
