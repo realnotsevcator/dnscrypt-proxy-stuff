@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import base64
 import json
+import logging
 import os
 import re
 import ssl
@@ -14,6 +15,9 @@ OUTPUT_FILE = "cloaking-rules-2.txt"
 OPTIONAL_HEADER_FILE = "example-cloaking-rules.txt"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
+logging.basicConfig(level=logging.DEBUG, format="%(levelname)s: %(message)s")
+LOGGER = logging.getLogger("cloaking-rules-2")
+
 COMSS_DOH = [
     "https://dns.comss.one/dns-query",
     "https://router.comss.one/dns-query",
@@ -24,19 +28,32 @@ IPV4_RE = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")
 SPACE_SPLIT = re.compile(r"\s+")
 
 def fetch(url, headers=None, data=None):
+    LOGGER.debug("Fetching URL %s", url)
     req = Request(url, data=data, headers=headers or {"User-Agent": UA})
     ctx = ssl.create_default_context()
     with urlopen(req, context=ctx) as resp:
-        return resp.read()
+        payload = resp.read()
+        LOGGER.debug(
+            "Fetched %s bytes from %s with status %s",
+            len(payload),
+            url,
+            getattr(resp, "status", "unknown"),
+        )
+        return payload
 
 def get_hosts_from_repo():
+    LOGGER.info("Downloading hosts list from %s", HOSTS_URL)
     raw = fetch(HOSTS_URL).decode("utf-8", errors="ignore")
+    LOGGER.debug("Processing hosts file with %s bytes", len(raw))
     hosts = []
     for line in raw.splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
         parts = SPACE_SPLIT.split(line)
+        if parts and parts[0] in {"0.0.0.0", "127.0.0.1"}:
+            logging.debug("Skipping hosts entry with local IP %s: %s", parts[0], line)
+            continue
         for part in parts:
             if not part:
                 continue
@@ -46,12 +63,14 @@ def get_hosts_from_repo():
                 continue
             host = part.strip().lower().rstrip(".")
             if host:
+                LOGGER.debug("Adding host entry %s", host)
                 hosts.append(host)
     seen, uniq = set(), []
     for h in hosts:
         if h not in seen:
             seen.add(h)
             uniq.append(h)
+    LOGGER.info("Collected %s unique host entries", len(uniq))
     return uniq
 
 def to_idna(name):
@@ -126,17 +145,22 @@ def parse_dns_message(data):
     return ips
 
 def doh_wire(base_url, name):
+    LOGGER.debug("Querying DoH resolver %s for %s", base_url, name)
     q = build_dns_query(name)
     b64 = base64.urlsafe_b64encode(q).decode().rstrip("=")
     url = f"{base_url}?dns={b64}"
     headers = {"User-Agent": UA, "Accept": "application/dns-message"}
     try:
         data = fetch(url, headers=headers)
-        return parse_dns_message(data)
-    except Exception:
+        ips = parse_dns_message(data)
+        LOGGER.debug("Received %s IPs from %s for %s", len(ips), base_url, name)
+        return ips
+    except Exception as exc:
+        LOGGER.warning("Failed DoH query to %s for %s: %s", base_url, name, exc)
         return set()
 
 def google_json(name):
+    LOGGER.debug("Querying Google DoH JSON API for %s", name)
     params = {"name": to_idna(name), "type": "A", "cd": "false"}
     url = f"https://dns.google/resolve?{urlencode(params)}"
     headers = {"User-Agent": UA, "Accept": "application/dns-json"}
@@ -149,12 +173,15 @@ def google_json(name):
                 d = ans.get("data", "")
                 if IPV4_RE.match(d):
                     ips.add(d)
+        LOGGER.debug("Google returned %s IPs for %s", len(ips), name)
         return ips
-    except Exception:
+    except Exception as exc:
+        LOGGER.warning("Failed Google query for %s: %s", name, exc)
         return set()
 
 def udp_dns_query(server_ip, name):
     try:
+        LOGGER.debug("Sending UDP DNS query to %s for %s", server_ip, name)
         q = build_dns_query(name)
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         try:
@@ -162,20 +189,30 @@ def udp_dns_query(server_ip, name):
             data, _ = s.recvfrom(4096)
         finally:
             s.close()
-        return parse_dns_message(data)
-    except Exception:
+        ips = parse_dns_message(data)
+        LOGGER.debug(
+            "Received %s IPs from UDP resolver %s for %s", len(ips), server_ip, name
+        )
+        return ips
+    except Exception as exc:
+        LOGGER.warning("Failed UDP query to %s for %s: %s", server_ip, name, exc)
         return set()
 
 def resolver_sets(name):
+    LOGGER.info("Resolving host %s", name)
     comss_ips = set()
     for base in COMSS_DOH:
         comss_ips |= doh_wire(base, name)
     for ip in COMSS_DNS_IPS:
         comss_ips |= udp_dns_query(ip, name)
-    return {
-        "comss": comss_ips,
-        "google": google_json(name),
-    }
+    google_ips = google_json(name)
+    LOGGER.debug(
+        "Combined resolver results for %s - comss: %s, google: %s",
+        name,
+        comss_ips,
+        google_ips,
+    )
+    return {"comss": comss_ips, "google": google_ips}
 
 def apex_of(host):
     parts = host.split(".")
@@ -184,28 +221,40 @@ def apex_of(host):
     return ".".join(parts[-2:])
 
 def main():
+    LOGGER.info("Starting cloaking rules generation")
     all_hosts = get_hosts_from_repo()
+    LOGGER.info("Fetched %s hosts to evaluate", len(all_hosts))
     output_lines = []
     if os.path.isfile(OPTIONAL_HEADER_FILE):
+        LOGGER.info("Reading optional header from %s", OPTIONAL_HEADER_FILE)
         with open(OPTIONAL_HEADER_FILE, "r", encoding="utf-8", errors="ignore") as f:
             output_lines.append(f.read().rstrip("\n"))
         output_lines.append("")
+    else:
+        LOGGER.debug("Optional header file %s not found", OPTIONAL_HEADER_FILE)
     output_lines.append("# comss dns results")
 
+    rules_count = 0
     for host in all_hosts:
         sets = resolver_sets(host)
         comss_ips, google_ips = sets["comss"], sets["google"]
         if not comss_ips:
+            LOGGER.debug("Skipping %s because comss returned no IPs", host)
             continue
         differing = comss_ips - google_ips if google_ips else comss_ips
         if not differing:
+            LOGGER.debug("Skipping %s because results matched Google", host)
             continue
         chosen_ip = sorted(differing)[0]
         label = host if host == apex_of(host) else f"={host}"
         output_lines.append(f"{label} {chosen_ip}")
+        LOGGER.debug("Added cloaking rule for %s -> %s", label, chosen_ip)
+        rules_count += 1
 
+    LOGGER.info("Writing %s cloaking rules to %s", rules_count, OUTPUT_FILE)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(output_lines).rstrip() + "\n")
+    LOGGER.info("Finished cloaking rules generation")
 
 if __name__ == "__main__":
     main()
