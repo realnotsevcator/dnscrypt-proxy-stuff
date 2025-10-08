@@ -17,11 +17,11 @@ output_file = 'cloaking-rules-2.txt'
 
 best_domain = 'chatgpt.com'
 base_ip = None
-custom_domains = ['*spotify*', '*scdn.co*']
+custom_domains = ['*spotify*', '*scdn.co*', '*oai*']
 
 DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 COMSS_DOH_ENDPOINTS = ['https://dns.comss.one/dns-query', 'https://router.comss.one/dns-query']
-TARGET_KEYWORDS = ['*anthropic*', '*claude*', '*openai*', '*chatgpt*', '*google*', '*grok*', '*oai*', '*microsoft*', '*bing*']
+TARGET_KEYWORDS = ['*anthropic*', '*claude*', '*openai*', '*chatgpt*', '*google*', '*grok*', '*microsoft*', '*bing*']
 COMSS_CACHE = {}
 
 
