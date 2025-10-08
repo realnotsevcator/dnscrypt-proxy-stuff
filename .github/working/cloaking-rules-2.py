@@ -176,6 +176,7 @@ for host, ip in entries:
         subdomains_by_root[root].append((host, ip))
 
 final_hosts = {}
+custom_host_ips = {}
 
 for root, items in subdomains_by_root.items():
     domain_ips = Counter()
@@ -204,7 +205,11 @@ for root, items in subdomains_by_root.items():
 
 if base_ip:
     for custom_domain in custom_domains:
-        final_hosts.setdefault(custom_domain, set()).add(base_ip)
+        matched_hosts = [host for host in final_hosts if fnmatch.fnmatch(host, custom_domain)]
+        if matched_hosts:
+            for host in matched_hosts:
+                final_hosts[host] = {base_ip}
+        custom_host_ips[custom_domain] = {base_ip}
 
 for host in list(final_hosts):
     if needs_comss_override(host):
@@ -225,11 +230,10 @@ with open(output_file, 'w', encoding='utf-8') as f:
             for ip in sorted(final_hosts[host]):
                 f.write(f"{prefix}{host} {ip}\n")
 
-    f.write('\n# custom t.me/immalware hosts\n')
-    for host in sorted(custom_domains):
-        if host in final_hosts:
-            for ip in sorted(final_hosts[host]):
-                f.write(f"{host} {ip}\n")
+    f.write('\n# custom hosts\n')
+    for host in sorted(custom_host_ips):
+        for ip in sorted(custom_host_ips[host]):
+            f.write(f"{host} {ip}\n")
 
 print(f"Saved to {output_file}")
 
