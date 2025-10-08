@@ -217,7 +217,7 @@ with open(example_file, 'r', encoding='utf-8') as f:
 
 with open(output_file, 'w', encoding='utf-8') as f:
     f.write(base.rstrip() + '\n\n')
-    f.write('# t.me/immalware hosts\n')
+    f.write('# t.me/immalware hosts + comss dns\n')
     for host in sorted(final_hosts):
         if host not in custom_domains:
             is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
