@@ -28,9 +28,9 @@ localhost                127.0.0.1
 =accounts.supercell.com 45.95.233.23
 =aet.spotify.com 94.131.119.22
 =aisandbox-pa.googleapis.com 185.250.151.50
-=aistudio.google.com 89.108.98.20
+=aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
-=alkalimakersuite-pa.clients6.google.com 94.131.119.22
+=alkalimakersuite-pa.clients6.google.com 185.250.151.50
 android.chat.openai.com 94.131.119.22
 anthropic.com 94.131.119.22
 =ap-gew1.spotify.com 94.131.119.22
@@ -68,7 +68,6 @@ elevenreader.io 204.12.192.222
 =generativelanguage.googleapis.com 94.131.119.22
 =gew1-spclient.spotify.com 94.131.119.22
 grok.com 134.0.118.88
-grok.com 94.131.119.22
 guidedhacking.com 185.246.223.127
 guilded.gg 204.12.192.219
 images.tidal.com 204.12.192.221
