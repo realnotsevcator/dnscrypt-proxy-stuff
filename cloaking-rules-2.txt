@@ -31,7 +31,6 @@ localhost                127.0.0.1
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
 =alkalimakersuite-pa.clients6.google.com 185.250.151.50
-android.chat.openai.com 94.131.119.22
 anthropic.com 94.131.119.22
 =ap-gew1.spotify.com 94.131.119.22
 =api-partner.spotify.com 94.131.119.22
@@ -49,7 +48,7 @@ chatgpt.com 94.131.119.22
 claude.ai 94.131.119.22
 =copilot.microsoft.com 94.131.119.22
 deepl.com 185.246.223.127
-dell.com 204.12.192.219
+dell.com 185.246.223.127
 download.jetbrains.com 185.246.223.127
 dyson.com 45.95.233.23
 dyson.fr 45.95.233.23
@@ -68,7 +67,6 @@ elevenreader.io 185.246.223.127
 =generativelanguage.googleapis.com 94.131.119.22
 =gew1-spclient.spotify.com 94.131.119.22
 grok.com 134.0.118.88
-grok.com 94.131.119.22
 guidedhacking.com 185.246.223.127
 guilded.gg 204.12.192.219
 images.tidal.com 45.95.233.23
@@ -112,7 +110,6 @@ trae.ai 185.246.223.127
 tria.ge 185.246.223.127
 truthsocial.com 204.12.192.219
 =usher.ttvnw.net 45.95.233.23
-w.deepl.com 204.12.192.219
 =web.archive.org 142.54.189.106
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =www.spotify.com 94.131.119.22
