@@ -24,25 +24,25 @@ localhost                127.0.0.1
 # my.example.com        192.168.100.1
 
 # t.me/immalware hosts + comss dns
-=accounts.spotify.com 94.131.119.22
+=accounts.spotify.com 185.246.223.127
 =accounts.supercell.com 45.95.233.23
-=aet.spotify.com 94.131.119.22
+=aet.spotify.com 185.246.223.127
 =aisandbox-pa.googleapis.com 185.250.151.50
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
 =alkalimakersuite-pa.clients6.google.com 185.250.151.50
 anthropic.com 94.131.119.22
-=ap-gew1.spotify.com 94.131.119.22
-=api-partner.spotify.com 94.131.119.22
-=api.spotify.com 94.131.119.22
-=appresolve.spotify.com 94.131.119.22
+=ap-gew1.spotify.com 185.246.223.127
+=api-partner.spotify.com 185.246.223.127
+=api.spotify.com 185.246.223.127
+=appresolve.spotify.com 185.246.223.127
 =assistant-s3-pa.googleapis.com 185.250.151.50
 auth0.com 185.246.223.127
 broadcom.com 185.246.223.127
 =builds.parsec.app 107.150.34.99
 canva.com 50.7.85.222
 =cdn.id.supercell.com 185.246.223.127
-=cdn.oaistatic.com 94.131.119.22
+=cdn.oaistatic.com 185.246.223.127
 chatgpt.com 94.131.119.22
 =clashofclans.inbox.supercell.com 185.246.223.127
 claude.ai 94.131.119.22
@@ -55,8 +55,8 @@ dyson.fr 45.95.233.23
 =edgeservices.bing.com 94.131.119.22
 elevenlabs.io 185.246.223.127
 elevenreader.io 185.246.223.127
-=encore.scdn.co 94.131.119.22
-=files.oaiusercontent.com 94.131.119.22
+=encore.scdn.co 185.246.223.127
+=files.oaiusercontent.com 185.246.223.127
 =game-assets.brawlstarsgame.com 185.246.223.127
 =game-assets.clashofclans.com 185.246.223.127
 =game-assets.clashroyaleapp.com 185.246.223.127
@@ -65,8 +65,9 @@ elevenreader.io 185.246.223.127
 =gamea.clashofclans.com 64.188.98.242
 =gemini.google.com 185.250.151.50
 =generativelanguage.googleapis.com 94.131.119.22
-=gew1-spclient.spotify.com 94.131.119.22
+=gew1-spclient.spotify.com 185.246.223.127
 grok.com 134.0.118.88
+grok.com 94.131.119.22
 guidedhacking.com 185.246.223.127
 guilded.gg 204.12.192.219
 images.tidal.com 45.95.233.23
@@ -75,8 +76,8 @@ jetbrains.ai 185.246.223.127
 jetbrains.com 185.246.223.127
 =jules.google.com 94.131.119.22
 =labs.google 185.250.151.50
-=login.app.spotify.com 94.131.119.22
-=login5.spotify.com 94.131.119.22
+=login.app.spotify.com 185.246.223.127
+=login5.spotify.com 185.246.223.127
 manus.im 64.188.98.242
 mchost.guru 185.246.223.127
 mocogame.com 45.95.233.23
@@ -87,7 +88,7 @@ ntc.party 130.255.77.28
 nvidia.com 185.246.223.127
 =o.pki.goog 185.246.223.127
 onetrust.com 185.246.223.127
-=open.spotify.com 94.131.119.22
+=open.spotify.com 45.95.233.23
 openai.com 94.131.119.22
 operator.chatgpt.com 185.250.151.49
 plugins.jetbrains.com 107.150.34.100
@@ -99,7 +100,7 @@ rutor.info 172.64.33.155
 rutor.is 173.245.59.155
 =security.id.supercell.com 185.246.223.127
 sora.com 185.246.223.127
-=spclient.wg.spotify.com 94.131.119.22
+=spclient.wg.spotify.com 185.246.223.127
 squadbustersgame.com 108.61.167.26
 squareup.com 185.246.223.127
 =stitch.withgoogle.com 94.131.119.22
@@ -113,11 +114,10 @@ truthsocial.com 204.12.192.219
 =usher.ttvnw.net 45.95.233.23
 =web.archive.org 142.54.189.106
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
-=www.spotify.com 94.131.119.22
+=www.spotify.com 185.246.223.127
 x.ai 185.246.223.127
-=xpui.app.spotify.com 94.131.119.22
+=xpui.app.spotify.com 185.246.223.127
 
 # custom hosts
-*oai* 94.131.119.22
-*scdn.co* 94.131.119.22
-*spotify* 94.131.119.22
+genius.com 94.131.119.22
+soundcloud.com 94.131.119.22
