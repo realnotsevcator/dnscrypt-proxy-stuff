@@ -19,7 +19,18 @@ _IP_ADDRESS_RE = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")
 
 
 def read_text_from_url(url: str) -> str:
-    with urllib.request.urlopen(url) as response:  # type: ignore[call-arg]
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            )
+        },
+    )
+
+    with urllib.request.urlopen(request) as response:  # type: ignore[call-arg]
         encoding = response.headers.get_content_charset("utf-8")
         return response.read().decode(encoding)
 
@@ -84,9 +95,29 @@ def should_include_domain(domain: str) -> bool:
     return False
 
 
+def extract_header_lines(example_text: str) -> List[str]:
+    """Return the header block from dnscrypt-proxy's example list."""
+
+    header_lines: List[str] = []
+    seen_for_line = False
+
+    for line in example_text.splitlines():
+        header_lines.append(line)
+        if line.startswith("# For "):
+            seen_for_line = True
+            continue
+
+        if seen_for_line and not line:
+            break
+    else:  # pragma: no cover - defensive programming
+        raise RuntimeError("Unexpected example header format")
+
+    return header_lines
+
+
 def compose_output(example_text: str, domains: Iterable[str]) -> str:
     lines: List[str] = []
-    lines.extend(example_text.rstrip().splitlines())
+    lines.extend(extract_header_lines(example_text))
     lines.append("")
     lines.append("# main yandex domain")
     lines.append("=yandex.ru")
