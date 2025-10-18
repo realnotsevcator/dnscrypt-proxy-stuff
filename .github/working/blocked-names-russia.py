@@ -102,15 +102,19 @@ def extract_header_lines(example_text: str) -> List[str]:
     in_header = False
 
     for line in example_text.splitlines():
-        if line.startswith("#"):
+        stripped = line.lstrip()
+
+        if stripped.startswith("#"):
             header_lines.append(line)
             in_header = True
             continue
 
-        if in_header:
+        if in_header and not stripped:
             header_lines.append(line)
-            if not line:
-                break
+            continue
+
+        if in_header:
+            break
 
     if not header_lines:
         raise RuntimeError("Unexpected example header format")

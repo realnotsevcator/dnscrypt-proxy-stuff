@@ -2,6 +2,7 @@
 #        Blocklist        #
 ###########################
 
+# For https://github.com/sevcator/zapret-pocket <3
 
 # main yandex domain
 =yandex.ru
