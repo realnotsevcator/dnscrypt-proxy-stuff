@@ -37,7 +37,7 @@ def read_text_from_url(url: str) -> str:
 
 def load_example_text() -> str:
     try:
-        return EXAMPLE_PATH.read_text(encoding="utf-8")
+        return EXAMPLE_PATH.read_text(encoding="utf-8-sig")
     except FileNotFoundError as exc:
         raise RuntimeError(
             f"Missing {EXAMPLE_PATH.name}. Place the file in the repository root."
