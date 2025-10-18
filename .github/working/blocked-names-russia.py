@@ -99,17 +99,20 @@ def extract_header_lines(example_text: str) -> List[str]:
     """Return the header block from dnscrypt-proxy's example list."""
 
     header_lines: List[str] = []
-    seen_for_line = False
+    in_header = False
 
     for line in example_text.splitlines():
-        header_lines.append(line)
-        if line.startswith("# For "):
-            seen_for_line = True
+        if line.startswith("#"):
+            header_lines.append(line)
+            in_header = True
             continue
 
-        if seen_for_line and not line:
-            break
-    else:  # pragma: no cover - defensive programming
+        if in_header:
+            header_lines.append(line)
+            if not line:
+                break
+
+    if not header_lines:
         raise RuntimeError("Unexpected example header format")
 
     return header_lines
