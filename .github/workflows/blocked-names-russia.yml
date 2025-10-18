@@ -1,4 +1,4 @@
-name: Update Blocked Yandex
+name: Update Blocked Names Russia
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-blocked-yandex:
+  update-blocked-names-russia:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
