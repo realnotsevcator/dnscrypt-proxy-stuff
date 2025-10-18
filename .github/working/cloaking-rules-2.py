@@ -15,10 +15,6 @@ no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*'
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules-2.txt'
 
-best_domain = ''
-base_ip = None
-custom_domains = ['']
-
 DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 COMSS_DOH_ENDPOINTS = ['https://dns.comss.one/dns-query', 'https://router.comss.one/dns-query']
 TARGET_KEYWORDS = ['*anthropic*', '*claude*', '*openai*', '*chatgpt*', '*google*', '*grok*', '*microsoft*', '*bing*']
@@ -157,13 +153,7 @@ for line in lines:
         continue
     if any(pattern.strip('*') in host for pattern in remove_domains):
         continue
-    if host == best_domain and base_ip is None:
-        base_ip = ip
     entries.append((host, ip))
-
-best_domain_ips = resolve_via_comss(best_domain)
-if best_domain_ips:
-    base_ip = sorted(best_domain_ips)[0]
 
 host_to_ip = defaultdict(set)
 subdomains_by_root = defaultdict(list)
@@ -176,7 +166,6 @@ for host, ip in entries:
         subdomains_by_root[root].append((host, ip))
 
 final_hosts = {}
-custom_host_ips = {}
 
 for root, items in subdomains_by_root.items():
     domain_ips = Counter()
@@ -203,14 +192,6 @@ for root, items in subdomains_by_root.items():
             if host != root and ip != most_common_ip:
                 final_hosts.setdefault(host, set()).add(ip)
 
-if base_ip:
-    for custom_domain in custom_domains:
-        matched_hosts = [host for host in final_hosts if fnmatch.fnmatch(host, custom_domain)]
-        if matched_hosts:
-            for host in matched_hosts:
-                final_hosts[host] = {base_ip}
-        custom_host_ips[custom_domain] = {base_ip}
-
 for host in list(final_hosts):
     if needs_comss_override(host):
         comss_ips = resolve_via_comss(host)
@@ -224,16 +205,10 @@ with open(output_file, 'w', encoding='utf-8') as f:
     f.write(base.rstrip() + '\n\n')
     f.write('# t.me/immalware hosts + comss dns\n')
     for host in sorted(final_hosts):
-        if host not in custom_domains:
-            is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
-            prefix = '=' if is_no_simplify else ''
-            for ip in sorted(final_hosts[host]):
-                f.write(f"{prefix}{host} {ip}\n")
-
-    f.write('\n# custom hosts\n')
-    for host in sorted(custom_host_ips):
-        for ip in sorted(custom_host_ips[host]):
-            f.write(f"{host} {ip}\n")
+        is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
+        prefix = '=' if is_no_simplify else ''
+        for ip in sorted(final_hosts[host]):
+            f.write(f"{prefix}{host} {ip}\n")
 
 print(f"Saved to {output_file}")
 
