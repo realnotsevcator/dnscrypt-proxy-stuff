@@ -15,7 +15,7 @@ no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*'
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules-2.txt'
 
-best_domain = 'chatgpt.com'
+best_domain = '=usher.ttvnw.net'
 base_ip = None
 custom_domains = ['soundcloud.com', 'genius.com']
 
