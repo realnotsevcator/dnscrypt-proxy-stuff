@@ -15,9 +15,9 @@ no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*'
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules-2.txt'
 
-best_domain = 'sora.com'
+best_domain = ''
 base_ip = None
-custom_domains = ['soundcloud.com', 'genius.com']
+custom_domains = ['']
 
 DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 COMSS_DOH_ENDPOINTS = ['https://dns.comss.one/dns-query', 'https://router.comss.one/dns-query']
