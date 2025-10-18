@@ -91,7 +91,7 @@ def compose_output(example_text: str, domains: Iterable[str]) -> str:
     lines.append("# main yandex domain")
     lines.append("=yandex.ru")
     lines.append("")
-    lines.append("# from o0.pages.dev/Pro/hosts.txt")
+    lines.append(f"# from {HOSTS_URL}")
     lines.extend(domains)
     lines.append("")
     return "\n".join(lines)
