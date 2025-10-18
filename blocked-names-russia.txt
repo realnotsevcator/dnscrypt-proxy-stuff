@@ -4,10 +4,7 @@
 
 # For https://github.com/sevcator/zapret-pocket <3
 
-# main yandex domain
-=yandex.ru
-
-# from https://o0.pages.dev/Pro/hosts.txt
+# 
 02ip.ru
 04xmhp.ru
 0816bvh.ru
