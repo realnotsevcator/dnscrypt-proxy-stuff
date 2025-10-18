@@ -1,34 +1,141 @@
-import requests
-import fnmatch
+#!/usr/bin/env python3
+"""Generate a Russia-focused blocked names list for dnscrypt-proxy."""
 
-hosts_url = "https://o0.pages.dev/Pro/hosts.txt"
-response = requests.get(hosts_url)
-response.raise_for_status()
-hosts_content = response.text
+from __future__ import annotations
 
-with open("example-blocked-names.txt", "r", encoding="utf-8") as f:
-    base_lines = [line.rstrip() for line in f]
-    base_patterns = [line.strip() for line in base_lines if line.strip() and not line.startswith("#")]
+import pathlib
+import re
+import sys
+import urllib.error
+import urllib.request
+from typing import Iterable, List, Set
 
-yandex_domains = []
-for line in hosts_content.splitlines():
-    line = line.strip()
-    if line and not line.startswith("#") and ".ru" in line:
-        parts = line.split()
-        domain = parts[-1] if len(parts) > 1 else parts[0]
-        yandex_domains.append(domain)
+REPO_ROOT = pathlib.Path(__file__).resolve().parent
+EXAMPLE_PATH = REPO_ROOT / "example-blocked-names.txt"
+HOSTS_URL = "https://o0.pages.dev/Pro/hosts.txt"
+OUTPUT_PATH = REPO_ROOT / "blocked-names-russia.txt"
 
-yandex_domains = sorted(set(yandex_domains))
+_IP_ADDRESS_RE = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")
 
-filtered_domains = []
-for domain in yandex_domains:
-    if not any(fnmatch.fnmatch(domain, pattern) for pattern in base_patterns):
-        filtered_domains.append(domain)
 
-with open("blocked-names-russia.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(base_lines).rstrip() + "\n\n")
-    f.write("# \n")
-    for domain in filtered_domains:
-        f.write(domain + "\n")
+def read_text_from_url(url: str) -> str:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            )
+        },
+    )
 
-print("blocked-names-russia.txt has been created.")
+    with urllib.request.urlopen(request) as response:  # type: ignore[call-arg]
+        encoding = response.headers.get_content_charset("utf-8")
+        return response.read().decode(encoding)
+
+
+def load_example_text() -> str:
+    try:
+        return EXAMPLE_PATH.read_text(encoding="utf-8")
+    except FileNotFoundError as exc:
+        raise RuntimeError(
+            f"Missing {EXAMPLE_PATH.name}. Place the file in the repository root."
+        ) from exc
+
+
+def load_hosts_text() -> str:
+    try:
+        return read_text_from_url(HOSTS_URL)
+    except urllib.error.URLError as exc:  # pragma: no cover - depends on network
+        raise RuntimeError(f"Unable to download {HOSTS_URL}: {exc}") from exc
+
+
+def extract_domains(hosts_text: str) -> List[str]:
+    matches: List[str] = []
+    seen: Set[str] = set()
+
+    for raw_line in hosts_text.splitlines():
+        line = raw_line.split("#", 1)[0].strip()
+        if not line:
+            continue
+
+        tokens = line.split()
+        if not tokens:
+            continue
+
+        if _IP_ADDRESS_RE.match(tokens[0]):
+            tokens = tokens[1:]
+
+        for token in tokens:
+            domain = token.strip().lower()
+            if not domain or domain in seen:
+                continue
+
+            if should_include_domain(domain):
+                if domain == "yandex.ru":
+                    continue
+                seen.add(domain)
+                matches.append(domain)
+
+    return matches
+
+
+def should_include_domain(domain: str) -> bool:
+    if domain.endswith(".ru"):
+        return True
+    if domain.endswith(".su"):
+        return True
+    if ".vk." in domain:
+        return True
+    if "yandex." in domain:
+        return True
+    if "russia" in domain:
+        return True
+    return False
+
+
+def extract_header_lines(example_text: str) -> List[str]:
+    """Return the header block from dnscrypt-proxy's example list."""
+
+    header_lines: List[str] = []
+    seen_for_line = False
+
+    for line in example_text.splitlines():
+        header_lines.append(line)
+        if line.startswith("# For "):
+            seen_for_line = True
+            continue
+
+        if seen_for_line and not line:
+            break
+    else:  # pragma: no cover - defensive programming
+        raise RuntimeError("Unexpected example header format")
+
+    return header_lines
+
+
+def compose_output(example_text: str, domains: Iterable[str]) -> str:
+    lines: List[str] = []
+    lines.extend(extract_header_lines(example_text))
+    lines.append("")
+    lines.append("# main yandex domain")
+    lines.append("=yandex.ru")
+    lines.append("")
+    lines.append(f"# from {HOSTS_URL}")
+    lines.extend(domains)
+    lines.append("")
+    return "\n".join(lines)
+
+
+def main() -> int:
+    example_text = load_example_text()
+    hosts_text = load_hosts_text()
+    domains = extract_domains(hosts_text)
+    output_text = compose_output(example_text, domains)
+    OUTPUT_PATH.write_text(output_text, encoding="utf-8")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
