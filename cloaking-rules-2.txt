@@ -12,7 +12,6 @@
 =aisandbox-pa.googleapis.com 185.250.151.50
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
-=alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =alkalimakersuite-pa.clients6.google.com 80.74.29.235
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 45.155.204.190
@@ -49,7 +48,6 @@ framer.com 45.155.204.190
 =game.clashroyaleapp.com 45.95.233.23
 =gamea.clashofclans.com 193.23.209.189
 =gemini.google.com 142.250.176.206
-=generativelanguage.googleapis.com 185.250.151.49
 =generativelanguage.googleapis.com 80.74.29.235
 =gew1-dealer.spotify.com 45.155.204.190
 =gew1-spclient.spotify.com 45.155.204.190
@@ -112,7 +110,6 @@ truthsocial.com 45.155.204.190
 =usher.ttvnw.net 45.155.204.190
 =web.archive.org 45.155.204.190
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
-=webchannel-alkalimakersuite-pa.clients6.google.com 80.74.29.235
 windsurf-telemetry.codeium.com 144.31.14.104
 windsurf.com 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
