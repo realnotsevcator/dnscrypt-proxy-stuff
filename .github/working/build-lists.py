@@ -18,6 +18,7 @@ import ipaddress
 import logging
 import os
 import re
+import socket
 import ssl
 import sys
 from collections import Counter
@@ -219,6 +220,26 @@ def should_skip_for_public_match(target_ips: set[str], cf_ips: set[str], gg_ips:
     return any(cnt >= 2 for cnt in counter.values())
 
 
+def check_https_via_ip(domain: str, ip: str, timeout: float = 12.0) -> bool:
+    context = ssl.create_default_context()
+    request = (
+        f"HEAD / HTTP/1.1\r\n"
+        f"Host: {domain}\r\n"
+        "User-Agent: dns-list-builder/1.0\r\n"
+        "Connection: close\r\n\r\n"
+    ).encode("ascii", errors="ignore")
+
+    try:
+        with socket.create_connection((ip, 443), timeout=timeout) as tcp_socket:
+            with context.wrap_socket(tcp_socket, server_hostname=domain) as tls_socket:
+                tls_socket.settimeout(timeout)
+                tls_socket.sendall(request)
+                response = tls_socket.recv(64)
+        return response.startswith(b"HTTP/")
+    except (OSError, ssl.SSLError):
+        return False
+
+
 def write_outputs(target: DnsTarget, records: list[tuple[str, str]]) -> tuple[Path, Path]:
     safe_name = re.sub(r"[^A-Za-z0-9._-]+", "_", target.name)
     hosts_path = ROOT / f"{safe_name}-hosts.txt"
@@ -283,10 +304,20 @@ def build_target_records(
             if should_skip_for_public_match(target_ips, cf_cache.get(domain, set()), gg_cache.get(domain, set())):
                 logger.debug("%s: skipped %s (public overlap/empty)", target.name, domain)
                 return
-            new_rows = [(ip, domain) for ip in sorted(target_ips)]
+            working_ip: str | None = None
+            for ip in sorted(target_ips):
+                logger.debug("%s: check %s via %s", target.name, domain, ip)
+                if check_https_via_ip(domain, ip):
+                    working_ip = ip
+                    break
+
+            if not working_ip:
+                logger.debug("%s: skipped %s (no working HTTPS IP)", target.name, domain)
+                return
+
             with lock:
-                records.extend(new_rows)
-            logger.debug("%s: accepted %s -> %s", target.name, domain, [r[0] for r in new_rows])
+                records.append((working_ip, domain))
+            logger.debug("%s: accepted %s -> %s", target.name, domain, working_ip)
         except Exception as exc:
             logger.debug("%s: %s skipped (%s)", target.name, domain, exc)
 

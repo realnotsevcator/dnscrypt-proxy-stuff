@@ -25,3 +25,4 @@ python3 parallel_dns_processor.py --input blocked-names.txt --workers 50 --limit
 - обрабатывает домены из входного файла параллельно (`ThreadPoolExecutor`);
 - показывает debug-логи прямо в консоли (`--debug`);
 - сохраняет результат обработки в JSON (`dns-results.json` по умолчанию).
+
