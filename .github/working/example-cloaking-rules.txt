@@ -1,5 +1,0 @@
-################################
-#        Cloaking rules        #
-################################
-
-# For https://github.com/sevcator/zapret-pocket <3
