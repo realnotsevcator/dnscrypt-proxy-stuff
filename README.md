@@ -2,11 +2,11 @@
 
 DNS | Hosts (Raw) | Cloaking Rules (Raw) |
 --- | --- | --- |
-Comss | [Comss-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/Comss-hosts.txt) | [Comss-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/Comss-cr.txt) |
-IMalware | [IMalware-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/IMalware-hosts.txt) | [IMalware-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/IMalware-cr.txt) |
-Mafioznik | [Mafioznik-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/Mafioznik-hosts.txt) | [Mafioznik-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/Mafioznik-cr.txt) |
-Mafioznik 2 | [Mafioznik_2-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/Mafioznik_2-hosts.txt) | [Mafioznik_2-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/Mafioznik_2-cr.txt) |
-AstraCat | [AstraCat-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/AstraCat-hosts.txt) | [AstraCat-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/AstraCat-cr.txt) |
-XboxDNS | [XboxDNS-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/XboxDNS-hosts.txt) | [XboxDNS-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/XboxDNS-cr.txt) |
-shecan.ir | [shecan.ir-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/shecan.ir-hosts.txt) | [shecan.ir-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/shecan.ir-cr.txt) |
-GeoHide | [GeoHide-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/GeoHide-hosts.txt) | [GeoHide-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/GeoHide-cr.txt) |
+Comss | [Comss.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/Comss.txt) | [Comss.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/Comss.txt) |
+IMalware | [IMalware.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/IMalware.txt) | [IMalware.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/IMalware.txt) |
+Mafioznik | [Mafioznik.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/Mafioznik.txt) | [Mafioznik.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/Mafioznik.txt) |
+Mafioznik 2 | [Mafioznik_2.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/Mafioznik_2.txt) | [Mafioznik_2.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/Mafioznik_2.txt) |
+AstraCat | [AstraCat.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/AstraCat.txt) | [AstraCat.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/AstraCat.txt) |
+XboxDNS | [XboxDNS.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/XboxDNS.txt) | [XboxDNS.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/XboxDNS.txt) |
+shecan.ir | [shecan.ir.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/shecan.ir.txt) | [shecan.ir.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/shecan.ir.txt) |
+GeoHide | [GeoHide.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/GeoHide.txt) | [GeoHide.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/GeoHide.txt) |

@@ -1,0 +1,42 @@
+################################
+#            Hosts             #
+################################
+
+# by sevcator <3
+# Enjoy :D
+
+23.32.25.192 afcs.dellcdn.com
+80.74.29.235 aistudio.google.com
+80.74.29.235 aitestkitchen.withgoogle.com
+80.74.29.235 alkalimakersuite-pa.clients6.google.com
+23.38.108.137 api-sg-central.trae.ai
+80.74.29.235 api.individual.githubcopilot.com
+80.74.29.235 api.trae.ai
+2.19.181.26 api16-normal-alisg.mchost.guru
+80.74.29.235 auth.anthropic.com
+157.240.205.174 b.i.instagram.com
+23.32.25.192 dds.dell.com
+23.3.91.164 dyson.com
+139.45.207.185 edgeservices.bing.com
+164.215.74.18 encore.scdn.co
+108.177.14.100 fitbit.google.com
+157.240.205.174 help.instagram.com
+184.24.152.98 i.dell.com
+157.240.205.174 instagram.com
+80.74.29.235 jules.google.com
+23.32.25.192 nexus.dell.com
+64.233.162.94 o.pki.goog
+80.74.29.235 s.deepl.com
+80.74.29.235 stitch.withgoogle.com
+80.74.29.235 sydney.bing.com
+80.74.29.235 trae-api-sg.mchost.guru
+80.74.29.235 usher.ttvnw.net
+92.123.205.207 weather.com
+80.74.29.235 webchannel-alkalimakersuite-pa.clients6.google.com
+185.5.161.187 www-growth.scdn.co
+184.24.152.183 www.autodesk.com
+95.100.107.144 www.deezer.com
+88.221.99.247 www.elgato.com
+157.240.205.174 www.instagram.com
+80.74.29.235 www.intel.com
+185.5.161.200 www.tiktok.com

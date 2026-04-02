@@ -1,0 +1,21 @@
+################################
+#            Hosts             #
+################################
+
+# by sevcator <3
+# Enjoy :D
+
+45.155.204.190 aistudio.google.com
+45.155.204.190 aitestkitchen.withgoogle.com
+45.155.204.190 alkalimakersuite-pa.clients6.google.com
+2.16.168.48 api-sg-central.trae.ai
+2.16.168.55 api.trae.ai
+2.16.168.40 encore.scdn.co
+45.155.204.190 jules.google.com
+45.155.204.190 notebooklm.google.com
+130.255.77.28 ntc.party
+45.155.204.190 stitch.withgoogle.com
+45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
+2.16.168.40 www-growth.scdn.co
+23.58.110.189 www.autodesk.com
+2.17.100.193 www.deezer.com
