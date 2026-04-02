@@ -26,12 +26,13 @@ jobs:
         run: |
           export WORKERS=60
           export DEBUG=1
-          python .github/working/build-lists.py
+          cd .github/working
+          python build-lists.py
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add ReadME.md *-hosts.txt *-cr.txt
+          git add README.md hosts/*.txt cr/*.txt
           git commit -m "⚡ DNS Builds - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin HEAD:main --force || echo "No changes to commit"

@@ -1,0 +1,3 @@
+# Wildcard patterns for domains that should stay as-is in cloaking rules
+# Example:
+# *chatgpt*

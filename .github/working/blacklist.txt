@@ -1,0 +1,3 @@
+# Wildcard patterns for domains to remove from output
+# Example:
+# *xbox*
