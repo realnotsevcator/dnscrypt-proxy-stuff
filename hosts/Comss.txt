@@ -5,21 +5,23 @@
 # by sevcator <3
 # Enjoy :D
 
+95.100.176.23 afcs.dellcdn.com
 80.74.29.235 aistudio.google.com
-2.19.181.106 api-sg-central.trae.ai
+80.74.29.235 aitestkitchen.withgoogle.com
+80.74.29.235 alkalimakersuite-pa.clients6.google.com
 80.74.29.235 api.github.com
+80.74.29.235 api.individual.githubcopilot.com
+80.74.29.235 api.trae.ai
 80.74.29.235 auth.anthropic.com
 57.144.244.34 b.i.instagram.com
-2.22.31.176 developer.nvidia.com
-2.22.31.153 edgeservices.bing.com
-74.125.205.100 fitbit.google.com
-80.74.29.235 gemini.google.com
+95.100.176.23 dds.dell.com
 57.144.244.34 help.instagram.com
-80.74.29.235 jules.google.com
-80.74.29.235 notebooklm.google.com
+80.74.29.235 labs.google
+95.100.176.23 nexus.dell.com
 173.194.222.94 o.pki.goog
-2.22.31.185 payment.deezer.com
-80.74.29.235 sydney.bing.com
+80.74.29.235 usher.ttvnw.net
 80.74.29.235 webchannel-alkalimakersuite-pa.clients6.google.com
+164.215.74.18 www-growth.scdn.co
 95.100.176.23 www.dell.com
-2.19.181.104 www.tiktok.com
+88.221.99.247 www.elgato.com
+128.75.237.122 www.tiktok.com
