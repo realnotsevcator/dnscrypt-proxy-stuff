@@ -28,7 +28,7 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[2]
 DNS_TARGETS_FILE = ROOT / "dns-targets.txt"
 HOSTS_LINKS_FILE = ROOT / "hosts.txt"
-README_FILE = ROOT / "ReadME.md"
+README_FILE = ROOT / "README.md"
 RAW_BASE_URL = os.environ.get("RAW_BASE_URL", "https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main")
 
 DOMAIN_RE = re.compile(r"^(?:\*\.)?(?=.{1,253}$)(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[A-Za-z]{2,63}$")
