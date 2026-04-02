@@ -10,19 +10,3 @@ AstraCat | [AstraCat-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscr
 XboxDNS | [XboxDNS-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/XboxDNS-hosts.txt) | [XboxDNS-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/XboxDNS-cr.txt) |
 shecan.ir | [shecan.ir-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/shecan.ir-hosts.txt) | [shecan.ir-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/shecan.ir-cr.txt) |
 GeoHide | [GeoHide-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/GeoHide-hosts.txt) | [GeoHide-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/GeoHide-cr.txt) |
-
-## Parallel DNS requests + debug logs
-
-Для параллельной обработки DNS-запросов добавлен скрипт `parallel_dns_processor.py`.
-
-Пример запуска:
-
-```bash
-python3 parallel_dns_processor.py --input blocked-names.txt --workers 50 --limit 500 --debug
-```
-
-Что делает скрипт:
-- обрабатывает домены из входного файла параллельно (`ThreadPoolExecutor`);
-- показывает debug-логи прямо в консоли (`--debug`);
-- сохраняет результат обработки в JSON (`dns-results.json` по умолчанию).
-
