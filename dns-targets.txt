@@ -1,0 +1,4 @@
+# DoH|DoT|Name
+# DoH|Name
+# DoT|Name
+https://dns.astracat.ru/dns-query|dns.astracat.ru|AstraCat
