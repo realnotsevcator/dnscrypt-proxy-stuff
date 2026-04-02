@@ -259,9 +259,9 @@ def resolve_target(target: DnsTarget, domain: str) -> set[str]:
 
 
 def configure_logging(debug: bool) -> None:
-    level = logging.DEBUG if debug else logging.INFO
+    # Console output should include only warnings and errors.
     logging.basicConfig(
-        level=level,
+        level=logging.WARNING,
         format="%(asctime)s | %(levelname)-8s | %(threadName)s | %(message)s",
     )
 
