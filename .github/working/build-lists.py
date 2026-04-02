@@ -144,11 +144,19 @@ def extract_domains_from_sources(links_text: str) -> set[str]:
 
 def resolve_doh(doh_url: str, domain: str) -> set[str]:
     q = dns.message.make_query(domain, dns.rdatatype.A)
-    http_version_h2 = getattr(getattr(dns.query, "HTTPVersion", None), "H2", None)
-    kwargs = {"timeout": 8}
-    if http_version_h2 is not None:
-        kwargs["http_version"] = http_version_h2
-    resp = dns.query.https(q, doh_url, **kwargs)
+    wire = q.to_wire()
+    req = Request(
+        doh_url,
+        data=wire,
+        headers={
+            "Accept": "application/dns-message",
+            "Content-Type": "application/dns-message",
+            "User-Agent": "dns-list-builder/1.0",
+        },
+        method="POST",
+    )
+    with urlopen(req, timeout=8) as resp_raw:
+        resp = dns.message.from_wire(resp_raw.read())
     return {rr.to_text() for ans in resp.answer for rr in ans if rr.rdtype == dns.rdatatype.A}
 
 
