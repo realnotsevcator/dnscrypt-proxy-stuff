@@ -1,4 +1,4 @@
-name: Update Cloaking Rules
+name: Update DNS Builds
 
 on:
   schedule:
@@ -6,23 +6,30 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-cloaking-rules:
+  update-dns-builds:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
-      - name: Run the script
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
         run: |
-          cd .github/working
-          pip install requests
-          python cloaking-rules.py
+          python -m pip install --upgrade pip
+          pip install dnspython
+
+      - name: Run build script
+        run: |
+          python .github/working/build-lists.py
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          mv .github/working/cloaking-rules.txt ./
-          git add cloaking-rules.txt
-          git commit -m "⚡ Cloaking Rules - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git add ReadME.md *-hosts.txt *-cr.txt
+          git commit -m "⚡ DNS Builds - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin HEAD:main --force || echo "No changes to commit"
