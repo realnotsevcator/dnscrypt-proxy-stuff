@@ -1,4 +1,8 @@
-# DoH|DoT|Name
-# DoH|Name
-# DoT|Name
-https://dns.astracat.ru/dns-query|dns.astracat.ru|AstraCat
+https://dns.comss.one/dns-query|Comss
+https://dns.malw.link/dns-query|IMalware
+https://dns.mafioznik.xyz/dns-query|Mafioznik
+https://dns2.mafioznik.xyz/dns-query|Mafioznik 2
+https://dns.astracat.ru/dns-query|AstraCat
+https://xbox-dns.ru/dns-query|XboxDNS
+free.shecan.ir|shecan.ir
+https://dns.geohide.ru:444/dns-query|GeoHide
