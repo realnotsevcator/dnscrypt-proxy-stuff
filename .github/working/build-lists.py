@@ -73,6 +73,12 @@ class DnsTarget:
     dot: str | None
 
 
+@dataclass
+class DotEndpoint:
+    host: str
+    port: int = 853
+
+
 def fetch_text(url: str, timeout: int = 25) -> str:
     req = Request(url, headers={"User-Agent": "dns-list-builder/1.0"})
     with urlopen(req, timeout=timeout) as resp:
@@ -98,6 +104,47 @@ def parse_dns_targets(text: str) -> list[DnsTarget]:
         else:
             print(f"Skip malformed dns-targets line: {raw}")
     return targets
+
+
+def parse_dot_endpoint(dot_value: str) -> DotEndpoint:
+    value = dot_value.strip()
+    if not value:
+        raise ValueError("DoT endpoint is empty")
+
+    if value.startswith("tls://"):
+        value = value[len("tls://"):]
+
+    if not value:
+        raise ValueError("DoT endpoint host is empty")
+
+    if value.startswith("["):
+        closing = value.find("]")
+        if closing == -1:
+            raise ValueError("Malformed IPv6 DoT endpoint")
+        host = value[1:closing]
+        remainder = value[closing + 1 :]
+        if remainder.startswith(":"):
+            port = int(remainder[1:])
+        elif remainder:
+            raise ValueError("Malformed IPv6 DoT endpoint")
+        else:
+            port = 853
+    else:
+        host_port = value.rsplit(":", 1)
+        if len(host_port) == 2 and host_port[1].isdigit():
+            host, port_raw = host_port
+            port = int(port_raw)
+        else:
+            host = value
+            port = 853
+
+    host = host.strip().rstrip(".")
+    if not host:
+        raise ValueError("DoT endpoint host is empty")
+    if not (1 <= port <= 65535):
+        raise ValueError(f"Invalid DoT port: {port}")
+
+    return DotEndpoint(host=host, port=port)
 
 
 def normalize_domain(value: str) -> str | None:
@@ -167,9 +214,17 @@ def resolve_doh(doh_url: str, domain: str) -> set[str]:
 
 
 def resolve_dot(dot_host: str, domain: str) -> set[str]:
+    endpoint = parse_dot_endpoint(dot_host)
     q = dns.message.make_query(domain, dns.rdatatype.A)
     # dnspython handles TLS connection internally
-    resp = dns.query.tls(q, dot_host, port=853, timeout=8, server_hostname=dot_host, ssl_context=ssl.create_default_context())
+    resp = dns.query.tls(
+        q,
+        endpoint.host,
+        port=endpoint.port,
+        timeout=8,
+        server_hostname=endpoint.host,
+        ssl_context=ssl.create_default_context(),
+    )
     return {rr.to_text() for ans in resp.answer for rr in ans if rr.rdtype == dns.rdatatype.A}
 
 
