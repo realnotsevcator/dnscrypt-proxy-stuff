@@ -15,13 +15,16 @@ Outputs:
 from __future__ import annotations
 
 import ipaddress
+import logging
 import os
 import re
 import ssl
 import sys
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from pathlib import Path
+from threading import Lock
 from urllib.error import URLError
 from urllib.request import Request, urlopen
 
@@ -58,6 +61,8 @@ HEADER_HOSTS = """################################
 # Enjoy :D
 
 """
+
+logger = logging.getLogger("build-lists")
 
 
 @dataclass
@@ -132,7 +137,7 @@ def extract_domains_from_sources(links_text: str) -> set[str]:
         try:
             content = fetch_text(link)
         except URLError as exc:
-            print(f"Failed to fetch {link}: {exc}")
+            logger.warning("Failed to fetch %s: %s", link, exc)
             continue
         for line in content.splitlines():
             parsed = parse_host_line(line)
@@ -194,6 +199,14 @@ def resolve_target(target: DnsTarget, domain: str) -> set[str]:
     return set()
 
 
+def configure_logging(debug: bool) -> None:
+    level = logging.DEBUG if debug else logging.INFO
+    logging.basicConfig(
+        level=level,
+        format="%(asctime)s | %(levelname)-8s | %(threadName)s | %(message)s",
+    )
+
+
 def should_skip_for_public_match(target_ips: set[str], cf_ips: set[str], gg_ips: set[str]) -> bool:
     if not target_ips:
         return True
@@ -238,45 +251,82 @@ def update_readme(rows: list[tuple[str, str, str]]) -> None:
     README_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def build_public_cache(domains: list[str], resolver: str, workers: int) -> dict[str, set[str]]:
+    cache: dict[str, set[str]] = {}
+    logger.info("Resolving baseline via %s in parallel (%s domains, %s workers)", resolver, len(domains), workers)
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(resolve_public, resolver, domain): domain for domain in domains}
+        for future in as_completed(futures):
+            domain = futures[future]
+            try:
+                cache[domain] = future.result()
+            except Exception as exc:
+                cache[domain] = set()
+                logger.debug("%s baseline lookup failed for %s: %s", resolver, domain, exc)
+    return cache
+
+
+def build_target_records(
+    target: DnsTarget,
+    domains: list[str],
+    cf_cache: dict[str, set[str]],
+    gg_cache: dict[str, set[str]],
+    workers: int,
+) -> list[tuple[str, str]]:
+    records: list[tuple[str, str]] = []
+    lock = Lock()
+
+    def _process_domain(domain: str) -> None:
+        logger.debug("%s: start %s", target.name, domain)
+        try:
+            target_ips = resolve_target(target, domain)
+            if should_skip_for_public_match(target_ips, cf_cache.get(domain, set()), gg_cache.get(domain, set())):
+                logger.debug("%s: skipped %s (public overlap/empty)", target.name, domain)
+                return
+            new_rows = [(ip, domain) for ip in sorted(target_ips)]
+            with lock:
+                records.extend(new_rows)
+            logger.debug("%s: accepted %s -> %s", target.name, domain, [r[0] for r in new_rows])
+        except Exception as exc:
+            logger.debug("%s: %s skipped (%s)", target.name, domain, exc)
+
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(_process_domain, domain) for domain in domains]
+        for future in as_completed(futures):
+            future.result()
+    return sorted(records, key=lambda x: (x[1], x[0]))
+
+
 def main() -> int:
+    debug = os.environ.get("DEBUG", "").lower() in {"1", "true", "yes", "on"}
+    workers = int(os.environ.get("WORKERS", "40"))
+    configure_logging(debug)
+
     if not DNS_TARGETS_FILE.exists() or not HOSTS_LINKS_FILE.exists():
-        print("Need dns-targets.txt and hosts.txt in repo root", file=sys.stderr)
+        logger.error("Need dns-targets.txt and hosts.txt in repo root")
         return 2
 
     targets = parse_dns_targets(DNS_TARGETS_FILE.read_text(encoding="utf-8"))
     if not targets:
-        print("No dns targets found", file=sys.stderr)
+        logger.error("No dns targets found")
         return 3
 
     domains = sorted(extract_domains_from_sources(HOSTS_LINKS_FILE.read_text(encoding="utf-8")))
-    print(f"Loaded domains: {len(domains)}")
+    logger.info("Loaded domains: %s", len(domains))
 
     readme_rows: list[tuple[str, str, str]] = []
-    cf_cache: dict[str, set[str]] = {}
-    gg_cache: dict[str, set[str]] = {}
+    cf_cache = build_public_cache(domains, "1.1.1.1", workers)
+    gg_cache = build_public_cache(domains, "8.8.8.8", workers)
 
     for target in targets:
-        print(f"Processing target: {target.name}")
-        records: list[tuple[str, str]] = []
-        for domain in domains:
-            try:
-                target_ips = resolve_target(target, domain)
-                if domain not in cf_cache:
-                    cf_cache[domain] = resolve_public("1.1.1.1", domain)
-                if domain not in gg_cache:
-                    gg_cache[domain] = resolve_public("8.8.8.8", domain)
-                if should_skip_for_public_match(target_ips, cf_cache[domain], gg_cache[domain]):
-                    continue
-                for ip in sorted(target_ips):
-                    records.append((ip, domain))
-            except Exception as exc:
-                print(f"{target.name}: {domain} skipped ({exc})")
+        logger.info("Processing target: %s", target.name)
+        records = build_target_records(target, domains, cf_cache, gg_cache, workers)
         hosts_path, cr_path = write_outputs(target, records)
         readme_rows.append((target.name, hosts_path.name, cr_path.name))
-        print(f"{target.name}: wrote {len(records)} records")
+        logger.info("%s: wrote %s records", target.name, len(records))
 
     update_readme(readme_rows)
-    print("Done")
+    logger.info("Done")
     return 0
 
 
