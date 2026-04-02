@@ -5,30 +5,15 @@
 # by sevcator <3
 # Enjoy :D
 
-45.155.204.190 aisandbox-pa.googleapis.com
 45.155.204.190 aistudio.google.com
 45.155.204.190 aitestkitchen.withgoogle.com
 45.155.204.190 alkalimakersuite-pa.clients6.google.com
-140.82.112.22 api.individual.githubcopilot.com
-65.9.175.103 api.tidal.com
-45.155.204.190 assistant-s3-pa.googleapis.com
-3.160.150.10 auth.tidal.com
-2.16.168.40 encore.scdn.co
+2.16.168.48 api-sg-central.trae.ai
+2.16.168.55 api.trae.ai
 45.155.204.190 gemini.google.com
-45.155.204.190 generativelanguage.googleapis.com
-108.138.26.40 guilded.gg
 45.155.204.190 jules.google.com
 45.155.204.190 labs.google
-18.173.205.120 listen.tidal.com
-18.64.15.243 login.tidal.com
 45.155.204.190 notebooklm.google.com
 130.255.77.28 ntc.party
-2.21.239.10 payment.deezer.com
-45.155.204.190 proactivebackend-pa.googleapis.com
-4.225.11.192 proxy.individual.githubcopilot.com
-13.32.119.251 resources.tidal.com
-45.155.204.190 robinfrontend-pa.googleapis.com
 45.155.204.190 stitch.withgoogle.com
 45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
-23.58.110.189 www.autodesk.com
-2.21.239.10 www.deezer.com
