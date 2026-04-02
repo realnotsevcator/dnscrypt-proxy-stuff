@@ -259,11 +259,14 @@ def resolve_target(target: DnsTarget, domain: str) -> set[str]:
 
 
 def configure_logging(debug: bool) -> None:
-    level = logging.DEBUG if debug else logging.INFO
+    # Console output should include only warnings and errors.
+    # force=True is required to override any preconfigured handlers/levels.
     logging.basicConfig(
-        level=level,
+        level=logging.WARNING,
         format="%(asctime)s | %(levelname)-8s | %(threadName)s | %(message)s",
+        force=True,
     )
+    logger.setLevel(logging.WARNING)
 
 
 def should_skip_for_public_match(target_ips: set[str], cf_ips: set[str], gg_ips: set[str]) -> bool:

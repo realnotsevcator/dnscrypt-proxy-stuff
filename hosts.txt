@@ -1,2 +1,0 @@
-https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts
-https://freedom.mafioznik.xyz/file/hosts
