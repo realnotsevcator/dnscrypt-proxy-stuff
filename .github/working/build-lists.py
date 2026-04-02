@@ -15,6 +15,7 @@ Outputs:
 from __future__ import annotations
 
 import ipaddress
+import os
 import re
 import ssl
 import sys
@@ -36,6 +37,7 @@ ROOT = Path(__file__).resolve().parents[2]
 DNS_TARGETS_FILE = ROOT / "dns-targets.txt"
 HOSTS_LINKS_FILE = ROOT / "hosts.txt"
 README_FILE = ROOT / "ReadME.md"
+RAW_BASE_URL = os.environ.get("RAW_BASE_URL", "https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main")
 
 DOMAIN_RE = re.compile(r"^(?:\*\.)?(?=.{1,253}$)(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[A-Za-z]{2,63}$")
 
@@ -142,7 +144,11 @@ def extract_domains_from_sources(links_text: str) -> set[str]:
 
 def resolve_doh(doh_url: str, domain: str) -> set[str]:
     q = dns.message.make_query(domain, dns.rdatatype.A)
-    resp = dns.query.https(q, doh_url, timeout=8)
+    http_version_h2 = getattr(getattr(dns.query, "HTTPVersion", None), "H2", None)
+    kwargs = {"timeout": 8}
+    if http_version_h2 is not None:
+        kwargs["http_version"] = http_version_h2
+    resp = dns.query.https(q, doh_url, **kwargs)
     return {rr.to_text() for ans in resp.answer for rr in ans if rr.rdtype == dns.rdatatype.A}
 
 
@@ -160,10 +166,23 @@ def resolve_public(resolver_ip: str, domain: str) -> set[str]:
 
 
 def resolve_target(target: DnsTarget, domain: str) -> set[str]:
+    errors: list[str] = []
+
     if target.doh:
-        return resolve_doh(target.doh, domain)
+        try:
+            return resolve_doh(target.doh, domain)
+        except Exception as exc:
+            errors.append(f"DoH failed: {exc}")
+
     if target.dot:
-        return resolve_dot(target.dot, domain)
+        try:
+            return resolve_dot(target.dot, domain)
+        except Exception as exc:
+            errors.append(f"DoT failed: {exc}")
+
+    if errors:
+        raise RuntimeError("; ".join(errors))
+
     return set()
 
 
@@ -201,11 +220,13 @@ def update_readme(rows: list[tuple[str, str, str]]) -> None:
     lines = [
         "# DNS Builds",
         "",
-        "DNS | Hosts | Cloaking Rules |",
+        "DNS | Hosts (Raw) | Cloaking Rules (Raw) |",
         "--- | --- | --- |",
     ]
     for dns_name, hosts_file, cr_file in rows:
-        lines.append(f"{dns_name} | {hosts_file} | {cr_file} |")
+        hosts_link = f"[{hosts_file}]({RAW_BASE_URL}/{hosts_file})"
+        cr_link = f"[{cr_file}]({RAW_BASE_URL}/{cr_file})"
+        lines.append(f"{dns_name} | {hosts_link} | {cr_link} |")
     README_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
