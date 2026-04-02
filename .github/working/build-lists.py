@@ -1,16 +1,4 @@
 #!/usr/bin/env python3
-"""
-Generate per-DNS hosts and cloaking-rules files.
-
-Inputs:
-- dns-targets.txt
-- hosts.txt (list of URLs to hosts sources)
-
-Outputs:
-- <DNS_NAME>-hosts.txt
-- <DNS_NAME>-cr.txt
-- ReadME.md table
-"""
 
 from __future__ import annotations
 
