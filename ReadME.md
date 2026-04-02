@@ -10,3 +10,9 @@ AstraCat | [AstraCat-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscr
 XboxDNS | [XboxDNS-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/XboxDNS-hosts.txt) | [XboxDNS-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/XboxDNS-cr.txt) |
 shecan.ir | [shecan.ir-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/shecan.ir-hosts.txt) | [shecan.ir-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/shecan.ir-cr.txt) |
 GeoHide | [GeoHide-hosts.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/GeoHide-hosts.txt) | [GeoHide-cr.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/GeoHide-cr.txt) |
+
+## Формат DNS-over-TLS
+
+DNS-over-TLS адрес указывается в формате:
+
+`tls://домен`
