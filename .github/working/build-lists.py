@@ -5,6 +5,8 @@ from __future__ import annotations
 import ipaddress
 import logging
 import os
+import fnmatch
+import random
 import re
 import socket
 import ssl
@@ -26,8 +28,11 @@ except ImportError:
     sys.exit(1)
 
 ROOT = Path(__file__).resolve().parents[2]
-DNS_TARGETS_FILE = ROOT / "dns-targets.txt"
-HOSTS_LINKS_FILE = ROOT / "hosts.txt"
+WORKING_DIR = ROOT / ".github" / "working"
+DNS_TARGETS_FILE = WORKING_DIR / "dns-targets.txt"
+HOSTS_LINKS_FILE = WORKING_DIR / "hosts.txt"
+BLACKLIST_FILE = WORKING_DIR / "blacklist.txt"
+NO_SIMPLIFY_FILE = WORKING_DIR / "no-simpify.txt"
 README_FILE = ROOT / "README.md"
 RAW_BASE_URL = os.environ.get("RAW_BASE_URL", "https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main")
 
@@ -53,6 +58,12 @@ HEADER_HOSTS = """################################
 
 logger = logging.getLogger("build-lists")
 
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
+]
+
 
 @dataclass
 class DnsTarget:
@@ -68,7 +79,7 @@ class DotEndpoint:
 
 
 def fetch_text(url: str, timeout: int = 25) -> str:
-    req = Request(url, headers={"User-Agent": "dns-list-builder/1.0"})
+    req = Request(url, headers={"User-Agent": random.choice(USER_AGENTS)})
     with urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
@@ -192,7 +203,7 @@ def resolve_doh(doh_url: str, domain: str) -> set[str]:
         headers={
             "Accept": "application/dns-message",
             "Content-Type": "application/dns-message",
-            "User-Agent": "dns-list-builder/1.0",
+            "User-Agent": random.choice(USER_AGENTS),
         },
         method="POST",
     )
@@ -223,19 +234,23 @@ def resolve_public(resolver_ip: str, domain: str) -> set[str]:
 
 
 def resolve_target(target: DnsTarget, domain: str) -> set[str]:
+    collected: set[str] = set()
     errors: list[str] = []
 
     if target.doh:
         try:
-            return resolve_doh(target.doh, domain)
+            collected.update(resolve_doh(target.doh, domain))
         except Exception as exc:
             errors.append(f"DoH failed: {exc}")
 
     if target.dot:
         try:
-            return resolve_dot(target.dot, domain)
+            collected.update(resolve_dot(target.dot, domain))
         except Exception as exc:
             errors.append(f"DoT failed: {exc}")
+
+    if collected:
+        return collected
 
     if errors:
         raise RuntimeError("; ".join(errors))
@@ -268,7 +283,7 @@ def check_https_via_ip(domain: str, ip: str, timeout: float = 12.0) -> bool:
     request = (
         f"HEAD / HTTP/1.1\r\n"
         f"Host: {domain}\r\n"
-        "User-Agent: dns-list-builder/1.0\r\n"
+        f"User-Agent: {random.choice(USER_AGENTS)}\r\n"
         "Connection: close\r\n\r\n"
     ).encode("ascii", errors="ignore")
 
@@ -283,19 +298,73 @@ def check_https_via_ip(domain: str, ip: str, timeout: float = 12.0) -> bool:
         return False
 
 
-def write_outputs(target: DnsTarget, records: list[tuple[str, str]]) -> tuple[Path, Path]:
+def load_patterns(path: Path) -> list[str]:
+    if not path.exists():
+        return []
+    patterns: list[str] = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip().lower()
+        if line and not line.startswith("#"):
+            patterns.append(line)
+    return patterns
+
+
+def matches_patterns(domain: str, patterns: list[str]) -> bool:
+    d = domain.lower()
+    return any(fnmatch.fnmatch(d, p) for p in patterns)
+
+
+def simplify_cloaking_records(records: list[tuple[str, str]], no_simplify_patterns: list[str]) -> list[tuple[str, str]]:
+    grouped: dict[tuple[str, str], list[str]] = {}
+    passthrough: list[tuple[str, str]] = []
+    for ip, domain in records:
+        if matches_patterns(domain, no_simplify_patterns):
+            passthrough.append((ip, domain))
+            continue
+        parts = domain.split(".")
+        if len(parts) < 2:
+            passthrough.append((ip, domain))
+            continue
+        root_domain = ".".join(parts[-2:])
+        grouped.setdefault((ip, root_domain), []).append(domain)
+
+    simplified: list[tuple[str, str]] = list(passthrough)
+    for (ip, root_domain), domains in grouped.items():
+        unique = sorted(set(domains))
+        # keep only root-domain rule when we have enough subdomain variants
+        if root_domain in unique and len(unique) >= 4 and not matches_patterns(root_domain, no_simplify_patterns):
+            simplified.append((ip, root_domain))
+            continue
+        for domain in unique:
+            simplified.append((ip, f"={domain}"))
+    return sorted(simplified, key=lambda x: (x[1], x[0]))
+
+
+def write_outputs(
+    target: DnsTarget,
+    records: list[tuple[str, str]],
+    blacklist_patterns: list[str],
+    no_simplify_patterns: list[str],
+) -> tuple[Path, Path]:
     safe_name = re.sub(r"[^A-Za-z0-9._-]+", "_", target.name)
-    hosts_path = ROOT / f"{safe_name}-hosts.txt"
-    cr_path = ROOT / f"{safe_name}-cr.txt"
+    hosts_dir = ROOT / "hosts"
+    cr_dir = ROOT / "cr"
+    hosts_dir.mkdir(parents=True, exist_ok=True)
+    cr_dir.mkdir(parents=True, exist_ok=True)
+
+    filtered_records = [(ip, domain) for ip, domain in records if not matches_patterns(domain, blacklist_patterns)]
+    hosts_path = hosts_dir / f"{safe_name}.txt"
+    cr_path = cr_dir / f"{safe_name}.txt"
 
     with hosts_path.open("w", encoding="utf-8") as f:
         f.write(HEADER_HOSTS)
-        for ip, domain in records:
+        for ip, domain in filtered_records:
             f.write(f"{ip} {domain}\n")
 
+    cloaking_records = simplify_cloaking_records(filtered_records, no_simplify_patterns)
     with cr_path.open("w", encoding="utf-8") as f:
         f.write(HEADER_CR)
-        for ip, domain in records:
+        for ip, domain in cloaking_records:
             f.write(f"{domain} {ip}\n")
 
     return hosts_path, cr_path
@@ -309,8 +378,8 @@ def update_readme(rows: list[tuple[str, str, str]]) -> None:
         "--- | --- | --- |",
     ]
     for dns_name, hosts_file, cr_file in rows:
-        hosts_link = f"[{hosts_file}]({RAW_BASE_URL}/{hosts_file})"
-        cr_link = f"[{cr_file}]({RAW_BASE_URL}/{cr_file})"
+        hosts_link = f"[{hosts_file}]({RAW_BASE_URL}/hosts/{hosts_file})"
+        cr_link = f"[{cr_file}]({RAW_BASE_URL}/cr/{cr_file})"
         lines.append(f"{dns_name} | {hosts_link} | {cr_link} |")
     README_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -377,7 +446,7 @@ def main() -> int:
     configure_logging(debug)
 
     if not DNS_TARGETS_FILE.exists() or not HOSTS_LINKS_FILE.exists():
-        logger.error("Need dns-targets.txt and hosts.txt in repo root")
+        logger.error("Need dns-targets.txt and hosts.txt in .github/working")
         return 2
 
     targets = parse_dns_targets(DNS_TARGETS_FILE.read_text(encoding="utf-8"))
@@ -386,6 +455,8 @@ def main() -> int:
         return 3
 
     domains = sorted(extract_domains_from_sources(HOSTS_LINKS_FILE.read_text(encoding="utf-8")))
+    blacklist_patterns = load_patterns(BLACKLIST_FILE)
+    no_simplify_patterns = load_patterns(NO_SIMPLIFY_FILE)
     logger.info("Loaded domains: %s", len(domains))
 
     readme_rows: list[tuple[str, str, str]] = []
@@ -395,7 +466,7 @@ def main() -> int:
     for target in targets:
         logger.info("Processing target: %s", target.name)
         records = build_target_records(target, domains, cf_cache, gg_cache, workers)
-        hosts_path, cr_path = write_outputs(target, records)
+        hosts_path, cr_path = write_outputs(target, records, blacklist_patterns, no_simplify_patterns)
         readme_rows.append((target.name, hosts_path.name, cr_path.name))
         logger.info("%s: wrote %s records", target.name, len(records))
 
