@@ -32,6 +32,7 @@
 45.155.204.190 framer.com
 103.27.157.100 game-assets.brawlstarsgame.com
 45.155.204.190 gemini.google.com
+45.155.204.190 gemini6.google.com
 45.155.204.190 generativelanguage.googleapis.com
 45.155.204.190 guilded.gg
 157.240.253.174 help.instagram.com

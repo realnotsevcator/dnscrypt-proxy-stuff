@@ -29,6 +29,7 @@
 =framer.com 3.174.113.22
 =game-assets.brawlstarsgame.com 3.174.113.101
 =gemini.google.com 87.228.47.204
+=gemini6.google.com 87.228.47.204
 =generativelanguage.googleapis.com 87.228.47.204
 =guilded.gg 3.164.68.23
 =help.instagram.com 31.13.72.174

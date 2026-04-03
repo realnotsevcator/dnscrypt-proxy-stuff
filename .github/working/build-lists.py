@@ -429,15 +429,24 @@ def build_target_records(
     cf_cache: dict[str, set[str]],
     gg_cache: dict[str, set[str]],
     workers: int,
-) -> list[tuple[str, str]]:
+) -> tuple[list[tuple[str, str]], set[str], set[str]]:
     records: list[tuple[str, str]] = []
+    unresolved_domains: set[str] = set()
+    discovered_ips: set[str] = set()
     lock = Lock()
 
     def _process_domain(domain: str) -> None:
         logger.debug("%s: start %s", target.name, domain)
         try:
             target_ips = resolve_target(target, domain)
+            if target_ips:
+                with lock:
+                    discovered_ips.update(target_ips)
+
             if should_skip_for_public_match(target_ips, cf_cache.get(domain, set()), gg_cache.get(domain, set())):
+                if not target_ips:
+                    with lock:
+                        unresolved_domains.add(domain)
                 logger.debug("%s: skipped %s (public overlap/empty)", target.name, domain)
                 return
             working_ip: str | None = None
@@ -448,6 +457,8 @@ def build_target_records(
                     break
 
             if not working_ip:
+                with lock:
+                    unresolved_domains.add(domain)
                 logger.debug("%s: skipped %s (no working HTTPS IP)", target.name, domain)
                 return
 
@@ -463,7 +474,48 @@ def build_target_records(
         futures = [pool.submit(_process_domain, domain) for domain in domains]
         for future in as_completed(futures):
             future.result()
-    return sorted(records, key=lambda x: (x[1], x[0]))
+    return sorted(records, key=lambda x: (x[1], x[0])), unresolved_domains, discovered_ips
+
+
+def apply_known_ip_fallback(
+    target_name: str,
+    records: list[tuple[str, str]],
+    unresolved_domains: set[str],
+    target_known_ips: set[str],
+    domain_known_ips: dict[str, set[str]],
+    global_known_ips: set[str],
+) -> list[tuple[str, str]]:
+    if not unresolved_domains:
+        return sorted(records, key=lambda x: (x[1], x[0]))
+
+    resolved_domains = {domain for _, domain in records}
+    known_for_target = set(target_known_ips)
+    global_pool = set(global_known_ips)
+    updated_records = list(records)
+
+    for domain in sorted(unresolved_domains):
+        if domain in resolved_domains:
+            continue
+
+        candidate_ips = sorted(
+            set(domain_known_ips.get(domain, set())) | known_for_target | global_pool
+        )
+        if not candidate_ips:
+            continue
+
+        for ip in candidate_ips:
+            logger.debug("%s: fallback check %s via %s", target_name, domain, ip)
+            if not check_https_via_ip(domain, ip):
+                continue
+            updated_records.append((ip, domain))
+            resolved_domains.add(domain)
+            domain_known_ips.setdefault(domain, set()).add(ip)
+            global_pool.add(ip)
+            known_for_target.add(ip)
+            logger.debug("%s: fallback accepted %s -> %s", target_name, domain, ip)
+            break
+
+    return sorted(updated_records, key=lambda x: (x[1], x[0]))
 
 
 def main() -> int:
@@ -485,13 +537,40 @@ def main() -> int:
     no_simplify_patterns = load_patterns(NO_SIMPLIFY_FILE)
     logger.info("Loaded domains: %s", len(domains))
 
-    readme_rows: list[tuple[str, str, str]] = []
     cf_cache = build_public_cache(domains, "1.1.1.1", workers)
     gg_cache = build_public_cache(domains, "8.8.8.8", workers)
 
+    target_records: dict[str, list[tuple[str, str]]] = {}
+    target_unresolved: dict[str, set[str]] = {}
+    target_known_ips: dict[str, set[str]] = {}
+
     for target in targets:
         logger.info("Processing target: %s", target.name)
-        records = build_target_records(target, domains, cf_cache, gg_cache, workers)
+        records, unresolved, discovered_ips = build_target_records(target, domains, cf_cache, gg_cache, workers)
+        target_records[target.name] = records
+        target_unresolved[target.name] = unresolved
+        target_known_ips[target.name] = discovered_ips
+
+    domain_known_ips: dict[str, set[str]] = {}
+    global_known_ips: set[str] = set()
+    for records in target_records.values():
+        for ip, domain in records:
+            domain_known_ips.setdefault(domain, set()).add(ip)
+            global_known_ips.add(ip)
+
+    readme_rows: list[tuple[str, str, str]] = []
+    for target in targets:
+        records = apply_known_ip_fallback(
+            target_name=target.name,
+            records=target_records.get(target.name, []),
+            unresolved_domains=target_unresolved.get(target.name, set()),
+            target_known_ips=target_known_ips.get(target.name, set()),
+            domain_known_ips=domain_known_ips,
+            global_known_ips=global_known_ips,
+        )
+        for ip, domain in records:
+            domain_known_ips.setdefault(domain, set()).add(ip)
+            global_known_ips.add(ip)
         hosts_path, cr_path = write_outputs(target, records, blacklist_patterns, no_simplify_patterns)
         readme_rows.append((target.name, hosts_path.name, cr_path.name))
         logger.info("%s: wrote %s records", target.name, len(records))

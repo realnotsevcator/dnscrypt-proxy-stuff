@@ -15,6 +15,7 @@
 13.226.134.35 cdn.auth0.com
 13.226.155.109 dd.tidal.com
 45.155.204.190 gemini.google.com
+45.155.204.190 gemini6.google.com
 45.155.204.190 generativelanguage.googleapis.com
 13.226.155.101 guilded.gg
 45.155.204.190 jules.google.com
