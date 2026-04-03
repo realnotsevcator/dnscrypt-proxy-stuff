@@ -5,32 +5,28 @@
 # by sevcator <3
 # Enjoy :D
 
-=aisandbox-pa.googleapis.com 45.155.204.190
-=aistudio.google.com 45.155.204.190
 =aitestkitchen.withgoogle.com 45.155.204.190
 =alkalimakersuite-pa.clients6.google.com 45.155.204.190
-=api.tidal.com 54.230.172.121
-=assistant-s3-pa.googleapis.com 45.155.204.190
-=auth.tidal.com 13.226.155.106
-=cdn.auth0.com 13.226.134.35
-=dd.tidal.com 13.226.155.109
+=api-sg-central.trae.ai 2.16.168.48
+=api.tidal.com 65.9.175.103
+=auth.tidal.com 3.160.150.10
+=dd.tidal.com 3.174.46.10
+=encore.scdn.co 2.16.168.40
 =gemini.google.com 45.155.204.190
 =gemini6.google.com 45.155.204.190
 =generativelanguage.googleapis.com 45.155.204.190
 =guilded.gg 13.226.155.101
 =jules.google.com 45.155.204.190
 =labs.google 45.155.204.190
-=link.tidal.com 13.226.154.242
-=listen.tidal.com 13.226.155.122
+=listen.tidal.com 18.173.205.120
 =notebooklm.google.com 45.155.204.190
 =ntc.party 130.255.77.28
-=payment.deezer.com 2.17.100.208
-=proactivebackend-pa.googleapis.com 45.155.204.190
-=proxy.individual.githubcopilot.com 4.225.11.192
-=resources.tidal.com 3.173.242.244
-=robinfrontend-pa.googleapis.com 45.155.204.190
+=payment.deezer.com 2.17.100.163
 =stitch.withgoogle.com 45.155.204.190
+=upsx.weather.com 54.230.172.41
 =webchannel-alkalimakersuite-pa.clients6.google.com 45.155.204.190
 =www-growth.scdn.co 2.16.168.40
-=www.deezer.com 2.17.100.208
+=www.autodesk.com 23.58.110.189
+=www.deezer.com 2.17.100.163
+=www.guilded.gg 65.8.131.113
 =www.intel.de 23.36.237.183
