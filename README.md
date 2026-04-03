@@ -9,3 +9,18 @@ Mafioznik 2 | [Mafioznik_2.txt](https://raw.githubusercontent.com/sevcator/dnscr
 AstraCat | [AstraCat.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/AstraCat.txt) | [AstraCat.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/AstraCat.txt) |
 XboxDNS | [XboxDNS.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/XboxDNS.txt) | [XboxDNS.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/XboxDNS.txt) |
 GeoHide | [GeoHide.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/GeoHide.txt) | [GeoHide.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/GeoHide.txt) |
+
+## Debug в консоли (dnscrypt-proxy)
+
+Чтобы видеть ошибки и подробный debug прямо в консоли:
+
+1. В `dnscrypt-proxy.toml` установите:
+
+```toml
+log_level = 0
+log_file = ''
+```
+
+2. Запускайте `dnscrypt-proxy` в foreground (без демонизации), тогда логи пойдут в stdout/stderr.
+
+> `log_level = 0` включает максимальную детализацию (debug), поэтому в консоли будут и ошибки, и диагностические сообщения.
