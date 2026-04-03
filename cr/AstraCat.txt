@@ -13,7 +13,9 @@
 =dd.tidal.com 3.174.46.10
 =encore.scdn.co 2.16.168.40
 =gemini.google.com 45.155.204.190
-=guilded.gg 108.138.26.40
+=gemini6.google.com 45.155.204.190
+=generativelanguage.googleapis.com 45.155.204.190
+=guilded.gg 13.226.155.101
 =jules.google.com 45.155.204.190
 =labs.google 45.155.204.190
 =listen.tidal.com 18.173.205.120
