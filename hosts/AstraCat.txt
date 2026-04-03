@@ -5,18 +5,35 @@
 # by sevcator <3
 # Enjoy :D
 
+45.155.204.190 aisandbox-pa.googleapis.com
 45.155.204.190 aistudio.google.com
 45.155.204.190 aitestkitchen.withgoogle.com
 45.155.204.190 alkalimakersuite-pa.clients6.google.com
 2.16.168.41 api-sg-central.trae.ai
-140.82.112.22 api.individual.githubcopilot.com
+140.82.114.22 api.individual.githubcopilot.com
+65.9.175.103 api.tidal.com
 2.16.168.55 api.trae.ai
+45.155.204.190 assistant-s3-pa.googleapis.com
+3.160.150.10 auth.tidal.com
+13.33.223.41 cdn.auth0.com
+2.16.168.52 encore.scdn.co
 45.155.204.190 gemini.google.com
+45.155.204.190 generativelanguage.googleapis.com
 45.155.204.190 jules.google.com
 45.155.204.190 labs.google
+18.64.15.243 link.tidal.com
+18.173.205.120 listen.tidal.com
+18.64.15.243 login.tidal.com
 45.155.204.190 notebooklm.google.com
 130.255.77.28 ntc.party
+2.17.100.193 payment.deezer.com
+45.155.204.190 proactivebackend-pa.googleapis.com
+4.225.11.192 proxy.individual.githubcopilot.com
+45.155.204.190 robinfrontend-pa.googleapis.com
+45.155.204.190 stitch.withgoogle.com
+54.230.172.41 upsx.weather.com
 45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
 2.16.168.52 www-growth.scdn.co
-23.58.110.189 www.autodesk.com
+2.17.100.193 www.deezer.com
+65.8.131.113 www.guilded.gg
 23.36.237.183 www.intel.de
