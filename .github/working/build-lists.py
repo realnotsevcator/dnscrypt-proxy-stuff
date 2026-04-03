@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import ipaddress
+import base64
 import logging
 import os
 import fnmatch
@@ -197,33 +198,56 @@ def extract_domains_from_sources(links_text: str) -> set[str]:
 def resolve_doh(doh_url: str, domain: str) -> set[str]:
     q = dns.message.make_query(domain, dns.rdatatype.A)
     wire = q.to_wire()
-    req = Request(
-        doh_url,
-        data=wire,
-        headers={
-            "Accept": "application/dns-message",
-            "Content-Type": "application/dns-message",
-            "User-Agent": random.choice(USER_AGENTS),
-        },
-        method="POST",
-    )
-    with urlopen(req, timeout=8) as resp_raw:
-        resp = dns.message.from_wire(resp_raw.read())
+    common_headers = {
+        "Accept": "application/dns-message",
+        "User-Agent": random.choice(USER_AGENTS),
+    }
+    try:
+        req = Request(
+            doh_url,
+            data=wire,
+            headers={
+                **common_headers,
+                "Content-Type": "application/dns-message",
+            },
+            method="POST",
+        )
+        with urlopen(req, timeout=8) as resp_raw:
+            resp = dns.message.from_wire(resp_raw.read())
+    except Exception:
+        encoded = base64.urlsafe_b64encode(wire).decode("ascii").rstrip("=")
+        separator = "&" if "?" in doh_url else "?"
+        get_url = f"{doh_url}{separator}dns={encoded}"
+        req = Request(get_url, headers=common_headers, method="GET")
+        with urlopen(req, timeout=8) as resp_raw:
+            resp = dns.message.from_wire(resp_raw.read())
     return {rr.to_text() for ans in resp.answer for rr in ans if rr.rdtype == dns.rdatatype.A}
 
 
-def resolve_dot(dot_host: str, domain: str) -> set[str]:
+def resolve_dot(dot_host: str, domain: str, timeout: float = 8.0) -> set[str]:
     endpoint = parse_dot_endpoint(dot_host)
     q = dns.message.make_query(domain, dns.rdatatype.A)
-    # dnspython handles TLS connection internally
-    resp = dns.query.tls(
-        q,
-        endpoint.host,
-        port=endpoint.port,
-        timeout=8,
-        server_hostname=endpoint.host,
-        ssl_context=ssl.create_default_context(),
-    )
+    wire = q.to_wire()
+    context = ssl.create_default_context()
+    packet = len(wire).to_bytes(2, "big") + wire
+
+    with socket.create_connection((endpoint.host, endpoint.port), timeout=timeout) as tcp_socket:
+        with context.wrap_socket(tcp_socket, server_hostname=endpoint.host) as tls_socket:
+            tls_socket.settimeout(timeout)
+            tls_socket.sendall(packet)
+
+            length_raw = tls_socket.recv(2)
+            if len(length_raw) < 2:
+                raise RuntimeError("DoT server closed connection before response length")
+            expected = int.from_bytes(length_raw, "big")
+            payload = b""
+            while len(payload) < expected:
+                chunk = tls_socket.recv(expected - len(payload))
+                if not chunk:
+                    raise RuntimeError("DoT server closed connection before full response")
+                payload += chunk
+
+    resp = dns.message.from_wire(payload)
     return {rr.to_text() for ans in resp.answer for rr in ans if rr.rdtype == dns.rdatatype.A}
 
 
