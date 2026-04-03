@@ -5,33 +5,31 @@
 # by sevcator <3
 # Enjoy :D
 
-95.100.176.23 afcs.dellcdn.com
 80.74.29.235 aistudio.google.com
-80.74.29.235 aitestkitchen.withgoogle.com
-80.74.29.235 alkalimakersuite-pa.clients6.google.com
+2.19.181.106 api-sg-central.trae.ai
 80.74.29.235 api.github.com
 80.74.29.235 api.individual.githubcopilot.com
 80.74.29.235 api.trae.ai
+35.186.224.24 appresolve.spotify.com
 80.74.29.235 auth.anthropic.com
-157.240.205.174 b.i.instagram.com
-3.164.68.10 cdn.id.supercell.com
-104.103.64.8 dds.dell.com
-2.21.240.67 developer.nvidia.com
-2.22.31.104 edgeservices.bing.com
+57.144.244.34 b.i.instagram.com
+209.85.233.100 fitbit.google.com
 80.74.29.235 gemini.google.com
 57.144.244.34 help.instagram.com
-157.240.205.174 instagram.com
+57.144.244.34 instagram.com
 80.74.29.235 jules.google.com
 80.74.29.235 labs.google
-104.103.64.8 nexus.dell.com
+103.27.157.38 notebooklm.google.com
+130.255.77.28 ntc.party
+74.125.205.94 o.pki.goog
 104.16.24.14 open-exp.spotifycdn.com
-80.74.29.235 s.deepl.com
 80.74.29.235 stitch.withgoogle.com
+185.31.40.18 test.dns.malw.link
+80.74.29.235 trae-api-sg.mchost.guru
 80.74.29.235 usher.ttvnw.net
-184.51.234.186 weather.com
+92.123.205.207 weather.com
 80.74.29.235 webchannel-alkalimakersuite-pa.clients6.google.com
-216.198.53.6 www.dyson.com
+88.221.99.247 www.elgato.com
 57.144.244.34 www.instagram.com
-80.74.29.235 www.intel.com
-96.17.7.19 www.intel.de
-2.19.181.104 www.tiktok.com
+23.73.2.69 www.tiktok.com
+157.240.0.174 z-p42-chat-e2ee-ig.facebook.com
