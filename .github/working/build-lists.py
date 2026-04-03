@@ -241,13 +241,13 @@ def resolve_target(target: DnsTarget, domain: str) -> set[str]:
         try:
             collected.update(resolve_doh(target.doh, domain))
         except Exception as exc:
-            errors.append(f"DoH failed: {exc}")
+            errors.append(f"DoH failed ({type(exc).__name__}): {exc}")
 
     if target.dot:
         try:
             collected.update(resolve_dot(target.dot, domain))
         except Exception as exc:
-            errors.append(f"DoT failed: {exc}")
+            errors.append(f"DoT failed ({type(exc).__name__}): {exc}")
 
     if collected:
         return collected
@@ -430,6 +430,8 @@ def build_target_records(
             with lock:
                 records.append((working_ip, domain))
             logger.debug("%s: accepted %s -> %s", target.name, domain, working_ip)
+        except RuntimeError as exc:
+            logger.warning("%s: %s skipped (%s)", target.name, domain, exc)
         except Exception as exc:
             logger.debug("%s: %s skipped (%s)", target.name, domain, exc)
 
