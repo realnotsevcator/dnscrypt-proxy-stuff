@@ -9,3 +9,4 @@ Mafioznik 2 | [Mafioznik_2.txt](https://raw.githubusercontent.com/sevcator/dnscr
 AstraCat | [AstraCat.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/AstraCat.txt) | [AstraCat.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/AstraCat.txt) |
 XboxDNS | [XboxDNS.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/XboxDNS.txt) | [XboxDNS.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/XboxDNS.txt) |
 GeoHide | [GeoHide.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/GeoHide.txt) | [GeoHide.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/GeoHide.txt) |
+shecan.ir | [shecan.ir.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/hosts/shecan.ir.txt) | [shecan.ir.txt](https://raw.githubusercontent.com/sevcator/dnscrypt-proxy-stuff/main/cr/shecan.ir.txt) |
