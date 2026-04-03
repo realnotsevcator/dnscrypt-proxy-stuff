@@ -5,3 +5,4 @@ tls://dns2.mafioznik.xyz|Mafioznik 2
 https://dns.astracat.ru/dns-query|tls://dns.astracat.ru|AstraCat
 https://xbox-dns.ru/dns-query|tls://xbox-dns.ru|XboxDNS
 tls://dns.geohide.ru|GeoHide
+tls://free.shecan.ir|shecan.ir
