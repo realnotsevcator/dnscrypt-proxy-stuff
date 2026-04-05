@@ -5,37 +5,25 @@
 # by sevcator <3
 # Enjoy :D
 
-77.239.114.0 afcs.dellcdn.com
-45.155.204.190 aistudio.google.com
-45.155.204.190 aitestkitchen.withgoogle.com
-45.155.204.190 alkalimakersuite-pa.clients6.google.com
-2.16.168.48 api-sg-central.trae.ai
-77.239.114.0 api.github.com
-2.16.168.55 api.trae.ai
-77.239.114.0 api16-normal-alisg.mchost.guru
-35.186.224.24 appresolve.spotify.com
-104.16.102.112 auth.anthropic.com
-157.240.0.174 b.i.instagram.com
-77.239.114.0 dyson.com
-77.239.114.0 edgeservices.bing.com
-77.239.114.0 fitbit.google.com
-77.239.114.0 game-assets.clashofclans.com
 45.155.204.190 gemini.google.com
 157.240.0.174 help.instagram.com
-77.239.114.0 i.dell.com
 157.240.0.174 instagram.com
+45.155.204.190 jules.google.com
 45.155.204.190 labs.google
+77.239.114.0 nexus.dell.com
+45.155.204.190 notebooklm.google.com
 130.255.77.28 ntc.party
 77.239.114.0 o.pki.goog
-104.16.102.112 open-exp.spotifycdn.com
-2.21.239.10 payment.deezer.com
+104.16.24.14 open-exp.spotifycdn.com
 45.155.204.190 stitch.withgoogle.com
+77.239.114.0 sydney.bing.com
 185.31.40.18 test.dns.malw.link
 77.239.114.0 trae-api-sg.mchost.guru
+185.246.223.127 unleash.codeium.com
 77.239.114.0 usher.ttvnw.net
-45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
-2.21.239.10 www.deezer.com
+103.27.157.100 w.deepl.com
+77.239.114.0 weather.com
+2.16.168.40 www-growth.scdn.co
 157.240.0.174 www.instagram.com
-77.239.114.0 www.tiktok.com
-77.239.114.0 xsts.auth.xboxlive.com
+77.239.114.0 www.intel.com
 157.240.0.174 z-p42-chat-e2ee-ig.facebook.com
