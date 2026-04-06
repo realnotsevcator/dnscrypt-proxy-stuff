@@ -5,27 +5,27 @@
 # by sevcator <3
 # Enjoy :D
 
-=aistudio.google.com 142.250.186.78
-=aitestkitchen.withgoogle.com 142.251.110.141
-=alkalimakersuite-pa.clients6.google.com 142.251.13.95
-=api-sg-central.trae.ai 2.22.50.101
-=api.github.com 140.82.121.6
-=api.trae.ai 2.22.50.108
+=afcs.dellcdn.com 77.239.114.0
+=aistudio.google.com 45.155.204.190
+=aitestkitchen.withgoogle.com 103.27.157.100
+=alkalimakersuite-pa.clients6.google.com 103.27.157.100
+=api.individual.githubcopilot.com 140.82.113.21
+=api.trae.ai 2.22.50.100
 =appresolve.spotify.com 35.186.224.24
-=b.i.instagram.com 57.144.244.34
-=dd.tidal.com 3.174.46.10
-=fitbit.google.com 142.251.13.100
-=gemini.google.com 142.251.127.100
-=help.instagram.com 157.240.0.174
+=auth.anthropic.com 104.16.24.14
+=b.i.instagram.com 157.240.0.174
+=developer.nvidia.com 77.239.114.0
+=encore.scdn.co 2.22.50.105
+=fitbit.google.com 77.239.114.0
+=gemini.google.com 45.155.204.190
+=i.dell.com 77.239.114.0
 =instagram.com 157.240.0.174
-=jules.google.com 142.251.110.100
-=labs.google 142.251.20.141
-=o.pki.goog 142.251.110.94
-=usher.ttvnw.net 3.161.82.103
-=weather.com 95.100.64.20
-=www-growth.scdn.co 2.22.50.134
-=www.deezer.com 184.86.103.16
+=ntc.party 130.255.77.28
+=test.dns.malw.link 185.31.40.18
+=webchannel-alkalimakersuite-pa.clients6.google.com 45.155.204.190
+=www-growth.scdn.co 2.22.50.123
+=www.autodesk.com 23.58.110.189
 =www.instagram.com 157.240.0.174
-=www.intel.com 95.100.74.105
-=www.tiktok.com 2.16.238.14
+=www.intel.com 77.239.114.0
+=www.tiktok.com 77.239.114.0
 =z-p42-chat-e2ee-ig.facebook.com 157.240.0.174
