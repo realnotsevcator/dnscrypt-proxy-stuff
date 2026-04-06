@@ -5,27 +5,3 @@
 # by sevcator <3
 # Enjoy :D
 
-77.239.114.0 afcs.dellcdn.com
-45.155.204.190 aistudio.google.com
-103.27.157.100 aitestkitchen.withgoogle.com
-103.27.157.100 alkalimakersuite-pa.clients6.google.com
-140.82.113.21 api.individual.githubcopilot.com
-2.22.50.100 api.trae.ai
-35.186.224.24 appresolve.spotify.com
-104.16.24.14 auth.anthropic.com
-157.240.0.174 b.i.instagram.com
-77.239.114.0 developer.nvidia.com
-2.22.50.105 encore.scdn.co
-77.239.114.0 fitbit.google.com
-45.155.204.190 gemini.google.com
-77.239.114.0 i.dell.com
-157.240.0.174 instagram.com
-130.255.77.28 ntc.party
-185.31.40.18 test.dns.malw.link
-45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
-2.22.50.123 www-growth.scdn.co
-23.58.110.189 www.autodesk.com
-157.240.0.174 www.instagram.com
-77.239.114.0 www.intel.com
-77.239.114.0 www.tiktok.com
-157.240.0.174 z-p42-chat-e2ee-ig.facebook.com

@@ -5,27 +5,3 @@
 # by sevcator <3
 # Enjoy :D
 
-=afcs.dellcdn.com 77.239.114.0
-=aistudio.google.com 45.155.204.190
-=aitestkitchen.withgoogle.com 103.27.157.100
-=alkalimakersuite-pa.clients6.google.com 103.27.157.100
-=api.individual.githubcopilot.com 140.82.113.21
-=api.trae.ai 2.22.50.100
-=appresolve.spotify.com 35.186.224.24
-=auth.anthropic.com 104.16.24.14
-=b.i.instagram.com 157.240.0.174
-=developer.nvidia.com 77.239.114.0
-=encore.scdn.co 2.22.50.105
-=fitbit.google.com 77.239.114.0
-=gemini.google.com 45.155.204.190
-=i.dell.com 77.239.114.0
-=instagram.com 157.240.0.174
-=ntc.party 130.255.77.28
-=test.dns.malw.link 185.31.40.18
-=webchannel-alkalimakersuite-pa.clients6.google.com 45.155.204.190
-=www-growth.scdn.co 2.22.50.123
-=www.autodesk.com 23.58.110.189
-=www.instagram.com 157.240.0.174
-=www.intel.com 77.239.114.0
-=www.tiktok.com 77.239.114.0
-=z-p42-chat-e2ee-ig.facebook.com 157.240.0.174
