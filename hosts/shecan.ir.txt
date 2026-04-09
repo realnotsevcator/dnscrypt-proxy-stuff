@@ -5,3 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
+142.250.154.100 aistudio.google.com
+140.82.121.5 api.github.com
+142.250.75.78 gemini.google.com
+142.250.75.174 notebooklm.google.com
+18.66.147.109 usher.ttvnw.net
+157.240.0.174 www.instagram.com
+157.240.0.174 z-p42-chat-e2ee-ig.facebook.com
