@@ -5,5 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-=aistudio.google.com 142.250.154.100
+=aistudio.google.com 192.178.183.100
 =b.i.instagram.com 57.144.244.34
+=notebooklm.google.com 142.250.202.46
+=www.instagram.com 57.144.244.34
