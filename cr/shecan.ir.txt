@@ -5,9 +5,5 @@
 # by sevcator <3
 # Enjoy :D
 
-=api.github.com 140.82.121.6
-=b.i.instagram.com 157.240.0.174
-=gemini.google.com 142.250.154.100
-=instagram.com 57.144.244.34
-=labs.google 192.178.183.141
-=www.instagram.com 157.240.0.174
+=aistudio.google.com 142.250.154.100
+=b.i.instagram.com 57.144.244.34
