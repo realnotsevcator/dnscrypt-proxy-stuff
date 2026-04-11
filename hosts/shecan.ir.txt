@@ -5,7 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
-192.178.183.100 aistudio.google.com
-57.144.244.34 b.i.instagram.com
-142.250.202.46 notebooklm.google.com
+140.82.121.6 api.github.com
+103.27.157.38 auth0.openai.com
+142.250.186.238 gemini.google.com
+57.144.244.34 instagram.com
+142.250.187.14 notebooklm.google.com
 57.144.244.34 www.instagram.com
+157.240.0.174 z-p42-chat-e2ee-ig.facebook.com

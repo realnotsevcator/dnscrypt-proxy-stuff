@@ -5,7 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
-=aistudio.google.com 192.178.183.100
-=b.i.instagram.com 57.144.244.34
-=notebooklm.google.com 142.250.202.46
+=api.github.com 140.82.121.6
+=auth0.openai.com 103.27.157.38
+=gemini.google.com 142.250.186.238
+=instagram.com 57.144.244.34
+=notebooklm.google.com 142.250.187.14
 =www.instagram.com 57.144.244.34
+=z-p42-chat-e2ee-ig.facebook.com 157.240.0.174
