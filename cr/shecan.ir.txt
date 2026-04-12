@@ -5,3 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
+=gemini.google.com 142.250.75.142
+=labs.google 142.250.75.113
+=notebooklm.google.com 142.251.20.100
+=www.instagram.com 31.13.72.174

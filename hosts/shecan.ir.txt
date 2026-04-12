@@ -5,3 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
+142.250.75.142 gemini.google.com
+142.250.75.113 labs.google
+142.251.20.100 notebooklm.google.com
+31.13.72.174 www.instagram.com
