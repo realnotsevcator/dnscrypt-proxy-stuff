@@ -5,3 +5,4 @@
 # by sevcator <3
 # Enjoy :D
 
+142.251.110.100 aistudio.google.com

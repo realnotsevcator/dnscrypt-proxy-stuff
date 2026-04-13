@@ -5,3 +5,4 @@
 # by sevcator <3
 # Enjoy :D
 
+=aistudio.google.com 142.251.110.100
