@@ -5,8 +5,3 @@
 # by sevcator <3
 # Enjoy :D
 
-=api.github.com 140.82.121.5
-=b.i.instagram.com 57.144.244.34
-=gemini.google.com 142.251.13.100
-=notebooklm.google.com 142.250.202.46
-=www.instagram.com 57.144.244.34
