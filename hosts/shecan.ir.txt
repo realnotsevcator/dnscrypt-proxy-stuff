@@ -6,7 +6,9 @@
 # Enjoy :D
 
 192.178.183.100 aistudio.google.com
+142.251.14.95 alkalimakersuite-pa.clients6.google.com
 140.82.121.5 api.github.com
-142.250.154.100 gemini.google.com
-142.251.38.46 notebooklm.google.com
-57.144.244.34 www.instagram.com
+140.82.114.22 api.individual.githubcopilot.com
+185.200.232.48 api.trae.ai
+104.16.102.112 auth.anthropic.com
+157.240.0.174 b.i.instagram.com
