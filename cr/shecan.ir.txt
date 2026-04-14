@@ -5,7 +5,8 @@
 # by sevcator <3
 # Enjoy :D
 
-=aistudio.google.com 142.251.110.100
+=aistudio.google.com 192.178.183.100
+=api.github.com 140.82.121.5
 =gemini.google.com 142.250.154.100
-=instagram.com 57.144.244.34
+=notebooklm.google.com 142.251.38.46
 =www.instagram.com 57.144.244.34
