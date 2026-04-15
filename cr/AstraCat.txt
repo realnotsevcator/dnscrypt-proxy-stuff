@@ -142,7 +142,6 @@ pump.fun 77.239.114.0
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
-=unleash.codeium.com 35.223.238.178
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =videos.openai.com 77.239.114.0
@@ -166,4 +165,3 @@ soundcloud.com 172.64.33.155
 soundcloud.com 2.16.168.40
 soundcloud.com 130.255.77.28
 soundcloud.com 185.31.40.18
-soundcloud.com 35.223.238.178
