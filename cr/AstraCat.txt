@@ -108,7 +108,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 2.16.168.41
+=dzcdn.net 2.16.168.40
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -147,6 +147,7 @@ pump.fun 77.239.114.0
 =videos.openai.com 77.239.114.0
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
+=www.dyson.fr 104.16.102.112
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
@@ -161,6 +162,6 @@ soundcloud.com 104.16.102.112
 soundcloud.com 13.33.223.41
 soundcloud.com 45.155.204.190
 soundcloud.com 172.64.33.155
-soundcloud.com 2.16.168.41
+soundcloud.com 2.16.168.40
 soundcloud.com 130.255.77.28
 soundcloud.com 185.31.40.18
