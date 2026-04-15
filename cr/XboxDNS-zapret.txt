@@ -130,7 +130,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=instagram.com 157.240.0.174
+=instagram.com 57.144.248.34
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -157,7 +157,7 @@ pump.fun 77.239.114.0
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.0.174
+=z-p42-chat-e2ee-ig.facebook.com 57.144.222.34
 =a.kemono.cr 77.239.114.0
 =b.kemono.cr 77.239.114.0
 =beta.kemono.cr 77.239.114.0

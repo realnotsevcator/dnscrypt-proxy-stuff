@@ -12,7 +12,7 @@
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
-103.27.157.38 accounts.x.ai
+77.239.114.0 accounts.x.ai
 103.27.157.38 aet.spotify.com
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
@@ -25,7 +25,7 @@
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
-103.27.157.38 api.anthropic.com
+77.239.114.0 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
@@ -33,7 +33,7 @@
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
-103.27.157.38 api.tidal.com
+77.239.114.0 api.tidal.com
 77.239.114.0 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
@@ -103,12 +103,12 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.222.34 help.instagram.com
+157.240.205.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-57.144.222.34 instagram.com
+157.240.205.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -142,7 +142,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-108.177.14.95 robinfrontend-pa.googleapis.com
+142.250.74.10 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -177,7 +177,6 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -187,9 +186,9 @@
 103.27.157.38 www.deezer.com
 103.27.157.38 www.dell.com
 104.16.24.14 www.dyson.com
-77.239.114.0 www.elgato.com
+108.156.18.249 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.222.34 www.instagram.com
+157.240.205.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
