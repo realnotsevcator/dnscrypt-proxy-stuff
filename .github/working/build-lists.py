@@ -30,7 +30,7 @@ except ImportError:
     sys.exit(1)
 
 ROOT = Path(__file__).resolve().parent
-WORKING_DIR = ROOT / ".github" / "working"
+WORKING_DIR = ROOT
 DNS_TARGETS_FILE = WORKING_DIR / "dns-targets.txt"
 HOSTS_LINKS_FILE = WORKING_DIR / "hosts.txt"
 BLACKLIST_FILE = WORKING_DIR / "blacklist.txt"
