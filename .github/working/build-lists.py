@@ -29,14 +29,15 @@ except ImportError:
     print("Install dnspython first: pip install dnspython", file=sys.stderr)
     sys.exit(1)
 
-ROOT = Path(__file__).resolve().parent
-WORKING_DIR = ROOT
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent.parent
+WORKING_DIR = SCRIPT_DIR
 DNS_TARGETS_FILE = WORKING_DIR / "dns-targets.txt"
 HOSTS_LINKS_FILE = WORKING_DIR / "hosts.txt"
 BLACKLIST_FILE = WORKING_DIR / "blacklist.txt"
 NO_SIMPLIFY_FILE = WORKING_DIR / "no-simplify.txt"
 CUSTOM_FILE = WORKING_DIR / "custom.txt"
-README_FILE = ROOT / "README.md"
+README_FILE = REPO_ROOT / "README.md"
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "sevcator/dnscrypt-proxy-stuff")
 GITHUB_REF_NAME = os.environ.get("GITHUB_REF_NAME", "main")
 RAW_BASE_URL = os.environ.get("RAW_BASE_URL", f"https://raw.githubusercontent.com/{GITHUB_REPOSITORY}/{GITHUB_REF_NAME}")
@@ -511,8 +512,8 @@ def write_outputs(
     no_simplify_patterns: list[str],
 ) -> tuple[Path, Path]:
     safe_name = re.sub(r"[^A-Za-z0-9._-]+", "_", target.name)
-    hosts_dir = ROOT / "hosts"
-    cr_dir = ROOT / "cr"
+    hosts_dir = REPO_ROOT / "hosts"
+    cr_dir = REPO_ROOT / "cr"
     hosts_dir.mkdir(parents=True, exist_ok=True)
     cr_dir.mkdir(parents=True, exist_ok=True)
 
@@ -535,7 +536,7 @@ def write_outputs(
 
 
 def cleanup_output_dirs() -> None:
-    for directory in (ROOT / "hosts", ROOT / "cr"):
+    for directory in (REPO_ROOT / "hosts", REPO_ROOT / "cr"):
         if not directory.exists():
             continue
         for path in directory.glob("*.txt"):
