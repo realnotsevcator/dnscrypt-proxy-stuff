@@ -111,7 +111,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 184.51.252.17
+=dzcdn.net 184.51.252.13
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -151,7 +151,7 @@ pump.fun 77.239.114.0
 =videos.openai.com 77.239.114.0
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
-=www.elgato.com 104.101.251.244
+=www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
