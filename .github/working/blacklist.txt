@@ -1,3 +1,5 @@
-# Wildcard patterns for domains to remove from output
-# Example:
-# *xbox*
+*github*
+*xbox*
+*twitch*
+*imgur*
+*ttvnw.net*
