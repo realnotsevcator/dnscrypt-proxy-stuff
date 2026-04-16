@@ -36,6 +36,7 @@ DNS_TARGETS_FILE = WORKING_DIR / "dns-targets.txt"
 HOSTS_LINKS_FILE = WORKING_DIR / "hosts.txt"
 BLACKLIST_FILE = WORKING_DIR / "blacklist.txt"
 NO_SIMPLIFY_FILE = WORKING_DIR / "no-simplify.txt"
+LEGACY_NO_SIMPLIFY_FILE = WORKING_DIR / "no-simpify.txt"
 CUSTOM_FILE = WORKING_DIR / "custom.txt"
 README_FILE = REPO_ROOT / "README.md"
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "sevcator/dnscrypt-proxy-stuff")
@@ -794,6 +795,9 @@ def main() -> int:
     domains = sorted(source_records_by_domain)
     blacklist_patterns = load_patterns(BLACKLIST_FILE)
     no_simplify_patterns = load_patterns(NO_SIMPLIFY_FILE)
+    if LEGACY_NO_SIMPLIFY_FILE.exists():
+        no_simplify_patterns.extend(load_patterns(LEGACY_NO_SIMPLIFY_FILE))
+    no_simplify_patterns = list(dict.fromkeys(no_simplify_patterns))
     custom_domains = load_custom_domains(CUSTOM_FILE)
     logger.info("Loaded domains: %s", len(domains))
     if custom_domains:
