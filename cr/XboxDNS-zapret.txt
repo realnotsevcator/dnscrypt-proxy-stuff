@@ -5,6 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
+soundcloud.com 77.239.114.0
+www.soundcloud.com 77.239.114.0
+promoted.soundcloud.com 77.239.114.0
+api-v2.soundcloud.com 77.239.114.0
 chatgpt.com 77.239.114.0
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -15,6 +19,7 @@ chatgpt.com 77.239.114.0
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 185.246.223.127
+=www.autodesk.com 185.246.223.127
 =accounts.scdn.co 77.239.114.0
 =www-growth.scdn.co 77.239.114.0
 =accounts.spotify.com 103.27.157.38
@@ -82,12 +87,10 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 57.144.222.34
-=help.instagram.com 57.144.222.34
-=www.instagram.com 57.144.222.34
+instagram.com 57.144.222.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 108.157.211.47
 =cdn.oaistatic.com 103.27.157.38
 =checkout.www.deepl.com 77.239.114.0
 =gtm.deepl.com 77.239.114.0
@@ -110,7 +113,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 184.51.252.18
+=dzcdn.net 2.16.103.80
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -129,7 +132,6 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=instagram.com 157.240.0.174
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -139,7 +141,7 @@ pump.fun 77.239.114.0
 =o.pki.goog 103.27.157.38
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 87.228.47.204
+=robinfrontend-pa.googleapis.com 142.250.109.95
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
@@ -149,7 +151,6 @@ pump.fun 77.239.114.0
 =weather.com 103.27.157.38
 =videos.openai.com 77.239.114.0
 =web.archive.org 103.27.157.38
-=www.autodesk.com 23.32.26.94
 =www.canva.com 103.27.157.38
 =www.dyson.fr 104.16.102.112
 =www.elgato.com 77.239.114.0
@@ -158,8 +159,7 @@ pump.fun 77.239.114.0
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.0.174
-soundcloud.com 77.239.114.0
+=z-p42-chat-e2ee-ig.facebook.com 57.144.222.34
 telegram.org 149.154.167.220
 =finland10000.discord.media 104.25.158.178
 =finland10001.discord.media 104.25.158.178

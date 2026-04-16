@@ -5,6 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
+soundcloud.com 77.239.114.0
+www.soundcloud.com 77.239.114.0
+promoted.soundcloud.com 77.239.114.0
+api-v2.soundcloud.com 77.239.114.0
 chatgpt.com 77.239.114.0
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -82,7 +86,6 @@ elevenlabs.io 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.24.14
 =b.i.instagram.com 57.144.248.34
-=help.instagram.com 57.144.248.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
 =cdn.auth0.com 104.16.24.14
@@ -107,7 +110,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.24.14
 =www.dyson.com 104.16.24.14
-=dzcdn.net 2.16.10.86
+=dzcdn.net 2.16.10.68
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -126,6 +129,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 157.240.253.174
 =instagram.com 157.240.0.174
 =www.instagram.com 157.240.0.174
 =labs.google 103.27.157.38
@@ -155,7 +159,6 @@ pump.fun 77.239.114.0
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
 =z-p42-chat-e2ee-ig.facebook.com 157.240.0.174
-soundcloud.com 77.239.114.0
 telegram.org 149.154.167.220
 =finland10000.discord.media 104.25.158.178
 =finland10001.discord.media 104.25.158.178
