@@ -8,7 +8,7 @@
 77.239.114.0 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-104.18.24.59 accounts.autodesk.com
+185.246.223.127 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -36,7 +36,7 @@
 103.27.157.38 api.tidal.com
 77.239.114.0 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
-103.27.157.38 api16-normal-alisg.mchost.guru
+77.239.114.0 api16-normal-alisg.mchost.guru
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
@@ -73,7 +73,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-2.16.168.40 dzcdn.net
+2.16.168.48 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
