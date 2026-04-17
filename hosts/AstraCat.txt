@@ -31,7 +31,7 @@
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
-103.27.157.38 api.spotify.com
+35.186.224.24 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 77.239.114.0 api.trae.ai

@@ -25,7 +25,6 @@ chatgpt.com 77.239.114.0
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
-=api.spotify.com 103.27.157.38
 =gew1-spclient.spotify.com 103.27.157.38
 =login5.spotify.com 103.27.157.38
 =open.spotify.com 103.27.157.38
@@ -61,6 +60,7 @@ chatgpt.com 77.239.114.0
 =platform.openai.com 103.27.157.38
 =tcr9i.chat.openai.com 103.27.157.38
 =ap-gew1.spotify.com 35.186.224.24
+=api.spotify.com 35.186.224.24
 =appresolve.spotify.com 35.186.224.24
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
