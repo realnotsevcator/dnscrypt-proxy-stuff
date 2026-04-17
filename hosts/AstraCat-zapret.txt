@@ -8,7 +8,7 @@
 77.239.114.0 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-104.18.24.59 accounts.autodesk.com
+185.246.223.127 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com

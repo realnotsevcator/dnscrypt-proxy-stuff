@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-184.51.252.15 dzcdn.net
+128.75.238.169 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -108,7 +108,7 @@
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.0.174 instagram.com
+57.144.248.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -142,7 +142,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-87.228.47.204 robinfrontend-pa.googleapis.com
+108.177.14.95 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -177,7 +177,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
+35.223.238.178 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -199,7 +199,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-157.240.0.174 z-p42-chat-e2ee-ig.facebook.com
+57.144.222.34 z-p42-chat-e2ee-ig.facebook.com
 77.239.114.0 soundcloud.com
 77.239.114.0 www.soundcloud.com
 77.239.114.0 promoted.soundcloud.com
