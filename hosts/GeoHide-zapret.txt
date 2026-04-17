@@ -105,7 +105,7 @@
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
-77.239.114.0 inference.codeium.com
+37.230.192.51 inference.codeium.com
 57.144.244.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
@@ -175,7 +175,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
+37.230.192.51 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -183,7 +183,7 @@
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
-77.239.114.0 www.dell.com
+103.27.157.38 www.dell.com
 104.16.24.14 www.dyson.com
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com

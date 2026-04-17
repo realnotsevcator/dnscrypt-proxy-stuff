@@ -108,6 +108,7 @@ codeium.com 77.239.114.0
 =dds.dell.com 103.27.157.38
 =i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
+=www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
@@ -133,7 +134,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=instagram.com 157.240.0.174
+=instagram.com 57.144.248.34
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -153,9 +154,7 @@ pump.fun 77.239.114.0
 =weather.com 103.27.157.38
 =videos.openai.com 77.239.114.0
 =web.archive.org 103.27.157.38
-=windsurf-telemetry.codeium.com 35.223.238.178
 =www.canva.com 103.27.157.38
-=www.dell.com 77.239.114.0
 =www.dyson.fr 104.16.102.112
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
@@ -163,7 +162,7 @@ pump.fun 77.239.114.0
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.0.174
+=z-p42-chat-e2ee-ig.facebook.com 57.144.222.34
 telegram.org 149.154.167.220
 =finland10000.discord.media 104.25.158.178
 =finland10001.discord.media 104.25.158.178
