@@ -8,7 +8,7 @@
 77.239.114.0 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-104.18.24.59 accounts.autodesk.com
+185.246.223.127 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -73,7 +73,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-139.45.206.153 dzcdn.net
+185.5.160.66 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -155,7 +155,7 @@
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
 77.239.114.0 swap-api.pump.fun
-103.27.157.38 sydney.bing.com
+104.16.102.112 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
 103.27.157.38 trae-api-sg.mchost.guru
@@ -203,10 +203,10 @@
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
-104.18.24.59 soundcloud.com
-104.18.24.59 www.soundcloud.com
-104.18.24.59 promoted.soundcloud.com
-104.18.24.59 api-v2.soundcloud.com
+185.246.223.127 soundcloud.com
+185.246.223.127 www.soundcloud.com
+185.246.223.127 promoted.soundcloud.com
+185.246.223.127 api-v2.soundcloud.com
 35.186.224.24 soundcloud.com
 35.186.224.24 www.soundcloud.com
 35.186.224.24 promoted.soundcloud.com
@@ -227,10 +227,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-139.45.206.153 soundcloud.com
-139.45.206.153 www.soundcloud.com
-139.45.206.153 promoted.soundcloud.com
-139.45.206.153 api-v2.soundcloud.com
+185.5.160.66 soundcloud.com
+185.5.160.66 www.soundcloud.com
+185.5.160.66 promoted.soundcloud.com
+185.5.160.66 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
@@ -239,7 +239,3 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-185.246.223.127 soundcloud.com
-185.246.223.127 www.soundcloud.com
-185.246.223.127 promoted.soundcloud.com
-185.246.223.127 api-v2.soundcloud.com
