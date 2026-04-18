@@ -100,12 +100,12 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.248.34 help.instagram.com
+57.144.244.34 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.253.174 instagram.com
+57.144.248.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -186,7 +186,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.248.34 www.instagram.com
+57.144.244.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -224,6 +224,10 @@
 2.16.10.68 www.soundcloud.com
 2.16.10.68 promoted.soundcloud.com
 2.16.10.68 api-v2.soundcloud.com
+57.144.244.34 soundcloud.com
+57.144.244.34 www.soundcloud.com
+57.144.244.34 promoted.soundcloud.com
+57.144.244.34 api-v2.soundcloud.com
 57.144.248.34 soundcloud.com
 57.144.248.34 www.soundcloud.com
 57.144.248.34 promoted.soundcloud.com

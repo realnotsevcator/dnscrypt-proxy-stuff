@@ -112,7 +112,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 139.45.206.144
+=dzcdn.net 139.45.206.153
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
