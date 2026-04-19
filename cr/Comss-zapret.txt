@@ -23,6 +23,7 @@ chatgpt.com 77.239.114.0
 =accounts.scdn.co 77.239.114.0
 =www-growth.scdn.co 77.239.114.0
 =accounts.spotify.com 103.27.157.38
+=aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
 =api.spotify.com 103.27.157.38
 =gew1-spclient.spotify.com 103.27.157.38
@@ -36,10 +37,13 @@ chatgpt.com 77.239.114.0
 =security.id.supercell.com 103.27.157.38
 =store.supercell.com 103.27.157.38
 =accounts.x.ai 103.27.157.38
-=aet.spotify.com 77.239.114.0
-=gew1-dealer.spotify.com 77.239.114.0
 =afcs.dellcdn.com 103.27.157.38
-=aisandbox-pa.googleapis.com 80.74.29.235
+=aisandbox-pa.googleapis.com 103.27.157.38
+=assistant-s3-pa.googleapis.com 103.27.157.38
+=fitbit-pa.googleapis.com 103.27.157.38
+=fitbitvestibuleshim-pa.googleapis.com 103.27.157.38
+=generativelanguage.googleapis.com 103.27.157.38
+=proactivebackend-pa.googleapis.com 103.27.157.38
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
@@ -82,11 +86,6 @@ elevenlabs.io 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=assistant-s3-pa.googleapis.com 103.27.157.38
-=fitbit-pa.googleapis.com 103.27.157.38
-=fitbitvestibuleshim-pa.googleapis.com 103.27.157.38
-=generativelanguage.googleapis.com 103.27.157.38
-=proactivebackend-pa.googleapis.com 103.27.157.38
 =auth.anthropic.com 80.74.29.235
 =b.i.instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
@@ -100,7 +99,6 @@ elevenlabs.io 103.27.157.38
 linear.app 77.239.114.0
 codeium.com 77.239.114.0
 =content-management-files.canva.com 77.239.114.0
-=static.canva.com 77.239.114.0
 =controlplane.tailscale.com 192.200.0.101
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
@@ -120,6 +118,7 @@ codeium.com 77.239.114.0
 =elevenreader.io 103.27.157.38
 =encore.scdn.co 103.27.157.38
 =eu.posthog.com 103.27.157.38
+=us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 77.239.114.0
 pump.fun 77.239.114.0
@@ -127,6 +126,7 @@ pump.fun 77.239.114.0
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
+=gew1-dealer.spotify.com 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -146,12 +146,12 @@ pump.fun 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=static.canva.com 80.74.29.235
 =sydney.bing.com 104.16.24.14
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=us.posthog.com 100.28.81.169
 =videos.openai.com 77.239.114.0
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38

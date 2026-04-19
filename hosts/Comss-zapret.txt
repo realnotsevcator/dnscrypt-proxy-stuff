@@ -13,9 +13,9 @@
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
-77.239.114.0 aet.spotify.com
+103.27.157.38 aet.spotify.com
 103.27.157.38 afcs.dellcdn.com
-80.74.29.235 aisandbox-pa.googleapis.com
+103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
@@ -152,7 +152,7 @@
 77.239.114.0 sora.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
-77.239.114.0 static.canva.com
+80.74.29.235 static.canva.com
 77.239.114.0 static.linear.app
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
@@ -167,7 +167,7 @@
 77.239.114.0 unleash.codeium.com
 77.239.114.0 uploads.linear.app
 103.27.157.38 upsx.weather.com
-100.28.81.169 us.posthog.com
+103.27.157.38 us.posthog.com
 77.239.114.0 videos.openai.com
 77.239.114.0 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
