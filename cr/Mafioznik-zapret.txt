@@ -85,7 +85,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.24.14
-instagram.com 157.240.0.174
+=b.i.instagram.com 157.240.0.174
+=instagram.com 157.240.0.174
+=www.instagram.com 157.240.0.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
 =cdn.auth0.com 104.16.24.14
@@ -128,6 +130,8 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 57.144.248.34
+=inference.codeium.com 192.34.20.166
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
