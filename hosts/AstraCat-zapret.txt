@@ -7,8 +7,8 @@
 
 77.239.114.0 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
-77.239.114.0 account.jetbrains.com
-104.18.24.59 accounts.autodesk.com
+103.27.157.38 account.jetbrains.com
+185.246.223.127 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -35,7 +35,7 @@
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 77.239.114.0 api.trae.ai
-77.239.114.0 api.us.elevenlabs.io
+103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
@@ -73,8 +73,8 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-188.43.73.81 dzcdn.net
-77.239.114.0 edgeservices.bing.com
+139.45.206.144 dzcdn.net
+103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
 103.27.157.38 encore.scdn.co
@@ -106,7 +106,7 @@
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-77.239.114.0 ios.chat.openai.com
+103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
@@ -132,13 +132,13 @@
 77.239.114.0 patreon.com
 103.27.157.38 payment.deezer.com
 103.27.157.38 platform.openai.com
-77.239.114.0 plugins.jetbrains.com
+103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
 77.239.114.0 public.linear.app
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
-77.239.114.0 rewards.bing.com
+103.27.157.38 rewards.bing.com
 45.155.204.190 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
@@ -153,7 +153,7 @@
 77.239.114.0 static.linear.app
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
-77.239.114.0 support.broadcom.com
+103.27.157.38 support.broadcom.com
 77.239.114.0 swap-api.pump.fun
 104.16.102.112 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
@@ -174,7 +174,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
+35.223.238.178 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -187,7 +187,7 @@
 104.16.102.112 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-77.239.114.0 www.intel.com
+103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
