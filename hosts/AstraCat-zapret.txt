@@ -28,7 +28,7 @@
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
-77.239.114.0 api.jetbrains.ai
+103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
@@ -43,7 +43,7 @@
 104.16.102.112 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
-77.239.114.0 auth.tidal.com
+103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
@@ -73,7 +73,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-185.5.160.66 dzcdn.net
+139.45.206.144 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -94,7 +94,7 @@
 103.27.157.38 game-assets.clashroyaleapp.com
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
-104.16.102.112 geolocation.onetrust.com
+103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
@@ -116,7 +116,7 @@
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
 103.27.157.38 login-wall.deepl.com
-77.239.114.0 login.tidal.com
+103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 77.239.114.0 manus.im
 77.239.114.0 marketplace.windsurf.com
@@ -159,12 +159,12 @@
 103.27.157.38 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
 103.27.157.38 trae-api-sg.mchost.guru
-77.239.114.0 tria.ge
+103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
 77.239.114.0 unleash.codeium.com
 77.239.114.0 uploads.linear.app
 103.27.157.38 upsx.weather.com
-104.16.102.112 us.posthog.com
+103.27.157.38 us.posthog.com
 77.239.114.0 videos.openai.com
 77.239.114.0 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
@@ -174,7 +174,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
+35.223.238.178 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
