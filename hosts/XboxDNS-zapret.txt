@@ -17,7 +17,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-142.251.1.141 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -39,7 +39,7 @@
 103.27.157.38 api16-normal-alisg.mchost.guru
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
-142.250.177.234 assistant-s3-pa.googleapis.com
+103.27.157.38 assistant-s3-pa.googleapis.com
 104.16.102.112 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
@@ -49,7 +49,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
-3.164.212.39 cdn.auth0.com
+108.157.211.47 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 77.239.114.0 chatgpt.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-139.45.206.170 dzcdn.net
+139.45.206.139 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -134,7 +134,7 @@
 103.27.157.38 ott.deepl.com
 77.239.114.0 patreon.com
 103.27.157.38 payment.deezer.com
-77.239.114.0 platform.openai.com
+103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
@@ -142,7 +142,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-87.228.47.204 robinfrontend-pa.googleapis.com
+108.177.14.95 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -159,7 +159,7 @@
 103.27.157.38 support.broadcom.com
 77.239.114.0 swap-api.pump.fun
 104.16.102.112 sydney.bing.com
-77.239.114.0 tcr9i.chat.openai.com
+103.27.157.38 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
@@ -190,7 +190,7 @@
 104.16.102.112 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.222.34 www.instagram.com
+31.13.72.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
