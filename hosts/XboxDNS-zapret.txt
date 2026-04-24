@@ -21,7 +21,7 @@
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
-77.239.114.0 api-free.deepl.com
+103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
@@ -29,7 +29,7 @@
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
-77.239.114.0 api.manus.im
+103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-128.75.238.187 dzcdn.net
+128.75.237.128 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -85,7 +85,7 @@
 103.27.157.38 experimentation.deepl.com
 103.27.157.38 files.oaiusercontent.com
 103.27.157.38 fitbit-pa.googleapis.com
-103.27.157.38 fitbit.google.com
+77.239.114.0 fitbit.google.com
 103.27.157.38 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
 77.239.114.0 frontend-api-v3.pump.fun
@@ -94,7 +94,7 @@
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
 103.27.157.38 gemini.google.com
-103.27.157.38 generativelanguage.googleapis.com
+87.228.47.204 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
@@ -108,7 +108,7 @@
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.0.174 instagram.com
+57.144.248.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -167,7 +167,7 @@
 77.239.114.0 unleash.codeium.com
 77.239.114.0 uploads.linear.app
 103.27.157.38 upsx.weather.com
-104.16.102.112 us.posthog.com
+103.27.157.38 us.posthog.com
 77.239.114.0 videos.openai.com
 77.239.114.0 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
@@ -190,16 +190,16 @@
 104.16.102.112 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-157.240.0.174 www.instagram.com
+57.144.222.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
 77.239.114.0 www.qwant.com
 103.27.157.38 www.spotify.com
-103.27.157.38 www.tiktok.com
+77.239.114.0 www.tiktok.com
 103.27.157.38 www2.deepl.com
-157.240.0.174 z-p42-chat-e2ee-ig.facebook.com
+57.144.222.34 z-p42-chat-e2ee-ig.facebook.com
 77.239.114.0 soundcloud.com
 77.239.114.0 www.soundcloud.com
 77.239.114.0 promoted.soundcloud.com
