@@ -6,28 +6,28 @@
 # Enjoy :D
 
 77.239.114.0 ab.chatgpt.com
-103.27.157.38 access.broadcom.com
+162.159.140.167 access.broadcom.com
 77.239.114.0 account.jetbrains.com
-185.246.223.127 accounts.autodesk.com
+80.74.29.235 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 77.239.114.0 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
-103.27.157.38 accounts.x.ai
-77.239.114.0 aet.spotify.com
+77.239.114.0 accounts.x.ai
+103.27.157.38 aet.spotify.com
 103.27.157.38 afcs.dellcdn.com
-103.27.157.38 aisandbox-pa.googleapis.com
+80.74.29.235 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
-77.239.114.0 api-free.deepl.com
+103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
-77.239.114.0 api-partner.spotify.com
+103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
-103.27.157.38 api.fitbit.com
+77.239.114.0 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
@@ -45,7 +45,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.244.34 b.i.instagram.com
+157.240.205.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
@@ -103,7 +103,7 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.253.174 help.instagram.com
+57.144.244.34 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com

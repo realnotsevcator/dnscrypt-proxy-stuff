@@ -112,7 +112,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 185.5.160.66
+=dzcdn.net 104.69.222.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -139,7 +139,7 @@ pump.fun 77.239.114.0
 =o.pki.goog 103.27.157.38
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 216.239.32.27
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38

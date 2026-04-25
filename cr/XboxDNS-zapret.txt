@@ -65,8 +65,7 @@ chatgpt.com 77.239.114.0
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 77.239.114.0
-=api.trae.ai 77.239.114.0
+=api-sg-central.trae.ai 2.20.255.25
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -82,6 +81,7 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.trae.ai 77.239.114.0
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
@@ -100,7 +100,6 @@ elevenlabs.io 103.27.157.38
 =claude.ai 103.27.157.38
 linear.app 77.239.114.0
 codeium.com 77.239.114.0
-=constellation.linear.app 8.47.69.0
 =content-management-files.canva.com 77.239.114.0
 =static.canva.com 77.239.114.0
 =controlplane.tailscale.com 192.200.0.101
@@ -116,7 +115,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 104.69.222.144
+=dzcdn.net 139.45.206.137
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -134,7 +133,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=instagram.com 157.240.253.174
+=instagram.com 31.13.72.174
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -163,7 +162,7 @@ pump.fun 77.239.114.0
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
+=z-p42-chat-e2ee-ig.facebook.com 31.13.72.174
 telegram.org 149.154.167.220
 =finland10000.discord.media 104.25.158.178
 =finland10001.discord.media 104.25.158.178
