@@ -71,7 +71,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.24.14 dyson.com
-2.22.50.134 dzcdn.net
+2.18.64.200 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -100,12 +100,12 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.248.34 help.instagram.com
+157.240.0.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.0.174 instagram.com
+57.144.248.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -186,7 +186,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.248.34 www.instagram.com
+157.240.0.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -220,10 +220,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-2.22.50.134 soundcloud.com
-2.22.50.134 www.soundcloud.com
-2.22.50.134 promoted.soundcloud.com
-2.22.50.134 api-v2.soundcloud.com
+2.18.64.200 soundcloud.com
+2.18.64.200 www.soundcloud.com
+2.18.64.200 promoted.soundcloud.com
+2.18.64.200 api-v2.soundcloud.com
 57.144.248.34 soundcloud.com
 57.144.248.34 www.soundcloud.com
 57.144.248.34 promoted.soundcloud.com

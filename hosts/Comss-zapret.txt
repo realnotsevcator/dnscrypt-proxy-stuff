@@ -7,14 +7,14 @@
 
 77.239.114.0 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
-77.239.114.0 account.jetbrains.com
+103.27.157.38 account.jetbrains.com
 185.246.223.127 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
-77.239.114.0 accounts.supercell.com
+103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
-184.85.144.216 afcs.dellcdn.com
+104.103.64.8 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 80.74.29.235 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
@@ -23,14 +23,14 @@
 35.186.224.24 ap-gew1.spotify.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
-77.239.114.0 api-partner.spotify.com
+103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
-77.239.114.0 api.openai.com
+103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
@@ -39,7 +39,7 @@
 103.27.157.38 api16-normal-alisg.mchost.guru
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
-108.177.14.95 assistant-s3-pa.googleapis.com
+103.27.157.38 assistant-s3-pa.googleapis.com
 80.74.29.235 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
@@ -62,7 +62,7 @@
 103.27.157.38 console.anthropic.com
 77.239.114.0 constellation.linear.app
 77.239.114.0 content-management-files.canva.com
-192.200.0.102 controlplane.tailscale.com
+192.200.0.101 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.24.14 dyson.com
-128.75.237.107 dzcdn.net
+128.75.237.113 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -103,12 +103,12 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.244.34 help.instagram.com
+157.240.205.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-57.144.244.34 instagram.com
+57.144.110.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
