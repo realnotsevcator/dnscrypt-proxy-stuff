@@ -6,28 +6,28 @@
 # Enjoy :D
 
 77.239.114.0 ab.chatgpt.com
-162.159.140.167 access.broadcom.com
+103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 185.246.223.127 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
-77.239.114.0 accounts.supercell.com
-103.27.157.38 accounts.x.ai
-77.239.114.0 aet.spotify.com
+103.27.157.38 accounts.supercell.com
+77.239.114.0 accounts.x.ai
+103.27.157.38 aet.spotify.com
 104.103.64.8 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
-103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
+80.74.29.235 aistudio.google.com
+80.74.29.235 aitestkitchen.withgoogle.com
 80.74.29.235 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
-103.27.157.38 api-partner.spotify.com
+77.239.114.0 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
-103.27.157.38 api.fitbit.com
+77.239.114.0 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.24.14 dyson.com
-128.75.237.27 dzcdn.net
+128.75.237.120 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -190,7 +190,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.222.34 www.instagram.com
+157.240.205.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
