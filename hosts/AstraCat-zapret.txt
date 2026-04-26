@@ -73,7 +73,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-104.84.152.235 dzcdn.net
+139.45.206.153 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -139,8 +139,8 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-45.155.204.190 robinfrontend-pa.googleapis.com
-77.239.114.0 s.deepl.com
+216.239.32.27 robinfrontend-pa.googleapis.com
+103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
 77.239.114.0 server.codeium.com
@@ -170,7 +170,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 77.239.114.0 web-backend.codeium.com
-77.239.114.0 web.archive.org
+103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
