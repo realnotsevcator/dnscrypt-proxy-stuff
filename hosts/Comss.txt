@@ -6,7 +6,7 @@
 # Enjoy :D
 
 77.239.114.0 ab.chatgpt.com
-103.27.157.38 access.broadcom.com
+162.159.140.167 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 185.246.223.127 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
@@ -15,10 +15,10 @@
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
 103.27.157.38 afcs.dellcdn.com
-80.74.29.235 aisandbox-pa.googleapis.com
-80.74.29.235 aistudio.google.com
+103.27.157.38 aisandbox-pa.googleapis.com
+103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
-103.27.157.38 alkalimakersuite-pa.clients6.google.com
+80.74.29.235 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
 103.27.157.38 api-free.deepl.com
@@ -108,7 +108,7 @@
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-57.144.222.34 instagram.com
+157.240.205.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -190,7 +190,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.222.34 www.instagram.com
+157.240.205.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -204,6 +204,10 @@
 77.239.114.0 www.soundcloud.com
 77.239.114.0 promoted.soundcloud.com
 77.239.114.0 api-v2.soundcloud.com
+162.159.140.167 soundcloud.com
+162.159.140.167 www.soundcloud.com
+162.159.140.167 promoted.soundcloud.com
+162.159.140.167 api-v2.soundcloud.com
 103.27.157.38 soundcloud.com
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
@@ -244,10 +248,6 @@
 128.75.237.120 www.soundcloud.com
 128.75.237.120 promoted.soundcloud.com
 128.75.237.120 api-v2.soundcloud.com
-57.144.222.34 soundcloud.com
-57.144.222.34 www.soundcloud.com
-57.144.222.34 promoted.soundcloud.com
-57.144.222.34 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
