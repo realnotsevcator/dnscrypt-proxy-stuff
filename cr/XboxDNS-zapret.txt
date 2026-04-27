@@ -90,7 +90,7 @@ elevenlabs.io 103.27.157.38
 instagram.com 57.144.222.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
-=cdn.auth0.com 104.16.102.112
+=cdn.auth0.com 108.157.211.47
 =cdn.oaistatic.com 103.27.157.38
 =checkout.www.deepl.com 77.239.114.0
 =gtm.deepl.com 77.239.114.0
@@ -113,7 +113,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 139.45.206.168
+=dzcdn.net 139.45.206.138
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
