@@ -139,7 +139,7 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =videos.openai.com 77.239.114.0
-=web.archive.org 77.239.114.0
+=web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38

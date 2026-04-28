@@ -47,6 +47,7 @@ chatgpt.com 77.239.114.0
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
+=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
@@ -85,7 +86,7 @@ elevenlabs.io 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
-=cdn.auth0.com 37.230.192.51
+=cdn.auth0.com 18.239.105.115
 =cdn.oaistatic.com 103.27.157.38
 =checkout.www.deepl.com 77.239.114.0
 =gtm.deepl.com 77.239.114.0
@@ -106,7 +107,6 @@ codeium.com 77.239.114.0
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -119,7 +119,6 @@ pump.fun 77.239.114.0
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
-=gemini.google.com 103.27.157.100
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 77.239.114.0
 =guidedhacking.com 77.239.114.0
@@ -143,7 +142,7 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =videos.openai.com 77.239.114.0
-=web.archive.org 103.27.157.38
+=web.archive.org 77.239.114.0
 =www.canva.com 103.27.157.38
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38

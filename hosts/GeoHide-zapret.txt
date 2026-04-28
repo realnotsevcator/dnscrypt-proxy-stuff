@@ -45,7 +45,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
-37.230.192.51 cdn.auth0.com
+18.239.105.115 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 77.239.114.0 chatgpt.com
@@ -69,7 +69,6 @@
 103.27.157.38 developer.nvidia.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-184.51.252.149 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -88,7 +87,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-103.27.157.100 gemini.google.com
+103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
@@ -165,10 +164,11 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 77.239.114.0 web-backend.codeium.com
-103.27.157.38 web.archive.org
+77.239.114.0 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
+77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
