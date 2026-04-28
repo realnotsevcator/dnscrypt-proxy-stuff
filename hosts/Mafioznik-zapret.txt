@@ -161,7 +161,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 77.239.114.0 web-backend.codeium.com
-103.27.157.38 web.archive.org
+77.239.114.0 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
