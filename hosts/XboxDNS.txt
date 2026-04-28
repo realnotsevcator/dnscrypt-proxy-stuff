@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-104.84.152.234 dzcdn.net
+139.45.206.161 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -103,7 +103,7 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.222.34 help.instagram.com
+31.13.72.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -142,7 +142,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-87.228.47.204 robinfrontend-pa.googleapis.com
+108.177.14.141 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -190,7 +190,7 @@
 104.16.102.112 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.222.34 www.instagram.com
+31.13.72.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -236,10 +236,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-104.84.152.234 soundcloud.com
-104.84.152.234 www.soundcloud.com
-104.84.152.234 promoted.soundcloud.com
-104.84.152.234 api-v2.soundcloud.com
+139.45.206.161 soundcloud.com
+139.45.206.161 www.soundcloud.com
+139.45.206.161 promoted.soundcloud.com
+139.45.206.161 api-v2.soundcloud.com
 31.13.72.174 soundcloud.com
 31.13.72.174 www.soundcloud.com
 31.13.72.174 promoted.soundcloud.com
@@ -248,10 +248,10 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
-87.228.47.204 soundcloud.com
-87.228.47.204 www.soundcloud.com
-87.228.47.204 promoted.soundcloud.com
-87.228.47.204 api-v2.soundcloud.com
+108.177.14.141 soundcloud.com
+108.177.14.141 www.soundcloud.com
+108.177.14.141 promoted.soundcloud.com
+108.177.14.141 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com

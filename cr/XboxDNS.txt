@@ -41,10 +41,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 104.84.152.234
-www.soundcloud.com 104.84.152.234
-promoted.soundcloud.com 104.84.152.234
-api-v2.soundcloud.com 104.84.152.234
+soundcloud.com 139.45.206.161
+www.soundcloud.com 139.45.206.161
+promoted.soundcloud.com 139.45.206.161
+api-v2.soundcloud.com 139.45.206.161
 soundcloud.com 31.13.72.174
 www.soundcloud.com 31.13.72.174
 promoted.soundcloud.com 31.13.72.174
@@ -53,10 +53,10 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 87.228.47.204
-www.soundcloud.com 87.228.47.204
-promoted.soundcloud.com 87.228.47.204
-api-v2.soundcloud.com 87.228.47.204
+soundcloud.com 108.177.14.141
+www.soundcloud.com 108.177.14.141
+promoted.soundcloud.com 108.177.14.141
+api-v2.soundcloud.com 108.177.14.141
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -144,8 +144,6 @@ elevenlabs.io 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
 =b.i.instagram.com 57.144.222.34
-=help.instagram.com 57.144.222.34
-=www.instagram.com 57.144.222.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
 =cdn.auth0.com 18.64.195.35
@@ -171,7 +169,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 104.84.152.234
+=dzcdn.net 139.45.206.161
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -189,7 +187,9 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 31.13.72.174
 =instagram.com 31.13.72.174
+=www.instagram.com 31.13.72.174
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -199,7 +199,7 @@ pump.fun 77.239.114.0
 =o.pki.goog 103.27.157.38
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 87.228.47.204
+=robinfrontend-pa.googleapis.com 108.177.14.141
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
