@@ -41,10 +41,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 139.45.206.139
-www.soundcloud.com 139.45.206.139
-promoted.soundcloud.com 139.45.206.139
-api-v2.soundcloud.com 139.45.206.139
+soundcloud.com 139.45.206.136
+www.soundcloud.com 139.45.206.136
+promoted.soundcloud.com 139.45.206.136
+api-v2.soundcloud.com 139.45.206.136
 soundcloud.com 157.240.253.174
 www.soundcloud.com 157.240.253.174
 promoted.soundcloud.com 157.240.253.174
@@ -61,10 +61,6 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-soundcloud.com 104.16.103.112
-www.soundcloud.com 104.16.103.112
-promoted.soundcloud.com 104.16.103.112
-api-v2.soundcloud.com 104.16.103.112
 chatgpt.com 77.239.114.0
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -171,7 +167,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 139.45.206.139
+=dzcdn.net 139.45.206.136
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -211,7 +207,7 @@ pump.fun 77.239.114.0
 =videos.openai.com 77.239.114.0
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
-=www.dyson.fr 104.16.103.112
+=www.dyson.fr 104.16.102.112
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38

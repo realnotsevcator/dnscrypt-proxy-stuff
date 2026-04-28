@@ -8,7 +8,7 @@
 77.239.114.0 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-185.246.223.127 accounts.autodesk.com
+37.230.192.51 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -38,14 +38,16 @@
 103.27.157.38 api16-normal-alisg.mchost.guru
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
+104.16.24.14 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
+157.240.253.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
-18.239.105.115 cdn.auth0.com
+37.230.192.51 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 77.239.114.0 chatgpt.com
@@ -69,6 +71,8 @@
 103.27.157.38 developer.nvidia.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
+104.16.24.14 dyson.com
+185.5.160.91 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -97,10 +101,12 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
+157.240.253.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
+157.240.253.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -150,6 +156,7 @@
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
 77.239.114.0 swap-api.pump.fun
+104.16.24.14 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
 103.27.157.38 trae-api-sg.mchost.guru
@@ -164,7 +171,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 77.239.114.0 web-backend.codeium.com
-77.239.114.0 web.archive.org
+103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
@@ -177,8 +184,11 @@
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
 103.27.157.38 www.dell.com
+104.16.24.14 www.dyson.com
+104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
+157.240.253.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -187,6 +197,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
+157.240.253.174 z-p42-chat-e2ee-ig.facebook.com
 77.239.114.0 soundcloud.com
 77.239.114.0 www.soundcloud.com
 77.239.114.0 promoted.soundcloud.com
