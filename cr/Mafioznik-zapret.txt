@@ -90,7 +90,6 @@ elevenlabs.io 103.27.157.38
 =checkout.www.deepl.com 77.239.114.0
 =gtm.deepl.com 77.239.114.0
 =voice-proxy.www.deepl.com 77.239.114.0
-=www.deepl.com 77.239.114.0
 =claude.ai 103.27.157.38
 linear.app 77.239.114.0
 codeium.com 77.239.114.0
