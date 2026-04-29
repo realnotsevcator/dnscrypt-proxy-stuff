@@ -29,7 +29,7 @@
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
-103.27.157.38 api.openai.com
+77.239.114.0 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
@@ -57,7 +57,7 @@
 103.27.157.38 console.anthropic.com
 77.239.114.0 constellation.linear.app
 77.239.114.0 content-management-files.canva.com
-103.27.157.38 copilot.microsoft.com
+77.239.114.0 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
 103.27.157.38 dd.tidal.com
@@ -67,7 +67,7 @@
 103.27.157.38 developer.nvidia.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-103.27.157.38 edgeservices.bing.com
+77.239.114.0 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
 103.27.157.38 encore.scdn.co
@@ -183,7 +183,7 @@
 77.239.114.0 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
-103.27.157.38 www2.deepl.com
+77.239.114.0 www2.deepl.com
 77.239.114.0 soundcloud.com
 77.239.114.0 www.soundcloud.com
 77.239.114.0 promoted.soundcloud.com
