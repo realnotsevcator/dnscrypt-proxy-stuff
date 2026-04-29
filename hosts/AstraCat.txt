@@ -60,7 +60,7 @@
 77.239.114.0 codeium.com
 103.27.157.38 console.anthropic.com
 77.239.114.0 constellation.linear.app
-77.239.114.0 content-management-files.canva.com
+104.16.102.112 content-management-files.canva.com
 45.155.204.190 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
@@ -73,7 +73,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-185.5.160.16 dzcdn.net
+185.5.161.185 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -123,7 +123,6 @@
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
-130.255.77.28 ntc.party
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com
@@ -170,7 +169,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 77.239.114.0 web-backend.codeium.com
-77.239.114.0 web.archive.org
+103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
@@ -182,7 +181,7 @@
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
-77.239.114.0 www.dell.com
+103.27.157.38 www.dell.com
 104.16.102.112 www.dyson.com
 104.16.102.112 www.dyson.fr
 77.239.114.0 www.elgato.com
@@ -227,14 +226,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-185.5.160.16 soundcloud.com
-185.5.160.16 www.soundcloud.com
-185.5.160.16 promoted.soundcloud.com
-185.5.160.16 api-v2.soundcloud.com
-130.255.77.28 soundcloud.com
-130.255.77.28 www.soundcloud.com
-130.255.77.28 promoted.soundcloud.com
-130.255.77.28 api-v2.soundcloud.com
+185.5.161.185 soundcloud.com
+185.5.161.185 www.soundcloud.com
+185.5.161.185 promoted.soundcloud.com
+185.5.161.185 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com

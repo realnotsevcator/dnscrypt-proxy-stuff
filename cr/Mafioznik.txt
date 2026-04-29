@@ -21,10 +21,6 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 130.255.77.28
-www.soundcloud.com 130.255.77.28
-promoted.soundcloud.com 130.255.77.28
-api-v2.soundcloud.com 130.255.77.28
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -120,6 +116,7 @@ codeium.com 77.239.114.0
 =dds.dell.com 103.27.157.38
 =i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
+=www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
@@ -146,7 +143,6 @@ pump.fun 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
 =notebooklm.google 103.27.157.38
-=ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
@@ -158,9 +154,8 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =videos.openai.com 77.239.114.0
-=web.archive.org 77.239.114.0
+=web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
-=www.dell.com 77.239.114.0
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
