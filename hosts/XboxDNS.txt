@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.102.112 dyson.com
-104.69.222.144 dzcdn.net
+104.69.222.137 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -167,7 +167,7 @@
 77.239.114.0 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
-87.228.47.204 videos.openai.com
+77.239.114.0 videos.openai.com
 77.239.114.0 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
@@ -194,7 +194,7 @@
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
-141.94.211.182 www.qwant.com
+77.239.114.0 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
@@ -235,10 +235,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-104.69.222.144 soundcloud.com
-104.69.222.144 www.soundcloud.com
-104.69.222.144 promoted.soundcloud.com
-104.69.222.144 api-v2.soundcloud.com
+104.69.222.137 soundcloud.com
+104.69.222.137 www.soundcloud.com
+104.69.222.137 promoted.soundcloud.com
+104.69.222.137 api-v2.soundcloud.com
 157.240.253.174 soundcloud.com
 157.240.253.174 www.soundcloud.com
 157.240.253.174 promoted.soundcloud.com
@@ -251,7 +251,3 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-141.94.211.182 soundcloud.com
-141.94.211.182 www.soundcloud.com
-141.94.211.182 promoted.soundcloud.com
-141.94.211.182 api-v2.soundcloud.com
