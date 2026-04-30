@@ -69,7 +69,7 @@ deepl.com 103.27.157.38
 =api.trae.ai 77.239.114.0
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
-=api.elevenlabs.io 77.239.114.0
+elevenlabs.io 103.27.157.38
 =api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
 =api.manus.im 103.27.157.38
@@ -82,9 +82,6 @@ deepl.com 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.us.elevenlabs.io 103.27.157.38
-=elevenlabs.io 103.27.157.38
-=help.elevenlabs.io 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
@@ -115,7 +112,7 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =dyson.com 104.16.102.112
 =www.dyson.com 104.16.102.112
-=dzcdn.net 185.5.160.66
+=dzcdn.net 185.5.160.16
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38

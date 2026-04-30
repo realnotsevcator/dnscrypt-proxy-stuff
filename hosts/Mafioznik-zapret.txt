@@ -111,7 +111,6 @@
 103.27.157.38 login-wall.deepl.com
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
-77.239.114.0 manus.im
 77.239.114.0 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
@@ -165,6 +164,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
+77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
