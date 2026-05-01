@@ -30,10 +30,6 @@ www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
 chatgpt.com 77.239.114.0
-=access.broadcom.com 103.27.157.38
-=knowledge.broadcom.com 103.27.157.38
-=profile.broadcom.com 103.27.157.38
-=support.broadcom.com 103.27.157.38
 =account.jetbrains.com 103.27.157.38
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
@@ -87,9 +83,10 @@ deepl.com 103.27.157.38
 =api.trae.ai 77.239.114.0
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
-elevenlabs.io 103.27.157.38
+=api.elevenlabs.io 77.239.114.0
+=api.us.elevenlabs.io 77.239.114.0
 =api.fitbit.com 103.27.157.38
-=api.jetbrains.ai 103.27.157.38
+=api.jetbrains.ai 77.239.114.0
 =api.manus.im 103.27.157.38
 =api.tidal.com 103.27.157.38
 =auth.tidal.com 103.27.157.38
@@ -127,6 +124,8 @@ codeium.com 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
+=elevenlabs.io 103.27.157.38
+=help.elevenlabs.io 103.27.157.38
 =elevenreader.io 103.27.157.38
 =encore.scdn.co 103.27.157.38
 =eu.posthog.com 103.27.157.38
@@ -142,6 +141,9 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=knowledge.broadcom.com 103.27.157.38
+=profile.broadcom.com 103.27.157.38
+=support.broadcom.com 103.27.157.38
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
