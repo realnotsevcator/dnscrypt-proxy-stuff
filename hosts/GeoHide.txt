@@ -72,7 +72,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 104.16.24.14 dyson.com
-128.75.238.169 dzcdn.net
+184.51.252.149 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -101,7 +101,7 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.214.174 help.instagram.com
+57.144.120.34 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -131,7 +131,7 @@
 77.239.114.0 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 77.239.114.0 patreon.com
-103.27.157.38 payment.deezer.com
+77.239.114.0 payment.deezer.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -188,7 +188,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-157.240.214.174 www.instagram.com
+57.144.120.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -197,7 +197,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-157.240.214.174 z-p42-chat-e2ee-ig.facebook.com
+57.144.120.34 z-p42-chat-e2ee-ig.facebook.com
 77.239.114.0 soundcloud.com
 77.239.114.0 www.soundcloud.com
 77.239.114.0 promoted.soundcloud.com
@@ -222,14 +222,14 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-128.75.238.169 soundcloud.com
-128.75.238.169 www.soundcloud.com
-128.75.238.169 promoted.soundcloud.com
-128.75.238.169 api-v2.soundcloud.com
-157.240.214.174 soundcloud.com
-157.240.214.174 www.soundcloud.com
-157.240.214.174 promoted.soundcloud.com
-157.240.214.174 api-v2.soundcloud.com
+184.51.252.149 soundcloud.com
+184.51.252.149 www.soundcloud.com
+184.51.252.149 promoted.soundcloud.com
+184.51.252.149 api-v2.soundcloud.com
+57.144.120.34 soundcloud.com
+57.144.120.34 www.soundcloud.com
+57.144.120.34 promoted.soundcloud.com
+57.144.120.34 api-v2.soundcloud.com
 62.133.62.97 soundcloud.com
 62.133.62.97 www.soundcloud.com
 62.133.62.97 promoted.soundcloud.com
