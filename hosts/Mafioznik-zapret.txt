@@ -6,6 +6,7 @@
 # Enjoy :D
 
 77.239.114.0 ab.chatgpt.com
+103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
@@ -24,16 +25,16 @@
 103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
-77.239.114.0 api.elevenlabs.io
+103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
-77.239.114.0 api.jetbrains.ai
+103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 77.239.114.0 api.trae.ai
-77.239.114.0 api.us.elevenlabs.io
+103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
@@ -103,7 +104,6 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -131,7 +131,6 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
