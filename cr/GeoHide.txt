@@ -13,10 +13,6 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
-soundcloud.com 37.230.192.51
-www.soundcloud.com 37.230.192.51
-promoted.soundcloud.com 37.230.192.51
-api-v2.soundcloud.com 37.230.192.51
 soundcloud.com 104.16.24.14
 www.soundcloud.com 104.16.24.14
 promoted.soundcloud.com 104.16.24.14
@@ -25,6 +21,10 @@ soundcloud.com 57.144.244.34
 www.soundcloud.com 57.144.244.34
 promoted.soundcloud.com 57.144.244.34
 api-v2.soundcloud.com 57.144.244.34
+soundcloud.com 37.230.192.51
+www.soundcloud.com 37.230.192.51
+promoted.soundcloud.com 37.230.192.51
+api-v2.soundcloud.com 37.230.192.51
 soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
@@ -33,6 +33,10 @@ soundcloud.com 128.75.238.169
 www.soundcloud.com 128.75.238.169
 promoted.soundcloud.com 128.75.238.169
 api-v2.soundcloud.com 128.75.238.169
+soundcloud.com 157.240.214.174
+www.soundcloud.com 157.240.214.174
+promoted.soundcloud.com 157.240.214.174
+api-v2.soundcloud.com 157.240.214.174
 soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
@@ -87,7 +91,8 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 37.230.192.51
+=aitestkitchen.withgoogle.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -120,7 +125,8 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.24.14
-instagram.com 57.144.244.34
+=b.i.instagram.com 57.144.244.34
+=instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
 =cdn.auth0.com 37.230.192.51
@@ -164,6 +170,8 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 157.240.214.174
+=www.instagram.com 157.240.214.174
 =labs.google 62.133.62.97
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -177,7 +185,6 @@ pump.fun 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 104.16.24.14
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
@@ -193,4 +200,4 @@ pump.fun 77.239.114.0
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
+=z-p42-chat-e2ee-ig.facebook.com 157.240.214.174
