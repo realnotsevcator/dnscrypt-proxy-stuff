@@ -13,6 +13,7 @@ chatgpt.com 77.239.114.0
 =account.jetbrains.com 77.239.114.0
 =datalore.jetbrains.com 77.239.114.0
 =download.jetbrains.com 77.239.114.0
+=plugins.jetbrains.com 77.239.114.0
 =accounts.autodesk.com 77.239.114.0
 =www.autodesk.com 77.239.114.0
 =accounts.scdn.co 77.239.114.0
@@ -119,7 +120,6 @@ pump.fun 77.239.114.0
 =o.pki.goog 62.133.62.97
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
-=plugins.jetbrains.com 13.32.241.100
 =profile.broadcom.com 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
