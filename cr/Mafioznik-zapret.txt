@@ -44,6 +44,7 @@ chatgpt.com 77.239.114.0
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =aistudio.google.com 62.133.62.97
 =alkalimakersuite-pa.clients6.google.com 62.133.62.97
+=fitbit.google.com 62.133.62.97
 =gemini.google.com 62.133.62.97
 =jules.google.com 62.133.62.97
 =notebooklm.google.com 62.133.62.97
