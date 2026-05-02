@@ -15,7 +15,7 @@
 77.239.114.0 aet.spotify.com
 62.133.62.97 aisandbox-pa.googleapis.com
 62.133.62.97 aistudio.google.com
-80.74.29.235 aitestkitchen.withgoogle.com
+62.133.62.97 aitestkitchen.withgoogle.com
 62.133.62.97 alkalimakersuite-pa.clients6.google.com
 77.239.114.0 android.chat.openai.com
 77.239.114.0 api-free.deepl.com
@@ -35,12 +35,12 @@
 77.239.114.0 api.us.elevenlabs.io
 77.239.114.0 api16-normal-alisg.mchost.guru
 77.239.114.0 assets.grok.com
-62.133.62.97 assistant-s3-pa.googleapis.com
+108.177.14.95 assistant-s3-pa.googleapis.com
 77.239.114.0 auth.deepl.com
 77.239.114.0 auth.openai.com
 77.239.114.0 auth.tidal.com
 77.239.114.0 auth0.openai.com
-157.240.205.174 b.i.instagram.com
+57.144.244.34 b.i.instagram.com
 77.239.114.0 backend.deepl.com
 77.239.114.0 builds.parsec.app
 77.239.114.0 calendar.notion.so
@@ -75,9 +75,9 @@
 77.239.114.0 experimentation-grpc.deepl.com
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
-108.177.14.95 fitbit-pa.googleapis.com
+62.133.62.97 fitbit-pa.googleapis.com
 62.133.62.97 fitbit.google.com
-62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
+108.177.14.95 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
 77.239.114.0 frontend-api-v3.pump.fun
 77.239.114.0 fsu.fa.tidal.com
@@ -113,7 +113,7 @@
 77.239.114.0 marketplace.windsurf.com
 62.133.62.97 notebooklm.google.com
 130.255.77.28 ntc.party
-173.194.220.94 o.pki.goog
+62.133.62.97 o.pki.goog
 77.239.114.0 oneshot-free.www.deepl.com
 77.239.114.0 open.spotify.com
 77.239.114.0 operator.chatgpt.com
