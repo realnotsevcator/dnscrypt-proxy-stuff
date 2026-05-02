@@ -50,8 +50,7 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
+=aitestkitchen.withgoogle.com 45.155.204.190
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -82,7 +81,6 @@ elevenlabs.io 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
-=trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
@@ -130,7 +128,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 45.155.204.190
+=labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
@@ -143,8 +141,10 @@ pump.fun 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 104.16.102.112
 =test.dns.malw.link 185.31.40.18
+=trae-api-sg.mchost.guru 77.239.114.0
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38

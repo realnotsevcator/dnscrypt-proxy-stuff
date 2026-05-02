@@ -17,7 +17,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
+45.155.204.190 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -111,7 +111,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-45.155.204.190 labs.google
+103.27.157.38 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -158,7 +158,7 @@
 104.16.102.112 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
-103.27.157.38 trae-api-sg.mchost.guru
+77.239.114.0 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
 77.239.114.0 unleash.codeium.com
