@@ -74,7 +74,6 @@
 77.239.114.0 files.oaiusercontent.com
 62.133.62.97 fitbit-pa.googleapis.com
 62.133.62.97 fitbit.google.com
-62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
 77.239.114.0 frontend-api-v3.pump.fun
 77.239.114.0 fsu.fa.tidal.com
