@@ -40,7 +40,7 @@
 77.239.114.0 auth.openai.com
 77.239.114.0 auth.tidal.com
 77.239.114.0 auth0.openai.com
-57.144.244.34 b.i.instagram.com
+157.240.205.174 b.i.instagram.com
 77.239.114.0 backend.deepl.com
 77.239.114.0 builds.parsec.app
 77.239.114.0 calendar.notion.so
@@ -93,16 +93,16 @@
 77.239.114.0 gtm.deepl.com
 77.239.114.0 guidedhacking.com
 77.239.114.0 help.elevenlabs.io
-157.240.205.174 help.instagram.com
+57.144.244.34 help.instagram.com
 77.239.114.0 images.pump.fun
 77.239.114.0 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.205.174 instagram.com
+57.144.244.34 instagram.com
 77.239.114.0 ios.chat.openai.com
 77.239.114.0 ita-free.app.deepl.com
 77.239.114.0 ita-free.www.deepl.com
-62.133.62.97 jules.google.com
-80.74.29.235 labs.google
+80.74.29.235 jules.google.com
+62.133.62.97 labs.google
 77.239.114.0 linear.app
 77.239.114.0 link.tidal.com
 77.239.114.0 listen.tidal.com
@@ -140,7 +140,7 @@
 103.27.157.38 static-assets-1.truthsocial.com
 77.239.114.0 static.canva.com
 77.239.114.0 static.linear.app
-62.133.62.97 stitch.withgoogle.com
+80.74.29.235 stitch.withgoogle.com
 77.239.114.0 store.supercell.com
 77.239.114.0 swap-api.pump.fun
 104.16.24.14 sydney.bing.com
@@ -170,7 +170,7 @@
 77.239.114.0 www.deezer.com
 77.239.114.0 www.dell.com
 77.239.114.0 www.elgato.com
-57.144.244.34 www.instagram.com
+157.240.205.174 www.instagram.com
 77.239.114.0 www.intel.com
 77.239.114.0 www.notion.so
 77.239.114.0 www.patreon.com
