@@ -24,7 +24,7 @@
 77.239.114.0 api-sg-central.trae.ai
 77.239.114.0 api.anthropic.com
 77.239.114.0 api.elevenlabs.io
-62.133.62.97 api.fitbit.com
+37.230.192.51 api.fitbit.com
 77.239.114.0 api.jetbrains.ai
 77.239.114.0 api.manus.im
 77.239.114.0 api.openai.com
@@ -40,7 +40,7 @@
 77.239.114.0 auth.openai.com
 77.239.114.0 auth.tidal.com
 77.239.114.0 auth0.openai.com
-157.240.253.174 b.i.instagram.com
+57.144.244.34 b.i.instagram.com
 77.239.114.0 backend.deepl.com
 77.239.114.0 builds.parsec.app
 77.239.114.0 calendar.notion.so
@@ -76,7 +76,7 @@
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
 62.133.62.97 fitbit-pa.googleapis.com
-62.133.62.97 fitbit.google.com
+37.230.192.51 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
 77.239.114.0 frontend-api-v3.pump.fun
@@ -101,7 +101,7 @@
 77.239.114.0 ios.chat.openai.com
 77.239.114.0 ita-free.app.deepl.com
 77.239.114.0 ita-free.www.deepl.com
-62.133.62.97 jules.google.com
+37.230.192.51 jules.google.com
 62.133.62.97 labs.google
 77.239.114.0 linear.app
 77.239.114.0 link.tidal.com
@@ -122,7 +122,7 @@
 77.239.114.0 payment.deezer.com
 77.239.114.0 platform.openai.com
 77.239.114.0 plugins.jetbrains.com
-37.230.192.51 proactivebackend-pa.googleapis.com
+62.133.62.97 proactivebackend-pa.googleapis.com
 77.239.114.0 profile.broadcom.com
 77.239.114.0 public.linear.app
 77.239.114.0 pump.fun
