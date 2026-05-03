@@ -95,7 +95,6 @@
 77.239.114.0 inference.codeium.com
 77.239.114.0 ios.chat.openai.com
 77.239.114.0 ita-free.app.deepl.com
-77.239.114.0 ita-free.www.deepl.com
 62.133.62.97 jules.google.com
 62.133.62.97 labs.google
 77.239.114.0 linear.app

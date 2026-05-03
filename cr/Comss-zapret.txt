@@ -38,7 +38,6 @@ chatgpt.com 77.239.114.0
 =aisandbox-pa.googleapis.com 62.133.62.97
 =assistant-s3-pa.googleapis.com 62.133.62.97
 =fitbit-pa.googleapis.com 62.133.62.97
-=fitbitvestibuleshim-pa.googleapis.com 62.133.62.97
 =generativelanguage.googleapis.com 62.133.62.97
 =proactivebackend-pa.googleapis.com 62.133.62.97
 =robinfrontend-pa.googleapis.com 62.133.62.97
@@ -49,6 +48,7 @@ chatgpt.com 77.239.114.0
 =notebooklm.google.com 62.133.62.97
 =webchannel-alkalimakersuite-pa.clients6.google.com 62.133.62.97
 =aitestkitchen.withgoogle.com 62.133.62.97
+=stitch.withgoogle.com 62.133.62.97
 =alkalimakersuite-pa.clients6.google.com 80.74.29.235
 =android.chat.openai.com 77.239.114.0
 =api.openai.com 77.239.114.0
@@ -83,8 +83,7 @@ elevenlabs.io 77.239.114.0
 =trae-api-sg.mchost.guru 77.239.114.0
 =assets.grok.com 77.239.114.0
 =grok.com 77.239.114.0
-=b.i.instagram.com 157.240.253.174
-=help.instagram.com 157.240.253.174
+=b.i.instagram.com 57.144.244.34
 =builds.parsec.app 77.239.114.0
 =calendar.notion.so 77.239.114.0
 =www.notion.so 77.239.114.0
@@ -107,6 +106,7 @@ codeium.com 77.239.114.0
 =rewards.bing.com 77.239.114.0
 =elevenreader.io 77.239.114.0
 =files.oaiusercontent.com 77.239.114.0
+=fitbitvestibuleshim-pa.googleapis.com 108.177.14.95
 =framer.com 77.239.114.0
 pump.fun 77.239.114.0
 =game-assets.brawlstarsgame.com 77.239.114.0
@@ -114,6 +114,7 @@ pump.fun 77.239.114.0
 =game-assets.clashroyaleapp.com 77.239.114.0
 =geolocation.onetrust.com 77.239.114.0
 =guidedhacking.com 77.239.114.0
+=help.instagram.com 157.240.205.174
 =instagram.com 157.240.205.174
 =www.instagram.com 157.240.205.174
 =labs.google 62.133.62.97
@@ -126,7 +127,6 @@ pump.fun 77.239.114.0
 =profile.broadcom.com 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
-=stitch.withgoogle.com 80.74.29.235
 =sydney.bing.com 104.16.24.14
 =test.dns.malw.link 185.31.40.18
 =tria.ge 77.239.114.0
