@@ -36,6 +36,7 @@ chatgpt.com 77.239.114.0
 =store.supercell.com 77.239.114.0
 =accounts.x.ai 77.239.114.0
 =aisandbox-pa.googleapis.com 62.133.62.97
+=assistant-s3-pa.googleapis.com 62.133.62.97
 =fitbit-pa.googleapis.com 62.133.62.97
 =fitbitvestibuleshim-pa.googleapis.com 62.133.62.97
 =generativelanguage.googleapis.com 62.133.62.97
@@ -83,10 +84,8 @@ elevenlabs.io 77.239.114.0
 =trae-api-sg.mchost.guru 77.239.114.0
 =assets.grok.com 77.239.114.0
 =grok.com 77.239.114.0
-=assistant-s3-pa.googleapis.com 142.250.31.95
 =b.i.instagram.com 57.144.222.34
 =help.instagram.com 57.144.222.34
-=www.instagram.com 57.144.222.34
 =builds.parsec.app 77.239.114.0
 =calendar.notion.so 77.239.114.0
 =www.notion.so 77.239.114.0
@@ -116,8 +115,9 @@ pump.fun 77.239.114.0
 =game-assets.clashroyaleapp.com 77.239.114.0
 =geolocation.onetrust.com 77.239.114.0
 =guidedhacking.com 77.239.114.0
-=instagram.com 157.240.224.174
-=labs.google 62.133.62.97
+=instagram.com 31.13.72.174
+=www.instagram.com 31.13.72.174
+=labs.google 87.228.47.204
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
 =ntc.party 130.255.77.28
@@ -138,7 +138,7 @@ pump.fun 77.239.114.0
 =www.intel.com 77.239.114.0
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 77.239.114.0
-=z-p42-chat-e2ee-ig.facebook.com 157.240.224.174
+=z-p42-chat-e2ee-ig.facebook.com 31.13.72.174
 telegram.org 149.154.167.220
 =finland10000.discord.media 104.25.158.178
 =finland10001.discord.media 104.25.158.178

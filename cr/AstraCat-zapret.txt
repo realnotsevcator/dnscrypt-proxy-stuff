@@ -41,6 +41,7 @@ chatgpt.com 77.239.114.0
 =fitbitvestibuleshim-pa.googleapis.com 62.133.62.97
 =generativelanguage.googleapis.com 62.133.62.97
 =proactivebackend-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =aistudio.google.com 62.133.62.97
 =alkalimakersuite-pa.clients6.google.com 62.133.62.97
 =fitbit.google.com 62.133.62.97
@@ -120,7 +121,6 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =profile.broadcom.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 45.155.204.190
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =sydney.bing.com 104.16.102.112
