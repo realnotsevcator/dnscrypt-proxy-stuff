@@ -108,9 +108,7 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 77.239.114.0
 =claude.ai 103.27.157.38
 linear.app 77.239.114.0
-=codeium.com 77.239.114.0
-=inference.codeium.com 77.239.114.0
-=windsurf-telemetry.codeium.com 77.239.114.0
+codeium.com 77.239.114.0
 =content-management-files.canva.com 77.239.114.0
 =static.canva.com 77.239.114.0
 =copilot.microsoft.com 103.27.157.38
@@ -125,7 +123,7 @@ linear.app 77.239.114.0
 =developer.nvidia.com 103.27.157.38
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
-=elevenreader.io 103.27.157.38
+=elevenreader.io 77.239.114.0
 =encore.scdn.co 103.27.157.38
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
@@ -142,6 +140,8 @@ pump.fun 77.239.114.0
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
+=marketplace.windsurf.com 77.239.114.0
+=windsurf.com 77.239.114.0
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -156,7 +156,6 @@ pump.fun 77.239.114.0
 =weather.com 103.27.157.38
 =videos.openai.com 77.239.114.0
 =web.archive.org 103.27.157.38
-=windsurf.com 77.239.114.0
 =www.canva.com 103.27.157.38
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38

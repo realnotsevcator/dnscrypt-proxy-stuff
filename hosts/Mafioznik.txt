@@ -69,7 +69,7 @@
 103.27.157.38 download.jetbrains.com
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
-103.27.157.38 elevenreader.io
+77.239.114.0 elevenreader.io
 103.27.157.38 encore.scdn.co
 103.27.157.38 errortracking.deepl.com
 103.27.157.38 eu.posthog.com
@@ -112,6 +112,7 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 77.239.114.0 manus.im
+77.239.114.0 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -134,6 +135,7 @@
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
+77.239.114.0 server.codeium.com
 103.27.157.38 shield.deepl.com
 77.239.114.0 sora.chatgpt.com
 77.239.114.0 sora.com
@@ -150,6 +152,7 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
+77.239.114.0 unleash.codeium.com
 77.239.114.0 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
@@ -157,9 +160,11 @@
 77.239.114.0 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
+77.239.114.0 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
+77.239.114.0 windsurf-stable.codeium.com
 77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
