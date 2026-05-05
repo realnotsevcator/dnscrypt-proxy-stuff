@@ -5,6 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
+77.239.114.0 a.claude.ai
 77.239.114.0 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -49,9 +50,10 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
-3.164.212.39 cdn.auth0.com
+18.244.147.46 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
+77.239.114.0 cdn.platform.openai.com
 77.239.114.0 chatgpt.com
 77.239.114.0 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
@@ -71,10 +73,11 @@
 103.27.157.38 deepl.com
 103.27.157.38 deezer.com
 103.27.157.38 developer.nvidia.com
+77.239.114.0 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-216.198.53.6 dyson.com
-128.75.237.40 dzcdn.net
+160.79.104.10 dyson.com
+128.75.237.120 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -108,13 +111,13 @@
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.205.174 instagram.com
+57.144.244.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-62.133.62.97 labs.google
+103.27.157.38 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -134,6 +137,7 @@
 103.27.157.38 ott.deepl.com
 77.239.114.0 patreon.com
 103.27.157.38 payment.deezer.com
+77.239.114.0 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -190,7 +194,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-157.240.205.174 www.instagram.com
+31.13.72.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
