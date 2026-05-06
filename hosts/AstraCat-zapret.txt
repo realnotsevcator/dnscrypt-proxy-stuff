@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-185.5.160.66 dzcdn.net
+188.43.72.18 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -114,7 +114,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+62.133.62.97 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -184,7 +184,7 @@
 77.239.114.0 www-growth.scdn.co
 77.239.114.0 www.autodesk.com
 103.27.157.38 www.canva.com
-103.27.157.38 www.deepl.com
+77.239.114.0 www.deepl.com
 103.27.157.38 www.deezer.com
 103.27.157.38 www.dell.com
 104.16.102.112 www.dyson.com
