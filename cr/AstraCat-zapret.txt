@@ -98,7 +98,6 @@ elevenlabs.io 103.27.157.38
 =checkout.www.deepl.com 77.239.114.0
 =gtm.deepl.com 77.239.114.0
 =voice-proxy.www.deepl.com 77.239.114.0
-=www.deepl.com 77.239.114.0
 =claude.ai 103.27.157.38
 linear.app 77.239.114.0
 codeium.com 77.239.114.0
@@ -116,7 +115,7 @@ codeium.com 77.239.114.0
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 160.79.104.10
-=dzcdn.net 188.43.72.18
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -134,7 +133,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 62.133.62.97
+=labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
@@ -144,7 +143,7 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 45.155.204.190
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38

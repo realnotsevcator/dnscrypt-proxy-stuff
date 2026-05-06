@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-188.43.72.18 dzcdn.net
+139.45.206.144 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -114,7 +114,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-62.133.62.97 labs.google
+103.27.157.38 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -143,7 +143,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
+45.155.204.190 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -184,7 +184,7 @@
 77.239.114.0 www-growth.scdn.co
 77.239.114.0 www.autodesk.com
 103.27.157.38 www.canva.com
-77.239.114.0 www.deepl.com
+103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
 103.27.157.38 www.dell.com
 104.16.102.112 www.dyson.com
@@ -231,14 +231,10 @@
 160.79.104.10 www.soundcloud.com
 160.79.104.10 promoted.soundcloud.com
 160.79.104.10 api-v2.soundcloud.com
-188.43.72.18 soundcloud.com
-188.43.72.18 www.soundcloud.com
-188.43.72.18 promoted.soundcloud.com
-188.43.72.18 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
+139.45.206.144 soundcloud.com
+139.45.206.144 www.soundcloud.com
+139.45.206.144 promoted.soundcloud.com
+139.45.206.144 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
