@@ -52,6 +52,8 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
+=aitestkitchen.withgoogle.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -124,7 +126,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
@@ -138,7 +140,6 @@ pump.fun 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
@@ -152,6 +153,7 @@ pump.fun 77.239.114.0
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
+telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
 =finland10001.discord.media 104.25.158.178
 =finland10002.discord.media 104.25.158.178
@@ -356,5 +358,4 @@ telegram.org 149.154.167.220
 =telegram.dog 149.154.167.220
 =telegram.me 149.154.167.220
 =telegram.space 149.154.167.220
-=telesco.pe 149.154.167.220
 =tg.dev 149.154.167.220
