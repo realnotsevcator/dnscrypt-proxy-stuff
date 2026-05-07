@@ -49,6 +49,10 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
+soundcloud.com 35.223.238.178
+www.soundcloud.com 35.223.238.178
+promoted.soundcloud.com 35.223.238.178
+api-v2.soundcloud.com 35.223.238.178
 =a.claude.ai 77.239.114.0
 chatgpt.com 77.239.114.0
 =access.broadcom.com 103.27.157.38
@@ -193,6 +197,7 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf-telemetry.codeium.com 35.223.238.178
 =www.canva.com 103.27.157.38
 =www.dyson.com 104.16.102.112
 =www.dyson.fr 104.16.102.112
