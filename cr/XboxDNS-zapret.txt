@@ -77,7 +77,6 @@ elevenlabs.io 103.27.157.38
 =api.tidal.com 103.27.157.38
 =auth.tidal.com 103.27.157.38
 =dd.tidal.com 103.27.157.38
-=fsu.fa.tidal.com 103.27.157.38
 =images.tidal.com 103.27.157.38
 =link.tidal.com 103.27.157.38
 =listen.tidal.com 103.27.157.38
@@ -88,10 +87,12 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 57.144.222.34
+=b.i.instagram.com 31.13.72.174
+=help.instagram.com 31.13.72.174
+=www.instagram.com 31.13.72.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 108.157.211.47
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 77.239.114.0
 =developers.openai.com 77.239.114.0
@@ -115,7 +116,7 @@ codeium.com 77.239.114.0
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dzcdn.net 139.45.207.210
+=dzcdn.net 184.51.252.207
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -133,8 +134,6 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=help.instagram.com 31.13.72.174
-=www.instagram.com 31.13.72.174
 =instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
@@ -156,7 +155,6 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-telemetry.codeium.com 35.223.238.178
 =www.canva.com 103.27.157.38
 =www.dyson.com 104.16.102.112
 =www.dyson.fr 104.16.102.112
