@@ -26,7 +26,7 @@
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
-77.239.114.0 api.anthropic.com
+103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
@@ -46,7 +46,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.244.34 b.i.instagram.com
+157.240.205.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
@@ -110,7 +110,7 @@
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-57.144.244.34 instagram.com
+157.240.205.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -219,10 +219,10 @@
 80.74.29.235 www.soundcloud.com
 80.74.29.235 promoted.soundcloud.com
 80.74.29.235 api-v2.soundcloud.com
-57.144.244.34 soundcloud.com
-57.144.244.34 www.soundcloud.com
-57.144.244.34 promoted.soundcloud.com
-57.144.244.34 api-v2.soundcloud.com
+157.240.205.174 soundcloud.com
+157.240.205.174 www.soundcloud.com
+157.240.205.174 promoted.soundcloud.com
+157.240.205.174 api-v2.soundcloud.com
 3.164.212.39 soundcloud.com
 3.164.212.39 www.soundcloud.com
 3.164.212.39 promoted.soundcloud.com
@@ -243,10 +243,6 @@
 128.75.237.27 www.soundcloud.com
 128.75.237.27 promoted.soundcloud.com
 128.75.237.27 api-v2.soundcloud.com
-157.240.205.174 soundcloud.com
-157.240.205.174 www.soundcloud.com
-157.240.205.174 promoted.soundcloud.com
-157.240.205.174 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
