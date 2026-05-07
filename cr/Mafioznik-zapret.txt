@@ -135,7 +135,6 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
@@ -147,6 +146,7 @@ pump.fun 77.239.114.0
 =www.canva.com 103.27.157.38
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
+=www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38

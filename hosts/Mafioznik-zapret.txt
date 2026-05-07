@@ -135,7 +135,6 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -181,6 +180,7 @@
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
 103.27.157.38 www.intel.com
+103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
 77.239.114.0 www.qwant.com

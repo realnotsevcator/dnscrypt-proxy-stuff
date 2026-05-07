@@ -135,7 +135,6 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -181,6 +180,7 @@
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
 103.27.157.38 www.intel.com
+103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
 77.239.114.0 www.qwant.com
@@ -203,10 +203,6 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
