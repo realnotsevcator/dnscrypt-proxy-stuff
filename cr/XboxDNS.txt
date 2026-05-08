@@ -25,10 +25,10 @@ soundcloud.com 31.13.72.174
 www.soundcloud.com 31.13.72.174
 promoted.soundcloud.com 31.13.72.174
 api-v2.soundcloud.com 31.13.72.174
-soundcloud.com 108.157.211.47
-www.soundcloud.com 108.157.211.47
-promoted.soundcloud.com 108.157.211.47
-api-v2.soundcloud.com 108.157.211.47
+soundcloud.com 18.64.195.35
+www.soundcloud.com 18.64.195.35
+promoted.soundcloud.com 18.64.195.35
+api-v2.soundcloud.com 18.64.195.35
 soundcloud.com 192.200.0.101
 www.soundcloud.com 192.200.0.101
 promoted.soundcloud.com 192.200.0.101
@@ -37,10 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 188.43.78.57
-www.soundcloud.com 188.43.78.57
-promoted.soundcloud.com 188.43.78.57
-api-v2.soundcloud.com 188.43.78.57
+soundcloud.com 185.5.161.185
+www.soundcloud.com 185.5.161.185
+promoted.soundcloud.com 185.5.161.185
+api-v2.soundcloud.com 185.5.161.185
 soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
@@ -139,7 +139,7 @@ elevenlabs.io 103.27.157.38
 =www.instagram.com 31.13.72.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
-=cdn.auth0.com 108.157.211.47
+=cdn.auth0.com 18.64.195.35
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 77.239.114.0
 =developers.openai.com 77.239.114.0
@@ -163,7 +163,7 @@ codeium.com 77.239.114.0
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dzcdn.net 188.43.78.57
+=dzcdn.net 185.5.161.185
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -183,7 +183,7 @@ pump.fun 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =instagram.com 157.240.205.174
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
