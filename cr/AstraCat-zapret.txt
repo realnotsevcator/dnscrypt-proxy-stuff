@@ -52,8 +52,7 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
+=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -106,7 +105,6 @@ codeium.com 77.239.114.0
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
-=i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
 =www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
@@ -142,16 +140,18 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 104.16.102.112
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf-telemetry.codeium.com 35.223.238.178
 =www.canva.com 103.27.157.38
 =www.dyson.com 104.16.102.112
 =www.dyson.fr 104.16.102.112
