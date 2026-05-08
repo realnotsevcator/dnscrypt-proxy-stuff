@@ -37,14 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 104.69.222.144
-www.soundcloud.com 104.69.222.144
-promoted.soundcloud.com 104.69.222.144
-api-v2.soundcloud.com 104.69.222.144
-soundcloud.com 157.240.253.174
-www.soundcloud.com 157.240.253.174
-promoted.soundcloud.com 157.240.253.174
-api-v2.soundcloud.com 157.240.253.174
+soundcloud.com 185.5.161.185
+www.soundcloud.com 185.5.161.185
+promoted.soundcloud.com 185.5.161.185
+api-v2.soundcloud.com 185.5.161.185
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -130,13 +126,12 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api16-normal-alisg.mchost.guru 77.239.114.0
+=api16-normal-alisg.mchost.guru 103.27.157.38
+=trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 31.13.72.174
-=help.instagram.com 31.13.72.174
-=www.instagram.com 31.13.72.174
+instagram.com 31.13.72.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
 =cdn.auth0.com 108.157.211.47
@@ -163,7 +158,7 @@ codeium.com 77.239.114.0
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dzcdn.net 104.69.222.144
+=dzcdn.net 185.5.161.185
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -181,7 +176,6 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=instagram.com 157.240.253.174
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -198,7 +192,6 @@ pump.fun 77.239.114.0
 =truthsocial.com 103.27.157.38
 =sydney.bing.com 104.16.102.112
 =test.dns.malw.link 185.31.40.18
-=trae-api-sg.mchost.guru 103.27.157.38
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
@@ -212,4 +205,4 @@ pump.fun 77.239.114.0
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
+=z-p42-chat-e2ee-ig.facebook.com 31.13.72.174
