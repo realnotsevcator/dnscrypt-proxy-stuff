@@ -87,7 +87,6 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-62.133.62.97 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
@@ -106,7 +105,6 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-62.133.62.97 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -135,7 +133,6 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -200,10 +197,6 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
