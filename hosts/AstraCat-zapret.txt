@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-139.45.206.144 dzcdn.net
+139.45.206.153 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -142,7 +142,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-45.155.204.190 robinfrontend-pa.googleapis.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -161,7 +161,7 @@
 104.16.102.112 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
-103.27.157.38 trae-api-sg.mchost.guru
+77.239.114.0 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
 77.239.114.0 unleash.codeium.com
