@@ -21,10 +21,6 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -41,6 +37,8 @@ chatgpt.com 77.239.114.0
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 77.239.114.0
 =www.autodesk.com 77.239.114.0
+=accounts.scdn.co 77.239.114.0
+=www-growth.scdn.co 77.239.114.0
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -70,8 +68,6 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -84,8 +80,10 @@ deepl.com 103.27.157.38
 =api.squareup.com 103.27.157.38
 =api-sg-central.trae.ai 77.239.114.0
 =api.trae.ai 77.239.114.0
-=api.anthropic.com 77.239.114.0
+=api.anthropic.com 103.27.157.38
+=console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
+=api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
 =api.manus.im 103.27.157.38
 =api.tidal.com 103.27.157.38
@@ -112,7 +110,6 @@ elevenlabs.io 103.27.157.38
 =claude.ai 103.27.157.38
 linear.app 77.239.114.0
 codeium.com 77.239.114.0
-=console.anthropic.com 103.27.157.38
 =content-management-files.canva.com 77.239.114.0
 =static.canva.com 77.239.114.0
 =copilot.microsoft.com 103.27.157.38
@@ -142,7 +139,6 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
@@ -152,16 +148,15 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=www-growth.scdn.co 77.239.114.0
 =www.canva.com 103.27.157.38
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
