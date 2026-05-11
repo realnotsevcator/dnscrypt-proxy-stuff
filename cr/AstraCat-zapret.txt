@@ -28,7 +28,6 @@ chatgpt.com 77.239.114.0
 =api-partner.spotify.com 103.27.157.38
 =api.spotify.com 103.27.157.38
 =gew1-spclient.spotify.com 103.27.157.38
-=login5.spotify.com 103.27.157.38
 =open.spotify.com 103.27.157.38
 =spclient.wg.spotify.com 103.27.157.38
 =www.spotify.com 103.27.157.38
@@ -52,8 +51,7 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
+=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -114,7 +112,7 @@ codeium.com 77.239.114.0
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 160.79.104.10
-=dzcdn.net 139.45.206.153
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -129,6 +127,7 @@ pump.fun 77.239.114.0
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 77.239.114.0
+=login5.spotify.com 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -146,12 +145,14 @@ pump.fun 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 104.16.102.112
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf-telemetry.codeium.com 35.223.238.178
 =www.canva.com 103.27.157.38
 =www.dyson.com 104.16.102.112
 =www.dyson.fr 104.16.102.112
