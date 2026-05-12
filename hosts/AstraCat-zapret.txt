@@ -10,7 +10,7 @@
 77.239.114.0 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
-77.239.114.0 accounts.spotify.com
+35.186.224.24 accounts.spotify.com
 77.239.114.0 accounts.supercell.com
 77.239.114.0 accounts.x.ai
 77.239.114.0 aet.spotify.com
@@ -77,7 +77,7 @@
 77.239.114.0 experimentation-grpc.deepl.com
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
-77.239.114.0 fitbit-pa.googleapis.com
+62.133.62.97 fitbit-pa.googleapis.com
 62.133.62.97 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com

@@ -10,7 +10,6 @@
 77.239.114.0 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
-77.239.114.0 accounts.spotify.com
 77.239.114.0 accounts.supercell.com
 77.239.114.0 accounts.x.ai
 77.239.114.0 aet.spotify.com
@@ -75,6 +74,7 @@
 77.239.114.0 experimentation-grpc.deepl.com
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
+62.133.62.97 fitbit-pa.googleapis.com
 62.133.62.97 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
@@ -157,7 +157,6 @@
 62.133.62.97 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 77.239.114.0 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
