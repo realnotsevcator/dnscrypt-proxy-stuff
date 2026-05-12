@@ -16,7 +16,7 @@
 77.239.114.0 aet.spotify.com
 62.133.62.97 aisandbox-pa.googleapis.com
 62.133.62.97 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+45.155.204.190 aitestkitchen.withgoogle.com
 62.133.62.97 alkalimakersuite-pa.clients6.google.com
 77.239.114.0 android.chat.openai.com
 77.239.114.0 api-free.deepl.com
@@ -110,7 +110,7 @@
 77.239.114.0 login5.spotify.com
 77.239.114.0 manus.im
 77.239.114.0 marketplace.windsurf.com
-62.133.62.97 notebooklm.google.com
+45.155.204.190 notebooklm.google.com
 130.255.77.28 ntc.party
 62.133.62.97 o.pki.goog
 77.239.114.0 oneshot-free.www.deepl.com
@@ -160,7 +160,7 @@
 62.133.62.97 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-35.223.238.178 windsurf-telemetry.codeium.com
+77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 77.239.114.0 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -209,7 +209,3 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-35.223.238.178 soundcloud.com
-35.223.238.178 www.soundcloud.com
-35.223.238.178 promoted.soundcloud.com
-35.223.238.178 api-v2.soundcloud.com

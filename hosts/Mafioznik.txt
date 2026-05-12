@@ -108,6 +108,7 @@
 77.239.114.0 login5.spotify.com
 77.239.114.0 manus.im
 77.239.114.0 marketplace.windsurf.com
+62.133.62.97 notebooklm.google.com
 130.255.77.28 ntc.party
 62.133.62.97 o.pki.goog
 77.239.114.0 oneshot-free.www.deepl.com
@@ -170,6 +171,7 @@
 77.239.114.0 www.intel.com
 77.239.114.0 www.notion.so
 77.239.114.0 www.patreon.com
+77.239.114.0 www.qwant.com
 77.239.114.0 www.spotify.com
 77.239.114.0 www.tiktok.com
 77.239.114.0 www2.deepl.com

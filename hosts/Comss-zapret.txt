@@ -17,7 +17,7 @@
 62.133.62.97 aisandbox-pa.googleapis.com
 62.133.62.97 aistudio.google.com
 62.133.62.97 aitestkitchen.withgoogle.com
-62.133.62.97 alkalimakersuite-pa.clients6.google.com
+80.74.29.235 alkalimakersuite-pa.clients6.google.com
 77.239.114.0 android.chat.openai.com
 77.239.114.0 api-free.deepl.com
 77.239.114.0 api-global.squareup.com
@@ -78,8 +78,8 @@
 77.239.114.0 experimentation-grpc.deepl.com
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
-62.133.62.97 fitbit-pa.googleapis.com
-64.233.163.100 fitbit.google.com
+108.177.14.95 fitbit-pa.googleapis.com
+62.133.62.97 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
 77.239.114.0 frontend-api-v3.pump.fun
@@ -104,7 +104,7 @@
 77.239.114.0 ita-free.app.deepl.com
 77.239.114.0 ita-free.www.deepl.com
 62.133.62.97 jules.google.com
-62.133.62.97 labs.google
+80.74.29.235 labs.google
 77.239.114.0 linear.app
 77.239.114.0 link.tidal.com
 77.239.114.0 listen.tidal.com
@@ -115,7 +115,7 @@
 77.239.114.0 marketplace.windsurf.com
 62.133.62.97 notebooklm.google.com
 130.255.77.28 ntc.party
-64.233.164.94 o.pki.goog
+62.133.62.97 o.pki.goog
 77.239.114.0 oneshot-free.www.deepl.com
 77.239.114.0 open.spotify.com
 77.239.114.0 operator.chatgpt.com
@@ -163,7 +163,7 @@
 62.133.62.97 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-80.74.29.235 windsurf-telemetry.codeium.com
+77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 77.239.114.0 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co

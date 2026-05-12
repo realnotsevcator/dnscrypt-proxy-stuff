@@ -16,8 +16,8 @@
 77.239.114.0 aet.spotify.com
 62.133.62.97 aisandbox-pa.googleapis.com
 62.133.62.97 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
-87.228.47.204 alkalimakersuite-pa.clients6.google.com
+173.194.222.141 aitestkitchen.withgoogle.com
+62.133.62.97 alkalimakersuite-pa.clients6.google.com
 77.239.114.0 android.chat.openai.com
 77.239.114.0 api-free.deepl.com
 77.239.114.0 api-global.squareup.com
@@ -77,7 +77,7 @@
 77.239.114.0 experimentation-grpc.deepl.com
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
-62.133.62.97 fitbit-pa.googleapis.com
+142.250.177.234 fitbit-pa.googleapis.com
 62.133.62.97 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
@@ -102,7 +102,7 @@
 77.239.114.0 ios.chat.openai.com
 77.239.114.0 ita-free.app.deepl.com
 77.239.114.0 ita-free.www.deepl.com
-87.228.47.204 jules.google.com
+62.133.62.97 jules.google.com
 62.133.62.97 labs.google
 77.239.114.0 linear.app
 77.239.114.0 link.tidal.com
@@ -159,9 +159,10 @@
 77.239.114.0 weather.com
 77.239.114.0 web-backend.codeium.com
 103.27.157.38 web.archive.org
-108.177.14.95 webchannel-alkalimakersuite-pa.clients6.google.com
+62.133.62.97 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
+77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 77.239.114.0 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -171,7 +172,7 @@
 77.239.114.0 www.deezer.com
 77.239.114.0 www.dell.com
 77.239.114.0 www.elgato.com
-157.240.253.174 www.instagram.com
+31.13.72.174 www.instagram.com
 77.239.114.0 www.intel.com
 77.239.114.0 www.notion.so
 77.239.114.0 www.patreon.com
