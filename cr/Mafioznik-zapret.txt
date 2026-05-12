@@ -21,12 +21,7 @@ chatgpt.com 77.239.114.0
 =accounts.scdn.co 77.239.114.0
 =encore.scdn.co 77.239.114.0
 =www-growth.scdn.co 77.239.114.0
-=accounts.supercell.com 77.239.114.0
-=cdn.id.supercell.com 77.239.114.0
-=clashofclans.inbox.supercell.com 77.239.114.0
-=security.id.supercell.com 77.239.114.0
-=store.supercell.com 77.239.114.0
-=accounts.x.ai 77.239.114.0
+=accounts.spotify.com 77.239.114.0
 =aet.spotify.com 77.239.114.0
 =api-partner.spotify.com 77.239.114.0
 =api.spotify.com 77.239.114.0
@@ -36,6 +31,12 @@ chatgpt.com 77.239.114.0
 =open.spotify.com 77.239.114.0
 =spclient.wg.spotify.com 77.239.114.0
 =www.spotify.com 77.239.114.0
+=accounts.supercell.com 77.239.114.0
+=cdn.id.supercell.com 77.239.114.0
+=clashofclans.inbox.supercell.com 77.239.114.0
+=security.id.supercell.com 77.239.114.0
+=store.supercell.com 77.239.114.0
+=accounts.x.ai 77.239.114.0
 =aisandbox-pa.googleapis.com 62.133.62.97
 =assistant-s3-pa.googleapis.com 62.133.62.97
 =fitbit-pa.googleapis.com 62.133.62.97
