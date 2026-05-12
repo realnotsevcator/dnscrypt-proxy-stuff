@@ -75,7 +75,6 @@
 77.239.114.0 experimentation-grpc.deepl.com
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
-62.133.62.97 fitbit-pa.googleapis.com
 62.133.62.97 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com

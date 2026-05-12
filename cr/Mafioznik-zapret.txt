@@ -39,7 +39,6 @@ chatgpt.com 77.239.114.0
 =accounts.x.ai 77.239.114.0
 =aisandbox-pa.googleapis.com 62.133.62.97
 =assistant-s3-pa.googleapis.com 62.133.62.97
-=fitbit-pa.googleapis.com 62.133.62.97
 =fitbitvestibuleshim-pa.googleapis.com 62.133.62.97
 =generativelanguage.googleapis.com 62.133.62.97
 =proactivebackend-pa.googleapis.com 62.133.62.97

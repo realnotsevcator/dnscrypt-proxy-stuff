@@ -15,9 +15,9 @@
 77.239.114.0 accounts.x.ai
 77.239.114.0 aet.spotify.com
 62.133.62.97 aisandbox-pa.googleapis.com
-62.133.62.97 aistudio.google.com
+80.74.29.235 aistudio.google.com
 62.133.62.97 aitestkitchen.withgoogle.com
-80.74.29.235 alkalimakersuite-pa.clients6.google.com
+62.133.62.97 alkalimakersuite-pa.clients6.google.com
 77.239.114.0 android.chat.openai.com
 77.239.114.0 api-free.deepl.com
 77.239.114.0 api-global.squareup.com
@@ -78,8 +78,8 @@
 77.239.114.0 experimentation-grpc.deepl.com
 77.239.114.0 experimentation.deepl.com
 77.239.114.0 files.oaiusercontent.com
-108.177.14.95 fitbit-pa.googleapis.com
-62.133.62.97 fitbit.google.com
+62.133.62.97 fitbit-pa.googleapis.com
+172.253.130.100 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
 77.239.114.0 frontend-api-v3.pump.fun
@@ -210,10 +210,10 @@
 160.79.104.10 www.soundcloud.com
 160.79.104.10 promoted.soundcloud.com
 160.79.104.10 api-v2.soundcloud.com
-108.177.14.95 soundcloud.com
-108.177.14.95 www.soundcloud.com
-108.177.14.95 promoted.soundcloud.com
-108.177.14.95 api-v2.soundcloud.com
+172.253.130.100 soundcloud.com
+172.253.130.100 www.soundcloud.com
+172.253.130.100 promoted.soundcloud.com
+172.253.130.100 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
