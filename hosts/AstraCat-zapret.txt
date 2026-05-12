@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -119,7 +119,7 @@
 103.27.157.38 listen.tidal.com
 103.27.157.38 login-wall.deepl.com
 103.27.157.38 login.tidal.com
-77.239.114.0 login5.spotify.com
+103.27.157.38 login5.spotify.com
 77.239.114.0 manus.im
 77.239.114.0 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
