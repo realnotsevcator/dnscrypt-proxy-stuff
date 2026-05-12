@@ -10,7 +10,7 @@
 77.239.114.0 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
-77.239.114.0 accounts.spotify.com
+35.186.224.26 accounts.spotify.com
 77.239.114.0 accounts.supercell.com
 77.239.114.0 accounts.x.ai
 77.239.114.0 aet.spotify.com
@@ -128,7 +128,7 @@
 77.239.114.0 pump.fun
 77.239.114.0 resources.tidal.com
 77.239.114.0 rewards.bing.com
-45.155.204.190 robinfrontend-pa.googleapis.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 77.239.114.0 s.deepl.com
 77.239.114.0 s.linear.app
 77.239.114.0 security.id.supercell.com

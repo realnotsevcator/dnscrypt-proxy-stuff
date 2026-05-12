@@ -10,7 +10,6 @@
 77.239.114.0 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
-77.239.114.0 accounts.spotify.com
 77.239.114.0 accounts.supercell.com
 77.239.114.0 accounts.x.ai
 77.239.114.0 aet.spotify.com
