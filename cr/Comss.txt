@@ -25,10 +25,10 @@ soundcloud.com 157.240.205.174
 www.soundcloud.com 157.240.205.174
 promoted.soundcloud.com 157.240.205.174
 api-v2.soundcloud.com 157.240.205.174
-soundcloud.com 3.164.212.39
-www.soundcloud.com 3.164.212.39
-promoted.soundcloud.com 3.164.212.39
-api-v2.soundcloud.com 3.164.212.39
+soundcloud.com 99.84.92.227
+www.soundcloud.com 99.84.92.227
+promoted.soundcloud.com 99.84.92.227
+api-v2.soundcloud.com 99.84.92.227
 soundcloud.com 192.200.0.101
 www.soundcloud.com 192.200.0.101
 promoted.soundcloud.com 192.200.0.101
@@ -41,10 +41,10 @@ soundcloud.com 160.79.104.10
 www.soundcloud.com 160.79.104.10
 promoted.soundcloud.com 160.79.104.10
 api-v2.soundcloud.com 160.79.104.10
-soundcloud.com 128.75.237.27
-www.soundcloud.com 128.75.237.27
-promoted.soundcloud.com 128.75.237.27
-api-v2.soundcloud.com 128.75.237.27
+soundcloud.com 128.75.237.104
+www.soundcloud.com 128.75.237.104
+promoted.soundcloud.com 128.75.237.104
+api-v2.soundcloud.com 128.75.237.104
 soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
@@ -141,7 +141,7 @@ elevenlabs.io 103.27.157.38
 instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 99.84.92.227
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 77.239.114.0
 =developers.openai.com 77.239.114.0
@@ -166,7 +166,7 @@ codeium.com 77.239.114.0
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 160.79.104.10
-=dzcdn.net 128.75.237.27
+=dzcdn.net 128.75.237.104
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -205,7 +205,6 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-telemetry.codeium.com 80.74.29.235
 =www.canva.com 103.27.157.38
 =www.dyson.com 104.16.24.14
 =www.dyson.fr 104.16.24.14
