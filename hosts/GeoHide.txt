@@ -74,7 +74,7 @@
 77.239.114.0 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-184.51.252.136 dzcdn.net
+104.110.191.133 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -102,7 +102,7 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.244.34 help.instagram.com
+157.240.253.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -113,7 +113,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-62.133.62.97 labs.google
+103.27.157.38 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -177,7 +177,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -190,7 +190,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-157.240.253.174 www.instagram.com
+57.144.244.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -228,14 +228,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-184.51.252.136 soundcloud.com
-184.51.252.136 www.soundcloud.com
-184.51.252.136 promoted.soundcloud.com
-184.51.252.136 api-v2.soundcloud.com
-57.144.244.34 soundcloud.com
-57.144.244.34 www.soundcloud.com
-57.144.244.34 promoted.soundcloud.com
-57.144.244.34 api-v2.soundcloud.com
+104.110.191.133 soundcloud.com
+104.110.191.133 www.soundcloud.com
+104.110.191.133 promoted.soundcloud.com
+104.110.191.133 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
@@ -244,3 +240,11 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
+45.155.204.190 soundcloud.com
+45.155.204.190 www.soundcloud.com
+45.155.204.190 promoted.soundcloud.com
+45.155.204.190 api-v2.soundcloud.com
+57.144.244.34 soundcloud.com
+57.144.244.34 www.soundcloud.com
+57.144.244.34 promoted.soundcloud.com
+57.144.244.34 api-v2.soundcloud.com
