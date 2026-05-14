@@ -21,8 +21,6 @@ chatgpt.com 77.239.114.0
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 77.239.114.0
 =www.autodesk.com 77.239.114.0
-=accounts.scdn.co 77.239.114.0
-=www-growth.scdn.co 77.239.114.0
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -124,7 +122,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
@@ -144,7 +142,9 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=www-growth.scdn.co 77.239.114.0
 =www.canva.com 103.27.157.38
+=www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
