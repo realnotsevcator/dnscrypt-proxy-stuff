@@ -52,8 +52,7 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
+=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -87,9 +86,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 31.13.66.174
-=help.instagram.com 31.13.66.174
-=www.instagram.com 31.13.66.174
+=b.i.instagram.com 57.144.220.34
+=help.instagram.com 57.144.220.34
+=www.instagram.com 57.144.220.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
 =cdn.auth0.com 108.157.211.47
@@ -111,12 +110,11 @@ codeium.com 77.239.114.0
 =dds.dell.com 103.27.157.38
 =i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
-=www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dzcdn.net 104.69.222.144
+=dzcdn.net 104.84.152.155
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -149,6 +147,7 @@ pump.fun 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 104.16.102.112
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
@@ -156,6 +155,7 @@ pump.fun 77.239.114.0
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
+=www.dell.com 77.239.114.0
 =www.dyson.com 104.16.102.112
 =www.dyson.fr 104.16.102.112
 =www.elgato.com 77.239.114.0
@@ -164,7 +164,7 @@ pump.fun 77.239.114.0
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 31.13.66.174
+=z-p42-chat-e2ee-ig.facebook.com 31.13.72.174
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
