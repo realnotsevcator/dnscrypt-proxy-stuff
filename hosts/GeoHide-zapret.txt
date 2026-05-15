@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
@@ -48,7 +48,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
-45.155.204.190 cdn.auth0.com
+37.230.192.51 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 77.239.114.0 cdn.platform.openai.com
@@ -62,7 +62,7 @@
 103.27.157.38 console.anthropic.com
 77.239.114.0 constellation.linear.app
 77.239.114.0 content-management-files.canva.com
-45.155.204.190 controlplane.tailscale.com
+37.230.192.51 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -74,7 +74,7 @@
 77.239.114.0 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-128.75.237.113 dzcdn.net
+128.75.238.147 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -113,7 +113,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+37.230.192.51 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
