@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-64.233.161.141 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -94,7 +94,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-62.133.62.97 gemini.google.com
+103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
@@ -210,10 +210,6 @@
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
-64.233.161.141 soundcloud.com
-64.233.161.141 www.soundcloud.com
-64.233.161.141 promoted.soundcloud.com
-64.233.161.141 api-v2.soundcloud.com
 35.186.224.24 soundcloud.com
 35.186.224.24 www.soundcloud.com
 35.186.224.24 promoted.soundcloud.com
@@ -242,10 +238,6 @@
 104.69.222.144 www.soundcloud.com
 104.69.222.144 promoted.soundcloud.com
 104.69.222.144 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
 31.13.72.174 soundcloud.com
 31.13.72.174 www.soundcloud.com
 31.13.72.174 promoted.soundcloud.com
@@ -254,6 +246,10 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
