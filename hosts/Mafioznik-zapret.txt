@@ -79,7 +79,7 @@
 103.27.157.38 experimentation-grpc.deepl.com
 103.27.157.38 experimentation.deepl.com
 103.27.157.38 files.oaiusercontent.com
-62.133.62.97 fitbit-pa.googleapis.com
+103.27.157.38 fitbit-pa.googleapis.com
 103.27.157.38 fitbit.google.com
 103.27.157.38 fitbitvestibuleshim-pa.googleapis.com
 77.239.114.0 framer.com
@@ -106,7 +106,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+62.133.62.97 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
