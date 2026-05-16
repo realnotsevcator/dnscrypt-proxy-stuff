@@ -46,7 +46,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-157.240.205.174 b.i.instagram.com
+57.144.244.34 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
@@ -77,7 +77,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-128.75.237.128 dzcdn.net
+128.75.237.129 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -110,7 +110,7 @@
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.205.174 instagram.com
+57.144.244.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -193,7 +193,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.244.34 www.instagram.com
+157.240.205.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -219,10 +219,10 @@
 80.74.29.235 www.soundcloud.com
 80.74.29.235 promoted.soundcloud.com
 80.74.29.235 api-v2.soundcloud.com
-157.240.205.174 soundcloud.com
-157.240.205.174 www.soundcloud.com
-157.240.205.174 promoted.soundcloud.com
-157.240.205.174 api-v2.soundcloud.com
+57.144.244.34 soundcloud.com
+57.144.244.34 www.soundcloud.com
+57.144.244.34 promoted.soundcloud.com
+57.144.244.34 api-v2.soundcloud.com
 3.164.212.39 soundcloud.com
 3.164.212.39 www.soundcloud.com
 3.164.212.39 promoted.soundcloud.com
@@ -239,10 +239,14 @@
 160.79.104.10 www.soundcloud.com
 160.79.104.10 promoted.soundcloud.com
 160.79.104.10 api-v2.soundcloud.com
-128.75.237.128 soundcloud.com
-128.75.237.128 www.soundcloud.com
-128.75.237.128 promoted.soundcloud.com
-128.75.237.128 api-v2.soundcloud.com
+128.75.237.129 soundcloud.com
+128.75.237.129 www.soundcloud.com
+128.75.237.129 promoted.soundcloud.com
+128.75.237.129 api-v2.soundcloud.com
+157.240.205.174 soundcloud.com
+157.240.205.174 www.soundcloud.com
+157.240.205.174 promoted.soundcloud.com
+157.240.205.174 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
@@ -259,7 +263,3 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-57.144.244.34 soundcloud.com
-57.144.244.34 www.soundcloud.com
-57.144.244.34 promoted.soundcloud.com
-57.144.244.34 api-v2.soundcloud.com
