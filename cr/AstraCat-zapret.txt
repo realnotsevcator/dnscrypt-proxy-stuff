@@ -113,7 +113,7 @@ codeium.com 77.239.114.0
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 160.79.104.10
-=dzcdn.net 139.45.206.144
+=dzcdn.net 139.45.206.153
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -132,7 +132,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 45.155.204.190
+=labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
