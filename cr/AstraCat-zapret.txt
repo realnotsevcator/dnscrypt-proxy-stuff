@@ -114,7 +114,7 @@ codeium.com 77.239.114.0
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 160.79.104.10
-=dzcdn.net 139.45.206.153
+=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -142,7 +142,7 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
@@ -160,7 +160,7 @@ pump.fun 77.239.114.0
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
-=www.tiktok.com 103.27.157.38
+=www.tiktok.com 77.239.114.0
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
