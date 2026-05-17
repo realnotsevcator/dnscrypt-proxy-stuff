@@ -11,7 +11,7 @@
 103.27.157.38 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
-103.27.157.38 accounts.spotify.com
+77.239.114.0 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-185.5.160.66 dzcdn.net
+188.43.72.25 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -94,7 +94,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-103.27.157.38 gemini.google.com
+62.133.62.97 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
@@ -196,7 +196,7 @@
 77.239.114.0 www.patreon.com
 77.239.114.0 www.qwant.com
 103.27.157.38 www.spotify.com
-77.239.114.0 www.tiktok.com
+103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
 77.239.114.0 soundcloud.com
 77.239.114.0 www.soundcloud.com

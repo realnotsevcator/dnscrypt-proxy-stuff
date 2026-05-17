@@ -13,10 +13,6 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
-soundcloud.com 104.16.24.14
-www.soundcloud.com 104.16.24.14
-promoted.soundcloud.com 104.16.24.14
-api-v2.soundcloud.com 104.16.24.14
 soundcloud.com 57.144.244.34
 www.soundcloud.com 57.144.244.34
 promoted.soundcloud.com 57.144.244.34
@@ -29,10 +25,6 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 185.5.160.66
-www.soundcloud.com 185.5.160.66
-promoted.soundcloud.com 185.5.160.66
-api-v2.soundcloud.com 185.5.160.66
 soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
@@ -59,8 +51,6 @@ chatgpt.com 77.239.114.0
 =www.autodesk.com 77.239.114.0
 =accounts.scdn.co 77.239.114.0
 =www-growth.scdn.co 77.239.114.0
-=accounts.spotify.com 77.239.114.0
-=gew1-dealer.spotify.com 77.239.114.0
 =accounts.supercell.com 103.27.157.38
 =cdn.id.supercell.com 103.27.157.38
 =clashofclans.inbox.supercell.com 103.27.157.38
@@ -120,7 +110,6 @@ elevenlabs.io 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 104.16.24.14
 instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
@@ -148,7 +137,6 @@ codeium.com 77.239.114.0
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -163,6 +151,7 @@ pump.fun 77.239.114.0
 =game-assets.clashroyaleapp.com 103.27.157.38
 =gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
+=gew1-dealer.spotify.com 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -180,15 +169,12 @@ pump.fun 77.239.114.0
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=sydney.bing.com 104.16.24.14
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
-=www.dyson.com 104.16.24.14
-=www.dyson.fr 104.16.24.14
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
