@@ -41,18 +41,10 @@ soundcloud.com 139.45.206.153
 www.soundcloud.com 139.45.206.153
 promoted.soundcloud.com 139.45.206.153
 api-v2.soundcloud.com 139.45.206.153
-soundcloud.com 188.43.75.83
-www.soundcloud.com 188.43.75.83
-promoted.soundcloud.com 188.43.75.83
-api-v2.soundcloud.com 188.43.75.83
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -154,6 +146,7 @@ codeium.com 77.239.114.0
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
+=i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
 =www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
@@ -179,7 +172,6 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=i.dell.com 188.43.75.83
 =labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
@@ -190,7 +182,7 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 45.155.204.190
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38

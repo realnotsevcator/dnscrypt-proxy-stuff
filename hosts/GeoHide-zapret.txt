@@ -39,7 +39,7 @@
 103.27.157.38 api16-normal-alisg.mchost.guru
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-172.64.32.155 auth.anthropic.com
+104.16.24.14 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
@@ -48,7 +48,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
-45.155.204.190 cdn.auth0.com
+37.230.192.51 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 77.239.114.0 cdn.platform.openai.com
@@ -74,7 +74,7 @@
 77.239.114.0 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-185.5.160.66 dzcdn.net
+184.24.77.24 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -158,7 +158,7 @@
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
 77.239.114.0 swap-api.pump.fun
-172.64.32.155 sydney.bing.com
+104.16.24.14 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
 103.27.157.38 trae-api-sg.mchost.guru
@@ -183,11 +183,11 @@
 77.239.114.0 www-growth.scdn.co
 77.239.114.0 www.autodesk.com
 103.27.157.38 www.canva.com
-77.239.114.0 www.deepl.com
+103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
 103.27.157.38 www.dell.com
-172.64.32.155 www.dyson.com
-172.64.32.155 www.dyson.fr
+104.16.24.14 www.dyson.com
+104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
 157.240.253.174 www.instagram.com
