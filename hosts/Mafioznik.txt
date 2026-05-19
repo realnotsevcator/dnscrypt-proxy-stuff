@@ -14,14 +14,16 @@
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
+103.27.157.38 aet.spotify.com
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
+103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
@@ -29,6 +31,7 @@
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
+103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 77.239.114.0 api.trae.ai
@@ -84,10 +87,11 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-62.133.62.97 gemini.google.com
+103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
+103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 77.239.114.0 gtm.deepl.com
 77.239.114.0 guidedhacking.com
@@ -117,6 +121,7 @@
 130.255.77.28 ntc.party
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
+103.27.157.38 open.spotify.com
 77.239.114.0 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 77.239.114.0 patreon.com
@@ -130,6 +135,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -137,6 +143,7 @@
 103.27.157.38 shield.deepl.com
 77.239.114.0 sora.chatgpt.com
 77.239.114.0 sora.com
+103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 77.239.114.0 static.canva.com
 77.239.114.0 static.linear.app
@@ -173,10 +180,10 @@
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
 103.27.157.38 www.intel.com
-103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
 77.239.114.0 www.qwant.com
+103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
 77.239.114.0 soundcloud.com
@@ -187,10 +194,6 @@
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
 172.64.33.155 soundcloud.com
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
@@ -199,6 +202,10 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com

@@ -11,14 +11,14 @@
 103.27.157.38 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
-35.186.224.24 accounts.spotify.com
+103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -32,13 +32,13 @@
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
-35.186.224.24 api.spotify.com
+103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 77.239.114.0 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
-35.186.224.33 appresolve.spotify.com
+35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
 104.16.102.112 auth.anthropic.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-188.43.78.65 dzcdn.net
+185.5.160.66 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -98,7 +98,7 @@
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
-35.186.224.24 gew1-spclient.spotify.com
+103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 77.239.114.0 gtm.deepl.com
 77.239.114.0 guidedhacking.com
@@ -128,6 +128,7 @@
 130.255.77.28 ntc.party
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
+103.27.157.38 open.spotify.com
 77.239.114.0 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 77.239.114.0 patreon.com
@@ -149,7 +150,7 @@
 103.27.157.38 shield.deepl.com
 77.239.114.0 sora.chatgpt.com
 77.239.114.0 sora.com
-35.186.224.24 spclient.wg.spotify.com
+103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 77.239.114.0 static.canva.com
 77.239.114.0 static.linear.app
@@ -176,7 +177,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
+35.223.238.178 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -194,7 +195,7 @@
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
 77.239.114.0 www.qwant.com
-35.186.224.26 www.spotify.com
+103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
 77.239.114.0 soundcloud.com

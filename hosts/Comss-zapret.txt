@@ -11,7 +11,7 @@
 103.27.157.38 account.jetbrains.com
 77.239.114.0 accounts.autodesk.com
 77.239.114.0 accounts.scdn.co
-35.186.224.24 accounts.spotify.com
+103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
@@ -24,7 +24,7 @@
 35.186.224.24 ap-gew1.spotify.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
-35.186.224.24 api-partner.spotify.com
+103.27.157.38 api-partner.spotify.com
 77.239.114.0 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
@@ -32,7 +32,7 @@
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
-77.239.114.0 api.spotify.com
+103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 77.239.114.0 api.trae.ai
@@ -77,7 +77,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-139.45.206.137 dzcdn.net
+139.45.206.161 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -99,18 +99,18 @@
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
-77.239.114.0 gew1-spclient.spotify.com
+103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 77.239.114.0 gtm.deepl.com
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.222.34 help.instagram.com
+157.240.205.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
 77.239.114.0 inference.codeium.com
-157.240.205.174 instagram.com
+57.144.222.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -131,7 +131,7 @@
 130.255.77.28 ntc.party
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
-35.186.224.24 open.spotify.com
+103.27.157.38 open.spotify.com
 77.239.114.0 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 77.239.114.0 patreon.com
@@ -153,7 +153,7 @@
 103.27.157.38 shield.deepl.com
 77.239.114.0 sora.chatgpt.com
 77.239.114.0 sora.com
-35.186.224.24 spclient.wg.spotify.com
+103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 77.239.114.0 static.canva.com
 77.239.114.0 static.linear.app
@@ -191,7 +191,7 @@
 103.27.157.38 www.dell.com
 104.16.24.14 www.dyson.com
 104.16.24.14 www.dyson.fr
-184.51.228.243 www.elgato.com
+77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
 157.240.205.174 www.instagram.com
 103.27.157.38 www.intel.com
@@ -199,6 +199,7 @@
 103.27.157.38 www.notion.so
 77.239.114.0 www.patreon.com
 77.239.114.0 www.qwant.com
+103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
 157.240.205.174 z-p42-chat-e2ee-ig.facebook.com
