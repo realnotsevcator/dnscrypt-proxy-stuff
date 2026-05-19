@@ -25,10 +25,6 @@ soundcloud.com 13.32.46.190
 www.soundcloud.com 13.32.46.190
 promoted.soundcloud.com 13.32.46.190
 api-v2.soundcloud.com 13.32.46.190
-soundcloud.com 45.155.204.190
-www.soundcloud.com 45.155.204.190
-promoted.soundcloud.com 45.155.204.190
-api-v2.soundcloud.com 45.155.204.190
 soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
@@ -37,10 +33,10 @@ soundcloud.com 160.79.104.10
 www.soundcloud.com 160.79.104.10
 promoted.soundcloud.com 160.79.104.10
 api-v2.soundcloud.com 160.79.104.10
-soundcloud.com 185.5.160.66
-www.soundcloud.com 185.5.160.66
-promoted.soundcloud.com 185.5.160.66
-api-v2.soundcloud.com 185.5.160.66
+soundcloud.com 188.43.72.19
+www.soundcloud.com 188.43.72.19
+promoted.soundcloud.com 188.43.72.19
+api-v2.soundcloud.com 188.43.72.19
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -53,10 +49,6 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-soundcloud.com 35.223.238.178
-www.soundcloud.com 35.223.238.178
-promoted.soundcloud.com 35.223.238.178
-api-v2.soundcloud.com 35.223.238.178
 =a.claude.ai 77.239.114.0
 chatgpt.com 77.239.114.0
 =access.broadcom.com 103.27.157.38
@@ -150,7 +142,6 @@ linear.app 77.239.114.0
 codeium.com 77.239.114.0
 =content-management-files.canva.com 77.239.114.0
 =static.canva.com 77.239.114.0
-=controlplane.tailscale.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -162,7 +153,7 @@ codeium.com 77.239.114.0
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 160.79.104.10
-=dzcdn.net 185.5.160.66
+=dzcdn.net 188.43.72.19
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -200,7 +191,6 @@ pump.fun 77.239.114.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-telemetry.codeium.com 35.223.238.178
 =www.canva.com 103.27.157.38
 =www.dyson.com 104.16.102.112
 =www.dyson.fr 104.16.102.112
