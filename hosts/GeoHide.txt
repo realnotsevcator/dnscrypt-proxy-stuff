@@ -102,7 +102,7 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.244.34 help.instagram.com
+157.240.253.174 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -113,7 +113,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+62.133.62.97 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -190,7 +190,7 @@
 104.16.24.14 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.244.34 www.instagram.com
+157.240.253.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -232,14 +232,14 @@
 157.240.253.174 www.soundcloud.com
 157.240.253.174 promoted.soundcloud.com
 157.240.253.174 api-v2.soundcloud.com
-130.255.77.28 soundcloud.com
-130.255.77.28 www.soundcloud.com
-130.255.77.28 promoted.soundcloud.com
-130.255.77.28 api-v2.soundcloud.com
 62.133.62.97 soundcloud.com
 62.133.62.97 www.soundcloud.com
 62.133.62.97 promoted.soundcloud.com
 62.133.62.97 api-v2.soundcloud.com
+130.255.77.28 soundcloud.com
+130.255.77.28 www.soundcloud.com
+130.255.77.28 promoted.soundcloud.com
+130.255.77.28 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
