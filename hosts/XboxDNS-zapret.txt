@@ -46,7 +46,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-163.70.159.174 b.i.instagram.com
+57.145.2.34 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
@@ -76,7 +76,7 @@
 77.239.114.0 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-139.45.206.137 dzcdn.net
+139.45.206.144 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -104,7 +104,7 @@
 77.239.114.0 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-163.70.159.174 help.instagram.com
+57.145.2.34 help.instagram.com
 103.27.157.38 i.dell.com
 77.239.114.0 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -134,7 +134,7 @@
 77.239.114.0 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 77.239.114.0 patreon.com
-77.239.114.0 payment.deezer.com
+103.27.157.38 payment.deezer.com
 77.239.114.0 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
@@ -179,7 +179,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
-77.239.114.0 windsurf-telemetry.codeium.com
+35.223.238.178 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -192,7 +192,7 @@
 104.16.102.112 www.dyson.fr
 77.239.114.0 www.elgato.com
 103.27.157.38 www.guilded.gg
-163.70.159.174 www.instagram.com
+57.145.2.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -201,7 +201,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-163.70.159.174 z-p42-chat-e2ee-ig.facebook.com
+31.13.72.174 z-p42-chat-e2ee-ig.facebook.com
 77.239.114.0 soundcloud.com
 77.239.114.0 www.soundcloud.com
 77.239.114.0 promoted.soundcloud.com
