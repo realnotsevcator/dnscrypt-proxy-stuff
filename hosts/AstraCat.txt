@@ -63,6 +63,7 @@
 103.27.157.38 console.anthropic.com
 77.239.114.0 constellation.linear.app
 77.239.114.0 content-management-files.canva.com
+45.155.204.190 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -75,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-139.45.206.144 dzcdn.net
+139.45.206.153 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -217,6 +218,10 @@
 13.32.46.190 www.soundcloud.com
 13.32.46.190 promoted.soundcloud.com
 13.32.46.190 api-v2.soundcloud.com
+45.155.204.190 soundcloud.com
+45.155.204.190 www.soundcloud.com
+45.155.204.190 promoted.soundcloud.com
+45.155.204.190 api-v2.soundcloud.com
 172.64.33.155 soundcloud.com
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
@@ -225,10 +230,10 @@
 160.79.104.10 www.soundcloud.com
 160.79.104.10 promoted.soundcloud.com
 160.79.104.10 api-v2.soundcloud.com
-139.45.206.144 soundcloud.com
-139.45.206.144 www.soundcloud.com
-139.45.206.144 promoted.soundcloud.com
-139.45.206.144 api-v2.soundcloud.com
+139.45.206.153 soundcloud.com
+139.45.206.153 www.soundcloud.com
+139.45.206.153 promoted.soundcloud.com
+139.45.206.153 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
