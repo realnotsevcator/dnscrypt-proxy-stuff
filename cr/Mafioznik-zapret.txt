@@ -80,7 +80,8 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api16-normal-alisg.mchost.guru 77.239.114.0
+=api16-normal-alisg.mchost.guru 103.27.157.38
+=trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
@@ -139,7 +140,6 @@ pump.fun 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
-=trae-api-sg.mchost.guru 103.27.157.38
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
