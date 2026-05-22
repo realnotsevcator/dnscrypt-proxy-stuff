@@ -48,7 +48,6 @@ chatgpt.com 77.239.114.0
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
-=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
@@ -114,7 +113,7 @@ codeium.com 77.239.114.0
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 160.79.104.10
-=dzcdn.net 185.5.160.16
+=dzcdn.net 104.123.68.179
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -127,6 +126,7 @@ pump.fun 77.239.114.0
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
+=gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 77.239.114.0
 =guidedhacking.com 77.239.114.0
@@ -142,7 +142,7 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
