@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-139.45.206.153 dzcdn.net
+139.45.206.178 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -94,7 +94,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-45.155.204.190 gemini.google.com
+103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 77.239.114.0 gew1-dealer.spotify.com
@@ -113,7 +113,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+45.155.204.190 labs.google
 77.239.114.0 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -142,7 +142,7 @@
 77.239.114.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-45.155.204.190 robinfrontend-pa.googleapis.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 77.239.114.0 s.linear.app
 103.27.157.38 security.id.supercell.com
@@ -177,6 +177,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 77.239.114.0 webrtc.chatgpt.com
 77.239.114.0 windsurf-stable.codeium.com
+77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 77.239.114.0 www-growth.scdn.co
@@ -229,14 +230,18 @@
 160.79.104.10 www.soundcloud.com
 160.79.104.10 promoted.soundcloud.com
 160.79.104.10 api-v2.soundcloud.com
-139.45.206.153 soundcloud.com
-139.45.206.153 www.soundcloud.com
-139.45.206.153 promoted.soundcloud.com
-139.45.206.153 api-v2.soundcloud.com
+139.45.206.178 soundcloud.com
+139.45.206.178 www.soundcloud.com
+139.45.206.178 promoted.soundcloud.com
+139.45.206.178 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
