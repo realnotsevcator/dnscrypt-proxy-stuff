@@ -17,14 +17,14 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -145,7 +145,7 @@ pump.fun 77.239.114.0
 =guidedhacking.com 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 62.133.62.97
+=labs.google 103.27.157.38
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
