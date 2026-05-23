@@ -49,7 +49,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 77.239.114.0 calendar.notion.so
-3.164.212.39 cdn.auth0.com
+13.32.46.190 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 77.239.114.0 cdn.platform.openai.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 160.79.104.10 dyson.com
-139.45.206.153 dzcdn.net
+104.69.222.137 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -214,10 +214,10 @@
 103.169.142.20 www.soundcloud.com
 103.169.142.20 promoted.soundcloud.com
 103.169.142.20 api-v2.soundcloud.com
-3.164.212.39 soundcloud.com
-3.164.212.39 www.soundcloud.com
-3.164.212.39 promoted.soundcloud.com
-3.164.212.39 api-v2.soundcloud.com
+13.32.46.190 soundcloud.com
+13.32.46.190 www.soundcloud.com
+13.32.46.190 promoted.soundcloud.com
+13.32.46.190 api-v2.soundcloud.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
@@ -230,10 +230,10 @@
 160.79.104.10 www.soundcloud.com
 160.79.104.10 promoted.soundcloud.com
 160.79.104.10 api-v2.soundcloud.com
-139.45.206.153 soundcloud.com
-139.45.206.153 www.soundcloud.com
-139.45.206.153 promoted.soundcloud.com
-139.45.206.153 api-v2.soundcloud.com
+104.69.222.137 soundcloud.com
+104.69.222.137 www.soundcloud.com
+104.69.222.137 promoted.soundcloud.com
+104.69.222.137 api-v2.soundcloud.com
 62.133.62.97 soundcloud.com
 62.133.62.97 www.soundcloud.com
 62.133.62.97 promoted.soundcloud.com
