@@ -52,8 +52,7 @@ chatgpt.com 77.239.114.0
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
+=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -135,10 +134,10 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
@@ -150,7 +149,7 @@ pump.fun 77.239.114.0
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 77.239.114.0
-=www.tiktok.com 103.27.157.38
+=www.tiktok.com 77.239.114.0
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
