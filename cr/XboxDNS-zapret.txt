@@ -87,8 +87,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 103.169.142.20
-=b.i.instagram.com 57.145.2.34
-=help.instagram.com 57.145.2.34
+=b.i.instagram.com 57.144.220.34
+=help.instagram.com 57.144.220.34
+=www.instagram.com 57.144.220.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 77.239.114.0
 =cdn.auth0.com 65.9.68.34
@@ -115,7 +116,7 @@ codeium.com 77.239.114.0
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dzcdn.net 104.84.152.155
+=dzcdn.net 104.69.222.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -134,8 +135,7 @@ pump.fun 77.239.114.0
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =instagram.com 157.240.253.174
-=www.instagram.com 157.240.253.174
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 77.239.114.0
 =marketplace.windsurf.com 77.239.114.0
 =windsurf.com 77.239.114.0
@@ -145,7 +145,7 @@ pump.fun 77.239.114.0
 =patreon.com 77.239.114.0
 =www.patreon.com 77.239.114.0
 =platform.claude.com 77.239.114.0
-=robinfrontend-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 87.228.47.204
 =sora.com 77.239.114.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
@@ -156,12 +156,13 @@ pump.fun 77.239.114.0
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
-=www.dyson.com 103.169.142.20
+=www.dyson.com 103.169.142.21
 =www.dyson.fr 103.169.142.20
 =www.elgato.com 77.239.114.0
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
+=www.qwant.com 77.239.114.0
 =www.tiktok.com 103.27.157.38
 =z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
 telegram.org 149.154.167.220
