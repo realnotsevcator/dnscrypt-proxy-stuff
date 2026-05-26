@@ -13,14 +13,14 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 130.255.77.28
-www.soundcloud.com 130.255.77.28
-promoted.soundcloud.com 130.255.77.28
-api-v2.soundcloud.com 130.255.77.28
 soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
+soundcloud.com 130.255.77.28
+www.soundcloud.com 130.255.77.28
+promoted.soundcloud.com 130.255.77.28
+api-v2.soundcloud.com 130.255.77.28
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -58,7 +58,6 @@ api-v2.soundcloud.com 185.31.40.18
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
-=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
@@ -115,6 +114,7 @@ elevenlabs.io 103.27.157.38
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
+=gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -131,6 +131,7 @@ elevenlabs.io 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
+=www.dyson.fr 103.27.157.38
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
