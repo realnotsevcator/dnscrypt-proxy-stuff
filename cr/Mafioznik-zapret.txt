@@ -83,7 +83,6 @@ elevenlabs.io 103.27.157.38
 =dds.dell.com 103.27.157.38
 =i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
-=www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
