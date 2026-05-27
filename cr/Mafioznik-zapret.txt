@@ -102,7 +102,7 @@ elevenlabs.io 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 62.133.62.97
+=labs.google 103.27.157.38
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
