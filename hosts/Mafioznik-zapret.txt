@@ -62,7 +62,6 @@
 103.27.157.38 errortracking.deepl.com
 103.27.157.38 eu.posthog.com
 103.27.157.38 experimentation-grpc.deepl.com
-103.27.157.38 experimentation.deepl.com
 103.27.157.38 files.oaiusercontent.com
 103.27.157.38 fitbit-pa.googleapis.com
 103.27.157.38 fitbit.google.com
@@ -84,7 +83,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+62.133.62.97 labs.google
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
 103.27.157.38 login-wall.deepl.com
