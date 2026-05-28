@@ -106,6 +106,7 @@ elevenlabs.io 103.27.157.38
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
@@ -114,6 +115,7 @@ elevenlabs.io 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
+=www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
