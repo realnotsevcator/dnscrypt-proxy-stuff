@@ -20,7 +20,7 @@ chatgpt.com 80.74.29.235
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 80.74.29.235
-=accounts.scdn.co 151.101.246.248
+=accounts.scdn.co 146.75.118.248
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -50,8 +50,7 @@ chatgpt.com 80.74.29.235
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
+=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -90,7 +89,7 @@ elevenlabs.io 103.27.157.38
 =www.instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 80.74.29.235
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 18.239.17.70
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 80.74.29.235
 =developers.openai.com 80.74.29.235
@@ -115,7 +114,7 @@ codeium.com 80.74.29.235
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 162.159.142.173
-=dzcdn.net 139.45.207.211
+=dzcdn.net 128.75.237.129
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -123,7 +122,7 @@ codeium.com 80.74.29.235
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 108.156.60.124
+=framer.com 3.174.113.22
 pump.fun 8.47.69.0
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
@@ -147,6 +146,7 @@ pump.fun 8.47.69.0
 =sora.com 80.74.29.235
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 104.16.24.14
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
@@ -154,7 +154,7 @@ pump.fun 8.47.69.0
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =windsurf.com 76.76.21.21
-=www-growth.scdn.co 2.19.181.72
+=www-growth.scdn.co 128.75.237.27
 =www.autodesk.com 23.197.162.24
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
