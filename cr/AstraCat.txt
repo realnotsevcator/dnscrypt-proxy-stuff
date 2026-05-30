@@ -29,10 +29,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 104.69.222.144
-www.soundcloud.com 104.69.222.144
-promoted.soundcloud.com 104.69.222.144
-api-v2.soundcloud.com 104.69.222.144
+soundcloud.com 185.5.160.66
+www.soundcloud.com 185.5.160.66
+promoted.soundcloud.com 185.5.160.66
+api-v2.soundcloud.com 185.5.160.66
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -151,7 +151,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 104.69.222.144
+=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
