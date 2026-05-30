@@ -105,7 +105,7 @@ codeium.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =controlplane.tailscale.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
-=d.rutor.info 172.64.33.155
+=d.rutor.info 103.169.142.21
 =dds.dell.com 103.27.157.38
 =i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
@@ -115,7 +115,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 185.5.160.66
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -140,10 +140,9 @@ pump.fun 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
-=patreon.com 185.246.223.127
-=www.patreon.com 185.246.223.127
+=patreon.com 103.169.142.20
 =platform.claude.com 45.155.204.190
-=robinfrontend-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 45.155.204.190
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -162,6 +161,7 @@ pump.fun 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
+=www.patreon.com 185.246.223.127
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
