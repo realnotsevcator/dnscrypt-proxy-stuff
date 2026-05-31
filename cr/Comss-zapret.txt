@@ -79,7 +79,6 @@ elevenlabs.io 103.27.157.38
 =dd.tidal.com 103.27.157.38
 =images.tidal.com 103.27.157.38
 =link.tidal.com 103.27.157.38
-=listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
@@ -90,7 +89,7 @@ elevenlabs.io 103.27.157.38
 =auth.anthropic.com 80.74.29.235
 =b.i.instagram.com 157.240.205.174
 =help.instagram.com 157.240.205.174
-=instagram.com 157.240.205.174
+=www.instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 3.164.212.39
@@ -118,7 +117,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 128.75.237.32
+=dzcdn.net 128.75.237.27
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -136,15 +135,17 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=instagram.com 57.144.244.34
 =labs.google 103.27.157.38
+=listen.tidal.com 3.174.230.108
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
-=patreon.com 104.16.24.14
-=www.patreon.com 104.16.24.14
+=patreon.com 185.246.223.127
+=www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
@@ -161,8 +162,7 @@ pump.fun 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 108.157.214.106
-=www.instagram.com 57.144.244.34
+=www.elgato.com 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
