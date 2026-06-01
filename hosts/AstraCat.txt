@@ -122,7 +122,7 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 45.155.204.190 manus.im
-45.155.204.190 marketplace.windsurf.com
+35.223.238.178 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -151,7 +151,7 @@
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
-45.155.204.190 server.codeium.com
+35.223.238.178 server.codeium.com
 103.27.157.38 shield.deepl.com
 45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
@@ -229,6 +229,10 @@
 185.5.160.66 www.soundcloud.com
 185.5.160.66 promoted.soundcloud.com
 185.5.160.66 api-v2.soundcloud.com
+35.223.238.178 soundcloud.com
+35.223.238.178 www.soundcloud.com
+35.223.238.178 promoted.soundcloud.com
+35.223.238.178 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
