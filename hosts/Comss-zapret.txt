@@ -34,7 +34,7 @@
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
-103.27.157.38 api.tidal.com
+3.164.68.19 api.tidal.com
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-128.75.237.131 dzcdn.net
+128.75.237.27 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -129,7 +129,6 @@
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
-130.255.77.28 ntc.party
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com

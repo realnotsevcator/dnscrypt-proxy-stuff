@@ -41,7 +41,6 @@ chatgpt.com 45.155.204.190
 =afcs.dellcdn.com 103.27.157.38
 =aisandbox-pa.googleapis.com 103.27.157.38
 =assistant-s3-pa.googleapis.com 103.27.157.38
-=fitbit-pa.googleapis.com 103.27.157.38
 =fitbitvestibuleshim-pa.googleapis.com 103.27.157.38
 =generativelanguage.googleapis.com 103.27.157.38
 =proactivebackend-pa.googleapis.com 103.27.157.38
@@ -115,7 +114,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 139.45.206.163
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -123,6 +122,8 @@ codeium.com 45.155.204.190
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
+=fitbit-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =framer.com 45.155.204.190
 pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
@@ -138,12 +139,10 @@ pump.fun 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
-=ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
-=robinfrontend-pa.googleapis.com 45.155.204.190
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
