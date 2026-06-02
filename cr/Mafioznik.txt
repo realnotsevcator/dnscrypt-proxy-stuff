@@ -13,6 +13,10 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
@@ -36,6 +40,7 @@ chatgpt.com 45.155.204.190
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 45.155.204.190
+=www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
@@ -67,6 +72,7 @@ chatgpt.com 45.155.204.190
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
+=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -151,6 +157,7 @@ pump.fun 45.155.204.190
 =platform.claude.com 45.155.204.190
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
+=sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38

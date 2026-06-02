@@ -18,6 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
+62.133.62.97 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
@@ -139,6 +140,7 @@
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
+45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
@@ -173,6 +175,7 @@
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
+45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
