@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
+62.133.62.97 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -30,7 +30,7 @@
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
-45.155.204.190 api.manus.im
+103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
@@ -47,10 +47,10 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.174.34 b.i.instagram.com
+57.144.132.34 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
-87.228.47.195 calendar.notion.so
+45.155.204.190 calendar.notion.so
 65.9.68.34 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-139.45.207.210 dzcdn.net
+104.69.222.144 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,7 +106,7 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.174.34 help.instagram.com
+57.144.132.34 help.instagram.com
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -196,7 +196,7 @@
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.174.34 www.instagram.com
+57.144.132.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so

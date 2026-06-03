@@ -17,10 +17,6 @@ soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
-soundcloud.com 157.240.253.174
-www.soundcloud.com 157.240.253.174
-promoted.soundcloud.com 157.240.253.174
-api-v2.soundcloud.com 157.240.253.174
 soundcloud.com 37.230.192.51
 www.soundcloud.com 37.230.192.51
 promoted.soundcloud.com 37.230.192.51
@@ -29,10 +25,6 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 2.16.106.20
-www.soundcloud.com 2.16.106.20
-promoted.soundcloud.com 2.16.106.20
-api-v2.soundcloud.com 2.16.106.20
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -102,8 +94,7 @@ deepl.com 103.27.157.38
 elevenlabs.io 103.27.157.38
 =api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
-=api.manus.im 45.155.204.190
-=manus.im 45.155.204.190
+=api.manus.im 103.27.157.38
 =api.tidal.com 103.27.157.38
 =auth.tidal.com 103.27.157.38
 =dd.tidal.com 103.27.157.38
@@ -117,7 +108,6 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-instagram.com 157.240.253.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -145,7 +135,6 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 2.16.106.20
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -163,7 +152,8 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 62.133.62.97
+=labs.google 103.27.157.38
+=manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
@@ -193,4 +183,3 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
