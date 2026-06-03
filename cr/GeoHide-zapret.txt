@@ -52,7 +52,7 @@ chatgpt.com 45.155.204.190
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 37.230.192.51
+=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -70,7 +70,8 @@ deepl.com 103.27.157.38
 elevenlabs.io 103.27.157.38
 =api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
-=api.manus.im 103.27.157.38
+=api.manus.im 45.155.204.190
+=manus.im 45.155.204.190
 =api.tidal.com 103.27.157.38
 =auth.tidal.com 103.27.157.38
 =dd.tidal.com 103.27.157.38
@@ -84,9 +85,10 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
+instagram.com 157.240.253.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 13.249.8.109
+=cdn.auth0.com 37.230.192.51
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
@@ -111,6 +113,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
+=dzcdn.net 2.16.106.20
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -125,11 +128,10 @@ pump.fun 45.155.204.190
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=guidedhacking.com 37.230.192.51
+=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
-=manus.im 45.155.204.190
+=labs.google 62.133.62.97
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
@@ -159,6 +161,7 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
+=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
