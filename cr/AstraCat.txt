@@ -13,10 +13,6 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 35.186.224.24
 www.soundcloud.com 35.186.224.24
 promoted.soundcloud.com 35.186.224.24
@@ -33,10 +29,14 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 104.84.152.235
-www.soundcloud.com 104.84.152.235
-promoted.soundcloud.com 104.84.152.235
-api-v2.soundcloud.com 104.84.152.235
+soundcloud.com 104.69.222.144
+www.soundcloud.com 104.69.222.144
+promoted.soundcloud.com 104.69.222.144
+api-v2.soundcloud.com 104.69.222.144
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -88,7 +88,8 @@ chatgpt.com 45.155.204.190
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 62.133.62.97
+=aitestkitchen.withgoogle.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -150,7 +151,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 104.84.152.235
+=dzcdn.net 104.69.222.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -168,7 +169,7 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -185,7 +186,6 @@ pump.fun 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 103.169.142.20
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
