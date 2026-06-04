@@ -51,7 +51,6 @@
 103.27.157.38 cdn.oaistatic.com
 45.155.204.190 cdn.platform.openai.com
 45.155.204.190 chatgpt.com
-45.155.204.190 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
