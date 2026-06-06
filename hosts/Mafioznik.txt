@@ -61,6 +61,7 @@
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
+172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
 103.27.157.38 dd.tidal.com
 103.27.157.38 dds.dell.com
@@ -107,6 +108,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
+62.133.62.97 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -135,6 +137,7 @@
 45.155.204.190 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
@@ -199,6 +202,14 @@
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
+172.64.33.155 soundcloud.com
+172.64.33.155 www.soundcloud.com
+172.64.33.155 promoted.soundcloud.com
+172.64.33.155 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
