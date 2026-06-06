@@ -61,8 +61,6 @@ chatgpt.com 45.155.204.190
 =ios.chat.openai.com 103.27.157.38
 =platform.openai.com 103.27.157.38
 =tcr9i.chat.openai.com 103.27.157.38
-=ap-gew1.spotify.com 35.186.224.24
-=appresolve.spotify.com 35.186.224.24
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
@@ -87,7 +85,7 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 103.169.142.20
+=auth.anthropic.com 104.18.43.204
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 13.32.46.190
@@ -103,7 +101,6 @@ linear.app 45.155.204.190
 codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
-=controlplane.tailscale.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -115,7 +112,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 104.69.222.144
+=dzcdn.net 188.43.75.74
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -150,7 +147,7 @@ pump.fun 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=sydney.bing.com 103.169.142.20
+=sydney.bing.com 13.107.21.237
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
@@ -158,7 +155,7 @@ pump.fun 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
+=www.elgato.com 2.27.61.75
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
