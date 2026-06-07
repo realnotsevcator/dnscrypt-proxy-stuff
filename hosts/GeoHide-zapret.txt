@@ -40,12 +40,12 @@
 45.155.204.190 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-104.16.24.14 auth.anthropic.com
+172.64.32.155 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-157.240.196.174 b.i.instagram.com
+157.240.253.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-128.75.238.147 dzcdn.net
+2.19.181.113 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,10 +106,10 @@
 103.27.157.38 help.elevenlabs.io
 157.240.253.174 help.instagram.com
 103.27.157.38 i.dell.com
-45.155.204.190 images.pump.fun
+172.64.32.155 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
-57.144.120.34 instagram.com
+157.240.253.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -150,7 +150,7 @@
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
-45.155.204.190 sdmntprukwest.oaiusercontent.com
+103.27.157.100 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
@@ -163,7 +163,7 @@
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
 45.155.204.190 swap-api.pump.fun
-104.16.24.14 sydney.bing.com
+172.64.32.155 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
@@ -203,7 +203,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-157.240.196.174 z-p42-chat-e2ee-ig.facebook.com
+157.240.253.174 z-p42-chat-e2ee-ig.facebook.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
