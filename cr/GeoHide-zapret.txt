@@ -84,9 +84,8 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 104.16.24.14
-=b.i.instagram.com 157.240.196.174
-=www.instagram.com 157.240.196.174
+=auth.anthropic.com 172.64.32.155
+instagram.com 57.144.120.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -130,12 +129,10 @@ pump.fun 45.155.204.190
 =gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=guidedhacking.com 45.155.204.190
+=guidedhacking.com 37.230.192.51
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=help.instagram.com 57.144.120.34
-=instagram.com 57.144.120.34
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -152,7 +149,7 @@ pump.fun 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=sydney.bing.com 104.16.24.14
+=sydney.bing.com 172.64.32.155
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
@@ -166,7 +163,7 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.196.174
+=z-p42-chat-e2ee-ig.facebook.com 57.144.120.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
