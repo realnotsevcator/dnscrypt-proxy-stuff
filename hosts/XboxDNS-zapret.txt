@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
+62.133.62.97 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-185.5.160.66 dzcdn.net
+185.5.160.65 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -111,7 +111,7 @@
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
-157.240.253.174 instagram.com
+57.144.112.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -143,7 +143,7 @@
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
 45.155.204.190 public.linear.app
-8.47.69.0 pump.fun
+45.155.204.190 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
 62.133.62.97 robinfrontend-pa.googleapis.com
@@ -203,7 +203,7 @@
 185.246.223.127 www.patreon.com
 45.155.204.190 www.qwant.com
 103.27.157.38 www.spotify.com
-23.216.134.21 www.tiktok.com
+103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
 157.240.22.174 z-p42-chat-e2ee-ig.facebook.com
 45.155.204.190 soundcloud.com
