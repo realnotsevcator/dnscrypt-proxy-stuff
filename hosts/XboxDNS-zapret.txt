@@ -6,7 +6,7 @@
 # Enjoy :D
 
 45.155.204.190 a.claude.ai
-87.228.47.204 ab.chatgpt.com
+45.155.204.190 ab.chatgpt.com
 45.155.204.190 account.jetbrains.com
 45.155.204.190 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
@@ -16,11 +16,11 @@
 45.155.204.190 aet.spotify.com
 87.228.47.204 aisandbox-pa.googleapis.com
 87.228.47.204 aistudio.google.com
-64.233.162.141 aitestkitchen.withgoogle.com
+74.125.131.141 aitestkitchen.withgoogle.com
 87.228.47.204 alkalimakersuite-pa.clients6.google.com
 45.155.204.190 android.chat.openai.com
 45.155.204.190 api-free.deepl.com
-162.159.136.66 api-global.squareup.com
+45.155.204.190 api-global.squareup.com
 45.155.204.190 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
 45.155.204.190 api.anthropic.com
@@ -42,8 +42,8 @@
 45.155.204.190 auth.openai.com
 103.27.157.38 auth.tidal.com
 45.155.204.190 auth0.openai.com
-31.13.66.174 b.i.instagram.com
-87.228.47.195 backend.deepl.com
+57.144.220.34 b.i.instagram.com
+45.155.204.190 backend.deepl.com
 45.155.204.190 builds.parsec.app
 45.155.204.190 calendar.notion.so
 103.27.157.38 cdn.id.supercell.com
@@ -80,7 +80,7 @@
 45.155.204.190 experimentation.deepl.com
 45.155.204.190 files.oaiusercontent.com
 216.239.32.223 fitbit-pa.googleapis.com
-172.253.62.100 fitbit.google.com
+142.251.215.174 fitbit.google.com
 216.239.32.223 fitbitvestibuleshim-pa.googleapis.com
 45.155.204.190 framer.com
 45.155.204.190 frontend-api-v3.pump.fun
@@ -92,11 +92,11 @@
 45.155.204.190 geolocation.onetrust.com
 45.155.204.190 gew1-dealer.spotify.com
 45.155.204.190 gew1-spclient.spotify.com
-87.228.47.204 grok.com
+45.155.204.190 grok.com
 45.155.204.190 gtm.deepl.com
-8.47.69.0 guidedhacking.com
-45.155.204.190 help.elevenlabs.io
-31.13.66.174 help.instagram.com
+45.155.204.190 guidedhacking.com
+103.169.142.20 help.elevenlabs.io
+57.144.220.34 help.instagram.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
@@ -114,7 +114,7 @@
 45.155.204.190 login5.spotify.com
 45.155.204.190 manus.im
 45.155.204.190 marketplace.windsurf.com
-108.177.14.95 notebooklm.google.com
+87.228.47.204 notebooklm.google.com
 130.255.77.28 ntc.party
 209.85.233.94 o.pki.goog
 45.155.204.190 oneshot-free.www.deepl.com
@@ -166,6 +166,7 @@
 87.228.47.204 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 45.155.204.190 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
@@ -177,7 +178,7 @@
 45.155.204.190 www.dyson.com
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
-31.13.66.174 www.instagram.com
+57.144.220.34 www.instagram.com
 45.155.204.190 www.intel.com
 45.155.204.190 www.notion.so
 185.246.223.127 www.patreon.com
@@ -185,7 +186,7 @@
 45.155.204.190 www.spotify.com
 103.27.157.38 www.tiktok.com
 45.155.204.190 www2.deepl.com
-31.13.66.174 z-p42-chat-e2ee-ig.facebook.com
+57.144.112.34 z-p42-chat-e2ee-ig.facebook.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com

@@ -52,6 +52,7 @@ chatgpt.com 45.155.204.190
 =clashofclans.inbox.supercell.com 103.27.157.38
 =security.id.supercell.com 103.27.157.38
 =store.supercell.com 103.27.157.38
+=accounts.x.ai 45.155.204.190
 =android.chat.openai.com 45.155.204.190
 =api.openai.com 45.155.204.190
 =auth.openai.com 45.155.204.190
@@ -84,6 +85,8 @@ elevenlabs.io 45.155.204.190
 =api16-normal-alisg.mchost.guru 45.155.204.190
 =trae-api-sg.mchost.guru 45.155.204.190
 =app.notion.com 45.155.204.190
+=assets.grok.com 45.155.204.190
+=grok.com 45.155.204.190
 =builds.parsec.app 45.155.204.190
 =calendar.notion.so 45.155.204.190
 =www.notion.so 45.155.204.190
@@ -102,6 +105,7 @@ codeium.com 45.155.204.190
 =dyson.com 45.155.204.190
 =www.dyson.com 45.155.204.190
 =edgeservices.bing.com 45.155.204.190
+=rewards.bing.com 45.155.204.190
 =elevenreader.io 45.155.204.190
 =files.oaiusercontent.com 45.155.204.190
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
@@ -114,7 +118,7 @@ pump.fun 45.155.204.190
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 45.155.204.190
-=grok.com 45.155.204.190
+=guidedhacking.com 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
 =ntc.party 130.255.77.28
