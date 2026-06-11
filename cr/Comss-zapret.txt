@@ -51,7 +51,8 @@ chatgpt.com 45.155.204.190
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 62.133.62.97
+=aitestkitchen.withgoogle.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -86,7 +87,8 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 80.74.24.165
-instagram.com 157.240.205.174
+=b.i.instagram.com 157.240.205.174
+=instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 3.164.212.39
@@ -114,7 +116,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 164.215.74.10
+=dzcdn.net 139.45.207.210
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -133,7 +135,9 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
+=help.instagram.com 57.144.244.34
+=www.instagram.com 57.144.244.34
+=labs.google 62.133.62.97
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -150,7 +154,6 @@ pump.fun 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
 =sydney.bing.com 104.16.24.14
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
