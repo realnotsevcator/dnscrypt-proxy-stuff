@@ -15,6 +15,7 @@
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
+103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
@@ -32,7 +33,6 @@
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
-103.27.157.38 api.tidal.com
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
@@ -136,6 +136,7 @@
 45.155.204.190 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com

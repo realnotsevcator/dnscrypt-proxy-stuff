@@ -58,6 +58,7 @@ chatgpt.com 45.155.204.190
 =security.id.supercell.com 103.27.157.38
 =store.supercell.com 103.27.157.38
 =accounts.x.ai 103.27.157.38
+=afcs.dellcdn.com 103.27.157.38
 =aisandbox-pa.googleapis.com 103.27.157.38
 =assistant-s3-pa.googleapis.com 103.27.157.38
 =fitbit-pa.googleapis.com 103.27.157.38
@@ -90,7 +91,11 @@ elevenlabs.io 103.27.157.38
 =api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
 =api.manus.im 103.27.157.38
-=api.tidal.com 103.27.157.38
+=api16-normal-alisg.mchost.guru 103.27.157.38
+=trae-api-sg.mchost.guru 103.27.157.38
+=app.notion.com 45.155.204.190
+=assets.grok.com 103.27.157.38
+=grok.com 103.27.157.38
 =auth.tidal.com 103.27.157.38
 =dd.tidal.com 103.27.157.38
 =images.tidal.com 103.27.157.38
@@ -98,11 +103,6 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api16-normal-alisg.mchost.guru 103.27.157.38
-=trae-api-sg.mchost.guru 103.27.157.38
-=app.notion.com 45.155.204.190
-=assets.grok.com 103.27.157.38
-=grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
@@ -156,6 +156,7 @@ pump.fun 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
