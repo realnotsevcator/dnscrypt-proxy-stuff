@@ -48,6 +48,7 @@ chatgpt.com 45.155.204.190
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
+=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
@@ -97,7 +98,6 @@ elevenlabs.io 103.27.157.38
 linear.app 45.155.204.190
 codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
-=static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
