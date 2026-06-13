@@ -17,10 +17,6 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -42,6 +38,7 @@ chatgpt.com 45.155.204.190
 =accounts.autodesk.com 45.155.204.190
 =www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
+=www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -80,8 +77,8 @@ chatgpt.com 45.155.204.190
 =platform.openai.com 103.27.157.38
 =tcr9i.chat.openai.com 103.27.157.38
 deepl.com 103.27.157.38
-=api-global.squareup.com 45.155.204.190
-=api.squareup.com 45.155.204.190
+=api-global.squareup.com 103.27.157.38
+=api.squareup.com 103.27.157.38
 =api-sg-central.trae.ai 45.155.204.190
 =api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
@@ -136,19 +133,15 @@ codeium.com 45.155.204.190
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 45.155.204.190
-=frontend-api-v3.pump.fun 45.155.204.190
-=pump.fun 45.155.204.190
-=swap-api.pump.fun 45.155.204.190
+pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
-=gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -158,7 +151,6 @@ codeium.com 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -172,7 +164,6 @@ codeium.com 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
