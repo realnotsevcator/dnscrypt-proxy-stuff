@@ -86,9 +86,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 80.74.24.165
-=b.i.instagram.com 157.240.205.174
-=help.instagram.com 157.240.205.174
-=www.instagram.com 157.240.205.174
+instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 3.164.212.39
@@ -96,7 +94,9 @@ elevenlabs.io 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
 =videos.openai.com 45.155.204.190
-=checkout.www.deepl.com 80.74.24.165
+=checkout.www.deepl.com 45.155.204.190
+=gtm.deepl.com 45.155.204.190
+=voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
 codeium.com 45.155.204.190
@@ -114,7 +114,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 139.45.207.203
+=dzcdn.net 139.45.207.210
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -130,13 +130,10 @@ pump.fun 45.155.204.190
 =gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=gtm.deepl.com 45.155.204.190
-=voice-proxy.www.deepl.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=instagram.com 57.144.244.34
-=labs.google 62.133.62.97
+=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -168,7 +165,7 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.205.174
+=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178

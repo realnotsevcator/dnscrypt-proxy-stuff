@@ -21,6 +21,8 @@ chatgpt.com 45.155.204.190
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 45.155.204.190
 =www.autodesk.com 45.155.204.190
+=accounts.scdn.co 45.155.204.190
+=www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -46,11 +48,9 @@ chatgpt.com 45.155.204.190
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
-=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 62.133.62.97
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -88,6 +88,9 @@ elevenlabs.io 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
 =videos.openai.com 45.155.204.190
+=checkout.www.deepl.com 45.155.204.190
+=gtm.deepl.com 45.155.204.190
+=voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
 codeium.com 45.155.204.190
@@ -118,12 +121,9 @@ pump.fun 45.155.204.190
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=gtm.deepl.com 45.155.204.190
-=voice-proxy.www.deepl.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -133,7 +133,6 @@ pump.fun 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -145,7 +144,6 @@ pump.fun 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=www-growth.scdn.co 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
