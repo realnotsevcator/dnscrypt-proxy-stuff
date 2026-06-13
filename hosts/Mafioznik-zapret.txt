@@ -18,10 +18,11 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
-103.27.157.38 api-global.squareup.com
+45.155.204.190 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
@@ -31,7 +32,7 @@
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
-103.27.157.38 api.squareup.com
+45.155.204.190 api.squareup.com
 103.27.157.38 api.tidal.com
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
@@ -88,6 +89,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
+62.133.62.97 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 45.155.204.190 gew1-dealer.spotify.com
@@ -98,7 +100,6 @@
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
-45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
@@ -106,6 +107,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
+103.27.157.38 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -134,6 +136,7 @@
 45.155.204.190 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
@@ -172,7 +175,6 @@
 45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
