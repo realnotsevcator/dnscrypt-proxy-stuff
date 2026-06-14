@@ -26,7 +26,6 @@ chatgpt.com 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
-=api.spotify.com 103.27.157.38
 =gew1-spclient.spotify.com 103.27.157.38
 =login5.spotify.com 103.27.157.38
 =open.spotify.com 103.27.157.38
@@ -37,7 +36,6 @@ chatgpt.com 45.155.204.190
 =clashofclans.inbox.supercell.com 103.27.157.38
 =security.id.supercell.com 103.27.157.38
 =store.supercell.com 103.27.157.38
-=accounts.x.ai 103.27.157.38
 =afcs.dellcdn.com 103.27.157.38
 =aisandbox-pa.googleapis.com 103.27.157.38
 =assistant-s3-pa.googleapis.com 103.27.157.38
@@ -52,8 +50,6 @@ chatgpt.com 45.155.204.190
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -65,12 +61,15 @@ deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
 =api-sg-central.trae.ai 45.155.204.190
+=api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
 =api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
 =api.manus.im 103.27.157.38
+=api.spotify.com 45.155.204.190
+=gew1-dealer.spotify.com 45.155.204.190
 =api.tidal.com 103.27.157.38
 =auth.tidal.com 103.27.157.38
 =dd.tidal.com 103.27.157.38
@@ -122,8 +121,6 @@ pump.fun 45.155.204.190
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 45.155.204.190
-=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
@@ -136,13 +133,13 @@ pump.fun 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
