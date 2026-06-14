@@ -57,7 +57,6 @@ chatgpt.com 45.155.204.190
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
-=auth0.openai.com 103.27.157.38
 =ios.chat.openai.com 103.27.157.38
 =platform.openai.com 103.27.157.38
 =tcr9i.chat.openai.com 103.27.157.38
@@ -88,14 +87,15 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 80.74.24.165
-instagram.com 157.240.205.174
-=builds.parsec.app 103.27.157.38
-=calendar.notion.so 45.155.204.190
-=cdn.auth0.com 3.164.212.39
-=cdn.oaistatic.com 103.27.157.38
+=auth0.openai.com 45.155.204.190
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
 =videos.openai.com 45.155.204.190
+instagram.com 157.240.205.174
+=builds.parsec.app 103.27.157.38
+=calendar.notion.so 45.155.204.190
+=cdn.auth0.com 18.239.17.70
+=cdn.oaistatic.com 103.27.157.38
 =checkout.www.deepl.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
@@ -116,7 +116,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 139.45.206.147
+=dzcdn.net 139.45.206.137
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
