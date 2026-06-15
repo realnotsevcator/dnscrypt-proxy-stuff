@@ -13,10 +13,6 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
-soundcloud.com 2.27.61.75
-www.soundcloud.com 2.27.61.75
-promoted.soundcloud.com 2.27.61.75
-api-v2.soundcloud.com 2.27.61.75
 soundcloud.com 162.159.140.167
 www.soundcloud.com 162.159.140.167
 promoted.soundcloud.com 162.159.140.167
@@ -29,10 +25,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 2.16.21.66
-www.soundcloud.com 2.16.21.66
-promoted.soundcloud.com 2.16.21.66
-api-v2.soundcloud.com 2.16.21.66
+soundcloud.com 188.43.75.74
+www.soundcloud.com 188.43.75.74
+promoted.soundcloud.com 188.43.75.74
+api-v2.soundcloud.com 188.43.75.74
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -49,6 +45,10 @@ soundcloud.com 13.107.21.237
 www.soundcloud.com 13.107.21.237
 promoted.soundcloud.com 13.107.21.237
 api-v2.soundcloud.com 13.107.21.237
+soundcloud.com 2.27.61.75
+www.soundcloud.com 2.27.61.75
+promoted.soundcloud.com 2.27.61.75
+api-v2.soundcloud.com 2.27.61.75
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -105,6 +105,7 @@ deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
 =api-sg-central.trae.ai 45.155.204.190
+=api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -119,7 +120,6 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.trae.ai 2.27.61.75
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 45.155.204.190
@@ -135,6 +135,7 @@ elevenlabs.io 103.27.157.38
 =videos.openai.com 45.155.204.190
 =checkout.www.deepl.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
+=voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
 codeium.com 45.155.204.190
@@ -151,7 +152,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 2.16.21.66
+=dzcdn.net 188.43.75.74
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =elevenreader.io 103.27.157.38
@@ -170,8 +171,9 @@ pump.fun 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
-=manus.im 2.27.61.75
+=manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
+=windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -189,9 +191,7 @@ pump.fun 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=voice-proxy.www.deepl.com 2.27.61.75
 =web.archive.org 103.27.157.38
-=windsurf.com 2.27.61.75
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
@@ -200,4 +200,4 @@ pump.fun 45.155.204.190
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
-=www.tiktok.com 103.27.157.38
+=www.tiktok.com 2.27.61.75
