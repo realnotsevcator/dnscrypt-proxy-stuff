@@ -31,10 +31,6 @@ promoted.soundcloud.com 185.246.223.127
 api-v2.soundcloud.com 185.246.223.127
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
-=access.broadcom.com 103.27.157.38
-=knowledge.broadcom.com 103.27.157.38
-=profile.broadcom.com 103.27.157.38
-=support.broadcom.com 103.27.157.38
 =account.jetbrains.com 103.27.157.38
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
@@ -103,7 +99,6 @@ elevenlabs.io 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
-=grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
@@ -144,9 +139,13 @@ pump.fun 45.155.204.190
 =gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
+=grok.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=knowledge.broadcom.com 103.27.157.38
+=profile.broadcom.com 103.27.157.38
+=support.broadcom.com 103.27.157.38
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190

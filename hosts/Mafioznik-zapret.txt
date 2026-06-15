@@ -7,7 +7,6 @@
 
 45.155.204.190 a.claude.ai
 45.155.204.190 ab.chatgpt.com
-103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 45.155.204.190 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
@@ -94,7 +93,7 @@
 103.27.157.38 geolocation.onetrust.com
 45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
-103.27.157.38 grok.com
+45.155.204.190 grok.com
 45.155.204.190 gtm.deepl.com
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
