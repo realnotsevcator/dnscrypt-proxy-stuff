@@ -10,7 +10,6 @@ www.soundcloud.com 45.155.204.190
 promoted.soundcloud.com 45.155.204.190
 api-v2.soundcloud.com 45.155.204.190
 =a.claude.ai 45.155.204.190
-chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -48,7 +47,6 @@ chatgpt.com 45.155.204.190
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
-=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
@@ -91,11 +89,17 @@ elevenlabs.io 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
 =videos.openai.com 45.155.204.190
+chatgpt.com 45.155.204.190
 =checkout.www.deepl.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
-linear.app 45.155.204.190
+=client-api.linear.app 45.155.204.190
+=constellation.linear.app 45.155.204.190
+=public.linear.app 45.155.204.190
+=s.linear.app 45.155.204.190
+=static.linear.app 45.155.204.190
+=uploads.linear.app 45.155.204.190
 codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
