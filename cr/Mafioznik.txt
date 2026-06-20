@@ -68,7 +68,6 @@ chatgpt.com 45.155.204.190
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
-=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
@@ -108,9 +107,6 @@ elevenlabs.io 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
-=cdn.platform.openai.com 45.155.204.190
-=developers.openai.com 45.155.204.190
-=videos.openai.com 45.155.204.190
 =checkout.www.deepl.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
@@ -129,6 +125,8 @@ codeium.com 45.155.204.190
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
+=developers.openai.com 45.155.204.190
+=videos.openai.com 45.155.204.190
 =dyson.com 45.155.204.190
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
@@ -143,6 +141,7 @@ pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
+=gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
