@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
+62.133.62.97 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-128.75.237.104 dzcdn.net
+139.45.206.177 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -175,10 +175,10 @@
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
 45.155.204.190 videos.openai.com
-85.137.95.246 voice-proxy.www.deepl.com
+45.155.204.190 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
-85.137.95.246 web-backend.codeium.com
+45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
@@ -201,7 +201,7 @@
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 185.246.223.127 www.patreon.com
-45.155.204.190 www.qwant.com
+85.137.95.246 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
