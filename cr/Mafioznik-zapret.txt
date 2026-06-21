@@ -11,10 +11,6 @@ promoted.soundcloud.com 45.155.204.190
 api-v2.soundcloud.com 45.155.204.190
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
-=access.broadcom.com 103.27.157.38
-=knowledge.broadcom.com 103.27.157.38
-=profile.broadcom.com 103.27.157.38
-=support.broadcom.com 103.27.157.38
 =account.jetbrains.com 103.27.157.38
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
@@ -38,6 +34,7 @@ chatgpt.com 45.155.204.190
 =security.id.supercell.com 103.27.157.38
 =store.supercell.com 103.27.157.38
 =accounts.x.ai 103.27.157.38
+=afcs.dellcdn.com 103.27.157.38
 =aisandbox-pa.googleapis.com 103.27.157.38
 =assistant-s3-pa.googleapis.com 103.27.157.38
 =fitbit-pa.googleapis.com 103.27.157.38
@@ -47,9 +44,12 @@ chatgpt.com 45.155.204.190
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
+=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
+=aitestkitchen.withgoogle.com 103.27.157.38
+=stitch.withgoogle.com 103.27.157.38
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -66,7 +66,7 @@ deepl.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
 =api.fitbit.com 103.27.157.38
-=api.jetbrains.ai 45.155.204.190
+=api.jetbrains.ai 103.27.157.38
 =api.manus.im 103.27.157.38
 =api.tidal.com 103.27.157.38
 =auth.tidal.com 103.27.157.38
@@ -76,8 +76,7 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api16-normal-alisg.mchost.guru 103.27.157.38
-=trae-api-sg.mchost.guru 103.27.157.38
+=api16-normal-alisg.mchost.guru 45.155.204.190
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
@@ -92,6 +91,7 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
+codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
@@ -123,6 +123,10 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=knowledge.broadcom.com 103.27.157.38
+=profile.broadcom.com 103.27.157.38
+=support.broadcom.com 103.27.157.38
+=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -137,14 +141,9 @@ pump.fun 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
-=server.codeium.com 45.155.204.190
-=unleash.codeium.com 45.155.204.190
-=web-backend.codeium.com 45.155.204.190
-=windsurf-stable.codeium.com 45.155.204.190
-=windsurf-telemetry.codeium.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=stitch.withgoogle.com 103.27.157.38
+=trae-api-sg.mchost.guru 103.27.157.38
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
