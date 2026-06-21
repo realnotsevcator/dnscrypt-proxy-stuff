@@ -40,7 +40,7 @@
 45.155.204.190 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-162.159.140.167 auth.anthropic.com
+104.18.43.204 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.83 dzcdn.net
+188.43.75.74 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -111,7 +111,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-185.246.223.127 labs.google
+103.27.157.38 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -133,7 +133,7 @@
 103.27.157.38 payment.deezer.com
 45.155.204.190 platform.claude.com
 103.27.157.38 platform.openai.com
-45.155.204.190 plugins.jetbrains.com
+103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
 45.155.204.190 public.linear.app
