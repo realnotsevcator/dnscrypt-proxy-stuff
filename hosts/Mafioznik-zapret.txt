@@ -8,7 +8,7 @@
 45.155.204.190 a.claude.ai
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
-45.155.204.190 account.jetbrains.com
+103.27.157.38 account.jetbrains.com
 45.155.204.190 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
@@ -23,15 +23,15 @@
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
-103.27.157.38 api-partner.spotify.com
+45.155.204.190 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
-45.155.204.190 api.manus.im
+103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
-103.27.157.38 api.spotify.com
+45.155.204.190 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 45.155.204.190 api.trae.ai
@@ -108,7 +108,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+62.133.62.97 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -128,7 +128,6 @@
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
-45.155.204.190 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -137,9 +136,7 @@
 45.155.204.190 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
-45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
