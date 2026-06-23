@@ -23,7 +23,7 @@
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
-45.155.204.190 api-partner.spotify.com
+103.27.157.38 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
@@ -31,7 +31,7 @@
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
-45.155.204.190 api.spotify.com
+103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 45.155.204.190 api.trae.ai
@@ -128,6 +128,7 @@
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
+45.155.204.190 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -136,7 +137,9 @@
 45.155.204.190 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
+45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
@@ -171,7 +174,6 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
