@@ -7,7 +7,6 @@
 
 45.155.204.190 a.claude.ai
 45.155.204.190 ab.chatgpt.com
-103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 45.155.204.190 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
@@ -18,14 +17,14 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
+62.133.62.97 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
-103.27.157.38 api.anthropic.com
+45.155.204.190 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
