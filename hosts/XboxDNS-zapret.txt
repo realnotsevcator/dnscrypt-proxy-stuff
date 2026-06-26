@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -42,16 +42,15 @@
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-104.16.102.112 auth.anthropic.com
+104.18.24.59 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.145.12.34 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
-65.9.68.34 cdn.auth0.com
+104.18.24.59 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 45.155.204.190 cdn.platform.openai.com
@@ -65,7 +64,6 @@
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
-192.200.0.101 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -78,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-139.45.206.168 dzcdn.net
+2.19.181.106 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,12 +104,10 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.145.12.34 help.instagram.com
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
-57.144.112.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -196,7 +192,6 @@
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.145.12.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -205,7 +200,6 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-57.144.112.34 z-p42-chat-e2ee-ig.facebook.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
