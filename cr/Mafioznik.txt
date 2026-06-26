@@ -139,7 +139,9 @@ codeium.com 45.155.204.190
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 45.155.204.190
-pump.fun 45.155.204.190
+=frontend-api-v3.pump.fun 45.155.204.190
+=images.pump.fun 45.155.204.190
+=swap-api.pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
@@ -151,7 +153,6 @@ pump.fun 45.155.204.190
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
-=windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -160,7 +161,6 @@ pump.fun 45.155.204.190
 =platform.claude.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
-=sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
@@ -177,3 +177,4 @@ pump.fun 45.155.204.190
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
+=www.tiktok.com 103.27.157.38
