@@ -87,9 +87,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 57.145.2.34
-=help.instagram.com 57.145.2.34
-=www.instagram.com 57.145.2.34
+=b.i.instagram.com 57.144.248.34
+=help.instagram.com 57.144.248.34
+=www.instagram.com 57.144.248.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 65.9.68.34
@@ -116,8 +116,8 @@ codeium.com 45.155.204.190
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 87.228.47.195
-=dzcdn.net 2.19.181.106
+=dyson.com 45.155.204.190
+=dzcdn.net 139.45.206.171
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -133,7 +133,7 @@ pump.fun 45.155.204.190
 =game-assets.clashroyaleapp.com 103.27.157.38
 =gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 35.186.224.33
+=gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
