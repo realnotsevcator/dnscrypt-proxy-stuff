@@ -26,7 +26,7 @@
 103.27.157.38 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
-103.27.157.38 api.elevenlabs.io
+45.155.204.190 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im

@@ -68,7 +68,7 @@ deepl.com 103.27.157.38
 =api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
-elevenlabs.io 103.27.157.38
+=api.elevenlabs.io 45.155.204.190
 =api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
 =api.manus.im 103.27.157.38
@@ -80,6 +80,9 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.us.elevenlabs.io 103.27.157.38
+=elevenlabs.io 103.27.157.38
+=help.elevenlabs.io 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 45.155.204.190
