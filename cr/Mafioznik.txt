@@ -43,14 +43,7 @@ chatgpt.com 45.155.204.190
 =www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
-=accounts.spotify.com 45.155.204.190
-=gew1-dealer.spotify.com 45.155.204.190
-=accounts.supercell.com 103.27.157.38
-=cdn.id.supercell.com 103.27.157.38
-=clashofclans.inbox.supercell.com 103.27.157.38
-=security.id.supercell.com 103.27.157.38
-=store.supercell.com 103.27.157.38
-=accounts.x.ai 103.27.157.38
+=accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
 =api.spotify.com 103.27.157.38
@@ -59,6 +52,12 @@ chatgpt.com 45.155.204.190
 =open.spotify.com 103.27.157.38
 =spclient.wg.spotify.com 103.27.157.38
 =www.spotify.com 103.27.157.38
+=accounts.supercell.com 103.27.157.38
+=cdn.id.supercell.com 103.27.157.38
+=clashofclans.inbox.supercell.com 103.27.157.38
+=security.id.supercell.com 103.27.157.38
+=store.supercell.com 103.27.157.38
+=accounts.x.ai 103.27.157.38
 =afcs.dellcdn.com 103.27.157.38
 =aisandbox-pa.googleapis.com 103.27.157.38
 =assistant-s3-pa.googleapis.com 103.27.157.38
@@ -144,6 +143,7 @@ pump.fun 45.155.204.190
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
+=gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38

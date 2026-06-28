@@ -11,7 +11,7 @@
 103.27.157.38 account.jetbrains.com
 45.155.204.190 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
-45.155.204.190 accounts.spotify.com
+103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com

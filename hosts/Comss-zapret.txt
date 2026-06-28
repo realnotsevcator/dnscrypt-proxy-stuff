@@ -27,7 +27,7 @@
 103.27.157.38 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
-103.27.157.38 api.elevenlabs.io
+45.155.204.190 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
@@ -51,7 +51,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
-3.164.212.39 cdn.auth0.com
+18.239.17.70 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 45.155.204.190 cdn.platform.openai.com

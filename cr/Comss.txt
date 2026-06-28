@@ -25,10 +25,10 @@ soundcloud.com 157.240.205.174
 www.soundcloud.com 157.240.205.174
 promoted.soundcloud.com 157.240.205.174
 api-v2.soundcloud.com 157.240.205.174
-soundcloud.com 3.164.212.39
-www.soundcloud.com 3.164.212.39
-promoted.soundcloud.com 3.164.212.39
-api-v2.soundcloud.com 3.164.212.39
+soundcloud.com 18.239.17.70
+www.soundcloud.com 18.239.17.70
+promoted.soundcloud.com 18.239.17.70
+api-v2.soundcloud.com 18.239.17.70
 soundcloud.com 192.200.0.101
 www.soundcloud.com 192.200.0.101
 promoted.soundcloud.com 192.200.0.101
@@ -118,7 +118,7 @@ deepl.com 103.27.157.38
 =api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
-elevenlabs.io 103.27.157.38
+=api.elevenlabs.io 45.155.204.190
 =api.fitbit.com 103.27.157.38
 =api.jetbrains.ai 103.27.157.38
 =api.manus.im 103.27.157.38
@@ -130,6 +130,9 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.us.elevenlabs.io 103.27.157.38
+=elevenlabs.io 103.27.157.38
+=help.elevenlabs.io 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 45.155.204.190
@@ -139,7 +142,7 @@ elevenlabs.io 103.27.157.38
 =b.i.instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 18.239.17.70
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190

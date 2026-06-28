@@ -25,10 +25,10 @@ soundcloud.com 104.16.102.112
 www.soundcloud.com 104.16.102.112
 promoted.soundcloud.com 104.16.102.112
 api-v2.soundcloud.com 104.16.102.112
-soundcloud.com 31.13.66.174
-www.soundcloud.com 31.13.66.174
-promoted.soundcloud.com 31.13.66.174
-api-v2.soundcloud.com 31.13.66.174
+soundcloud.com 57.145.2.34
+www.soundcloud.com 57.145.2.34
+promoted.soundcloud.com 57.145.2.34
+api-v2.soundcloud.com 57.145.2.34
 soundcloud.com 65.9.68.34
 www.soundcloud.com 65.9.68.34
 promoted.soundcloud.com 65.9.68.34
@@ -41,10 +41,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 104.69.222.144
-www.soundcloud.com 104.69.222.144
-promoted.soundcloud.com 104.69.222.144
-api-v2.soundcloud.com 104.69.222.144
+soundcloud.com 104.69.222.137
+www.soundcloud.com 104.69.222.137
+promoted.soundcloud.com 104.69.222.137
+api-v2.soundcloud.com 104.69.222.137
 soundcloud.com 157.240.253.174
 www.soundcloud.com 157.240.253.174
 promoted.soundcloud.com 157.240.253.174
@@ -96,7 +96,6 @@ chatgpt.com 45.155.204.190
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
-=gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
@@ -135,9 +134,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 31.13.66.174
-=help.instagram.com 31.13.66.174
-=www.instagram.com 31.13.66.174
+=b.i.instagram.com 57.145.2.34
+=help.instagram.com 57.145.2.34
+=www.instagram.com 57.145.2.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 65.9.68.34
@@ -165,7 +164,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 104.69.222.144
+=dzcdn.net 104.69.222.137
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -179,6 +178,7 @@ pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
+=gemini.google.com 62.133.62.97
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190

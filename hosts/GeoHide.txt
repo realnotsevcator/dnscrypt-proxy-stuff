@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-184.51.252.149 dzcdn.net
+185.5.160.82 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -94,7 +94,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-62.133.62.97 gemini.google.com
+103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 45.155.204.190 gew1-dealer.spotify.com
@@ -184,7 +184,7 @@
 45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
+37.230.192.51 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
@@ -212,10 +212,6 @@
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
 104.16.24.14 soundcloud.com
 104.16.24.14 www.soundcloud.com
 104.16.24.14 promoted.soundcloud.com
@@ -232,10 +228,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-184.51.252.149 soundcloud.com
-184.51.252.149 www.soundcloud.com
-184.51.252.149 promoted.soundcloud.com
-184.51.252.149 api-v2.soundcloud.com
+185.5.160.82 soundcloud.com
+185.5.160.82 www.soundcloud.com
+185.5.160.82 promoted.soundcloud.com
+185.5.160.82 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
@@ -244,3 +240,7 @@
 185.246.223.127 www.soundcloud.com
 185.246.223.127 promoted.soundcloud.com
 185.246.223.127 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
