@@ -85,7 +85,8 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-instagram.com 57.144.120.34
+=auth.anthropic.com 172.64.32.155
+instagram.com 157.240.196.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -113,7 +114,6 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -136,8 +136,9 @@ pump.fun 45.155.204.190
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
-=ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
+=patreon.com 172.64.32.155
+=www.patreon.com 172.64.32.155
 =platform.claude.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
@@ -159,7 +160,7 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.120.34
+=z-p42-chat-e2ee-ig.facebook.com 157.240.196.174
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
