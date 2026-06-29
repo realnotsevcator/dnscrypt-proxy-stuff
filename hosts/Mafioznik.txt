@@ -14,12 +14,13 @@
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
+103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
-45.155.204.190 api-free.deepl.com
+103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
 45.155.204.190 api-sg-central.trae.ai
@@ -28,7 +29,7 @@
 103.27.157.38 api.fitbit.com
 103.27.157.38 api.jetbrains.ai
 103.27.157.38 api.manus.im
-45.155.204.190 api.openai.com
+103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
@@ -99,6 +100,7 @@
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
+45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -112,6 +114,7 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 45.155.204.190 manus.im
+45.155.204.190 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -163,11 +166,11 @@
 45.155.204.190 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
+45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
