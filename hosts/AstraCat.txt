@@ -6,7 +6,7 @@
 # Enjoy :D
 
 45.155.204.190 a.claude.ai
-2.26.55.46 ab.chatgpt.com
+45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 45.155.204.190 accounts.autodesk.com
@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-62.133.62.97 aitestkitchen.withgoogle.com
+103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
@@ -52,12 +52,12 @@
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 45.155.204.190 cdn.platform.openai.com
-45.155.204.190 chatgpt.com
+2.26.55.46 chatgpt.com
 45.155.204.190 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
-2.26.55.46 client-api.linear.app
+45.155.204.190 client-api.linear.app
 45.155.204.190 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
@@ -111,7 +111,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+62.133.62.97 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -146,11 +146,11 @@
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
-8.47.69.0 sdmntprukwest.oaiusercontent.com
+45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
-2.26.55.46 sora.chatgpt.com
+45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 45.155.204.190 static.canva.com
@@ -193,7 +193,7 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
-2.26.55.46 www.patreon.com
+185.246.223.127 www.patreon.com
 45.155.204.190 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
@@ -202,18 +202,10 @@
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
 45.155.204.190 api-v2.soundcloud.com
-2.26.55.46 soundcloud.com
-2.26.55.46 www.soundcloud.com
-2.26.55.46 promoted.soundcloud.com
-2.26.55.46 api-v2.soundcloud.com
 103.27.157.38 soundcloud.com
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
 162.159.140.167 soundcloud.com
 162.159.140.167 www.soundcloud.com
 162.159.140.167 promoted.soundcloud.com
@@ -222,6 +214,10 @@
 13.32.46.190 www.soundcloud.com
 13.32.46.190 promoted.soundcloud.com
 13.32.46.190 api-v2.soundcloud.com
+2.26.55.46 soundcloud.com
+2.26.55.46 www.soundcloud.com
+2.26.55.46 promoted.soundcloud.com
+2.26.55.46 api-v2.soundcloud.com
 172.64.33.155 soundcloud.com
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
@@ -230,6 +226,10 @@
 188.43.75.74 www.soundcloud.com
 188.43.75.74 promoted.soundcloud.com
 188.43.75.74 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
@@ -238,7 +238,3 @@
 185.246.223.127 www.soundcloud.com
 185.246.223.127 promoted.soundcloud.com
 185.246.223.127 api-v2.soundcloud.com
-8.47.69.0 soundcloud.com
-8.47.69.0 www.soundcloud.com
-8.47.69.0 promoted.soundcloud.com
-8.47.69.0 api-v2.soundcloud.com
