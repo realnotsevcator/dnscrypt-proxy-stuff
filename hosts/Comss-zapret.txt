@@ -18,7 +18,7 @@
 103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
+62.133.62.97 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 35.186.224.24 ap-gew1.spotify.com
@@ -33,7 +33,7 @@
 103.27.157.38 api.manus.im
 103.27.157.38 api.openai.com
 103.27.157.38 api.spotify.com
-45.155.204.190 api.squareup.com
+103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
@@ -42,12 +42,12 @@
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-104.16.24.14 auth.anthropic.com
+103.137.248.87 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.244.34 b.i.instagram.com
+157.240.205.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
@@ -56,7 +56,7 @@
 103.27.157.38 cdn.oaistatic.com
 45.155.204.190 cdn.platform.openai.com
 45.155.204.190 chatgpt.com
-45.155.204.190 checkout.www.deepl.com
+103.137.248.87 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-139.45.206.137 dzcdn.net
+128.75.237.27 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io

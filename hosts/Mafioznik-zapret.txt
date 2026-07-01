@@ -56,7 +56,6 @@
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 45.155.204.190 client-api.linear.app
-45.155.204.190 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
@@ -177,7 +176,6 @@
 45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
