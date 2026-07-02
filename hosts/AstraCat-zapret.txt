@@ -15,7 +15,7 @@
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
-103.27.157.38 afcs.dellcdn.com
+104.103.64.8 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 62.133.62.97 aitestkitchen.withgoogle.com
@@ -92,7 +92,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-103.27.157.38 gemini.google.com
+62.133.62.97 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 45.155.204.190 gew1-dealer.spotify.com
@@ -105,7 +105,7 @@
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
-2.26.55.46 inference.codeium.com
+45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -123,7 +123,6 @@
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
-130.255.77.28 ntc.party
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com
@@ -173,7 +172,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 45.155.204.190 web-backend.codeium.com
-45.155.204.190 web.archive.org
+103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
