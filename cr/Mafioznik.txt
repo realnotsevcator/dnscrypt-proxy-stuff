@@ -13,10 +13,6 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
 soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
@@ -29,6 +25,10 @@ soundcloud.com 185.246.223.127
 www.soundcloud.com 185.246.223.127
 promoted.soundcloud.com 185.246.223.127
 api-v2.soundcloud.com 185.246.223.127
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -59,8 +59,12 @@ chatgpt.com 45.155.204.190
 =store.supercell.com 103.27.157.38
 =accounts.x.ai 103.27.157.38
 =afcs.dellcdn.com 103.27.157.38
-=aisandbox-pa.googleapis.com 62.133.62.97
-=robinfrontend-pa.googleapis.com 62.133.62.97
+=aisandbox-pa.googleapis.com 103.27.157.38
+=assistant-s3-pa.googleapis.com 103.27.157.38
+=fitbit-pa.googleapis.com 103.27.157.38
+=fitbitvestibuleshim-pa.googleapis.com 103.27.157.38
+=generativelanguage.googleapis.com 103.27.157.38
+=proactivebackend-pa.googleapis.com 103.27.157.38
 =aistudio.google.com 103.27.157.38
 =alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
@@ -101,11 +105,6 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=assistant-s3-pa.googleapis.com 103.27.157.38
-=fitbit-pa.googleapis.com 103.27.157.38
-=fitbitvestibuleshim-pa.googleapis.com 103.27.157.38
-=generativelanguage.googleapis.com 103.27.157.38
-=proactivebackend-pa.googleapis.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
@@ -149,7 +148,7 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 62.133.62.97
+=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -159,6 +158,7 @@ pump.fun 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -168,11 +168,9 @@ pump.fun 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=web.archive.org 103.27.157.38
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38

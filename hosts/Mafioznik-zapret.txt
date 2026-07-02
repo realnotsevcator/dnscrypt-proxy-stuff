@@ -16,7 +16,7 @@
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
 103.27.157.38 afcs.dellcdn.com
-62.133.62.97 aisandbox-pa.googleapis.com
+103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
 103.27.157.38 alkalimakersuite-pa.clients6.google.com
@@ -108,7 +108,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-62.133.62.97 labs.google
+103.27.157.38 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -170,10 +170,9 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 45.155.204.190 web-backend.codeium.com
-103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
-45.155.204.190 windsurf-stable.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
@@ -184,7 +183,6 @@
 103.27.157.38 www.dell.com
 103.27.157.38 www.dyson.com
 103.27.157.38 www.dyson.fr
-45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
