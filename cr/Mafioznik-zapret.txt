@@ -25,7 +25,6 @@ chatgpt.com 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
-=api-partner.spotify.com 103.27.157.38
 =api.spotify.com 103.27.157.38
 =gew1-spclient.spotify.com 103.27.157.38
 =login5.spotify.com 103.27.157.38
@@ -64,6 +63,8 @@ chatgpt.com 45.155.204.190
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
+=api-partner.spotify.com 45.155.204.190
+=gew1-dealer.spotify.com 45.155.204.190
 =api-sg-central.trae.ai 45.155.204.190
 =api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
@@ -124,11 +125,10 @@ pump.fun 45.155.204.190
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
