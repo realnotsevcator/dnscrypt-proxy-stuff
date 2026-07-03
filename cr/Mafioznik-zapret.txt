@@ -127,7 +127,7 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -148,7 +148,7 @@ pump.fun 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=web.archive.org 103.27.157.38
+=web.archive.org 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
@@ -156,7 +156,6 @@ pump.fun 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
-=www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220

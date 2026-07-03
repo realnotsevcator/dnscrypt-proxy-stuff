@@ -22,6 +22,7 @@ chatgpt.com 45.155.204.190
 =accounts.autodesk.com 45.155.204.190
 =www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
+=www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -151,8 +152,6 @@ pump.fun 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-telemetry.codeium.com 2.26.55.46
-=www-growth.scdn.co 2.26.55.46
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38

@@ -177,10 +177,10 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-2.26.55.46 windsurf-telemetry.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-2.26.55.46 www-growth.scdn.co
+45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
@@ -234,7 +234,3 @@
 62.133.62.97 www.soundcloud.com
 62.133.62.97 promoted.soundcloud.com
 62.133.62.97 api-v2.soundcloud.com
-2.26.55.46 soundcloud.com
-2.26.55.46 www.soundcloud.com
-2.26.55.46 promoted.soundcloud.com
-2.26.55.46 api-v2.soundcloud.com
