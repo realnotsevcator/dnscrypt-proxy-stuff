@@ -37,10 +37,10 @@
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
-45.155.204.190 app.notion.com
+208.103.161.1 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-162.159.140.167 auth.anthropic.com
+104.18.43.204 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
@@ -74,7 +74,6 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.75 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -129,7 +128,7 @@
 103.27.157.38 open.spotify.com
 45.155.204.190 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
-185.246.223.127 patreon.com
+2.26.55.46 patreon.com
 103.27.157.38 payment.deezer.com
 45.155.204.190 platform.claude.com
 103.27.157.38 platform.openai.com
@@ -139,7 +138,7 @@
 45.155.204.190 public.linear.app
 45.155.204.190 pump.fun
 103.27.157.38 resources.tidal.com
-103.27.157.38 rewards.bing.com
+45.155.204.190 rewards.bing.com
 62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
@@ -148,7 +147,7 @@
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
-2.26.55.46 server.codeium.com
+45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
 45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
@@ -176,9 +175,9 @@
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
-2.26.55.46 windsurf-stable.codeium.com
-2.26.55.46 windsurf-telemetry.codeium.com
-2.26.55.46 windsurf.com
+45.155.204.190 windsurf-stable.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
+45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
@@ -193,7 +192,7 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
-185.246.223.127 www.patreon.com
+2.26.55.46 www.patreon.com
 45.155.204.190 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
