@@ -51,7 +51,7 @@ chatgpt.com 45.155.204.190
 =jules.google.com 103.27.157.38
 =notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
-=aitestkitchen.withgoogle.com 216.239.32.223
+=aitestkitchen.withgoogle.com 192.178.156.141
 =android.chat.openai.com 103.27.157.38
 =api.openai.com 103.27.157.38
 =auth.openai.com 103.27.157.38
@@ -85,10 +85,13 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 104.18.24.59
+=auth.anthropic.com 104.16.102.112
+=b.i.instagram.com 31.13.93.174
+=help.instagram.com 31.13.93.174
+=www.instagram.com 31.13.93.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 104.18.24.59
+=cdn.auth0.com 65.9.68.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
@@ -101,6 +104,7 @@ linear.app 45.155.204.190
 codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
+=controlplane.tailscale.com 192.200.0.101
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -112,7 +116,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 2.19.181.106
+=dzcdn.net 104.84.152.155
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -126,13 +130,14 @@ pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
-=gemini.google.com 216.239.32.223
+=gemini.google.com 87.228.47.204
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 216.239.32.223
+=instagram.com 157.240.253.174
+=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -142,7 +147,7 @@ pump.fun 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
-=robinfrontend-pa.googleapis.com 216.239.32.223
+=robinfrontend-pa.googleapis.com 87.228.47.204
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -163,6 +168,7 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
+=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
