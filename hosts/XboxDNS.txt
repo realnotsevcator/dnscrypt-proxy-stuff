@@ -47,7 +47,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.145.20.34 b.i.instagram.com
+31.13.66.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-184.51.252.29 dzcdn.net
+104.69.222.144 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,7 +106,7 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.145.20.34 help.instagram.com
+31.13.66.174 help.instagram.com
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -117,7 +117,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-62.133.62.97 labs.google
+103.27.157.38 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
@@ -184,7 +184,7 @@
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
-45.155.204.190 windsurf.com
+76.76.21.21 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
@@ -196,7 +196,7 @@
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.145.20.34 www.instagram.com
+31.13.66.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -222,10 +222,10 @@
 104.16.102.112 www.soundcloud.com
 104.16.102.112 promoted.soundcloud.com
 104.16.102.112 api-v2.soundcloud.com
-57.145.20.34 soundcloud.com
-57.145.20.34 www.soundcloud.com
-57.145.20.34 promoted.soundcloud.com
-57.145.20.34 api-v2.soundcloud.com
+31.13.66.174 soundcloud.com
+31.13.66.174 www.soundcloud.com
+31.13.66.174 promoted.soundcloud.com
+31.13.66.174 api-v2.soundcloud.com
 65.9.68.34 soundcloud.com
 65.9.68.34 www.soundcloud.com
 65.9.68.34 promoted.soundcloud.com
@@ -238,10 +238,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-184.51.252.29 soundcloud.com
-184.51.252.29 www.soundcloud.com
-184.51.252.29 promoted.soundcloud.com
-184.51.252.29 api-v2.soundcloud.com
+104.69.222.144 soundcloud.com
+104.69.222.144 www.soundcloud.com
+104.69.222.144 promoted.soundcloud.com
+104.69.222.144 api-v2.soundcloud.com
 62.133.62.97 soundcloud.com
 62.133.62.97 www.soundcloud.com
 62.133.62.97 promoted.soundcloud.com
@@ -258,3 +258,7 @@
 185.246.223.127 www.soundcloud.com
 185.246.223.127 promoted.soundcloud.com
 185.246.223.127 api-v2.soundcloud.com
+76.76.21.21 soundcloud.com
+76.76.21.21 www.soundcloud.com
+76.76.21.21 promoted.soundcloud.com
+76.76.21.21 api-v2.soundcloud.com
