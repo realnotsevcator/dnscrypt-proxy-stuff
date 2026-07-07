@@ -25,10 +25,10 @@ soundcloud.com 157.240.205.174
 www.soundcloud.com 157.240.205.174
 promoted.soundcloud.com 157.240.205.174
 api-v2.soundcloud.com 157.240.205.174
-soundcloud.com 18.244.147.34
-www.soundcloud.com 18.244.147.34
-promoted.soundcloud.com 18.244.147.34
-api-v2.soundcloud.com 18.244.147.34
+soundcloud.com 3.164.212.39
+www.soundcloud.com 3.164.212.39
+promoted.soundcloud.com 3.164.212.39
+api-v2.soundcloud.com 3.164.212.39
 soundcloud.com 192.200.0.101
 www.soundcloud.com 192.200.0.101
 promoted.soundcloud.com 192.200.0.101
@@ -53,6 +53,10 @@ soundcloud.com 185.246.223.127
 www.soundcloud.com 185.246.223.127
 promoted.soundcloud.com 185.246.223.127
 api-v2.soundcloud.com 185.246.223.127
+soundcloud.com 184.51.228.243
+www.soundcloud.com 184.51.228.243
+promoted.soundcloud.com 184.51.228.243
+api-v2.soundcloud.com 184.51.228.243
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -134,7 +138,7 @@ elevenlabs.io 103.27.157.38
 instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 18.244.147.34
+=cdn.auth0.com 3.164.212.39
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
@@ -179,7 +183,7 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=labs.google 62.133.62.97
+=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
@@ -203,7 +207,7 @@ pump.fun 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
+=www.elgato.com 184.51.228.243
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
