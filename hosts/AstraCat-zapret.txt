@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.75 dzcdn.net
+188.43.75.74 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -92,7 +92,7 @@
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
-103.27.157.38 gemini.google.com
+62.133.62.97 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
 45.155.204.190 gew1-dealer.spotify.com
@@ -111,7 +111,7 @@
 103.27.157.38 ita-free.www.deepl.com
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
-103.27.157.38 labs.google
+62.133.62.97 labs.google
 45.155.204.190 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
