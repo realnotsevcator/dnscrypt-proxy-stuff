@@ -86,9 +86,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 57.145.2.34
-=help.instagram.com 57.145.2.34
-=www.instagram.com 57.145.2.34
+=b.i.instagram.com 57.144.204.34
+=help.instagram.com 57.144.204.34
+=www.instagram.com 57.144.204.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 65.9.68.34
@@ -99,6 +99,7 @@ elevenlabs.io 103.27.157.38
 =checkout.www.deepl.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
+=write-free.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
 =codeium.com 76.76.21.21
@@ -116,7 +117,7 @@ linear.app 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 184.51.252.46
+=dzcdn.net 104.69.222.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -141,9 +142,8 @@ pump.fun 45.155.204.190
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
-=windsurf-telemetry.codeium.com 45.155.204.190
-=instagram.com 57.144.244.34
-=labs.google 62.133.62.97
+=instagram.com 57.144.112.34
+=labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
@@ -164,6 +164,7 @@ pump.fun 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf-telemetry.codeium.com 35.223.238.178
 =windsurf.com 76.76.21.21
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
@@ -174,7 +175,7 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
+=z-p42-chat-e2ee-ig.facebook.com 57.144.112.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
