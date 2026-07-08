@@ -45,10 +45,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 104.84.152.155
-www.soundcloud.com 104.84.152.155
-promoted.soundcloud.com 104.84.152.155
-api-v2.soundcloud.com 104.84.152.155
+soundcloud.com 184.51.252.46
+www.soundcloud.com 184.51.252.46
+promoted.soundcloud.com 184.51.252.46
+api-v2.soundcloud.com 184.51.252.46
 soundcloud.com 57.144.244.34
 www.soundcloud.com 57.144.244.34
 promoted.soundcloud.com 57.144.244.34
@@ -168,7 +168,7 @@ linear.app 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 104.84.152.155
+=dzcdn.net 184.51.252.46
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -195,7 +195,7 @@ pump.fun 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
 =windsurf-telemetry.codeium.com 45.155.204.190
 =instagram.com 57.144.244.34
-=labs.google 103.27.157.38
+=labs.google 62.133.62.97
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
