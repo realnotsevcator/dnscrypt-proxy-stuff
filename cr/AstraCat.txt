@@ -29,10 +29,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 188.43.75.98
-www.soundcloud.com 188.43.75.98
-promoted.soundcloud.com 188.43.75.98
-api-v2.soundcloud.com 188.43.75.98
+soundcloud.com 188.43.75.74
+www.soundcloud.com 188.43.75.74
+promoted.soundcloud.com 188.43.75.74
+api-v2.soundcloud.com 188.43.75.74
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -69,6 +69,7 @@ chatgpt.com 45.155.204.190
 =spclient.wg.spotify.com 103.27.157.38
 =www.spotify.com 103.27.157.38
 =accounts.supercell.com 103.27.157.38
+=cdn.id.supercell.com 103.27.157.38
 =clashofclans.inbox.supercell.com 103.27.157.38
 =security.id.supercell.com 103.27.157.38
 =store.supercell.com 103.27.157.38
@@ -124,7 +125,6 @@ elevenlabs.io 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 13.32.46.190
-=cdn.id.supercell.com 2.26.55.46
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
@@ -148,7 +148,7 @@ linear.app 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.98
+=dzcdn.net 188.43.75.74
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -202,4 +202,4 @@ pump.fun 45.155.204.190
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
-=www.tiktok.com 103.27.157.38
+=www.tiktok.com 2.26.55.46

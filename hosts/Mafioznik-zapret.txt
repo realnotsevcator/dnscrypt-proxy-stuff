@@ -48,7 +48,7 @@
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
 103.27.157.38 cdn.id.supercell.com
-103.27.157.38 cdn.oaistatic.com
+45.155.204.190 cdn.oaistatic.com
 45.155.204.190 cdn.platform.openai.com
 45.155.204.190 chatgpt.com
 45.155.204.190 checkout.www.deepl.com
@@ -70,7 +70,6 @@
 45.155.204.190 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-45.155.204.190 dyson.com
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -163,7 +162,6 @@
 45.155.204.190 unleash.codeium.com
 45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
-103.27.157.38 us.posthog.com
 45.155.204.190 videos.openai.com
 45.155.204.190 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
