@@ -88,9 +88,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 57.144.78.34
-=help.instagram.com 57.144.78.34
-=www.instagram.com 57.144.78.34
+instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 65.9.68.34
@@ -117,8 +115,8 @@ linear.app 45.155.204.190
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 45.155.204.190
-=dzcdn.net 139.45.206.162
+=dyson.com 87.228.47.195
+=dzcdn.net 2.19.181.106
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -143,7 +141,6 @@ pump.fun 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
 =windsurf-telemetry.codeium.com 45.155.204.190
-=instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190

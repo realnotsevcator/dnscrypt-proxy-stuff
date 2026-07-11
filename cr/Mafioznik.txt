@@ -107,7 +107,7 @@ elevenlabs.io 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.oaistatic.com 45.155.204.190
+=cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
 =videos.openai.com 45.155.204.190
@@ -134,6 +134,7 @@ linear.app 45.155.204.190
 =elevenreader.io 103.27.157.38
 =encore.scdn.co 103.27.157.38
 =eu.posthog.com 103.27.157.38
+=us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 45.155.204.190
 pump.fun 45.155.204.190
