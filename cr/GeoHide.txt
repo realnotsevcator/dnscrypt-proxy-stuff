@@ -29,10 +29,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 184.51.252.158
-www.soundcloud.com 184.51.252.158
-promoted.soundcloud.com 184.51.252.158
-api-v2.soundcloud.com 184.51.252.158
+soundcloud.com 185.5.160.66
+www.soundcloud.com 185.5.160.66
+promoted.soundcloud.com 185.5.160.66
+api-v2.soundcloud.com 185.5.160.66
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -45,6 +45,10 @@ soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
+soundcloud.com 23.35.104.201
+www.soundcloud.com 23.35.104.201
+promoted.soundcloud.com 23.35.104.201
+api-v2.soundcloud.com 23.35.104.201
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -150,7 +154,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 184.51.252.158
+=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -198,5 +202,5 @@ pump.fun 45.155.204.190
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
-=www.tiktok.com 103.27.157.38
+=www.tiktok.com 23.35.104.201
 =z-p42-chat-e2ee-ig.facebook.com 57.144.120.34
