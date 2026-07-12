@@ -47,7 +47,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.78.34 b.i.instagram.com
+31.13.66.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
@@ -61,7 +61,7 @@
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 45.155.204.190 client-api.linear.app
-76.76.21.21 codeium.com
+45.155.204.190 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-2.19.181.106 dzcdn.net
+104.69.222.137 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,8 +106,8 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.78.34 help.instagram.com
-103.27.157.38 i.dell.com
+31.13.66.174 help.instagram.com
+2.19.181.35 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
@@ -184,7 +184,7 @@
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
-76.76.21.21 windsurf.com
+45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
@@ -196,7 +196,7 @@
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.78.34 www.instagram.com
+31.13.66.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so

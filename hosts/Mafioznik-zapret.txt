@@ -99,7 +99,6 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
@@ -175,6 +174,7 @@
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
+45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com

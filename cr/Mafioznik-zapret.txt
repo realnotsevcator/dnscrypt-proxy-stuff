@@ -102,7 +102,6 @@ codeium.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
-=i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
 =www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
@@ -131,6 +130,7 @@ pump.fun 45.155.204.190
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
+=windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38

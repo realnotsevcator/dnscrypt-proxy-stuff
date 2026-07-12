@@ -58,7 +58,7 @@
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 45.155.204.190 client-api.linear.app
-2.26.55.46 codeium.com
+45.155.204.190 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.74 dzcdn.net
+2.16.21.66 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -102,7 +102,7 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-103.27.157.38 i.dell.com
+184.24.152.98 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
@@ -178,7 +178,7 @@
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
-2.26.55.46 windsurf.com
+45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
