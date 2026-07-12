@@ -88,9 +88,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 157.240.22.174
-=help.instagram.com 157.240.22.174
-=www.instagram.com 157.240.22.174
+=b.i.instagram.com 31.13.66.174
+=help.instagram.com 31.13.66.174
+=www.instagram.com 31.13.66.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 65.9.68.34
@@ -117,8 +117,8 @@ codeium.com 45.155.204.190
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 87.228.47.195
-=dzcdn.net 2.17.251.180
+=dyson.com 45.155.204.190
+=dzcdn.net 104.123.68.32
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -168,4 +168,4 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.22.174
+=z-p42-chat-e2ee-ig.facebook.com 31.13.66.174

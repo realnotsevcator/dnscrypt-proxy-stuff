@@ -40,6 +40,7 @@
 45.155.204.190 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
+104.16.24.14 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
@@ -75,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-184.51.252.158 dzcdn.net
+184.51.252.149 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -103,12 +104,12 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.196.174 help.instagram.com
+57.144.120.34 help.instagram.com
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
-157.240.196.174 instagram.com
+57.144.120.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -193,7 +194,7 @@
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
-157.240.196.174 www.instagram.com
+57.144.120.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
