@@ -45,7 +45,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.120.34 b.i.instagram.com
+157.240.196.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-184.51.252.158 dzcdn.net
+184.51.252.161 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -92,7 +92,7 @@
 45.155.204.190 framer.com
 45.155.204.190 frontend-api-v3.pump.fun
 103.27.157.38 game-assets.brawlstarsgame.com
-31.25.239.132 game-assets.clashofclans.com
+103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
@@ -108,7 +108,7 @@
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
-37.230.192.51 inference.codeium.com
+45.155.204.190 inference.codeium.com
 57.144.120.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
@@ -123,7 +123,7 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 45.155.204.190 manus.im
-37.230.192.51 marketplace.windsurf.com
+45.155.204.190 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -185,7 +185,7 @@
 37.230.192.51 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
-37.230.192.51 www.autodesk.com
+45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
@@ -203,7 +203,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-57.144.120.34 z-p42-chat-e2ee-ig.facebook.com
+157.240.196.174 z-p42-chat-e2ee-ig.facebook.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
