@@ -51,7 +51,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
-3.164.212.39 cdn.auth0.com
+18.239.17.70 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 45.155.204.190 cdn.platform.openai.com
@@ -77,7 +77,7 @@
 45.155.204.190 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-162.159.142.173 dyson.com
+45.155.204.190 dyson.com
 128.75.237.27 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
@@ -106,12 +106,12 @@
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.205.174 help.instagram.com
-184.24.152.98 i.dell.com
+57.144.244.34 help.instagram.com
+103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
-157.240.205.174 instagram.com
+57.144.244.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
