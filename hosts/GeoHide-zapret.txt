@@ -40,7 +40,7 @@
 45.155.204.190 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-104.16.24.14 auth.anthropic.com
+172.64.32.155 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
@@ -61,7 +61,7 @@
 45.155.204.190 client-api.linear.app
 45.155.204.190 codeium.com
 103.27.157.38 console.anthropic.com
-45.155.204.190 constellation.linear.app
+37.230.192.51 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
 37.230.192.51 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
@@ -101,10 +101,10 @@
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 gtm.deepl.com
-45.155.204.190 guidedhacking.com
+37.230.192.51 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.196.174 help.instagram.com
+57.144.120.34 help.instagram.com
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -135,7 +135,7 @@
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
-45.155.204.190 platform.claude.com
+172.64.32.155 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -181,7 +181,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-37.230.192.51 windsurf-telemetry.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
@@ -194,7 +194,7 @@
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
-157.240.196.174 www.instagram.com
+57.144.120.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -203,7 +203,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-157.240.196.174 z-p42-chat-e2ee-ig.facebook.com
+57.144.120.34 z-p42-chat-e2ee-ig.facebook.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
