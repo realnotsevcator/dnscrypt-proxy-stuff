@@ -85,7 +85,7 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 172.64.32.155
+=auth.anthropic.com 104.16.24.14
 instagram.com 57.144.120.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
@@ -100,7 +100,6 @@ instagram.com 57.144.120.34
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
 codeium.com 45.155.204.190
-=constellation.linear.app 37.230.192.51
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =controlplane.tailscale.com 37.230.192.51
@@ -115,7 +114,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 23.196.236.43
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -131,7 +130,7 @@ pump.fun 45.155.204.190
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=guidedhacking.com 37.230.192.51
+=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
@@ -143,7 +142,7 @@ pump.fun 45.155.204.190
 =o.pki.goog 103.27.157.38
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
-=platform.claude.com 172.64.32.155
+=platform.claude.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
