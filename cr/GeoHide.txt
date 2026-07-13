@@ -13,6 +13,10 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
+soundcloud.com 172.64.32.155
+www.soundcloud.com 172.64.32.155
+promoted.soundcloud.com 172.64.32.155
+api-v2.soundcloud.com 172.64.32.155
 soundcloud.com 37.230.192.51
 www.soundcloud.com 37.230.192.51
 promoted.soundcloud.com 37.230.192.51
@@ -21,10 +25,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 185.5.160.66
-www.soundcloud.com 185.5.160.66
-promoted.soundcloud.com 185.5.160.66
-api-v2.soundcloud.com 185.5.160.66
+soundcloud.com 184.51.252.158
+www.soundcloud.com 184.51.252.158
+promoted.soundcloud.com 184.51.252.158
+api-v2.soundcloud.com 184.51.252.158
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -37,6 +41,10 @@ soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
+soundcloud.com 13.249.8.109
+www.soundcloud.com 13.249.8.109
+promoted.soundcloud.com 13.249.8.109
+api-v2.soundcloud.com 13.249.8.109
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -50,7 +58,6 @@ chatgpt.com 45.155.204.190
 =accounts.autodesk.com 45.155.204.190
 =www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
-=www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -113,6 +120,7 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
+=auth.anthropic.com 172.64.32.155
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -128,7 +136,7 @@ linear.app 45.155.204.190
 codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
-=controlplane.tailscale.com 37.230.192.51
+=controlplane.tailscale.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -140,7 +148,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 185.5.160.66
+=dzcdn.net 184.51.252.158
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -180,12 +188,13 @@ pump.fun 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=www-growth.scdn.co 184.51.252.158
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
+=www.elgato.com 13.249.8.109
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
-=www.tiktok.com 185.5.160.66
+=www.tiktok.com 103.27.157.38
