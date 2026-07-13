@@ -45,6 +45,10 @@ soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
+soundcloud.com 2.16.154.131
+www.soundcloud.com 2.16.154.131
+promoted.soundcloud.com 2.16.154.131
+api-v2.soundcloud.com 2.16.154.131
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -56,6 +60,7 @@ chatgpt.com 45.155.204.190
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 45.155.204.190
+=www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
@@ -134,7 +139,7 @@ instagram.com 57.144.120.34
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
-=codeium.com 37.230.192.51
+codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =controlplane.tailscale.com 37.230.192.51
@@ -168,18 +173,14 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=inference.codeium.com 45.155.204.190
-=server.codeium.com 45.155.204.190
-=unleash.codeium.com 45.155.204.190
-=web-backend.codeium.com 45.155.204.190
-=windsurf-stable.codeium.com 45.155.204.190
-=windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
+=windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
+=operator.chatgpt.com 37.230.192.51
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
@@ -194,8 +195,6 @@ pump.fun 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf.com 37.230.192.51
-=www.autodesk.com 37.230.192.51
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
@@ -204,5 +203,5 @@ pump.fun 45.155.204.190
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
-=www.tiktok.com 103.27.157.38
+=www.tiktok.com 2.16.154.131
 =z-p42-chat-e2ee-ig.facebook.com 57.144.120.34
