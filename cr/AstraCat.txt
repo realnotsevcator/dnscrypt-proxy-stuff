@@ -25,10 +25,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 188.43.75.104
-www.soundcloud.com 188.43.75.104
-promoted.soundcloud.com 188.43.75.104
-api-v2.soundcloud.com 188.43.75.104
+soundcloud.com 188.43.75.74
+www.soundcloud.com 188.43.75.74
+promoted.soundcloud.com 188.43.75.74
+api-v2.soundcloud.com 188.43.75.74
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -59,6 +59,7 @@ chatgpt.com 45.155.204.190
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
 =api.spotify.com 103.27.157.38
+=gew1-dealer.spotify.com 103.27.157.38
 =gew1-spclient.spotify.com 103.27.157.38
 =login5.spotify.com 103.27.157.38
 =open.spotify.com 103.27.157.38
@@ -144,7 +145,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.104
+=dzcdn.net 188.43.75.74
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -154,14 +155,11 @@ codeium.com 45.155.204.190
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 45.155.204.190
-=frontend-api-v3.pump.fun 45.155.204.190
-=images.pump.fun 45.155.204.190
-=swap-api.pump.fun 45.155.204.190
+pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -175,7 +173,6 @@ codeium.com 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
-=pump.fun 104.18.43.204
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
@@ -187,6 +184,7 @@ codeium.com 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf-telemetry.codeium.com 62.133.62.97
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
