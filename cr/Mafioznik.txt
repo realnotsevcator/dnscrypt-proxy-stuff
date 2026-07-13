@@ -115,8 +115,8 @@ elevenlabs.io 103.27.157.38
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
-codeium.com 45.155.204.190
 linear.app 45.155.204.190
+codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
