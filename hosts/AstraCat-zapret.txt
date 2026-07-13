@@ -9,7 +9,7 @@
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-45.155.204.190 accounts.autodesk.com
+2.26.55.46 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -40,7 +40,7 @@
 45.155.204.190 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-104.18.43.204 auth.anthropic.com
+162.159.140.167 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.74 dzcdn.net
+188.43.75.75 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -164,7 +164,7 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-45.155.204.190 unleash.codeium.com
+2.26.55.46 unleash.codeium.com
 45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com

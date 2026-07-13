@@ -9,7 +9,6 @@
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-45.155.204.190 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -95,13 +94,11 @@
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 gtm.deepl.com
-45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
-45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -168,11 +165,9 @@
 45.155.204.190 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
-45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
-45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
