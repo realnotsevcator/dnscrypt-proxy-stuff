@@ -37,10 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 104.84.152.162
-www.soundcloud.com 104.84.152.162
-promoted.soundcloud.com 104.84.152.162
-api-v2.soundcloud.com 104.84.152.162
+soundcloud.com 139.45.206.139
+www.soundcloud.com 139.45.206.139
+promoted.soundcloud.com 139.45.206.139
+api-v2.soundcloud.com 139.45.206.139
 soundcloud.com 157.240.253.174
 www.soundcloud.com 157.240.253.174
 promoted.soundcloud.com 157.240.253.174
@@ -57,10 +57,6 @@ soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
-soundcloud.com 35.223.238.178
-www.soundcloud.com 35.223.238.178
-promoted.soundcloud.com 35.223.238.178
-api-v2.soundcloud.com 35.223.238.178
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -170,7 +166,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 104.84.152.162
+=dzcdn.net 139.45.206.139
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -208,7 +204,6 @@ pump.fun 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =tria.ge 103.27.157.38
-=unleash.codeium.com 35.223.238.178
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38

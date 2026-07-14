@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-128.75.238.147 dzcdn.net
+2.19.181.72 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -228,10 +228,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-128.75.238.147 soundcloud.com
-128.75.238.147 www.soundcloud.com
-128.75.238.147 promoted.soundcloud.com
-128.75.238.147 api-v2.soundcloud.com
+2.19.181.72 soundcloud.com
+2.19.181.72 www.soundcloud.com
+2.19.181.72 promoted.soundcloud.com
+2.19.181.72 api-v2.soundcloud.com
 157.240.196.174 soundcloud.com
 157.240.196.174 www.soundcloud.com
 157.240.196.174 promoted.soundcloud.com
