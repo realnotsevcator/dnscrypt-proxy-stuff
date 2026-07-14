@@ -99,7 +99,7 @@
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 gtm.deepl.com
-2.26.55.46 guidedhacking.com
+45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
@@ -148,7 +148,7 @@
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
-2.26.55.46 server.codeium.com
+45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
 45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
@@ -164,7 +164,7 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-2.26.55.46 unleash.codeium.com
+45.155.204.190 unleash.codeium.com
 45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
@@ -172,12 +172,12 @@
 45.155.204.190 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
-2.26.55.46 web-backend.codeium.com
+45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-2.26.55.46 windsurf-telemetry.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
