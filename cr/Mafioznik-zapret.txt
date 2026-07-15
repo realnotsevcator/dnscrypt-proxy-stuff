@@ -19,8 +19,6 @@ chatgpt.com 45.155.204.190
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
-=accounts.autodesk.com 45.155.204.190
-=www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
@@ -96,7 +94,6 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
-codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
@@ -130,8 +127,6 @@ pump.fun 45.155.204.190
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
-=marketplace.windsurf.com 45.155.204.190
-=windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -146,6 +141,9 @@ pump.fun 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =tria.ge 103.27.157.38
+=unleash.codeium.com 45.155.204.190
+=web-backend.codeium.com 45.155.204.190
+=windsurf-stable.codeium.com 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
@@ -153,7 +151,7 @@ pump.fun 45.155.204.190
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
 =www.elgato.com 45.155.204.190
-=www.intel.com 45.155.204.190
+=www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190

@@ -9,7 +9,7 @@
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-45.155.204.190 accounts.autodesk.com
+2.26.55.46 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -58,7 +58,7 @@
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 45.155.204.190 client-api.linear.app
-45.155.204.190 codeium.com
+2.26.55.46 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
@@ -74,7 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.75 dzcdn.net
+188.43.75.74 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -105,7 +105,7 @@
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
-45.155.204.190 inference.codeium.com
+2.26.55.46 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -119,7 +119,7 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 45.155.204.190 manus.im
-45.155.204.190 marketplace.windsurf.com
+2.26.55.46 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -164,7 +164,7 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-45.155.204.190 unleash.codeium.com
+2.26.55.46 unleash.codeium.com
 45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
@@ -177,8 +177,8 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-45.155.204.190 windsurf-telemetry.codeium.com
-45.155.204.190 windsurf.com
+62.133.62.97 windsurf-telemetry.codeium.com
+2.26.55.46 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
