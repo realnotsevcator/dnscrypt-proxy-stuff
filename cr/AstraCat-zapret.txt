@@ -5,11 +5,11 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 45.155.204.190
-www.soundcloud.com 45.155.204.190
-promoted.soundcloud.com 45.155.204.190
-api-v2.soundcloud.com 45.155.204.190
-=a.claude.ai 45.155.204.190
+soundcloud.com 2.26.55.46
+www.soundcloud.com 2.26.55.46
+promoted.soundcloud.com 2.26.55.46
+api-v2.soundcloud.com 2.26.55.46
+=a.claude.ai 2.26.55.46
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -112,7 +112,6 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.74
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -128,7 +127,7 @@ pump.fun 45.155.204.190
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=guidedhacking.com 45.155.204.190
+=guidedhacking.com 2.26.55.46
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
