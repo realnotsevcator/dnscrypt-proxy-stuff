@@ -13,6 +13,10 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
+soundcloud.com 172.64.32.155
+www.soundcloud.com 172.64.32.155
+promoted.soundcloud.com 172.64.32.155
+api-v2.soundcloud.com 172.64.32.155
 soundcloud.com 37.230.192.51
 www.soundcloud.com 37.230.192.51
 promoted.soundcloud.com 37.230.192.51
@@ -21,6 +25,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
+soundcloud.com 2.19.181.113
+www.soundcloud.com 2.19.181.113
+promoted.soundcloud.com 2.19.181.113
+api-v2.soundcloud.com 2.19.181.113
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -109,6 +117,7 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
+=auth.anthropic.com 172.64.32.155
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -122,8 +131,8 @@ elevenlabs.io 103.27.157.38
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
 codeium.com 45.155.204.190
-=content-management-files.canva.com 103.27.157.38
-=www.canva.com 103.27.157.38
+=content-management-files.canva.com 45.155.204.190
+=static.canva.com 45.155.204.190
 =controlplane.tailscale.com 37.230.192.51
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
@@ -136,6 +145,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
+=dzcdn.net 2.19.181.113
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -171,12 +181,11 @@ pump.fun 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=static.canva.com 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-stable.codeium.com 37.230.192.51
+=www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
 =www.elgato.com 45.155.204.190
