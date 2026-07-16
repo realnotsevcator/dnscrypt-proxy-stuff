@@ -15,7 +15,7 @@
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
-103.27.157.38 afcs.dellcdn.com
+104.103.64.8 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
@@ -111,7 +111,7 @@
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
-57.144.244.34 instagram.com
+157.240.205.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -214,6 +214,10 @@
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
+104.103.64.8 soundcloud.com
+104.103.64.8 www.soundcloud.com
+104.103.64.8 promoted.soundcloud.com
+104.103.64.8 api-v2.soundcloud.com
 35.186.224.24 soundcloud.com
 35.186.224.24 www.soundcloud.com
 35.186.224.24 promoted.soundcloud.com
@@ -242,10 +246,6 @@
 128.75.237.27 www.soundcloud.com
 128.75.237.27 promoted.soundcloud.com
 128.75.237.27 api-v2.soundcloud.com
-57.144.244.34 soundcloud.com
-57.144.244.34 www.soundcloud.com
-57.144.244.34 promoted.soundcloud.com
-57.144.244.34 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com

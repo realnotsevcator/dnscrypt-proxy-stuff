@@ -128,6 +128,7 @@
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
+45.155.204.190 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -181,7 +182,7 @@
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
-103.27.157.38 www.dell.com
+45.155.204.190 www.dell.com
 103.27.157.38 www.dyson.com
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
