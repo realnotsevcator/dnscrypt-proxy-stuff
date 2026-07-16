@@ -21,10 +21,10 @@ soundcloud.com 104.16.102.112
 www.soundcloud.com 104.16.102.112
 promoted.soundcloud.com 104.16.102.112
 api-v2.soundcloud.com 104.16.102.112
-soundcloud.com 57.144.194.34
-www.soundcloud.com 57.144.194.34
-promoted.soundcloud.com 57.144.194.34
-api-v2.soundcloud.com 57.144.194.34
+soundcloud.com 57.144.250.34
+www.soundcloud.com 57.144.250.34
+promoted.soundcloud.com 57.144.250.34
+api-v2.soundcloud.com 57.144.250.34
 soundcloud.com 65.9.68.34
 www.soundcloud.com 65.9.68.34
 promoted.soundcloud.com 65.9.68.34
@@ -37,10 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 128.75.237.27
-www.soundcloud.com 128.75.237.27
-promoted.soundcloud.com 128.75.237.27
-api-v2.soundcloud.com 128.75.237.27
+soundcloud.com 104.84.152.155
+www.soundcloud.com 104.84.152.155
+promoted.soundcloud.com 104.84.152.155
+api-v2.soundcloud.com 104.84.152.155
 soundcloud.com 57.144.244.34
 www.soundcloud.com 57.144.244.34
 promoted.soundcloud.com 57.144.244.34
@@ -136,9 +136,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 57.144.194.34
-=help.instagram.com 57.144.194.34
-=www.instagram.com 57.144.194.34
+=b.i.instagram.com 57.144.250.34
+=help.instagram.com 57.144.250.34
+=www.instagram.com 57.144.250.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 65.9.68.34
@@ -166,7 +166,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 128.75.237.27
+=dzcdn.net 104.84.152.155
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -216,4 +216,4 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.194.34
+=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
