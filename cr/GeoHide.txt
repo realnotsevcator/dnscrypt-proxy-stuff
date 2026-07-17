@@ -13,10 +13,14 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
-soundcloud.com 157.240.253.174
-www.soundcloud.com 157.240.253.174
-promoted.soundcloud.com 157.240.253.174
-api-v2.soundcloud.com 157.240.253.174
+soundcloud.com 104.16.24.14
+www.soundcloud.com 104.16.24.14
+promoted.soundcloud.com 104.16.24.14
+api-v2.soundcloud.com 104.16.24.14
+soundcloud.com 57.144.244.34
+www.soundcloud.com 57.144.244.34
+promoted.soundcloud.com 57.144.244.34
+api-v2.soundcloud.com 57.144.244.34
 soundcloud.com 37.230.192.51
 www.soundcloud.com 37.230.192.51
 promoted.soundcloud.com 37.230.192.51
@@ -25,6 +29,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
+soundcloud.com 185.5.160.82
+www.soundcloud.com 185.5.160.82
+promoted.soundcloud.com 185.5.160.82
+api-v2.soundcloud.com 185.5.160.82
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -38,7 +46,10 @@ www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
 =a.claude.ai 45.155.204.190
-chatgpt.com 45.155.204.190
+=ab.chatgpt.com 45.155.204.190
+=operator.chatgpt.com 45.155.204.190
+=sora.chatgpt.com 45.155.204.190
+=webrtc.chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -113,7 +124,8 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-instagram.com 157.240.253.174
+=auth.anthropic.com 104.16.24.14
+instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -121,6 +133,7 @@ instagram.com 157.240.253.174
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
 =videos.openai.com 45.155.204.190
+=chatgpt.com 37.230.192.51
 =checkout.www.deepl.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
@@ -141,6 +154,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
+=dzcdn.net 185.5.160.82
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -156,7 +170,7 @@ pump.fun 45.155.204.190
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=guidedhacking.com 37.230.192.51
+=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
@@ -189,4 +203,4 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
+=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
