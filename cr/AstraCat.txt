@@ -13,10 +13,6 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
-soundcloud.com 5.231.223.119
-www.soundcloud.com 5.231.223.119
-promoted.soundcloud.com 5.231.223.119
-api-v2.soundcloud.com 5.231.223.119
 soundcloud.com 162.159.140.167
 www.soundcloud.com 162.159.140.167
 promoted.soundcloud.com 162.159.140.167
@@ -29,10 +25,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 188.43.75.74
-www.soundcloud.com 188.43.75.74
-promoted.soundcloud.com 188.43.75.74
-api-v2.soundcloud.com 188.43.75.74
+soundcloud.com 188.43.75.83
+www.soundcloud.com 188.43.75.83
+promoted.soundcloud.com 188.43.75.83
+api-v2.soundcloud.com 188.43.75.83
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -55,8 +51,8 @@ chatgpt.com 45.155.204.190
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
-=accounts.autodesk.com 5.231.223.119
-=www.autodesk.com 5.231.223.119
+=accounts.autodesk.com 45.155.204.190
+=www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
@@ -148,7 +144,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.74
+=dzcdn.net 188.43.75.83
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -185,7 +181,6 @@ pump.fun 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =tria.ge 103.27.157.38
-=unleash.codeium.com 5.231.223.119
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
