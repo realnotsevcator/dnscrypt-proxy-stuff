@@ -47,7 +47,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.244.34 b.i.instagram.com
+157.240.205.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
@@ -76,9 +76,9 @@
 103.27.157.38 developer.nvidia.com
 45.155.204.190 developers.openai.com
 103.27.157.38 dict.deepl.com
-103.27.157.38 download.jetbrains.com
+45.155.204.190 download.jetbrains.com
 45.155.204.190 dyson.com
-139.45.206.146 dzcdn.net
+128.75.237.27 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io

@@ -116,6 +116,7 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
+codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
@@ -147,12 +148,6 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=inference.codeium.com 45.155.204.190
-=server.codeium.com 45.155.204.190
-=unleash.codeium.com 45.155.204.190
-=web-backend.codeium.com 45.155.204.190
-=windsurf-stable.codeium.com 45.155.204.190
-=windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190

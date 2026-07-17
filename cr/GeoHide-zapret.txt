@@ -17,7 +17,6 @@ chatgpt.com 45.155.204.190
 =support.broadcom.com 103.27.157.38
 =account.jetbrains.com 103.27.157.38
 =datalore.jetbrains.com 103.27.157.38
-=download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 45.155.204.190
 =www.autodesk.com 45.155.204.190
@@ -77,7 +76,6 @@ elevenlabs.io 103.27.157.38
 =dd.tidal.com 103.27.157.38
 =images.tidal.com 103.27.157.38
 =link.tidal.com 103.27.157.38
-=listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
@@ -86,7 +84,8 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.24.14
-instagram.com 157.240.253.174
+=b.i.instagram.com 157.240.253.174
+=instagram.com 157.240.253.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -113,8 +112,9 @@ codeium.com 45.155.204.190
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
+=download.jetbrains.com 45.155.204.190
 =dyson.com 45.155.204.190
-=dzcdn.net 128.75.237.113
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -133,7 +133,10 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 57.144.244.34
+=www.instagram.com 57.144.244.34
 =labs.google 103.27.157.38
+=listen.tidal.com 52.85.154.112
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
 =windsurf.com 45.155.204.190
