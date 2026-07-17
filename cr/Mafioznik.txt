@@ -108,9 +108,6 @@ elevenlabs.io 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
-=cdn.platform.openai.com 45.155.204.190
-=developers.openai.com 45.155.204.190
-=videos.openai.com 45.155.204.190
 =checkout.www.deepl.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
@@ -129,6 +126,8 @@ codeium.com 45.155.204.190
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
+=developers.openai.com 45.155.204.190
+=videos.openai.com 45.155.204.190
 =dyson.com 45.155.204.190
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
