@@ -20,7 +20,6 @@ chatgpt.com 45.155.204.190
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 45.155.204.190
-=www.autodesk.com 45.155.204.190
 =accounts.scdn.co 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
@@ -88,12 +87,10 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 45.88.174.254
-=b.i.instagram.com 157.240.205.174
-=help.instagram.com 157.240.205.174
-=instagram.com 157.240.205.174
+instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 3.174.231.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
@@ -103,7 +100,7 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
-codeium.com 45.155.204.190
+codeium.com 45.88.174.254
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =controlplane.tailscale.com 192.200.0.101
@@ -118,7 +115,7 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 128.75.237.107
+=dzcdn.net 128.75.237.27
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -137,7 +134,6 @@ pump.fun 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=inference.codeium.com 45.88.174.254
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
@@ -158,12 +154,14 @@ pump.fun 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
+=web-backend.codeium.com 45.155.204.190
+=windsurf-telemetry.codeium.com 45.155.204.190
 =web.archive.org 103.27.157.38
+=www.autodesk.com 23.197.162.24
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
 =www.elgato.com 45.155.204.190
-=www.instagram.com 57.144.244.34
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
