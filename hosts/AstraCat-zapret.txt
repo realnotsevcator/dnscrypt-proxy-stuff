@@ -74,6 +74,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
+188.43.75.74 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -208,7 +209,9 @@
 149.154.167.220 cdn3.telesco.pe
 149.154.167.220 cdn4.telesco.pe
 149.154.167.220 cdn5.telesco.pe
+149.154.167.220 cdn6.telesco.pe
 149.154.167.220 core.telegram.org
+149.154.167.220 desktop.telegram.org
 104.25.158.178 finland10000.discord.media
 104.25.158.178 finland10001.discord.media
 104.25.158.178 finland10002.discord.media
@@ -413,8 +416,10 @@
 149.154.167.220 kws2.web.telegram.org
 149.154.167.220 kws4-1.web.telegram.org
 149.154.167.220 kws4.web.telegram.org
+149.154.167.220 macos.telegram.org
 149.154.167.220 my.telegram.org
 149.154.167.220 oauth.telegram.org
+149.154.167.220 oauth.tg.dev
 149.154.167.220 t.me
 149.154.167.220 td.telegram.org
 149.154.167.220 telegram.dog

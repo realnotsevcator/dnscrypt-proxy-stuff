@@ -85,10 +85,6 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 104.16.24.14
-=b.i.instagram.com 57.144.244.34
-=help.instagram.com 57.144.244.34
-=instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -116,7 +112,6 @@ codeium.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 184.51.252.158
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -160,13 +155,11 @@ pump.fun 45.155.204.190
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
 =www.elgato.com 45.155.204.190
-=www.instagram.com 157.240.253.174
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178
@@ -369,8 +362,9 @@ telesco.pe 149.154.167.220
 =finland10197.discord.media 104.25.158.178
 =finland10198.discord.media 104.25.158.178
 =finland10199.discord.media 104.25.158.178
+=oauth.tg.dev 149.154.167.220
+=tg.dev 149.154.167.220
 =t.me 149.154.167.220
 =telegram.dog 149.154.167.220
 =telegram.me 149.154.167.220
 =telegram.space 149.154.167.220
-=tg.dev 149.154.167.220
