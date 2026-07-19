@@ -5,11 +5,11 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 5.231.223.119
-www.soundcloud.com 5.231.223.119
-promoted.soundcloud.com 5.231.223.119
-api-v2.soundcloud.com 5.231.223.119
-=a.claude.ai 5.231.223.119
+soundcloud.com 45.155.204.190
+www.soundcloud.com 45.155.204.190
+promoted.soundcloud.com 45.155.204.190
+api-v2.soundcloud.com 45.155.204.190
+=a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -64,8 +64,8 @@ chatgpt.com 45.155.204.190
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 5.231.223.119
-=api.trae.ai 5.231.223.119
+=api-sg-central.trae.ai 45.155.204.190
+=api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -85,7 +85,7 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 162.159.140.167
+=auth.anthropic.com 104.18.43.204
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 13.32.46.190
@@ -97,9 +97,8 @@ elevenlabs.io 103.27.157.38
 =gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
-=client-api.linear.app 5.231.223.119
-codeium.com 45.155.204.190
 linear.app 45.155.204.190
+codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
@@ -113,7 +112,7 @@ linear.app 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.74
+=dzcdn.net 188.43.75.75
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -135,25 +134,25 @@ pump.fun 45.155.204.190
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
-=windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
-=robinfrontend-pa.googleapis.com 216.239.32.27
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
-=sora.chatgpt.com 5.231.223.119
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =tria.ge 103.27.157.38
+=unleash.codeium.com 5.231.223.119
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf.com 5.231.223.119
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
