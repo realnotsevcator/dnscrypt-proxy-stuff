@@ -17,10 +17,10 @@ soundcloud.com 104.16.24.14
 www.soundcloud.com 104.16.24.14
 promoted.soundcloud.com 104.16.24.14
 api-v2.soundcloud.com 104.16.24.14
-soundcloud.com 57.144.244.34
-www.soundcloud.com 57.144.244.34
-promoted.soundcloud.com 57.144.244.34
-api-v2.soundcloud.com 57.144.244.34
+soundcloud.com 157.240.253.174
+www.soundcloud.com 157.240.253.174
+promoted.soundcloud.com 157.240.253.174
+api-v2.soundcloud.com 157.240.253.174
 soundcloud.com 37.230.192.51
 www.soundcloud.com 37.230.192.51
 promoted.soundcloud.com 37.230.192.51
@@ -33,6 +33,10 @@ soundcloud.com 184.51.252.138
 www.soundcloud.com 184.51.252.138
 promoted.soundcloud.com 184.51.252.138
 api-v2.soundcloud.com 184.51.252.138
+soundcloud.com 57.144.244.34
+www.soundcloud.com 57.144.244.34
+promoted.soundcloud.com 57.144.244.34
+api-v2.soundcloud.com 57.144.244.34
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -122,7 +126,8 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.24.14
-instagram.com 57.144.244.34
+=b.i.instagram.com 157.240.253.174
+=instagram.com 157.240.253.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 37.230.192.51
@@ -166,9 +171,11 @@ pump.fun 45.155.204.190
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=guidedhacking.com 45.155.204.190
+=guidedhacking.com 37.230.192.51
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 57.144.244.34
+=www.instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
@@ -199,4 +206,4 @@ pump.fun 45.155.204.190
 =www.notion.so 103.27.157.38
 =www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
+=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
