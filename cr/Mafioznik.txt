@@ -5,6 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
+soundcloud.com 45.155.204.190
+www.soundcloud.com 45.155.204.190
+promoted.soundcloud.com 45.155.204.190
+api-v2.soundcloud.com 45.155.204.190
 soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
@@ -25,6 +29,8 @@ soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
+=ab.chatgpt.com 45.155.204.190
+=sora.chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -33,6 +39,7 @@ api-v2.soundcloud.com 62.133.62.97
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
+=accounts.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -88,13 +95,20 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.trae.ai 45.155.204.190
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =cdn.oaistatic.com 103.27.157.38
+=cdn.platform.openai.com 45.155.204.190
 =claude.ai 103.27.157.38
+=client-api.linear.app 45.155.204.190
+=constellation.linear.app 45.155.204.190
+=public.linear.app 45.155.204.190
+=uploads.linear.app 45.155.204.190
+=content-management-files.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -113,10 +127,14 @@ elevenlabs.io 103.27.157.38
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
+=framer.com 45.155.204.190
+=frontend-api-v3.pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
+=gtm.deepl.com 45.155.204.190
+=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
@@ -125,6 +143,7 @@ elevenlabs.io 103.27.157.38
 =o.pki.goog 103.27.157.38
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
+=platform.claude.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
@@ -132,10 +151,12 @@ elevenlabs.io 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf-stable.codeium.com 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
+=www.qwant.com 45.155.204.190
 =www.tiktok.com 103.27.157.38
