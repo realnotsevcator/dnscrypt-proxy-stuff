@@ -67,10 +67,8 @@
 103.27.157.38 deepl.com
 103.27.157.38 deezer.com
 103.27.157.38 developer.nvidia.com
-45.155.204.190 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-45.155.204.190 dyson.com
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -91,7 +89,6 @@
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
-45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 gtm.deepl.com
@@ -154,7 +151,6 @@
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
-45.155.204.190 swap-api.pump.fun
 103.27.157.38 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 103.27.157.38 trae-api-sg.mchost.guru
@@ -172,10 +168,8 @@
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
-45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
