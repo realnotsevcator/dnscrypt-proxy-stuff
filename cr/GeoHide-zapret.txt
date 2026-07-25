@@ -5,11 +5,11 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 37.230.192.51
-www.soundcloud.com 37.230.192.51
-promoted.soundcloud.com 37.230.192.51
-api-v2.soundcloud.com 37.230.192.51
-=a.claude.ai 37.230.192.51
+soundcloud.com 45.155.204.190
+www.soundcloud.com 45.155.204.190
+promoted.soundcloud.com 45.155.204.190
+api-v2.soundcloud.com 45.155.204.190
+=a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -87,19 +87,20 @@ elevenlabs.io 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 37.230.192.51
+=cdn.auth0.com 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 45.155.204.190
 =developers.openai.com 45.155.204.190
 =videos.openai.com 45.155.204.190
 =checkout.www.deepl.com 45.155.204.190
+=gtm.deepl.com 45.155.204.190
 =voice-proxy.www.deepl.com 45.155.204.190
 =claude.ai 103.27.157.38
 linear.app 45.155.204.190
-=codeium.com 95.182.120.241
+codeium.com 45.155.204.190
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
-=controlplane.tailscale.com 37.230.192.51
+=controlplane.tailscale.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -111,7 +112,7 @@ linear.app 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 184.51.252.172
+=dzcdn.net 188.43.72.9
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -120,10 +121,8 @@ linear.app 45.155.204.190
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 13.249.8.109
-=frontend-api-v3.pump.fun 45.155.204.190
-=pump.fun 45.155.204.190
-=swap-api.pump.fun 45.155.204.190
+=framer.com 45.155.204.190
+pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
@@ -132,16 +131,10 @@ linear.app 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=images.pump.fun 37.230.192.51
-=inference.codeium.com 45.155.204.190
-=server.codeium.com 45.155.204.190
-=unleash.codeium.com 45.155.204.190
-=web-backend.codeium.com 45.155.204.190
-=windsurf-stable.codeium.com 45.155.204.190
-=windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =manus.im 45.155.204.190
 =marketplace.windsurf.com 45.155.204.190
+=windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -149,8 +142,6 @@ linear.app 45.155.204.190
 =www.patreon.com 185.246.223.127
 =platform.claude.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 62.133.62.97
-=s.linear.app 37.230.192.51
-=static.linear.app 37.230.192.51
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -161,7 +152,6 @@ linear.app 45.155.204.190
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf.com 37.230.192.51
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
