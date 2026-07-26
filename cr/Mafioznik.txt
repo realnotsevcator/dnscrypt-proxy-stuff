@@ -30,9 +30,7 @@ www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
 =a.claude.ai 45.155.204.190
-=ab.chatgpt.com 45.155.204.190
-=chatgpt.com 45.155.204.190
-=operator.chatgpt.com 45.155.204.190
+chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -42,6 +40,8 @@ api-v2.soundcloud.com 62.133.62.97
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 37.230.192.51
+=accounts.scdn.co 45.155.204.190
+=www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -106,6 +106,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
+=calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
@@ -113,6 +114,8 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
 =client-api.linear.app 45.155.204.190
+=constellation.linear.app 45.155.204.190
+=public.linear.app 45.155.204.190
 =s.linear.app 45.155.204.190
 =static.linear.app 45.155.204.190
 =uploads.linear.app 45.155.204.190
@@ -129,6 +132,7 @@ elevenlabs.io 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
+=dyson.com 45.155.204.190
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -139,6 +143,7 @@ elevenlabs.io 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 45.155.204.190
 =frontend-api-v3.pump.fun 45.155.204.190
+=images.pump.fun 45.155.204.190
 =swap-api.pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
@@ -150,9 +155,9 @@ elevenlabs.io 103.27.157.38
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =inference.codeium.com 45.155.204.190
+=server.codeium.com 45.155.204.190
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
-=windsurf-stable.codeium.com 45.155.204.190
 =windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =linear.app 185.246.223.127
@@ -176,7 +181,6 @@ elevenlabs.io 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =windsurf.com 185.246.223.127
-=www-growth.scdn.co 45.155.204.190
 =www.autodesk.com 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38

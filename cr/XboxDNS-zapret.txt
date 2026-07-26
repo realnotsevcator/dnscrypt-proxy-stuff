@@ -88,9 +88,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-=b.i.instagram.com 57.144.194.34
-=help.instagram.com 57.144.194.34
-=www.instagram.com 57.144.194.34
+=b.i.instagram.com 57.144.74.34
+=help.instagram.com 57.144.74.34
+=www.instagram.com 57.144.74.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 3.164.212.39
@@ -120,8 +120,8 @@ elevenlabs.io 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 87.228.47.195
-=dzcdn.net 185.5.161.185
+=dyson.com 45.155.204.190
+=dzcdn.net 139.45.207.211
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -140,7 +140,7 @@ elevenlabs.io 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
-=guidedhacking.com 8.47.69.0
+=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =inference.codeium.com 45.155.204.190
@@ -148,6 +148,7 @@ elevenlabs.io 103.27.157.38
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
+=windsurf-telemetry.codeium.com 45.155.204.190
 =instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =linear.app 185.246.223.127
@@ -181,7 +182,7 @@ elevenlabs.io 103.27.157.38
 =www.notion.so 103.27.157.38
 =www.qwant.com 37.230.192.51
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.194.34
+=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =finland10000.discord.media 104.25.158.178

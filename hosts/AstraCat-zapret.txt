@@ -38,7 +38,7 @@
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
-208.103.161.1 app.notion.com
+45.155.204.190 app.notion.com
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
@@ -49,7 +49,7 @@
 103.27.157.38 auth0.openai.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
-5.231.223.119 calendar.notion.so
+45.155.204.190 calendar.notion.so
 13.32.46.190 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
@@ -97,7 +97,7 @@
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
-35.186.224.33 gew1-dealer.spotify.com
+45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 gtm.deepl.com
@@ -105,7 +105,7 @@
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
-5.231.223.119 images.pump.fun
+45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
@@ -149,7 +149,7 @@
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
-5.231.223.119 server.codeium.com
+45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
 45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
@@ -165,7 +165,7 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-45.155.204.190 unleash.codeium.com
+5.231.223.119 unleash.codeium.com
 45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com

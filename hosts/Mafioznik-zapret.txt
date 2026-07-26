@@ -10,6 +10,7 @@
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 37.230.192.51 accounts.autodesk.com
+45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
@@ -45,6 +46,7 @@
 103.27.157.38 auth0.openai.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
+45.155.204.190 calendar.notion.so
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 37.230.192.51 cdn.platform.openai.com
@@ -56,6 +58,7 @@
 45.155.204.190 client-api.linear.app
 185.246.223.127 codeium.com
 103.27.157.38 console.anthropic.com
+45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
@@ -68,6 +71,7 @@
 103.27.157.38 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
+45.155.204.190 dyson.com
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -96,6 +100,7 @@
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
+45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
@@ -127,6 +132,7 @@
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
+45.155.204.190 public.linear.app
 37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
@@ -138,7 +144,9 @@
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
+45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
+45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 45.155.204.190 static.canva.com
@@ -163,7 +171,7 @@
 45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
-45.155.204.190 windsurf-stable.codeium.com
+45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
