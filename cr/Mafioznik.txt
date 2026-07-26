@@ -158,6 +158,7 @@ elevenlabs.io 103.27.157.38
 =server.codeium.com 45.155.204.190
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
+=windsurf-stable.codeium.com 45.155.204.190
 =windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =linear.app 185.246.223.127
