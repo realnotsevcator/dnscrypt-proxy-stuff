@@ -128,6 +128,7 @@
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
+37.230.192.51 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -142,8 +143,8 @@
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
+45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
-45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
 45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
@@ -167,9 +168,12 @@
 37.230.192.51 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
+45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
+45.155.204.190 windsurf-stable.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
