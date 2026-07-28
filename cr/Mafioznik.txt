@@ -5,10 +5,6 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 45.155.204.190
-www.soundcloud.com 45.155.204.190
-promoted.soundcloud.com 45.155.204.190
-api-v2.soundcloud.com 45.155.204.190
 soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
@@ -17,6 +13,10 @@ soundcloud.com 37.230.192.51
 www.soundcloud.com 37.230.192.51
 promoted.soundcloud.com 37.230.192.51
 api-v2.soundcloud.com 37.230.192.51
+soundcloud.com 45.155.204.190
+www.soundcloud.com 45.155.204.190
+promoted.soundcloud.com 45.155.204.190
+api-v2.soundcloud.com 45.155.204.190
 soundcloud.com 185.246.223.127
 www.soundcloud.com 185.246.223.127
 promoted.soundcloud.com 185.246.223.127
@@ -29,8 +29,10 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-=a.claude.ai 45.155.204.190
-chatgpt.com 45.155.204.190
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -84,8 +86,6 @@ chatgpt.com 45.155.204.190
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 45.155.204.190
-=api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -100,9 +100,9 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.trae.ai 45.155.204.190
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
-=app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
@@ -132,7 +132,6 @@ elevenlabs.io 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 45.155.204.190
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -148,13 +147,13 @@ elevenlabs.io 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
-=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 45.155.204.190
 =swap-api.pump.fun 45.155.204.190
 =inference.codeium.com 45.155.204.190
 =server.codeium.com 45.155.204.190
+=unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
 =windsurf-telemetry.codeium.com 45.155.204.190
@@ -165,14 +164,14 @@ elevenlabs.io 103.27.157.38
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
+=operator.chatgpt.com 45.155.204.190
+=sora.chatgpt.com 45.155.204.190
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=sdmntpritalynorth.oaiusercontent.com 45.155.204.190
-=sdmntprnortheu.oaiusercontent.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
-=sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =tria.ge 103.27.157.38
@@ -184,7 +183,6 @@ elevenlabs.io 103.27.157.38
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
