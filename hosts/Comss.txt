@@ -25,7 +25,7 @@
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
-45.155.204.190 api-sg-central.trae.ai
+2.23.167.137 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
@@ -35,7 +35,7 @@
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
-45.155.204.190 api.trae.ai
+45.88.174.254 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
 45.155.204.190 app.notion.com
@@ -149,7 +149,7 @@
 62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
-45.155.204.190 sdmntpritalynorth.oaiusercontent.com
+8.47.69.0 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
@@ -186,7 +186,7 @@
 45.155.204.190 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
+128.75.237.27 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
@@ -194,7 +194,7 @@
 103.27.157.38 www.dell.com
 103.27.157.38 www.dyson.com
 103.27.157.38 www.dyson.fr
-45.155.204.190 www.elgato.com
+184.51.228.243 www.elgato.com
 103.27.157.38 www.guilded.gg
 157.240.205.174 www.instagram.com
 103.27.157.38 www.intel.com
@@ -222,6 +222,10 @@
 35.186.224.24 www.soundcloud.com
 35.186.224.24 promoted.soundcloud.com
 35.186.224.24 api-v2.soundcloud.com
+2.23.167.137 soundcloud.com
+2.23.167.137 www.soundcloud.com
+2.23.167.137 promoted.soundcloud.com
+2.23.167.137 api-v2.soundcloud.com
 45.88.174.254 soundcloud.com
 45.88.174.254 www.soundcloud.com
 45.88.174.254 promoted.soundcloud.com
@@ -258,3 +262,11 @@
 62.133.62.97 www.soundcloud.com
 62.133.62.97 promoted.soundcloud.com
 62.133.62.97 api-v2.soundcloud.com
+8.47.69.0 soundcloud.com
+8.47.69.0 www.soundcloud.com
+8.47.69.0 promoted.soundcloud.com
+8.47.69.0 api-v2.soundcloud.com
+184.51.228.243 soundcloud.com
+184.51.228.243 www.soundcloud.com
+184.51.228.243 promoted.soundcloud.com
+184.51.228.243 api-v2.soundcloud.com
