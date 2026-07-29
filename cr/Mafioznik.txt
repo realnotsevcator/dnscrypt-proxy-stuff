@@ -5,10 +5,6 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 45.155.204.190
-www.soundcloud.com 45.155.204.190
-promoted.soundcloud.com 45.155.204.190
-api-v2.soundcloud.com 45.155.204.190
 soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
@@ -25,8 +21,10 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-=a.claude.ai 45.155.204.190
-chatgpt.com 45.155.204.190
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -35,6 +33,7 @@ chatgpt.com 45.155.204.190
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
+=accounts.autodesk.com 37.230.192.51
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -77,8 +76,6 @@ chatgpt.com 45.155.204.190
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 45.155.204.190
-=api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -98,15 +95,12 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
-=calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
+=cdn.platform.openai.com 37.230.192.51
+=videos.openai.com 37.230.192.51
 =checkout.www.deepl.com 37.230.192.51
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
-=constellation.linear.app 45.155.204.190
-=uploads.linear.app 45.155.204.190
-=content-management-files.canva.com 45.155.204.190
-=static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -117,7 +111,6 @@ elevenlabs.io 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 45.155.204.190
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -130,8 +123,6 @@ elevenlabs.io 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 45.155.204.190
-=gtm.deepl.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
@@ -141,22 +132,16 @@ elevenlabs.io 103.27.157.38
 =o.pki.goog 103.27.157.38
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=sdmntprukwest.oaiusercontent.com 45.155.204.190
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=swap-api.pump.fun 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=videos.openai.com 37.230.192.51
-=web-backend.codeium.com 45.155.204.190
-=windsurf-stable.codeium.com 45.155.204.190
 =web.archive.org 103.27.157.38
-=www.autodesk.com 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
