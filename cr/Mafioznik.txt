@@ -30,7 +30,6 @@ www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
 =a.claude.ai 45.155.204.190
-chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -106,10 +105,12 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
-=calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
+=chatgpt.com 45.155.204.190
+=sora.chatgpt.com 45.155.204.190
+=webrtc.chatgpt.com 45.155.204.190
 =checkout.www.deepl.com 37.230.192.51
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
@@ -154,14 +155,11 @@ elevenlabs.io 103.27.157.38
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =inference.codeium.com 45.155.204.190
-=server.codeium.com 45.155.204.190
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
-=windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =manus.im 37.230.192.51
-=marketplace.windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
