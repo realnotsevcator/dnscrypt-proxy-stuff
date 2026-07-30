@@ -5,7 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-45.155.204.190 a.claude.ai
+5.231.223.119 a.claude.ai
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.74 dzcdn.net
+188.43.75.89 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -129,7 +129,7 @@
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com
-45.155.204.190 operator.chatgpt.com
+5.231.223.119 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 5.231.223.119 patreon.com
 103.27.157.38 payment.deezer.com
@@ -142,7 +142,7 @@
 37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-216.239.32.27 robinfrontend-pa.googleapis.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
@@ -156,7 +156,7 @@
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 45.155.204.190 static.canva.com
-45.155.204.190 static.linear.app
+5.231.223.119 static.linear.app
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
@@ -177,12 +177,12 @@
 45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
-45.155.204.190 webrtc.chatgpt.com
+5.231.223.119 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
 5.231.223.119 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
+2.16.21.51 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
@@ -200,6 +200,10 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
+5.231.223.119 soundcloud.com
+5.231.223.119 www.soundcloud.com
+5.231.223.119 promoted.soundcloud.com
+5.231.223.119 api-v2.soundcloud.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
@@ -224,23 +228,23 @@
 13.32.46.190 www.soundcloud.com
 13.32.46.190 promoted.soundcloud.com
 13.32.46.190 api-v2.soundcloud.com
-5.231.223.119 soundcloud.com
-5.231.223.119 www.soundcloud.com
-5.231.223.119 promoted.soundcloud.com
-5.231.223.119 api-v2.soundcloud.com
 172.64.33.155 soundcloud.com
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-188.43.75.74 soundcloud.com
-188.43.75.74 www.soundcloud.com
-188.43.75.74 promoted.soundcloud.com
-188.43.75.74 api-v2.soundcloud.com
+188.43.75.89 soundcloud.com
+188.43.75.89 www.soundcloud.com
+188.43.75.89 promoted.soundcloud.com
+188.43.75.89 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
-216.239.32.27 soundcloud.com
-216.239.32.27 www.soundcloud.com
-216.239.32.27 promoted.soundcloud.com
-216.239.32.27 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
+2.16.21.51 soundcloud.com
+2.16.21.51 www.soundcloud.com
+2.16.21.51 promoted.soundcloud.com
+2.16.21.51 api-v2.soundcloud.com
