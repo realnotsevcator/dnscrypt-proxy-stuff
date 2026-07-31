@@ -5,7 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-87.228.47.204 a.claude.ai
+45.155.204.190 a.claude.ai
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -37,7 +37,7 @@
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
-87.228.47.195 app.notion.com
+45.155.204.190 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
 104.16.102.112 auth.anthropic.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-139.45.206.144 dzcdn.net
+139.45.206.162 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,10 +106,10 @@
 103.27.157.38 help.elevenlabs.io
 57.144.220.34 help.instagram.com
 103.27.157.38 i.dell.com
-8.47.69.0 images.pump.fun
+45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
-45.155.204.190 inference.codeium.com
-157.240.253.174 instagram.com
+192.34.20.166 inference.codeium.com
+57.144.244.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -150,7 +150,7 @@
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
-87.228.47.204 sdmntprukwest.oaiusercontent.com
+45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
@@ -169,7 +169,7 @@
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
 45.155.204.190 unleash.codeium.com
-8.47.69.0 uploads.linear.app
+45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
 37.230.192.51 videos.openai.com
@@ -203,11 +203,11 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-157.240.253.174 z-p42-chat-e2ee-ig.facebook.com
-87.228.47.204 soundcloud.com
-87.228.47.204 www.soundcloud.com
-87.228.47.204 promoted.soundcloud.com
-87.228.47.204 api-v2.soundcloud.com
+57.144.220.34 z-p42-chat-e2ee-ig.facebook.com
+45.155.204.190 soundcloud.com
+45.155.204.190 www.soundcloud.com
+45.155.204.190 promoted.soundcloud.com
+45.155.204.190 api-v2.soundcloud.com
 149.154.167.220 api.telegram.org
 149.154.167.220 cdn.telesco.pe
 149.154.167.220 cdn1.telesco.pe
