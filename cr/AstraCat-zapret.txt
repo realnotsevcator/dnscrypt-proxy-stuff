@@ -117,7 +117,7 @@ elevenlabs.io 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 2.16.21.34
+=dzcdn.net 2.16.21.51
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38

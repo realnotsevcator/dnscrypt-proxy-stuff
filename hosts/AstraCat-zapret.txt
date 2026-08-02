@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-2.16.21.34 dzcdn.net
+2.16.21.51 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
