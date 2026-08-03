@@ -87,7 +87,7 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 104.18.43.204
+=auth.anthropic.com 162.159.140.167
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 13.32.46.190
@@ -97,13 +97,13 @@ elevenlabs.io 103.27.157.38
 =checkout.www.deepl.com 37.230.192.51
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
-=client-api.linear.app 5.231.223.119
-=codeium.com 185.246.223.127
+=client-api.linear.app 45.155.204.190
 =constellation.linear.app 45.155.204.190
 =public.linear.app 45.155.204.190
 =s.linear.app 45.155.204.190
 =static.linear.app 45.155.204.190
 =uploads.linear.app 45.155.204.190
+=codeium.com 185.246.223.127
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
@@ -126,7 +126,7 @@ elevenlabs.io 103.27.157.38
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 5.231.223.119
+=framer.com 45.155.204.190
 =frontend-api-v3.pump.fun 45.155.204.190
 =images.pump.fun 45.155.204.190
 =swap-api.pump.fun 45.155.204.190
@@ -156,7 +156,7 @@ elevenlabs.io 103.27.157.38
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=robinfrontend-pa.googleapis.com 216.239.32.27
+=robinfrontend-pa.googleapis.com 185.246.223.127
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
