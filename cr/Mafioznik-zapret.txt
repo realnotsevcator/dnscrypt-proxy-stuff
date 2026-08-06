@@ -123,7 +123,6 @@ elevenlabs.io 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 45.155.204.190
 =frontend-api-v3.pump.fun 45.155.204.190
-=images.pump.fun 45.155.204.190
 =swap-api.pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
