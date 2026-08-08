@@ -5,11 +5,11 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 45.155.204.190
-www.soundcloud.com 45.155.204.190
-promoted.soundcloud.com 45.155.204.190
-api-v2.soundcloud.com 45.155.204.190
-=a.claude.ai 45.155.204.190
+soundcloud.com 45.88.174.254
+www.soundcloud.com 45.88.174.254
+promoted.soundcloud.com 45.88.174.254
+api-v2.soundcloud.com 45.88.174.254
+=a.claude.ai 45.88.174.254
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -88,10 +88,12 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 45.88.174.254
-instagram.com 157.240.205.174
+=b.i.instagram.com 157.240.205.174
+=instagram.com 157.240.205.174
+=www.instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 18.244.147.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
@@ -102,10 +104,12 @@ instagram.com 157.240.205.174
 =constellation.linear.app 45.155.204.190
 =public.linear.app 45.155.204.190
 =s.linear.app 45.155.204.190
+=static.linear.app 45.155.204.190
 =uploads.linear.app 45.155.204.190
 =codeium.com 185.246.223.127
 =content-management-files.canva.com 45.155.204.190
 =static.canva.com 45.155.204.190
+=controlplane.tailscale.com 192.200.0.101
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -117,7 +121,7 @@ instagram.com 157.240.205.174
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 139.45.206.162
+=dzcdn.net 139.45.206.154
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -139,6 +143,7 @@ instagram.com 157.240.205.174
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 57.144.244.34
 =inference.codeium.com 45.155.204.190
 =server.codeium.com 45.155.204.190
 =unleash.codeium.com 45.155.204.190
@@ -163,7 +168,6 @@ instagram.com 157.240.205.174
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=static.linear.app 162.159.136.66
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38

@@ -10,7 +10,10 @@ www.soundcloud.com 45.155.204.190
 promoted.soundcloud.com 45.155.204.190
 api-v2.soundcloud.com 45.155.204.190
 =a.claude.ai 45.155.204.190
-chatgpt.com 45.155.204.190
+=ab.chatgpt.com 45.155.204.190
+=operator.chatgpt.com 45.155.204.190
+=sora.chatgpt.com 45.155.204.190
+=webrtc.chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -20,7 +23,8 @@ chatgpt.com 45.155.204.190
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 37.230.192.51
-=accounts.scdn.co 199.232.174.248
+=accounts.scdn.co 45.155.204.190
+=www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -86,13 +90,14 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 162.159.140.167
+=auth.anthropic.com 104.18.43.204
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 13.33.223.41
+=cdn.auth0.com 65.9.68.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
+=chatgpt.com 5.231.223.119
 =checkout.www.deepl.com 37.230.192.51
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
@@ -116,7 +121,7 @@ elevenlabs.io 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 2.16.21.34
+=dzcdn.net 2.16.21.51
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -143,7 +148,6 @@ elevenlabs.io 103.27.157.38
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
-=windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =linear.app 185.246.223.127
 =manus.im 37.230.192.51
@@ -155,7 +159,7 @@ elevenlabs.io 103.27.157.38
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=robinfrontend-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 185.246.223.127
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -166,8 +170,8 @@ elevenlabs.io 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf-telemetry.codeium.com 5.231.223.119
 =windsurf.com 185.246.223.127
-=www-growth.scdn.co 45.155.204.190
 =www.autodesk.com 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
