@@ -5,7 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-37.230.192.51 a.claude.ai
+45.155.204.190 a.claude.ai
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -45,7 +45,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.244.34 b.i.instagram.com
+157.240.253.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-128.75.238.147 dzcdn.net
+128.75.237.113 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -100,11 +100,11 @@
 45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
-37.230.192.51 gtm.deepl.com
+45.155.204.190 gtm.deepl.com
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.253.174 help.instagram.com
+57.144.244.34 help.instagram.com
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -140,7 +140,7 @@
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
-37.230.192.51 public.linear.app
+45.155.204.190 public.linear.app
 37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
@@ -149,7 +149,7 @@
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
-37.230.192.51 sdmntprpolandcentral.oaiusercontent.com
+45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
@@ -204,10 +204,10 @@
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
 157.240.253.174 z-p42-chat-e2ee-ig.facebook.com
-37.230.192.51 soundcloud.com
-37.230.192.51 www.soundcloud.com
-37.230.192.51 promoted.soundcloud.com
-37.230.192.51 api-v2.soundcloud.com
+45.155.204.190 soundcloud.com
+45.155.204.190 www.soundcloud.com
+45.155.204.190 promoted.soundcloud.com
+45.155.204.190 api-v2.soundcloud.com
 149.154.167.220 api.telegram.org
 149.154.167.220 cdn.telesco.pe
 149.154.167.220 cdn1.telesco.pe
