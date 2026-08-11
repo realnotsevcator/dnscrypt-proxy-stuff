@@ -93,6 +93,7 @@ elevenlabs.io 103.27.157.38
 =cdn.auth0.com 65.9.68.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
+=videos.openai.com 37.230.192.51
 =checkout.www.deepl.com 37.230.192.51
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
@@ -103,7 +104,8 @@ elevenlabs.io 103.27.157.38
 =static.linear.app 45.155.204.190
 =uploads.linear.app 45.155.204.190
 =codeium.com 185.246.223.127
-=content-management-files.canva.com 5.231.223.119
+=content-management-files.canva.com 45.155.204.190
+=static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -124,7 +126,7 @@ elevenlabs.io 103.27.157.38
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 5.231.223.119
+=framer.com 45.155.204.190
 =frontend-api-v3.pump.fun 45.155.204.190
 =images.pump.fun 45.155.204.190
 =swap-api.pump.fun 45.155.204.190
@@ -133,7 +135,7 @@ elevenlabs.io 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=gtm.deepl.com 5.231.223.119
+=gtm.deepl.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -154,18 +156,16 @@ elevenlabs.io 103.27.157.38
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=robinfrontend-pa.googleapis.com 62.133.62.97
+=robinfrontend-pa.googleapis.com 185.246.223.127
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
+=sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
-=sdmntprnortheu.oaiusercontent.com 104.18.43.204
-=sdmntprukwest.oaiusercontent.com 8.47.69.0
+=sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
-=static.canva.com 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=videos.openai.com 5.231.223.119
 =web.archive.org 103.27.157.38
 =windsurf.com 185.246.223.127
 =www.autodesk.com 45.155.204.190
@@ -176,7 +176,7 @@ elevenlabs.io 103.27.157.38
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
-=www.qwant.com 5.231.223.119
+=www.qwant.com 37.230.192.51
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
