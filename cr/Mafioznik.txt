@@ -29,11 +29,6 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
-=a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -118,7 +113,6 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
 =client-api.linear.app 45.155.204.190
-=constellation.linear.app 45.155.204.190
 =public.linear.app 45.155.204.190
 =s.linear.app 45.155.204.190
 =static.linear.app 45.155.204.190
@@ -147,15 +141,12 @@ elevenlabs.io 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 45.155.204.190
 =frontend-api-v3.pump.fun 45.155.204.190
-=images.pump.fun 45.155.204.190
 =swap-api.pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
-=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =inference.codeium.com 45.155.204.190
@@ -175,7 +166,6 @@ elevenlabs.io 103.27.157.38
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -187,11 +177,9 @@ elevenlabs.io 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =windsurf.com 185.246.223.127
-=www.autodesk.com 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
-=www.elgato.com 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
