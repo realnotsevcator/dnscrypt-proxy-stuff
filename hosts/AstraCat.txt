@@ -5,12 +5,12 @@
 # by sevcator <3
 # Enjoy :D
 
-45.155.204.190 a.claude.ai
+5.231.223.119 a.claude.ai
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 37.230.192.51 accounts.autodesk.com
-45.155.204.190 accounts.scdn.co
+199.232.174.248 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
@@ -38,7 +38,7 @@
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
-45.155.204.190 app.notion.com
+208.103.161.1 app.notion.com
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
@@ -49,7 +49,7 @@
 103.27.157.38 auth0.openai.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
-45.155.204.190 calendar.notion.so
+5.231.223.119 calendar.notion.so
 65.9.68.34 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.83 dzcdn.net
+188.43.75.75 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -89,7 +89,7 @@
 103.27.157.38 fitbit-pa.googleapis.com
 103.27.157.38 fitbit.google.com
 103.27.157.38 fitbitvestibuleshim-pa.googleapis.com
-45.155.204.190 framer.com
+5.231.223.119 framer.com
 45.155.204.190 frontend-api-v3.pump.fun
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
@@ -101,7 +101,7 @@
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 gtm.deepl.com
-45.155.204.190 guidedhacking.com
+5.231.223.119 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
@@ -174,12 +174,12 @@
 37.230.192.51 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
-45.155.204.190 web-backend.codeium.com
+5.231.223.119 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-45.155.204.190 windsurf-telemetry.codeium.com
+185.246.223.127 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
@@ -200,6 +200,10 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
+5.231.223.119 soundcloud.com
+5.231.223.119 www.soundcloud.com
+5.231.223.119 promoted.soundcloud.com
+5.231.223.119 api-v2.soundcloud.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com
@@ -212,10 +216,18 @@
 37.230.192.51 www.soundcloud.com
 37.230.192.51 promoted.soundcloud.com
 37.230.192.51 api-v2.soundcloud.com
+199.232.174.248 soundcloud.com
+199.232.174.248 www.soundcloud.com
+199.232.174.248 promoted.soundcloud.com
+199.232.174.248 api-v2.soundcloud.com
 35.186.224.24 soundcloud.com
 35.186.224.24 www.soundcloud.com
 35.186.224.24 promoted.soundcloud.com
 35.186.224.24 api-v2.soundcloud.com
+208.103.161.1 soundcloud.com
+208.103.161.1 www.soundcloud.com
+208.103.161.1 promoted.soundcloud.com
+208.103.161.1 api-v2.soundcloud.com
 162.159.140.167 soundcloud.com
 162.159.140.167 www.soundcloud.com
 162.159.140.167 promoted.soundcloud.com
@@ -232,10 +244,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-188.43.75.83 soundcloud.com
-188.43.75.83 www.soundcloud.com
-188.43.75.83 promoted.soundcloud.com
-188.43.75.83 api-v2.soundcloud.com
+188.43.75.75 soundcloud.com
+188.43.75.75 www.soundcloud.com
+188.43.75.75 promoted.soundcloud.com
+188.43.75.75 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
