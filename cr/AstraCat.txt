@@ -5,10 +5,6 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 5.231.223.119
-www.soundcloud.com 5.231.223.119
-promoted.soundcloud.com 5.231.223.119
-api-v2.soundcloud.com 5.231.223.119
 soundcloud.com 45.155.204.190
 www.soundcloud.com 45.155.204.190
 promoted.soundcloud.com 45.155.204.190
@@ -41,27 +37,19 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 188.43.75.74
-www.soundcloud.com 188.43.75.74
-promoted.soundcloud.com 188.43.75.74
-api-v2.soundcloud.com 188.43.75.74
-soundcloud.com 35.186.224.33
-www.soundcloud.com 35.186.224.33
-promoted.soundcloud.com 35.186.224.33
-api-v2.soundcloud.com 35.186.224.33
+soundcloud.com 2.16.21.34
+www.soundcloud.com 2.16.21.34
+promoted.soundcloud.com 2.16.21.34
+api-v2.soundcloud.com 2.16.21.34
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 216.239.32.27
-www.soundcloud.com 216.239.32.27
-promoted.soundcloud.com 216.239.32.27
-api-v2.soundcloud.com 216.239.32.27
-soundcloud.com 8.47.69.0
-www.soundcloud.com 8.47.69.0
-promoted.soundcloud.com 8.47.69.0
-api-v2.soundcloud.com 8.47.69.0
-=a.claude.ai 5.231.223.119
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
+=a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -169,7 +157,7 @@ elevenlabs.io 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.74
+=dzcdn.net 2.16.21.34
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -186,7 +174,7 @@ elevenlabs.io 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 35.186.224.33
+=gew1-dealer.spotify.com 45.155.204.190
 =gtm.deepl.com 45.155.204.190
 =guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
@@ -195,6 +183,7 @@ elevenlabs.io 103.27.157.38
 =server.codeium.com 45.155.204.190
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
+=windsurf-stable.codeium.com 45.155.204.190
 =windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =linear.app 185.246.223.127
@@ -203,15 +192,14 @@ elevenlabs.io 103.27.157.38
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
-=operator.chatgpt.com 5.231.223.119
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=robinfrontend-pa.googleapis.com 216.239.32.27
-=sdmntpritalynorth.oaiusercontent.com 8.47.69.0
-=sdmntprpolandcentral.oaiusercontent.com 8.47.69.0
+=robinfrontend-pa.googleapis.com 62.133.62.97
+=sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
+=sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
@@ -219,7 +207,6 @@ elevenlabs.io 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-stable.codeium.com 5.231.223.119
 =windsurf.com 185.246.223.127
 =www.autodesk.com 45.155.204.190
 =www.canva.com 103.27.157.38
