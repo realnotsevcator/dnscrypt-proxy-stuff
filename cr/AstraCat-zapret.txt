@@ -19,7 +19,7 @@ chatgpt.com 45.155.204.190
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
-=accounts.autodesk.com 37.230.192.51
+=accounts.autodesk.com 5.231.223.119
 =accounts.scdn.co 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
@@ -66,8 +66,7 @@ chatgpt.com 45.155.204.190
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 45.155.204.190
-=api.trae.ai 45.155.204.190
+=api-sg-central.trae.ai 5.231.223.119
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -82,6 +81,7 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.trae.ai 45.155.204.190
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 45.155.204.190
@@ -116,7 +116,7 @@ elevenlabs.io 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 45.155.204.190
+=dyson.com 5.231.223.119
 =dzcdn.net 188.43.75.74
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38

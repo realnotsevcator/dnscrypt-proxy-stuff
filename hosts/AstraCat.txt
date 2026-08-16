@@ -9,7 +9,7 @@
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-37.230.192.51 accounts.autodesk.com
+5.231.223.119 accounts.autodesk.com
 45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
@@ -25,7 +25,7 @@
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
-45.155.204.190 api-sg-central.trae.ai
+5.231.223.119 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
@@ -75,7 +75,7 @@
 103.27.157.38 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-45.155.204.190 dyson.com
+5.231.223.119 dyson.com
 188.43.75.74 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
@@ -208,10 +208,10 @@
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
 103.27.157.38 api-v2.soundcloud.com
-37.230.192.51 soundcloud.com
-37.230.192.51 www.soundcloud.com
-37.230.192.51 promoted.soundcloud.com
-37.230.192.51 api-v2.soundcloud.com
+5.231.223.119 soundcloud.com
+5.231.223.119 www.soundcloud.com
+5.231.223.119 promoted.soundcloud.com
+5.231.223.119 api-v2.soundcloud.com
 35.186.224.24 soundcloud.com
 35.186.224.24 www.soundcloud.com
 35.186.224.24 promoted.soundcloud.com
@@ -224,6 +224,10 @@
 65.9.68.34 www.soundcloud.com
 65.9.68.34 promoted.soundcloud.com
 65.9.68.34 api-v2.soundcloud.com
+37.230.192.51 soundcloud.com
+37.230.192.51 www.soundcloud.com
+37.230.192.51 promoted.soundcloud.com
+37.230.192.51 api-v2.soundcloud.com
 185.246.223.127 soundcloud.com
 185.246.223.127 www.soundcloud.com
 185.246.223.127 promoted.soundcloud.com

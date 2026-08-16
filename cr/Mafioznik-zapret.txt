@@ -20,8 +20,6 @@ chatgpt.com 45.155.204.190
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 37.230.192.51
-=accounts.scdn.co 45.155.204.190
-=www-growth.scdn.co 45.155.204.190
 =accounts.spotify.com 103.27.157.38
 =aet.spotify.com 103.27.157.38
 =api-partner.spotify.com 103.27.157.38
@@ -101,6 +99,7 @@ elevenlabs.io 103.27.157.38
 =uploads.linear.app 45.155.204.190
 =codeium.com 185.246.223.127
 =content-management-files.canva.com 45.155.204.190
+=static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -129,8 +128,6 @@ elevenlabs.io 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 45.155.204.190
-=gtm.deepl.com 45.155.204.190
-=guidedhacking.com 45.155.204.190
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =inference.codeium.com 45.155.204.190
@@ -161,6 +158,7 @@ elevenlabs.io 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
 =windsurf.com 185.246.223.127
+=www-growth.scdn.co 45.155.204.190
 =www.autodesk.com 45.155.204.190
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
