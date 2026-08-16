@@ -6,7 +6,7 @@
 # Enjoy :D
 
 45.155.204.190 a.claude.ai
-45.155.204.190 ab.chatgpt.com
+87.228.47.204 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 37.230.192.51 accounts.autodesk.com
@@ -45,16 +45,16 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-57.144.222.34 b.i.instagram.com
+157.240.254.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
-65.9.68.34 cdn.auth0.com
+18.64.195.35 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 37.230.192.51 cdn.platform.openai.com
-87.228.47.204 chatgpt.com
-37.230.192.51 checkout.www.deepl.com
+45.155.204.190 chatgpt.com
+87.228.47.195 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-139.45.206.137 dzcdn.net
+139.45.206.139 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -97,19 +97,19 @@
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
-45.155.204.190 gew1-dealer.spotify.com
+87.228.47.195 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
-45.155.204.190 gtm.deepl.com
+87.228.47.195 gtm.deepl.com
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.222.34 help.instagram.com
+157.240.254.174 help.instagram.com
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
-57.144.222.34 instagram.com
+157.240.254.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -154,7 +154,7 @@
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
-45.155.204.190 sora.chatgpt.com
+87.228.47.204 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 45.155.204.190 static.canva.com
@@ -176,7 +176,7 @@
 37.230.192.51 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
-45.155.204.190 web-backend.codeium.com
+35.223.238.178 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
@@ -184,7 +184,7 @@
 45.155.204.190 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
+87.245.200.26 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
@@ -194,7 +194,7 @@
 103.27.157.38 www.dyson.fr
 45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
-57.144.222.34 www.instagram.com
+157.240.254.174 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -203,7 +203,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-57.144.222.34 z-p42-chat-e2ee-ig.facebook.com
+157.240.254.174 z-p42-chat-e2ee-ig.facebook.com
 45.155.204.190 soundcloud.com
 45.155.204.190 www.soundcloud.com
 45.155.204.190 promoted.soundcloud.com

@@ -5,7 +5,6 @@
 # by sevcator <3
 # Enjoy :D
 
-45.155.204.190 a.claude.ai
 45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -54,10 +53,8 @@
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
-45.155.204.190 client-api.linear.app
 185.246.223.127 codeium.com
 103.27.157.38 console.anthropic.com
-45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
@@ -83,8 +80,6 @@
 103.27.157.38 fitbit-pa.googleapis.com
 103.27.157.38 fitbit.google.com
 103.27.157.38 fitbitvestibuleshim-pa.googleapis.com
-45.155.204.190 framer.com
-45.155.204.190 frontend-api-v3.pump.fun
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
 103.27.157.38 game-assets.clashroyaleapp.com
@@ -94,6 +89,8 @@
 45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
+45.155.204.190 gtm.deepl.com
+45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
@@ -143,7 +140,6 @@
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
-45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 45.155.204.190 static.canva.com
@@ -157,7 +153,6 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-45.155.204.190 unleash.codeium.com
 45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
