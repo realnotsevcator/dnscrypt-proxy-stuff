@@ -37,18 +37,14 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 188.43.75.75
-www.soundcloud.com 188.43.75.75
-promoted.soundcloud.com 188.43.75.75
-api-v2.soundcloud.com 188.43.75.75
+soundcloud.com 188.43.75.74
+www.soundcloud.com 188.43.75.74
+promoted.soundcloud.com 188.43.75.74
+api-v2.soundcloud.com 188.43.75.74
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 5.231.223.119
-www.soundcloud.com 5.231.223.119
-promoted.soundcloud.com 5.231.223.119
-api-v2.soundcloud.com 5.231.223.119
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -139,6 +135,7 @@ elevenlabs.io 103.27.157.38
 =claude.ai 103.27.157.38
 =client-api.linear.app 45.155.204.190
 =constellation.linear.app 45.155.204.190
+=public.linear.app 45.155.204.190
 =s.linear.app 45.155.204.190
 =static.linear.app 45.155.204.190
 =uploads.linear.app 45.155.204.190
@@ -156,7 +153,7 @@ elevenlabs.io 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.75
+=dzcdn.net 188.43.75.74
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -194,7 +191,6 @@ elevenlabs.io 103.27.157.38
 =patreon.com 185.246.223.127
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
-=public.linear.app 5.231.223.119
 =pump.fun 37.230.192.51
 =robinfrontend-pa.googleapis.com 185.246.223.127
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
