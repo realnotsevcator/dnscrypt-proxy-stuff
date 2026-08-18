@@ -29,10 +29,6 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 62.133.62.97
-www.soundcloud.com 62.133.62.97
-promoted.soundcloud.com 62.133.62.97
-api-v2.soundcloud.com 62.133.62.97
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -124,8 +120,6 @@ elevenlabs.io 103.27.157.38
 =static.linear.app 45.155.204.190
 =uploads.linear.app 45.155.204.190
 =codeium.com 185.246.223.127
-=content-management-files.canva.com 45.155.204.190
-=static.canva.com 45.155.204.190
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -175,11 +169,13 @@ elevenlabs.io 103.27.157.38
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
+=sdmntprnortheu.oaiusercontent.com 45.155.204.190
+=sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=static.canva.com 45.155.204.190
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
