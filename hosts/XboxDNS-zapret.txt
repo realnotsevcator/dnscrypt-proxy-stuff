@@ -6,11 +6,11 @@
 # Enjoy :D
 
 45.155.204.190 a.claude.ai
-45.155.204.190 ab.chatgpt.com
+87.228.47.204 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 37.230.192.51 accounts.autodesk.com
-146.75.118.248 accounts.scdn.co
+45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
@@ -34,10 +34,10 @@
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
-128.75.237.128 api.trae.ai
+2.23.167.145 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
-45.155.204.190 app.notion.com
+87.228.47.195 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
 104.16.102.112 auth.anthropic.com
@@ -49,7 +49,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 45.155.204.190 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+65.9.68.34 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 37.230.192.51 cdn.platform.openai.com
@@ -75,8 +75,8 @@
 103.27.157.38 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-45.155.204.190 dyson.com
-128.75.237.128 dzcdn.net
+87.228.47.195 dyson.com
+139.45.206.137 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -108,7 +108,7 @@
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
-45.155.204.190 inference.codeium.com
+192.34.20.166 inference.codeium.com
 57.145.2.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
@@ -123,7 +123,7 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 37.230.192.51 manus.im
-45.155.204.190 marketplace.windsurf.com
+35.223.238.178 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -131,7 +131,7 @@
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com
-45.155.204.190 operator.chatgpt.com
+87.228.47.204 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
@@ -149,16 +149,16 @@
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
-45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
+87.228.47.204 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
-45.155.204.190 sora.chatgpt.com
+87.228.47.204 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
-45.155.204.190 static.canva.com
-45.155.204.190 static.linear.app
+104.16.102.112 static.canva.com
+8.47.69.0 static.linear.app
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
@@ -168,8 +168,8 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-45.155.204.190 unleash.codeium.com
-8.47.69.0 uploads.linear.app
+35.223.238.178 unleash.codeium.com
+45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
 37.230.192.51 videos.openai.com
@@ -179,9 +179,9 @@
 45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
-45.155.204.190 webrtc.chatgpt.com
+87.228.47.204 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-45.155.204.190 windsurf-telemetry.codeium.com
+35.223.238.178 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
