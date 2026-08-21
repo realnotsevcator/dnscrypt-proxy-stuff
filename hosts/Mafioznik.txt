@@ -24,6 +24,7 @@
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
+45.155.204.190 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
@@ -33,7 +34,6 @@
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
-45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
 45.155.204.190 app.notion.com
@@ -45,6 +45,7 @@
 103.27.157.38 auth0.openai.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
+45.155.204.190 calendar.notion.so
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 37.230.192.51 cdn.platform.openai.com
@@ -69,7 +70,6 @@
 103.27.157.38 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-45.155.204.190 dyson.com
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -135,6 +135,7 @@
 37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
@@ -142,7 +143,6 @@
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
-45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
 45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
@@ -182,6 +182,7 @@
 103.27.157.38 www.dell.com
 103.27.157.38 www.dyson.com
 103.27.157.38 www.dyson.fr
+45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
@@ -215,3 +216,7 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com

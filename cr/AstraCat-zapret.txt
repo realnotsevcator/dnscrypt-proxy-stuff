@@ -10,7 +10,7 @@ www.soundcloud.com 45.155.204.190
 promoted.soundcloud.com 45.155.204.190
 api-v2.soundcloud.com 45.155.204.190
 =a.claude.ai 45.155.204.190
-=ab.chatgpt.com 5.231.223.119
+chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -87,14 +87,13 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 162.159.140.167
+=auth.anthropic.com 104.18.43.204
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
 =cdn.auth0.com 13.32.46.190
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
-chatgpt.com 45.155.204.190
 =checkout.www.deepl.com 37.230.192.51
 =voice-proxy.www.deepl.com 37.230.192.51
 =claude.ai 103.27.157.38
@@ -118,7 +117,7 @@ chatgpt.com 45.155.204.190
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 2.16.21.51
+=dzcdn.net 188.43.75.72
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38

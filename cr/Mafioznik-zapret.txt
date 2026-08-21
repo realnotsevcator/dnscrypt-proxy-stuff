@@ -64,6 +64,7 @@ chatgpt.com 45.155.204.190
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
+=api-sg-central.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -78,13 +79,13 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.trae.ai 45.155.204.190
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 45.155.204.190
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
+=calendar.notion.so 45.155.204.190
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
@@ -110,7 +111,6 @@ elevenlabs.io 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 45.155.204.190
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -133,7 +133,6 @@ elevenlabs.io 103.27.157.38
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =inference.codeium.com 45.155.204.190
-=server.codeium.com 45.155.204.190
 =unleash.codeium.com 45.155.204.190
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
@@ -149,6 +148,7 @@ elevenlabs.io 103.27.157.38
 =www.patreon.com 185.246.223.127
 =platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
 =sdmntprnortheu.oaiusercontent.com 45.155.204.190
 =sdmntprpolandcentral.oaiusercontent.com 45.155.204.190
@@ -164,6 +164,7 @@ elevenlabs.io 103.27.157.38
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
+=www.elgato.com 45.155.204.190
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
