@@ -78,6 +78,7 @@
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
+45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 guidedhacking.com
@@ -115,9 +116,9 @@
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
-37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
