@@ -115,6 +115,7 @@
 103.27.157.38 login-wall.deepl.com
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
+37.230.192.51 manus.im
 45.155.204.190 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
