@@ -65,6 +65,7 @@ deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
 =api-sg-central.trae.ai 45.155.204.190
+=api.trae.ai 45.155.204.190
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -123,6 +124,7 @@ elevenlabs.io 103.27.157.38
 =framer.com 45.155.204.190
 =frontend-api-v3.pump.fun 45.155.204.190
 =images.pump.fun 45.155.204.190
+=swap-api.pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
@@ -140,7 +142,6 @@ elevenlabs.io 103.27.157.38
 =windsurf-telemetry.codeium.com 45.155.204.190
 =labs.google 103.27.157.38
 =linear.app 185.246.223.127
-=manus.im 37.230.192.51
 =marketplace.windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
