@@ -5,9 +5,11 @@
 # by sevcator <3
 # Enjoy :D
 
+45.155.204.190 a.claude.ai
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 37.230.192.51 accounts.autodesk.com
+45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
@@ -42,7 +44,6 @@
 103.27.157.38 builds.parsec.app
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
-37.230.192.51 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
@@ -95,7 +96,6 @@
 103.27.157.38 login-wall.deepl.com
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
-37.230.192.51 manus.im
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -103,6 +103,7 @@
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com
+45.155.204.190 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
@@ -114,7 +115,12 @@
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
 103.27.157.38 s.deepl.com
+45.155.204.190 sdmntpritalynorth.oaiusercontent.com
+45.155.204.190 sdmntprnortheu.oaiusercontent.com
+45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
+45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
+45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
@@ -128,13 +134,16 @@
 103.27.157.38 truthsocial.com
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
+37.230.192.51 videos.openai.com
 37.230.192.51 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
+45.155.204.190 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
+45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
@@ -150,6 +159,10 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
+45.155.204.190 soundcloud.com
+45.155.204.190 www.soundcloud.com
+45.155.204.190 promoted.soundcloud.com
+45.155.204.190 api-v2.soundcloud.com
 103.27.157.38 soundcloud.com
 103.27.157.38 www.soundcloud.com
 103.27.157.38 promoted.soundcloud.com
