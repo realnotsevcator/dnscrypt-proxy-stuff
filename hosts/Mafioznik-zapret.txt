@@ -24,7 +24,6 @@
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
-45.155.204.190 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
@@ -49,12 +48,10 @@
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 37.230.192.51 cdn.platform.openai.com
-45.155.204.190 chatgpt.com
 37.230.192.51 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
-45.155.204.190 client-api.linear.app
 185.246.223.127 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
@@ -83,7 +80,6 @@
 103.27.157.38 fitbit-pa.googleapis.com
 103.27.157.38 fitbit.google.com
 103.27.157.38 fitbitvestibuleshim-pa.googleapis.com
-45.155.204.190 framer.com
 45.155.204.190 frontend-api-v3.pump.fun
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
@@ -91,15 +87,12 @@
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
-45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 45.155.204.190 gtm.deepl.com
-45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
-45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
@@ -115,7 +108,6 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 37.230.192.51 manus.im
-45.155.204.190 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -139,6 +131,7 @@
 62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
+45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
@@ -148,12 +141,10 @@
 45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
-45.155.204.190 static.canva.com
 45.155.204.190 static.linear.app
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
-45.155.204.190 swap-api.pump.fun
 103.27.157.38 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
 103.27.157.38 trae-api-sg.mchost.guru
@@ -171,10 +162,8 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
-45.155.204.190 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
-45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
