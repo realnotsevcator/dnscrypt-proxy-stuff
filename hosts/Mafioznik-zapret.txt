@@ -10,7 +10,6 @@
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 37.230.192.51 accounts.autodesk.com
-45.155.204.190 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
@@ -55,6 +54,7 @@
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
+45.155.204.190 client-api.linear.app
 185.246.223.127 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
@@ -100,6 +100,7 @@
 103.27.157.38 i.dell.com
 45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
+45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -130,15 +131,16 @@
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
+45.155.204.190 public.linear.app
 37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
+45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
@@ -146,6 +148,7 @@
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 45.155.204.190 static.canva.com
+45.155.204.190 static.linear.app
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
@@ -168,6 +171,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
+45.155.204.190 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
@@ -178,6 +182,7 @@
 103.27.157.38 www.dell.com
 103.27.157.38 www.dyson.com
 103.27.157.38 www.dyson.fr
+45.155.204.190 www.elgato.com
 103.27.157.38 www.guilded.gg
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
