@@ -100,7 +100,6 @@
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
-45.155.204.190 images.pump.fun
 103.27.157.38 images.tidal.com
 45.155.204.190 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
@@ -137,7 +136,6 @@
 37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
 45.155.204.190 sdmntpritalynorth.oaiusercontent.com
@@ -219,7 +217,3 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com
