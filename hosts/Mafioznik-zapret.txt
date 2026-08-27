@@ -6,6 +6,7 @@
 # Enjoy :D
 
 45.155.204.190 a.claude.ai
+45.155.204.190 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 37.230.192.51 accounts.autodesk.com
@@ -14,6 +15,7 @@
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
 103.27.157.38 aet.spotify.com
+103.27.157.38 afcs.dellcdn.com
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
@@ -35,6 +37,7 @@
 45.155.204.190 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
+45.155.204.190 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
 103.27.157.38 auth.deepl.com
@@ -61,6 +64,7 @@
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
 103.27.157.38 dd.tidal.com
+103.27.157.38 dds.dell.com
 103.27.157.38 deepl.com
 103.27.157.38 deezer.com
 103.27.157.38 developer.nvidia.com
@@ -80,6 +84,7 @@
 103.27.157.38 fitbit-pa.googleapis.com
 103.27.157.38 fitbit.google.com
 103.27.157.38 fitbitvestibuleshim-pa.googleapis.com
+45.155.204.190 framer.com
 45.155.204.190 frontend-api-v3.pump.fun
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
@@ -90,6 +95,7 @@
 45.155.204.190 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
+45.155.204.190 gtm.deepl.com
 45.155.204.190 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
@@ -110,6 +116,8 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 37.230.192.51 manus.im
+45.155.204.190 marketplace.windsurf.com
+103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
 130.255.77.28 ntc.party
@@ -120,21 +128,25 @@
 103.27.157.38 ott.deepl.com
 185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
+37.230.192.51 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
 45.155.204.190 public.linear.app
+37.230.192.51 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 45.155.204.190 s.linear.app
+45.155.204.190 sdmntpritalynorth.oaiusercontent.com
 45.155.204.190 sdmntprnortheu.oaiusercontent.com
 45.155.204.190 sdmntprpolandcentral.oaiusercontent.com
 45.155.204.190 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
+45.155.204.190 server.codeium.com
 103.27.157.38 shield.deepl.com
+45.155.204.190 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 45.155.204.190 static.canva.com
@@ -149,6 +161,7 @@
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
 45.155.204.190 unleash.codeium.com
+45.155.204.190 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
 37.230.192.51 videos.openai.com
@@ -157,6 +170,7 @@
 103.27.157.38 weather.com
 45.155.204.190 web-backend.codeium.com
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
+45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
 185.246.223.127 windsurf.com
@@ -175,6 +189,7 @@
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 185.246.223.127 www.patreon.com
+37.230.192.51 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
