@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.206.152 dzcdn.net
+128.75.237.57 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -111,7 +111,7 @@
 193.233.112.67 images.pump.fun
 103.27.157.38 images.tidal.com
 193.233.112.68 inference.codeium.com
-157.240.205.174 instagram.com
+57.144.244.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
