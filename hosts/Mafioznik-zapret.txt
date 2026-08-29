@@ -155,6 +155,7 @@
 45.155.204.190 swap-api.pump.fun
 103.27.157.38 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
+185.31.40.18 test.dns.malw.link
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com

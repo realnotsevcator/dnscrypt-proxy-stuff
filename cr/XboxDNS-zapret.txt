@@ -89,7 +89,7 @@ elevenlabs.io 103.27.157.38
 instagram.com 31.13.66.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 18.64.195.35
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
@@ -117,7 +117,7 @@ instagram.com 31.13.66.174
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 128.75.237.57
+=dzcdn.net 128.75.237.40
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -148,12 +148,13 @@ instagram.com 31.13.66.174
 =labs.google 103.27.157.38
 =linear.app 8.47.69.0
 =manus.im 37.230.192.51
-=marketplace.windsurf.com 35.223.238.178
+=marketplace.windsurf.com 45.155.204.190
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
 =patreon.com 104.16.24.14
-=platform.claude.com 87.228.47.204
+=www.patreon.com 104.16.24.14
+=platform.claude.com 37.230.192.51
 =pump.fun 37.230.192.51
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 45.155.204.190
@@ -162,6 +163,7 @@ instagram.com 31.13.66.174
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
@@ -175,7 +177,6 @@ instagram.com 31.13.66.174
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
-=www.patreon.com 104.16.102.112
 =www.qwant.com 37.230.192.51
 =www.tiktok.com 103.27.157.38
 =z-p42-chat-e2ee-ig.facebook.com 31.13.66.174

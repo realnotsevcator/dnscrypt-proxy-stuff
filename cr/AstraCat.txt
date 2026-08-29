@@ -37,10 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 188.43.75.104
-www.soundcloud.com 188.43.75.104
-promoted.soundcloud.com 188.43.75.104
-api-v2.soundcloud.com 188.43.75.104
+soundcloud.com 188.43.75.82
+www.soundcloud.com 188.43.75.82
+promoted.soundcloud.com 188.43.75.82
+api-v2.soundcloud.com 188.43.75.82
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -49,6 +49,10 @@ soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
 api-v2.soundcloud.com 62.133.62.97
+soundcloud.com 185.31.40.18
+www.soundcloud.com 185.31.40.18
+promoted.soundcloud.com 185.31.40.18
+api-v2.soundcloud.com 185.31.40.18
 =a.claude.ai 45.155.204.190
 chatgpt.com 45.155.204.190
 =access.broadcom.com 103.27.157.38
@@ -157,7 +161,7 @@ elevenlabs.io 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 45.155.204.190
-=dzcdn.net 188.43.75.104
+=dzcdn.net 188.43.75.82
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -203,6 +207,7 @@ elevenlabs.io 103.27.157.38
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38

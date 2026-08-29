@@ -88,11 +88,10 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 103.137.248.145
-=b.i.instagram.com 157.240.205.174
-=help.instagram.com 157.240.205.174
+instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 45.155.204.190
-=cdn.auth0.com 18.239.17.70
+=cdn.auth0.com 3.164.212.39
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 37.230.192.51
 =videos.openai.com 37.230.192.51
@@ -119,8 +118,8 @@ elevenlabs.io 103.27.157.38
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=dyson.com 162.159.142.173
-=dzcdn.net 139.45.206.147
+=dyson.com 45.155.204.190
+=dzcdn.net 128.75.237.106
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -148,8 +147,6 @@ elevenlabs.io 103.27.157.38
 =web-backend.codeium.com 45.155.204.190
 =windsurf-stable.codeium.com 45.155.204.190
 =windsurf-telemetry.codeium.com 45.155.204.190
-=instagram.com 57.144.244.34
-=www.instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =linear.app 8.47.69.0
 =manus.im 37.230.192.51
@@ -168,6 +165,7 @@ elevenlabs.io 103.27.157.38
 =sdmntprukwest.oaiusercontent.com 45.155.204.190
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38

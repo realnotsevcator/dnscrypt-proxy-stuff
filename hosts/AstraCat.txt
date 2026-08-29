@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 45.155.204.190 dyson.com
-188.43.75.104 dzcdn.net
+188.43.75.82 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -163,6 +163,7 @@
 45.155.204.190 swap-api.pump.fun
 103.27.157.38 sydney.bing.com
 103.27.157.38 tcr9i.chat.openai.com
+185.31.40.18 test.dns.malw.link
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
@@ -232,10 +233,10 @@
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-188.43.75.104 soundcloud.com
-188.43.75.104 www.soundcloud.com
-188.43.75.104 promoted.soundcloud.com
-188.43.75.104 api-v2.soundcloud.com
+188.43.75.82 soundcloud.com
+188.43.75.82 www.soundcloud.com
+188.43.75.82 promoted.soundcloud.com
+188.43.75.82 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
@@ -244,3 +245,7 @@
 62.133.62.97 www.soundcloud.com
 62.133.62.97 promoted.soundcloud.com
 62.133.62.97 api-v2.soundcloud.com
+185.31.40.18 soundcloud.com
+185.31.40.18 www.soundcloud.com
+185.31.40.18 promoted.soundcloud.com
+185.31.40.18 api-v2.soundcloud.com
