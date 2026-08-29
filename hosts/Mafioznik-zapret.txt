@@ -56,7 +56,6 @@
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 45.155.204.190 client-api.linear.app
-185.246.223.127 codeium.com
 103.27.157.38 console.anthropic.com
 45.155.204.190 constellation.linear.app
 45.155.204.190 content-management-files.canva.com
@@ -109,7 +108,6 @@
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
 103.27.157.38 labs.google
-185.246.223.127 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
 103.27.157.38 login-wall.deepl.com
@@ -126,7 +124,6 @@
 103.27.157.38 open.spotify.com
 45.155.204.190 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
-185.246.223.127 patreon.com
 103.27.157.38 payment.deezer.com
 37.230.192.51 platform.claude.com
 103.27.157.38 platform.openai.com
@@ -175,7 +172,6 @@
 45.155.204.190 webrtc.chatgpt.com
 45.155.204.190 windsurf-stable.codeium.com
 45.155.204.190 windsurf-telemetry.codeium.com
-185.246.223.127 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.autodesk.com
@@ -190,7 +186,6 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
-185.246.223.127 www.patreon.com
 37.230.192.51 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
