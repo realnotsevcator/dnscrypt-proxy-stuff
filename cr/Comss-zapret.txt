@@ -104,12 +104,13 @@ instagram.com 157.240.205.174
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
-=constellation.linear.app 162.159.136.66
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
+=controlplane.tailscale.com 192.200.0.101
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
+=i.dell.com 103.27.157.38
 =nexus.dell.com 103.27.157.38
 =www.dell.com 103.27.157.38
 =deezer.com 103.27.157.38
@@ -117,7 +118,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.206.170
+=dzcdn.net 128.75.237.129
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -128,6 +129,7 @@ codeium.com 193.233.112.68
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 193.233.112.68
 =frontend-api-v3.pump.fun 193.233.112.68
+=pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
@@ -139,7 +141,7 @@ codeium.com 193.233.112.68
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
-=manus.im 103.137.248.145
+=manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
 =windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
@@ -149,8 +151,7 @@ codeium.com 193.233.112.68
 =sora.chatgpt.com 193.233.112.67
 =patreon.com 62.133.62.97
 =www.patreon.com 62.133.62.97
-=platform.claude.com 162.159.136.66
-=pump.fun 162.159.136.66
+=platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
