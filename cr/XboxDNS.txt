@@ -21,10 +21,10 @@ soundcloud.com 104.16.102.112
 www.soundcloud.com 104.16.102.112
 promoted.soundcloud.com 104.16.102.112
 api-v2.soundcloud.com 104.16.102.112
-soundcloud.com 57.145.2.34
-www.soundcloud.com 57.145.2.34
-promoted.soundcloud.com 57.145.2.34
-api-v2.soundcloud.com 57.145.2.34
+soundcloud.com 163.70.151.174
+www.soundcloud.com 163.70.151.174
+promoted.soundcloud.com 163.70.151.174
+api-v2.soundcloud.com 163.70.151.174
 soundcloud.com 65.9.68.34
 www.soundcloud.com 65.9.68.34
 promoted.soundcloud.com 65.9.68.34
@@ -37,10 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 128.75.237.137
-www.soundcloud.com 128.75.237.137
-promoted.soundcloud.com 128.75.237.137
-api-v2.soundcloud.com 128.75.237.137
+soundcloud.com 139.45.206.136
+www.soundcloud.com 139.45.206.136
+promoted.soundcloud.com 139.45.206.136
+api-v2.soundcloud.com 139.45.206.136
 soundcloud.com 193.233.112.67
 www.soundcloud.com 193.233.112.67
 promoted.soundcloud.com 193.233.112.67
@@ -49,10 +49,6 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 104.16.24.14
-www.soundcloud.com 104.16.24.14
-promoted.soundcloud.com 104.16.24.14
-api-v2.soundcloud.com 104.16.24.14
 soundcloud.com 62.133.62.97
 www.soundcloud.com 62.133.62.97
 promoted.soundcloud.com 62.133.62.97
@@ -140,7 +136,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-instagram.com 57.145.2.34
+instagram.com 163.70.151.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 65.9.68.34
@@ -168,7 +164,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 128.75.237.137
+=dzcdn.net 139.45.206.136
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -199,7 +195,8 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 104.16.24.14
+=patreon.com 62.133.62.97
+=www.patreon.com 62.133.62.97
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
@@ -220,7 +217,6 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
-=www.patreon.com 62.133.62.97
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.145.2.34
+=z-p42-chat-e2ee-ig.facebook.com 163.70.151.174

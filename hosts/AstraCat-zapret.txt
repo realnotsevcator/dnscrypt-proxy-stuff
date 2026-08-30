@@ -42,7 +42,7 @@
 35.186.224.24 appresolve.spotify.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
-104.18.43.204 auth.anthropic.com
+162.159.140.167 auth.anthropic.com
 103.27.157.38 auth.deepl.com
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-185.5.161.209 dzcdn.net
+185.5.161.185 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -131,7 +131,7 @@
 103.27.157.38 open.spotify.com
 193.233.112.67 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
-62.133.62.97 patreon.com
+5.231.223.119 patreon.com
 103.27.157.38 payment.deezer.com
 193.233.112.68 platform.claude.com
 103.27.157.38 platform.openai.com

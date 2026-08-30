@@ -126,6 +126,7 @@
 103.27.157.38 open.spotify.com
 193.233.112.67 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
+62.133.62.97 patreon.com
 103.27.157.38 payment.deezer.com
 193.233.112.68 platform.claude.com
 103.27.157.38 platform.openai.com
