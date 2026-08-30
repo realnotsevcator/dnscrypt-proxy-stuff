@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 23.75.20.105
+=dzcdn.net 185.5.161.209
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -148,6 +148,7 @@ codeium.com 193.233.112.68
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
 =patreon.com 62.133.62.97
+=www.patreon.com 62.133.62.97
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 45.88.174.254
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
@@ -168,7 +169,6 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
-=www.patreon.com 5.231.223.119
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220

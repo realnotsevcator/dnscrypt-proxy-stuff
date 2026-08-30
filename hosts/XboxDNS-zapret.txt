@@ -45,11 +45,11 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-157.240.211.174 b.i.instagram.com
+57.145.2.34 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+65.9.68.34 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-128.75.237.129 dzcdn.net
+128.75.237.137 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -104,12 +104,12 @@
 193.233.112.68 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.211.174 help.instagram.com
+57.145.2.34 help.instagram.com
 103.27.157.38 i.dell.com
 193.233.112.67 images.pump.fun
 103.27.157.38 images.tidal.com
 193.233.112.68 inference.codeium.com
-157.240.211.174 instagram.com
+57.145.2.34 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -133,7 +133,7 @@
 103.27.157.38 open.spotify.com
 193.233.112.67 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
-62.133.62.97 patreon.com
+104.16.24.14 patreon.com
 103.27.157.38 payment.deezer.com
 193.233.112.68 platform.claude.com
 103.27.157.38 platform.openai.com
@@ -195,7 +195,7 @@
 103.27.157.38 www.dyson.fr
 193.233.112.68 www.elgato.com
 103.27.157.38 www.guilded.gg
-157.240.211.174 www.instagram.com
+57.145.2.34 www.instagram.com
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
@@ -204,7 +204,7 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-157.240.211.174 z-p42-chat-e2ee-ig.facebook.com
+57.145.2.34 z-p42-chat-e2ee-ig.facebook.com
 193.233.112.68 soundcloud.com
 193.233.112.68 www.soundcloud.com
 193.233.112.68 promoted.soundcloud.com

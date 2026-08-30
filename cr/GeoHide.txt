@@ -33,18 +33,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 184.51.88.65
-www.soundcloud.com 184.51.88.65
-promoted.soundcloud.com 184.51.88.65
-api-v2.soundcloud.com 184.51.88.65
-soundcloud.com 157.240.253.174
-www.soundcloud.com 157.240.253.174
-promoted.soundcloud.com 157.240.253.174
-api-v2.soundcloud.com 157.240.253.174
-soundcloud.com 157.240.27.174
-www.soundcloud.com 157.240.27.174
-promoted.soundcloud.com 157.240.27.174
-api-v2.soundcloud.com 157.240.27.174
+soundcloud.com 184.51.252.149
+www.soundcloud.com 184.51.252.149
+promoted.soundcloud.com 184.51.252.149
+api-v2.soundcloud.com 184.51.252.149
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -136,7 +128,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.24.14
-=b.i.instagram.com 57.144.244.34
+instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 193.233.112.67
@@ -164,7 +156,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 184.51.88.65
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -185,10 +177,7 @@ codeium.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=help.instagram.com 157.240.253.174
-=www.instagram.com 157.240.253.174
 =images.pump.fun 193.233.112.67
-=instagram.com 157.240.27.174
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
@@ -222,4 +211,4 @@ codeium.com 193.233.112.68
 =www.notion.so 103.27.157.38
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
+=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
