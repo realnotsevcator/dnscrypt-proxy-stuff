@@ -5,6 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
+soundcloud.com 5.231.223.119
+www.soundcloud.com 5.231.223.119
+promoted.soundcloud.com 5.231.223.119
+api-v2.soundcloud.com 5.231.223.119
 soundcloud.com 193.233.112.68
 www.soundcloud.com 193.233.112.68
 promoted.soundcloud.com 193.233.112.68
@@ -53,7 +57,7 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-=a.claude.ai 193.233.112.68
+=a.claude.ai 5.231.223.119
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
@@ -145,8 +149,9 @@ elevenlabs.io 103.27.157.38
 =gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
-linear.app 193.233.112.68
+=client-api.linear.app 5.231.223.119
 codeium.com 193.233.112.68
+linear.app 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
@@ -193,7 +198,7 @@ codeium.com 193.233.112.68
 =sora.chatgpt.com 193.233.112.67
 =patreon.com 62.133.62.97
 =www.patreon.com 62.133.62.97
-=platform.claude.com 193.233.112.68
+=platform.claude.com 5.231.223.119
 =robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
@@ -205,7 +210,7 @@ codeium.com 193.233.112.68
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=web.archive.org 103.27.157.38
+=web.archive.org 193.233.112.68
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38

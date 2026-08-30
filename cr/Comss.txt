@@ -41,10 +41,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 128.75.237.57
-www.soundcloud.com 128.75.237.57
-promoted.soundcloud.com 128.75.237.57
-api-v2.soundcloud.com 128.75.237.57
+soundcloud.com 139.45.206.136
+www.soundcloud.com 139.45.206.136
+promoted.soundcloud.com 139.45.206.136
+api-v2.soundcloud.com 139.45.206.136
 soundcloud.com 193.233.112.67
 www.soundcloud.com 193.233.112.67
 promoted.soundcloud.com 193.233.112.67
@@ -148,7 +148,6 @@ elevenlabs.io 103.27.157.38
 =auth.anthropic.com 103.137.248.145
 =b.i.instagram.com 157.240.205.174
 =help.instagram.com 157.240.205.174
-=www.instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 3.164.212.39
@@ -176,7 +175,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 128.75.237.57
+=dzcdn.net 139.45.206.136
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -199,6 +198,7 @@ codeium.com 193.233.112.68
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
 =instagram.com 57.144.244.34
+=www.instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
@@ -222,7 +222,7 @@ codeium.com 193.233.112.68
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=web.archive.org 103.27.157.38
+=web.archive.org 193.233.112.68
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38

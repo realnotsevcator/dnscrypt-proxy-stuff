@@ -5,7 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-193.233.112.68 a.claude.ai
+5.231.223.119 a.claude.ai
 193.233.112.68 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -59,7 +59,7 @@
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
-193.233.112.68 client-api.linear.app
+5.231.223.119 client-api.linear.app
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
@@ -133,7 +133,7 @@
 103.27.157.38 ott.deepl.com
 62.133.62.97 patreon.com
 103.27.157.38 payment.deezer.com
-193.233.112.68 platform.claude.com
+5.231.223.119 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -176,7 +176,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 193.233.112.68 web-backend.codeium.com
-103.27.157.38 web.archive.org
+193.233.112.68 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
@@ -201,6 +201,10 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
+5.231.223.119 soundcloud.com
+5.231.223.119 www.soundcloud.com
+5.231.223.119 promoted.soundcloud.com
+5.231.223.119 api-v2.soundcloud.com
 193.233.112.68 soundcloud.com
 193.233.112.68 www.soundcloud.com
 193.233.112.68 promoted.soundcloud.com

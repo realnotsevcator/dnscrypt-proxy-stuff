@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.206.136 dzcdn.net
+139.45.206.144 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,7 +106,7 @@
 103.27.157.38 help.elevenlabs.io
 57.145.2.34 help.instagram.com
 103.27.157.38 i.dell.com
-193.233.112.67 images.pump.fun
+8.47.69.0 images.pump.fun
 103.27.157.38 images.tidal.com
 193.233.112.68 inference.codeium.com
 57.145.2.34 instagram.com
@@ -178,7 +178,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 193.233.112.68 web-backend.codeium.com
-103.27.157.38 web.archive.org
+193.233.112.68 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com

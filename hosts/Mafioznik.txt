@@ -149,7 +149,6 @@
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 193.233.112.68 static.canva.com
-193.233.112.68 static.linear.app
 103.27.157.38 stitch.withgoogle.com
 103.27.157.38 store.supercell.com
 103.27.157.38 support.broadcom.com
@@ -169,7 +168,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 193.233.112.68 web-backend.codeium.com
-103.27.157.38 web.archive.org
+193.233.112.68 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com

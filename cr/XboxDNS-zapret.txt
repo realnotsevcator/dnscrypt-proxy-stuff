@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.206.136
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -137,7 +137,7 @@ codeium.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=images.pump.fun 193.233.112.67
+=images.pump.fun 8.47.69.0
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
@@ -161,7 +161,7 @@ codeium.com 193.233.112.68
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=web.archive.org 103.27.157.38
+=web.archive.org 193.233.112.68
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
