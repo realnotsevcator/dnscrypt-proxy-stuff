@@ -33,6 +33,10 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
+soundcloud.com 62.133.62.97
+www.soundcloud.com 62.133.62.97
+promoted.soundcloud.com 62.133.62.97
+api-v2.soundcloud.com 62.133.62.97
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
@@ -185,5 +189,6 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
+=www.patreon.com 62.133.62.97
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38

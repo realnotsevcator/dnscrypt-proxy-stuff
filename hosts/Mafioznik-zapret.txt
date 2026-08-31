@@ -189,6 +189,7 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
+62.133.62.97 www.patreon.com
 193.233.112.68 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
