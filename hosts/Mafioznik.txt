@@ -189,7 +189,6 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
-62.133.62.97 www.patreon.com
 193.233.112.68 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
@@ -222,7 +221,3 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-62.133.62.97 soundcloud.com
-62.133.62.97 www.soundcloud.com
-62.133.62.97 promoted.soundcloud.com
-62.133.62.97 api-v2.soundcloud.com

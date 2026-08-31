@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-128.75.237.40 dzcdn.net
+139.45.206.184 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,7 +106,7 @@
 193.233.112.68 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-57.144.244.34 help.instagram.com
+157.240.205.174 help.instagram.com
 103.27.157.38 i.dell.com
 193.233.112.67 images.pump.fun
 103.27.157.38 images.tidal.com
@@ -184,7 +184,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
-91.207.75.110 windsurf-telemetry.codeium.com
+193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
