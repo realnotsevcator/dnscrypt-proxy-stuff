@@ -173,11 +173,12 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
+193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
 193.233.112.68 www.autodesk.com
-103.27.157.38 www.canva.com
+103.137.248.179 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
 103.27.157.38 www.dell.com
