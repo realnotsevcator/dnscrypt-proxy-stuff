@@ -63,8 +63,6 @@ api-v2.soundcloud.com 193.233.112.68
 =ios.chat.openai.com 103.27.157.38
 =platform.openai.com 103.27.157.38
 =tcr9i.chat.openai.com 103.27.157.38
-=ap-gew1.spotify.com 35.186.224.24
-=appresolve.spotify.com 35.186.224.24
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
@@ -89,10 +87,8 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 193.233.112.68
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 162.159.140.167
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
-=cdn.auth0.com 162.159.140.167
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
@@ -116,7 +112,6 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 185.5.161.209
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -147,10 +142,8 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 162.159.140.167
-=www.patreon.com 162.159.140.167
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 45.88.174.254
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
