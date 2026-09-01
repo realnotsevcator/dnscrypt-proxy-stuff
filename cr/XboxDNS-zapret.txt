@@ -52,6 +52,7 @@ api-v2.soundcloud.com 193.233.112.68
 =fitbit.google.com 103.27.157.38
 =gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
+=notebooklm.google.com 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =aitestkitchen.withgoogle.com 103.27.157.38
 =stitch.withgoogle.com 103.27.157.38
@@ -87,7 +88,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-instagram.com 57.145.2.34
+instagram.com 57.144.62.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 18.64.195.35
@@ -115,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 128.75.237.57
+=dzcdn.net 128.75.237.33
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -132,7 +133,7 @@ codeium.com 193.233.112.68
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
-=gew1-dealer.spotify.com 193.233.112.68
+=gew1-dealer.spotify.com 87.228.47.199
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -142,15 +143,14 @@ codeium.com 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
 =windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
-=notebooklm.google.com 87.228.47.194
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 104.16.24.14
-=www.patreon.com 104.16.24.14
+=patreon.com 62.133.62.97
+=www.patreon.com 62.133.62.97
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 87.228.47.194
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
@@ -171,7 +171,7 @@ codeium.com 193.233.112.68
 =www.notion.so 103.27.157.38
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.145.2.34
+=z-p42-chat-e2ee-ig.facebook.com 57.144.62.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =discord.com 162.159.128.233
