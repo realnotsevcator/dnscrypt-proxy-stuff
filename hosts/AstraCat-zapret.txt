@@ -177,7 +177,7 @@
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
 193.233.112.68 www.autodesk.com
-103.137.248.179 www.canva.com
+103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
 103.27.157.38 www.dell.com
