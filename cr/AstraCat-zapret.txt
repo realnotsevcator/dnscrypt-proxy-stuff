@@ -143,7 +143,6 @@ codeium.com 193.233.112.68
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68

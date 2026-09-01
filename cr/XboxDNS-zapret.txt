@@ -147,10 +147,10 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 104.16.102.112
-=www.patreon.com 104.16.102.112
+=patreon.com 104.16.24.14
+=www.patreon.com 104.16.24.14
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 142.251.179.100
+=robinfrontend-pa.googleapis.com 62.133.62.97
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68

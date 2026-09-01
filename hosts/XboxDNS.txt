@@ -133,7 +133,7 @@
 103.27.157.38 open.spotify.com
 193.233.112.67 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
-104.16.102.112 patreon.com
+104.16.24.14 patreon.com
 103.27.157.38 payment.deezer.com
 193.233.112.68 platform.claude.com
 103.27.157.38 platform.openai.com
@@ -144,7 +144,7 @@
 193.233.112.68 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-142.251.179.100 robinfrontend-pa.googleapis.com
+62.133.62.97 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 193.233.112.68 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
@@ -182,6 +182,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
+193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
@@ -198,7 +199,7 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
-104.16.102.112 www.patreon.com
+104.16.24.14 www.patreon.com
 193.233.112.68 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
@@ -248,10 +249,14 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
-142.251.179.100 soundcloud.com
-142.251.179.100 www.soundcloud.com
-142.251.179.100 promoted.soundcloud.com
-142.251.179.100 api-v2.soundcloud.com
+104.16.24.14 soundcloud.com
+104.16.24.14 www.soundcloud.com
+104.16.24.14 promoted.soundcloud.com
+104.16.24.14 api-v2.soundcloud.com
+62.133.62.97 soundcloud.com
+62.133.62.97 www.soundcloud.com
+62.133.62.97 promoted.soundcloud.com
+62.133.62.97 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
