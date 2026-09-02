@@ -118,7 +118,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 185.5.160.66
+=dzcdn.net 139.45.206.146
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -149,8 +149,8 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 8.47.69.0
-=www.patreon.com 8.47.69.0
+=patreon.com 104.16.24.14
+=www.patreon.com 104.16.24.14
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 103.137.248.179
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
