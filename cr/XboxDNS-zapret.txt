@@ -88,10 +88,10 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-instagram.com 157.240.254.174
+instagram.com 31.13.66.174
 =builds.parsec.app 103.27.157.38
-=calendar.notion.so 193.233.112.68
-=cdn.auth0.com 18.64.195.35
+=calendar.notion.so 87.228.47.199
+=cdn.auth0.com 65.9.68.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.206.184
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -125,7 +125,7 @@ codeium.com 193.233.112.68
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 193.233.112.68
+=framer.com 13.249.8.13
 =frontend-api-v3.pump.fun 193.233.112.68
 =pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
@@ -147,10 +147,10 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 104.16.24.14
-=www.patreon.com 104.16.24.14
+=patreon.com 104.16.102.112
+=www.patreon.com 104.16.102.112
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 87.228.47.194
+=robinfrontend-pa.googleapis.com 142.251.179.100
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
@@ -161,7 +161,7 @@ codeium.com 193.233.112.68
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=web.archive.org 193.233.112.68
+=web.archive.org 103.27.157.38
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
@@ -171,7 +171,7 @@ codeium.com 193.233.112.68
 =www.notion.so 103.27.157.38
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.254.174
+=z-p42-chat-e2ee-ig.facebook.com 31.13.66.174
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =discord.com 162.159.128.233
