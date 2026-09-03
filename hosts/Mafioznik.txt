@@ -109,6 +109,7 @@
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
 103.27.157.38 labs.google
+193.233.112.68 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
 103.27.157.38 login-wall.deepl.com
@@ -159,6 +160,7 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
+193.233.112.68 unleash.codeium.com
 193.233.112.68 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
