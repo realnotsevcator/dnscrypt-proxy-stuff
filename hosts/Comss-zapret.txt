@@ -7,7 +7,7 @@
 
 193.233.112.68 a.claude.ai
 193.233.112.68 ab.chatgpt.com
-103.27.157.38 access.broadcom.com
+103.137.248.179 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 193.233.112.68 accounts.autodesk.com
 193.233.112.68 accounts.scdn.co
@@ -51,7 +51,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-13.33.235.124 cdn.auth0.com
+3.164.212.39 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -65,6 +65,7 @@
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
+192.200.0.101 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -77,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.206.163 dzcdn.net
+139.45.206.137 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -134,7 +135,7 @@
 103.27.157.38 open.spotify.com
 193.233.112.67 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
-162.159.136.66 patreon.com
+104.16.24.14 patreon.com
 103.27.157.38 payment.deezer.com
 193.233.112.68 platform.claude.com
 103.27.157.38 platform.openai.com
@@ -200,7 +201,7 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
-162.159.136.66 www.patreon.com
+104.16.24.14 www.patreon.com
 193.233.112.68 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com

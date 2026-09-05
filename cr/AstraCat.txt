@@ -37,10 +37,6 @@ api-v2.soundcloud.com 185.31.40.18
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
-=access.broadcom.com 103.27.157.38
-=knowledge.broadcom.com 103.27.157.38
-=profile.broadcom.com 103.27.157.38
-=support.broadcom.com 103.27.157.38
 =account.jetbrains.com 103.27.157.38
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
@@ -157,6 +153,9 @@ codeium.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
+=knowledge.broadcom.com 103.27.157.38
+=profile.broadcom.com 103.27.157.38
+=support.broadcom.com 103.27.157.38
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
