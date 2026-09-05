@@ -7,7 +7,7 @@
 
 193.233.112.68 a.claude.ai
 193.233.112.68 ab.chatgpt.com
-103.137.248.179 access.broadcom.com
+103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 193.233.112.68 accounts.autodesk.com
 193.233.112.68 accounts.scdn.co
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.206.137 dzcdn.net
+139.45.207.195 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,7 +106,7 @@
 193.233.112.68 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
-157.240.205.174 help.instagram.com
+57.144.244.34 help.instagram.com
 103.27.157.38 i.dell.com
 193.233.112.67 images.pump.fun
 103.27.157.38 images.tidal.com

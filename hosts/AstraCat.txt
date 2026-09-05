@@ -7,6 +7,7 @@
 
 193.233.112.68 a.claude.ai
 193.233.112.68 ab.chatgpt.com
+103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
 193.233.112.68 accounts.autodesk.com
 193.233.112.68 accounts.scdn.co
