@@ -17,10 +17,10 @@ soundcloud.com 103.137.248.179
 www.soundcloud.com 103.137.248.179
 promoted.soundcloud.com 103.137.248.179
 api-v2.soundcloud.com 103.137.248.179
-soundcloud.com 57.144.244.34
-www.soundcloud.com 57.144.244.34
-promoted.soundcloud.com 57.144.244.34
-api-v2.soundcloud.com 57.144.244.34
+soundcloud.com 157.240.253.174
+www.soundcloud.com 157.240.253.174
+promoted.soundcloud.com 157.240.253.174
+api-v2.soundcloud.com 157.240.253.174
 soundcloud.com 193.233.112.67
 www.soundcloud.com 193.233.112.67
 promoted.soundcloud.com 193.233.112.67
@@ -29,10 +29,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 23.196.236.56
-www.soundcloud.com 23.196.236.56
-promoted.soundcloud.com 23.196.236.56
-api-v2.soundcloud.com 23.196.236.56
+soundcloud.com 185.5.160.66
+www.soundcloud.com 185.5.160.66
+promoted.soundcloud.com 185.5.160.66
+api-v2.soundcloud.com 185.5.160.66
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -123,7 +123,7 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 193.233.112.68
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-instagram.com 57.144.244.34
+instagram.com 157.240.253.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 193.233.112.67
@@ -151,7 +151,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 23.196.236.56
+=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -204,4 +204,4 @@ codeium.com 193.233.112.68
 =www.notion.so 103.27.157.38
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.244.34
+=z-p42-chat-e2ee-ig.facebook.com 157.240.253.174
