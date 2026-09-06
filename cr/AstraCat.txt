@@ -35,7 +35,6 @@ promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
-=chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -46,7 +45,6 @@ api-v2.soundcloud.com 185.31.40.18
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 193.233.112.68
-=www.autodesk.com 193.233.112.68
 =accounts.scdn.co 193.233.112.68
 =www-growth.scdn.co 193.233.112.68
 =accounts.spotify.com 103.27.157.38
@@ -119,7 +117,6 @@ elevenlabs.io 103.27.157.38
 =videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
 =gtm.deepl.com 193.233.112.68
-=voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
@@ -159,15 +156,12 @@ codeium.com 193.233.112.68
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
-=marketplace.windsurf.com 193.233.112.68
-=windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
 =platform.claude.com 193.233.112.68
-=sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
@@ -178,6 +172,7 @@ codeium.com 193.233.112.68
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf.com 193.233.112.68
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38

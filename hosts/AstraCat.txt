@@ -50,7 +50,6 @@
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
-193.233.112.68 chatgpt.com
 193.233.112.68 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
@@ -116,7 +115,6 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 193.233.112.68 manus.im
-193.233.112.68 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -138,7 +136,6 @@
 103.27.157.38 rewards.bing.com
 103.27.157.38 s.deepl.com
 193.233.112.68 s.linear.app
-193.233.112.68 sdmntpritalynorth.oaiusercontent.com
 193.233.112.68 sdmntprnortheu.oaiusercontent.com
 193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
 193.233.112.68 sdmntprukwest.oaiusercontent.com
@@ -165,7 +162,6 @@
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
 193.233.112.68 videos.openai.com
-193.233.112.68 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 193.233.112.68 web-backend.codeium.com
@@ -177,7 +173,6 @@
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
-193.233.112.68 www.autodesk.com
 103.137.248.179 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com

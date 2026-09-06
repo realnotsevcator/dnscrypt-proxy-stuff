@@ -35,7 +35,6 @@ promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
-=chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
