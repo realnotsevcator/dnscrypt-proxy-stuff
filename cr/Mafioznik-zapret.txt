@@ -136,7 +136,6 @@ codeium.com 193.233.112.68
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
-=windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
