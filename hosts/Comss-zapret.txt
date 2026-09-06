@@ -51,7 +51,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-18.239.17.70 cdn.auth0.com
+3.164.212.39 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.207.195 dzcdn.net
+139.45.207.184 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
