@@ -145,6 +145,7 @@
 103.27.157.38 security.id.supercell.com
 193.233.112.68 server.codeium.com
 103.27.157.38 shield.deepl.com
+193.233.112.67 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 193.233.112.68 static.canva.com
@@ -173,6 +174,7 @@
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
 193.233.112.68 windsurf-telemetry.codeium.com
+193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
 193.233.112.68 www.autodesk.com

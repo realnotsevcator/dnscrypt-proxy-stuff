@@ -68,7 +68,8 @@ api-v2.soundcloud.com 193.233.112.68
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 2.20.255.152
+=api-sg-central.trae.ai 193.233.112.68
+=api.trae.ai 193.233.112.68
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -83,7 +84,6 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.trae.ai 193.233.112.68
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 193.233.112.68
@@ -91,7 +91,7 @@ elevenlabs.io 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 103.137.248.179
 =b.i.instagram.com 157.240.205.174
-=help.instagram.com 157.240.205.174
+=instagram.com 157.240.205.174
 =www.instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
@@ -108,7 +108,7 @@ linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
-=controlplane.tailscale.com 192.200.0.101
+=controlplane.tailscale.com 192.200.0.102
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -120,7 +120,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.206.137
+=dzcdn.net 139.45.207.184
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -141,8 +141,8 @@ codeium.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
+=help.instagram.com 57.144.244.34
 =images.pump.fun 193.233.112.67
-=instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
