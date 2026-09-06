@@ -88,7 +88,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-instagram.com 157.240.254.174
+instagram.com 57.144.222.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 18.64.195.35
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.206.136
+=dzcdn.net 139.45.207.184
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -148,7 +148,6 @@ codeium.com 193.233.112.68
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
 =patreon.com 104.16.24.14
-=www.patreon.com 104.16.24.14
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 87.228.47.194
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
@@ -169,9 +168,10 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
+=www.patreon.com 104.16.102.112
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 157.240.254.174
+=z-p42-chat-e2ee-ig.facebook.com 57.144.222.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =discord.com 162.159.128.233
