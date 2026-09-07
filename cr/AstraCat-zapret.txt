@@ -11,6 +11,7 @@ promoted.soundcloud.com 193.233.112.68
 api-v2.soundcloud.com 193.233.112.68
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
+=chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -96,8 +97,8 @@ elevenlabs.io 103.27.157.38
 =gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
-linear.app 193.233.112.68
 codeium.com 193.233.112.68
+linear.app 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
@@ -134,6 +135,7 @@ codeium.com 193.233.112.68
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
+=windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38

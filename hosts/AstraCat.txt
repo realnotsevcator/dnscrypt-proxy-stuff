@@ -50,11 +50,11 @@
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
+193.233.112.68 chatgpt.com
 193.233.112.68 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
-193.233.112.68 client-api.linear.app
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
@@ -164,10 +164,13 @@
 193.233.112.68 voice-proxy.www.deepl.com
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
+193.233.112.68 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
+193.233.112.68 windsurf-telemetry.codeium.com
+193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
 193.233.112.68 www.autodesk.com

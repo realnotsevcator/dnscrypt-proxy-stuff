@@ -31,6 +31,7 @@ promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
+=chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -67,6 +68,7 @@ api-v2.soundcloud.com 185.31.40.18
 =generativelanguage.googleapis.com 103.27.157.38
 =proactivebackend-pa.googleapis.com 103.27.157.38
 =aistudio.google.com 103.27.157.38
+=alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
 =gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
@@ -147,7 +149,6 @@ codeium.com 193.233.112.68
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 193.233.112.68
-=guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38

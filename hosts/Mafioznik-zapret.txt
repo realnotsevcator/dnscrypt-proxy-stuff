@@ -19,6 +19,7 @@
 103.27.157.38 aisandbox-pa.googleapis.com
 103.27.157.38 aistudio.google.com
 103.27.157.38 aitestkitchen.withgoogle.com
+103.27.157.38 alkalimakersuite-pa.clients6.google.com
 103.27.157.38 android.chat.openai.com
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
@@ -49,6 +50,7 @@
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
+193.233.112.68 chatgpt.com
 193.233.112.68 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
@@ -94,7 +96,6 @@
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 193.233.112.68 gtm.deepl.com
-193.233.112.68 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
@@ -156,7 +157,6 @@
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
 193.233.112.68 unleash.codeium.com
-193.233.112.68 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
 193.233.112.68 videos.openai.com
@@ -168,6 +168,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
+193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
