@@ -21,10 +21,6 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 193.233.112.67
-www.soundcloud.com 193.233.112.67
-promoted.soundcloud.com 193.233.112.67
-api-v2.soundcloud.com 193.233.112.67
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -90,6 +86,7 @@ deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
 =api-sg-central.trae.ai 193.233.112.68
+=api.trae.ai 193.233.112.68
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -154,16 +151,12 @@ codeium.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
-=windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
-=operator.chatgpt.com 193.233.112.67
-=sora.chatgpt.com 193.233.112.67
 =platform.claude.com 193.233.112.68
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68

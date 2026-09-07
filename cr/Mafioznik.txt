@@ -21,10 +21,6 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 193.233.112.67
-www.soundcloud.com 193.233.112.67
-promoted.soundcloud.com 193.233.112.67
-api-v2.soundcloud.com 193.233.112.67
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -71,7 +67,6 @@ api-v2.soundcloud.com 185.31.40.18
 =generativelanguage.googleapis.com 103.27.157.38
 =proactivebackend-pa.googleapis.com 103.27.157.38
 =aistudio.google.com 103.27.157.38
-=alkalimakersuite-pa.clients6.google.com 103.27.157.38
 =fitbit.google.com 103.27.157.38
 =gemini.google.com 103.27.157.38
 =jules.google.com 103.27.157.38
@@ -155,7 +150,6 @@ codeium.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
@@ -168,7 +162,6 @@ codeium.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
-=sora.chatgpt.com 193.233.112.67
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
