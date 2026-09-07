@@ -123,7 +123,6 @@
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com
-193.233.112.67 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 103.27.157.38 payment.deezer.com
 193.233.112.68 platform.claude.com
@@ -136,7 +135,6 @@
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
 103.27.157.38 s.deepl.com
-193.233.112.68 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
 193.233.112.68 sdmntprnortheu.oaiusercontent.com
 193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
