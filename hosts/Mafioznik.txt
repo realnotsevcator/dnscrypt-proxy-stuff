@@ -96,6 +96,7 @@
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 193.233.112.68 gtm.deepl.com
+193.233.112.68 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
@@ -157,6 +158,7 @@
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
 193.233.112.68 unleash.codeium.com
+193.233.112.68 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
 193.233.112.68 videos.openai.com

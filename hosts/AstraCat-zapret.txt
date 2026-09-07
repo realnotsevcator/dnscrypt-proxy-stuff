@@ -55,6 +55,7 @@
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
+193.233.112.68 client-api.linear.app
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app

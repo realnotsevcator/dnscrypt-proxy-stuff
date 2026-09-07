@@ -63,7 +63,7 @@
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
-192.200.0.101 controlplane.tailscale.com
+192.200.0.102 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.206.178 dzcdn.net
+139.45.206.171 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
