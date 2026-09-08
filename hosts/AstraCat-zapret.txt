@@ -35,7 +35,7 @@
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
-87.58.204.29 api.trae.ai
+193.233.112.68 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
 193.233.112.68 app.notion.com
@@ -55,11 +55,12 @@
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
 193.233.112.68 chatgpt.com
-162.159.140.167 checkout.www.deepl.com
+193.233.112.68 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 193.233.112.68 client-api.linear.app
+193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
@@ -75,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-188.43.75.104 dzcdn.net
+188.43.75.105 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -106,7 +107,7 @@
 103.27.157.38 i.dell.com
 162.159.140.167 images.pump.fun
 103.27.157.38 images.tidal.com
-87.58.204.29 inference.codeium.com
+193.233.112.68 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
