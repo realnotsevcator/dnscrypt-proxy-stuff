@@ -13,6 +13,10 @@ soundcloud.com 103.27.157.38
 www.soundcloud.com 103.27.157.38
 promoted.soundcloud.com 103.27.157.38
 api-v2.soundcloud.com 103.27.157.38
+soundcloud.com 35.186.224.24
+www.soundcloud.com 35.186.224.24
+promoted.soundcloud.com 35.186.224.24
+api-v2.soundcloud.com 35.186.224.24
 soundcloud.com 103.137.248.179
 www.soundcloud.com 103.137.248.179
 promoted.soundcloud.com 103.137.248.179
@@ -33,10 +37,6 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 87.58.204.29
-www.soundcloud.com 87.58.204.29
-promoted.soundcloud.com 87.58.204.29
-api-v2.soundcloud.com 87.58.204.29
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -95,6 +95,8 @@ api-v2.soundcloud.com 185.31.40.18
 =ios.chat.openai.com 103.27.157.38
 =platform.openai.com 103.27.157.38
 =tcr9i.chat.openai.com 103.27.157.38
+=ap-gew1.spotify.com 35.186.224.24
+=appresolve.spotify.com 35.186.224.24
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
@@ -180,7 +182,6 @@ codeium.com 193.233.112.68
 =patreon.com 162.159.140.167
 =www.patreon.com 162.159.140.167
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 87.58.204.29
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
