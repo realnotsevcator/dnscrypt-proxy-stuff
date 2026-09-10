@@ -20,11 +20,13 @@
 193.233.112.68 api-partner.spotify.com
 193.233.112.68 api-sg-central.trae.ai
 193.233.112.68 api.anthropic.com
+193.233.112.68 api.elevenlabs.io
 193.233.112.68 api.manus.im
 193.233.112.68 api.openai.com
 193.233.112.68 api.spotify.com
 193.233.112.68 api.squareup.com
 193.233.112.68 api.trae.ai
+193.233.112.68 api.us.elevenlabs.io
 193.233.112.68 api16-normal-alisg.mchost.guru
 193.233.112.68 app.notion.com
 193.233.112.68 assets.grok.com
@@ -46,6 +48,7 @@
 193.233.112.68 console.anthropic.com
 193.233.112.68 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
+193.233.112.68 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 193.233.112.68 datalore.jetbrains.com
 193.233.112.68 deepl.com
@@ -55,7 +58,10 @@
 193.233.112.68 dict.deepl.com
 193.233.112.68 download.jetbrains.com
 193.233.112.68 dyson.com
+193.233.112.68 elevenlabs.io
+193.233.112.68 elevenreader.io
 193.233.112.68 encore.scdn.co
+193.233.112.68 errortracking.deepl.com
 193.233.112.68 experimentation-grpc.deepl.com
 193.233.112.68 experimentation.deepl.com
 193.233.112.68 files.oaiusercontent.com
@@ -70,7 +76,6 @@
 193.233.112.68 grok.com
 193.233.112.68 gtm.deepl.com
 193.233.112.68 guidedhacking.com
-193.233.112.68 help.elevenlabs.io
 193.233.112.68 inference.codeium.com
 193.233.112.68 ios.chat.openai.com
 193.233.112.68 ita-free.app.deepl.com
@@ -83,6 +88,7 @@
 130.255.77.28 ntc.party
 193.233.112.68 oneshot-free.www.deepl.com
 193.233.112.68 open.spotify.com
+193.233.112.68 ott.deepl.com
 193.233.112.68 payment.deezer.com
 193.233.112.68 platform.claude.com
 193.233.112.68 platform.openai.com

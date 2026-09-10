@@ -55,6 +55,9 @@ deepl.com 193.233.112.68
 =api.trae.ai 193.233.112.68
 =api.anthropic.com 193.233.112.68
 =console.anthropic.com 193.233.112.68
+=api.elevenlabs.io 193.233.112.68
+=api.us.elevenlabs.io 193.233.112.68
+=elevenlabs.io 193.233.112.68
 =api.manus.im 193.233.112.68
 =manus.im 193.233.112.68
 =api16-normal-alisg.mchost.guru 193.233.112.68
@@ -70,6 +73,7 @@ linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
+=copilot.microsoft.com 193.233.112.68
 =d.rutor.info 172.64.33.155
 =deezer.com 193.233.112.68
 =payment.deezer.com 193.233.112.68
@@ -77,6 +81,7 @@ codeium.com 193.233.112.68
 =developer.nvidia.com 193.233.112.68
 =dyson.com 193.233.112.68
 =www.dyson.com 193.233.112.68
+=elevenreader.io 193.233.112.68
 =files.oaiusercontent.com 193.233.112.68
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
@@ -91,7 +96,6 @@ codeium.com 193.233.112.68
 =game-assets.clashroyaleapp.com 193.233.112.68
 =geolocation.onetrust.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
-=help.elevenlabs.io 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
 =windsurf.com 193.233.112.68
 =ntc.party 130.255.77.28
