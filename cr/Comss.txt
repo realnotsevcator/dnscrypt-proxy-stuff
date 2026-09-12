@@ -37,10 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 139.45.207.184
-www.soundcloud.com 139.45.207.184
-promoted.soundcloud.com 139.45.207.184
-api-v2.soundcloud.com 139.45.207.184
+soundcloud.com 139.45.207.179
+www.soundcloud.com 139.45.207.179
+promoted.soundcloud.com 139.45.207.179
+api-v2.soundcloud.com 139.45.207.179
 soundcloud.com 8.47.69.0
 www.soundcloud.com 8.47.69.0
 promoted.soundcloud.com 8.47.69.0
@@ -57,10 +57,6 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-soundcloud.com 207.241.237.3
-www.soundcloud.com 207.241.237.3
-promoted.soundcloud.com 207.241.237.3
-api-v2.soundcloud.com 207.241.237.3
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
@@ -170,7 +166,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.207.184
+=dzcdn.net 139.45.207.179
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -215,7 +211,7 @@ codeium.com 193.233.112.68
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
-=web.archive.org 207.241.237.3
+=web.archive.org 103.27.157.38
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38

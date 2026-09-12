@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.207.184 dzcdn.net
+139.45.207.179 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -180,7 +180,7 @@
 103.27.157.38 w.deepl.com
 103.27.157.38 weather.com
 193.233.112.68 web-backend.codeium.com
-207.241.237.3 web.archive.org
+103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
