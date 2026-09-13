@@ -93,9 +93,6 @@ elevenlabs.io 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
-=checkout.www.deepl.com 193.233.112.68
-=gtm.deepl.com 193.233.112.68
-=voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
@@ -129,6 +126,8 @@ codeium.com 193.233.112.68
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 193.233.112.68
+=gtm.deepl.com 193.233.112.68
+=voice-proxy.www.deepl.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
