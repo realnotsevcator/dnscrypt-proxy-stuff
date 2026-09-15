@@ -5,6 +5,10 @@
 # by sevcator <3
 # Enjoy :D
 
+soundcloud.com 103.137.248.179
+www.soundcloud.com 103.137.248.179
+promoted.soundcloud.com 103.137.248.179
+api-v2.soundcloud.com 103.137.248.179
 soundcloud.com 193.233.112.68
 www.soundcloud.com 193.233.112.68
 promoted.soundcloud.com 193.233.112.68
@@ -17,30 +21,30 @@ soundcloud.com 35.186.224.24
 www.soundcloud.com 35.186.224.24
 promoted.soundcloud.com 35.186.224.24
 api-v2.soundcloud.com 35.186.224.24
-soundcloud.com 103.137.248.179
-www.soundcloud.com 103.137.248.179
-promoted.soundcloud.com 103.137.248.179
-api-v2.soundcloud.com 103.137.248.179
 soundcloud.com 157.240.205.174
 www.soundcloud.com 157.240.205.174
 promoted.soundcloud.com 157.240.205.174
 api-v2.soundcloud.com 157.240.205.174
-soundcloud.com 18.239.17.70
-www.soundcloud.com 18.239.17.70
-promoted.soundcloud.com 18.239.17.70
-api-v2.soundcloud.com 18.239.17.70
-soundcloud.com 192.200.0.102
-www.soundcloud.com 192.200.0.102
-promoted.soundcloud.com 192.200.0.102
-api-v2.soundcloud.com 192.200.0.102
+soundcloud.com 3.164.212.39
+www.soundcloud.com 3.164.212.39
+promoted.soundcloud.com 3.164.212.39
+api-v2.soundcloud.com 3.164.212.39
+soundcloud.com 192.200.0.101
+www.soundcloud.com 192.200.0.101
+promoted.soundcloud.com 192.200.0.101
+api-v2.soundcloud.com 192.200.0.101
 soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 139.45.207.184
-www.soundcloud.com 139.45.207.184
-promoted.soundcloud.com 139.45.207.184
-api-v2.soundcloud.com 139.45.207.184
+soundcloud.com 139.45.207.201
+www.soundcloud.com 139.45.207.201
+promoted.soundcloud.com 139.45.207.201
+api-v2.soundcloud.com 139.45.207.201
+soundcloud.com 108.156.60.124
+www.soundcloud.com 108.156.60.124
+promoted.soundcloud.com 108.156.60.124
+api-v2.soundcloud.com 108.156.60.124
 soundcloud.com 193.233.112.67
 www.soundcloud.com 193.233.112.67
 promoted.soundcloud.com 193.233.112.67
@@ -57,10 +61,9 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-=a.claude.ai 193.233.112.68
+=a.claude.ai 103.137.248.179
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
-=webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -141,7 +144,7 @@ elevenlabs.io 103.27.157.38
 instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
-=cdn.auth0.com 18.239.17.70
+=cdn.auth0.com 3.164.212.39
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
@@ -154,7 +157,7 @@ linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
-=controlplane.tailscale.com 192.200.0.102
+=controlplane.tailscale.com 192.200.0.101
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -166,7 +169,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.207.184
+=dzcdn.net 139.45.207.201
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -175,7 +178,7 @@ codeium.com 193.233.112.68
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 193.233.112.68
+=framer.com 108.156.60.124
 =frontend-api-v3.pump.fun 193.233.112.68
 =pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
@@ -212,7 +215,7 @@ codeium.com 193.233.112.68
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-telemetry.codeium.com 103.137.248.179
+=webrtc.chatgpt.com 103.137.248.179
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
