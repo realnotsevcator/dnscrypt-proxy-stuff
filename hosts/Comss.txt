@@ -5,7 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-103.137.248.179 a.claude.ai
+193.233.112.68 a.claude.ai
 193.233.112.68 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -65,7 +65,7 @@
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
-192.200.0.101 controlplane.tailscale.com
+192.200.0.102 controlplane.tailscale.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -78,7 +78,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-139.45.207.201 dzcdn.net
+139.45.206.144 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -91,7 +91,7 @@
 103.27.157.38 fitbit-pa.googleapis.com
 103.27.157.38 fitbit.google.com
 103.27.157.38 fitbitvestibuleshim-pa.googleapis.com
-108.156.60.124 framer.com
+193.233.112.68 framer.com
 193.233.112.68 frontend-api-v3.pump.fun
 103.27.157.38 game-assets.brawlstarsgame.com
 103.27.157.38 game-assets.clashofclans.com
@@ -182,7 +182,7 @@
 193.233.112.68 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
-103.137.248.179 webrtc.chatgpt.com
+193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
 193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
@@ -207,10 +207,6 @@
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
 157.240.205.174 z-p42-chat-e2ee-ig.facebook.com
-103.137.248.179 soundcloud.com
-103.137.248.179 www.soundcloud.com
-103.137.248.179 promoted.soundcloud.com
-103.137.248.179 api-v2.soundcloud.com
 193.233.112.68 soundcloud.com
 193.233.112.68 www.soundcloud.com
 193.233.112.68 promoted.soundcloud.com
@@ -223,6 +219,10 @@
 35.186.224.24 www.soundcloud.com
 35.186.224.24 promoted.soundcloud.com
 35.186.224.24 api-v2.soundcloud.com
+103.137.248.179 soundcloud.com
+103.137.248.179 www.soundcloud.com
+103.137.248.179 promoted.soundcloud.com
+103.137.248.179 api-v2.soundcloud.com
 157.240.205.174 soundcloud.com
 157.240.205.174 www.soundcloud.com
 157.240.205.174 promoted.soundcloud.com
@@ -231,22 +231,18 @@
 3.164.212.39 www.soundcloud.com
 3.164.212.39 promoted.soundcloud.com
 3.164.212.39 api-v2.soundcloud.com
-192.200.0.101 soundcloud.com
-192.200.0.101 www.soundcloud.com
-192.200.0.101 promoted.soundcloud.com
-192.200.0.101 api-v2.soundcloud.com
+192.200.0.102 soundcloud.com
+192.200.0.102 www.soundcloud.com
+192.200.0.102 promoted.soundcloud.com
+192.200.0.102 api-v2.soundcloud.com
 172.64.33.155 soundcloud.com
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
 172.64.33.155 api-v2.soundcloud.com
-139.45.207.201 soundcloud.com
-139.45.207.201 www.soundcloud.com
-139.45.207.201 promoted.soundcloud.com
-139.45.207.201 api-v2.soundcloud.com
-108.156.60.124 soundcloud.com
-108.156.60.124 www.soundcloud.com
-108.156.60.124 promoted.soundcloud.com
-108.156.60.124 api-v2.soundcloud.com
+139.45.206.144 soundcloud.com
+139.45.206.144 www.soundcloud.com
+139.45.206.144 promoted.soundcloud.com
+139.45.206.144 api-v2.soundcloud.com
 193.233.112.67 soundcloud.com
 193.233.112.67 www.soundcloud.com
 193.233.112.67 promoted.soundcloud.com

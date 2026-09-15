@@ -5,13 +5,14 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 103.137.248.179
-www.soundcloud.com 103.137.248.179
-promoted.soundcloud.com 103.137.248.179
-api-v2.soundcloud.com 103.137.248.179
-=a.claude.ai 103.137.248.179
+soundcloud.com 193.233.112.68
+www.soundcloud.com 193.233.112.68
+promoted.soundcloud.com 193.233.112.68
+api-v2.soundcloud.com 193.233.112.68
+=a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
+=webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -105,7 +106,7 @@ linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
-=controlplane.tailscale.com 192.200.0.101
+=controlplane.tailscale.com 192.200.0.102
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -117,7 +118,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.207.201
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -126,7 +127,7 @@ codeium.com 193.233.112.68
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 108.156.60.124
+=framer.com 193.233.112.68
 =frontend-api-v3.pump.fun 193.233.112.68
 =pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
@@ -163,7 +164,6 @@ codeium.com 193.233.112.68
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=webrtc.chatgpt.com 103.137.248.179
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
