@@ -5,10 +5,6 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 103.137.248.179
-www.soundcloud.com 103.137.248.179
-promoted.soundcloud.com 103.137.248.179
-api-v2.soundcloud.com 103.137.248.179
 soundcloud.com 193.233.112.68
 www.soundcloud.com 193.233.112.68
 promoted.soundcloud.com 193.233.112.68
@@ -21,10 +17,10 @@ soundcloud.com 35.186.224.24
 www.soundcloud.com 35.186.224.24
 promoted.soundcloud.com 35.186.224.24
 api-v2.soundcloud.com 35.186.224.24
-soundcloud.com 2.20.255.152
-www.soundcloud.com 2.20.255.152
-promoted.soundcloud.com 2.20.255.152
-api-v2.soundcloud.com 2.20.255.152
+soundcloud.com 103.137.248.179
+www.soundcloud.com 103.137.248.179
+promoted.soundcloud.com 103.137.248.179
+api-v2.soundcloud.com 103.137.248.179
 soundcloud.com 157.240.205.174
 www.soundcloud.com 157.240.205.174
 promoted.soundcloud.com 157.240.205.174
@@ -41,10 +37,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 139.45.206.136
-www.soundcloud.com 139.45.206.136
-promoted.soundcloud.com 139.45.206.136
-api-v2.soundcloud.com 139.45.206.136
+soundcloud.com 139.45.207.184
+www.soundcloud.com 139.45.207.184
+promoted.soundcloud.com 139.45.207.184
+api-v2.soundcloud.com 139.45.207.184
 soundcloud.com 193.233.112.67
 www.soundcloud.com 193.233.112.67
 promoted.soundcloud.com 193.233.112.67
@@ -61,15 +57,7 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-soundcloud.com 91.207.75.110
-www.soundcloud.com 91.207.75.110
-promoted.soundcloud.com 91.207.75.110
-api-v2.soundcloud.com 91.207.75.110
-soundcloud.com 23.197.162.24
-www.soundcloud.com 23.197.162.24
-promoted.soundcloud.com 23.197.162.24
-api-v2.soundcloud.com 23.197.162.24
-=a.claude.ai 103.137.248.179
+=a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
@@ -82,6 +70,7 @@ api-v2.soundcloud.com 23.197.162.24
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 193.233.112.68
+=www.autodesk.com 193.233.112.68
 =accounts.scdn.co 193.233.112.68
 =www-growth.scdn.co 193.233.112.68
 =accounts.spotify.com 103.27.157.38
@@ -127,7 +116,8 @@ api-v2.soundcloud.com 23.197.162.24
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 2.20.255.152
+=api-sg-central.trae.ai 193.233.112.68
+=api.trae.ai 193.233.112.68
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -142,7 +132,6 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.trae.ai 103.137.248.179
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 193.233.112.68
@@ -155,13 +144,14 @@ instagram.com 157.240.205.174
 =cdn.auth0.com 18.239.17.70
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
+=developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
 =gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
-=codeium.com 103.137.248.179
+codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =controlplane.tailscale.com 192.200.0.102
@@ -175,9 +165,8 @@ linear.app 193.233.112.68
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=developers.openai.com 103.137.248.179
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.206.136
+=dzcdn.net 139.45.207.184
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -199,14 +188,10 @@ linear.app 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
-=inference.codeium.com 193.233.112.68
-=server.codeium.com 193.233.112.68
-=unleash.codeium.com 193.233.112.68
-=web-backend.codeium.com 193.233.112.68
-=windsurf-stable.codeium.com 193.233.112.68
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
-=marketplace.windsurf.com 103.137.248.179
+=marketplace.windsurf.com 193.233.112.68
+=windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -227,9 +212,7 @@ linear.app 193.233.112.68
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf-telemetry.codeium.com 91.207.75.110
-=windsurf.com 193.233.112.68
-=www.autodesk.com 23.197.162.24
+=windsurf-telemetry.codeium.com 103.137.248.179
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
