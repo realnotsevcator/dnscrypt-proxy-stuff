@@ -90,8 +90,7 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 103.137.248.179
-=b.i.instagram.com 157.240.205.174
-=instagram.com 157.240.205.174
+=b.i.instagram.com 57.144.244.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 3.164.212.39
@@ -140,9 +139,10 @@ codeium.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=help.instagram.com 57.144.244.34
-=www.instagram.com 57.144.244.34
-=images.pump.fun 8.47.69.0
+=help.instagram.com 157.240.205.174
+=instagram.com 157.240.205.174
+=www.instagram.com 157.240.205.174
+=images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
@@ -150,7 +150,8 @@ codeium.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
-=operator.chatgpt.com 103.137.248.179
+=operator.chatgpt.com 193.233.112.67
+=sora.chatgpt.com 193.233.112.67
 =patreon.com 104.16.24.14
 =www.patreon.com 104.16.24.14
 =platform.claude.com 193.233.112.68
@@ -159,7 +160,6 @@ codeium.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
-=sora.chatgpt.com 193.233.112.67
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18

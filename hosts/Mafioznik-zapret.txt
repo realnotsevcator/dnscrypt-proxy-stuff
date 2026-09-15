@@ -124,6 +124,7 @@
 103.27.157.38 o.pki.goog
 103.27.157.38 oneshot-free.www.deepl.com
 103.27.157.38 open.spotify.com
+193.233.112.67 operator.chatgpt.com
 103.27.157.38 ott.deepl.com
 103.27.157.38 payment.deezer.com
 193.233.112.68 platform.claude.com
@@ -144,6 +145,7 @@
 103.27.157.38 security.id.supercell.com
 193.233.112.68 server.codeium.com
 103.27.157.38 shield.deepl.com
+193.233.112.67 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 193.233.112.68 static.canva.com
