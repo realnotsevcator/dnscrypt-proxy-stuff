@@ -84,11 +84,11 @@ elevenlabs.io 103.27.157.38
 =resources.tidal.com 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
-=app.notion.com 87.228.47.199
+=app.notion.com 193.233.112.68
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-instagram.com 57.144.218.34
+instagram.com 57.145.2.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 18.64.195.35
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 139.45.206.139
+=dzcdn.net 139.45.206.138
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -138,7 +138,6 @@ codeium.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
-=inference.codeium.com 192.34.20.166
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
@@ -148,10 +147,9 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 104.16.24.14
-=www.patreon.com 104.16.24.14
+=patreon.com 104.16.103.112
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 87.228.47.194
+=robinfrontend-pa.googleapis.com 172.217.112.4
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
@@ -170,9 +168,10 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
+=www.patreon.com 104.16.102.112
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.218.34
+=z-p42-chat-e2ee-ig.facebook.com 57.145.2.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =discord.com 162.159.128.233
