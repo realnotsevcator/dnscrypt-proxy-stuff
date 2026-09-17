@@ -92,7 +92,7 @@ elevenlabs.io 103.27.157.38
 =auth.anthropic.com 162.159.140.167
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
-=cdn.auth0.com 18.239.17.70
+=cdn.auth0.com 3.164.212.39
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 184.51.252.143
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -147,8 +147,7 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 217.60.179.6
-=www.patreon.com 217.60.179.6
+=patreon.com 162.159.140.167
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 217.60.179.6
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
@@ -169,6 +168,7 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
+=www.patreon.com 217.60.179.6
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
