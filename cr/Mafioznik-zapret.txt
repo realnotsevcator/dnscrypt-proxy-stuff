@@ -10,9 +10,6 @@ www.soundcloud.com 193.233.112.68
 promoted.soundcloud.com 193.233.112.68
 api-v2.soundcloud.com 193.233.112.68
 =a.claude.ai 193.233.112.68
-=ab.chatgpt.com 193.233.112.68
-=chatgpt.com 193.233.112.68
-=webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -88,11 +85,12 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
-=calendar.notion.so 193.233.112.68
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
+=chatgpt.com 193.233.112.68
+=webrtc.chatgpt.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
 =gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
@@ -161,7 +159,6 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
-=www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
