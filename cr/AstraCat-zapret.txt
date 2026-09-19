@@ -12,6 +12,7 @@ api-v2.soundcloud.com 193.233.112.68
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
+=webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -67,7 +68,8 @@ api-v2.soundcloud.com 193.233.112.68
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 184.51.252.132
+=api-sg-central.trae.ai 193.233.112.68
+=api.trae.ai 193.233.112.68
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -82,10 +84,9 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.trae.ai 193.233.112.68
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
-=app.notion.com 208.103.161.1
+=app.notion.com 193.233.112.68
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 162.159.140.167
@@ -115,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 184.51.252.132
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -144,8 +145,8 @@ codeium.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
-=operator.chatgpt.com 217.60.179.6
-=webrtc.chatgpt.com 217.60.179.6
+=operator.chatgpt.com 193.233.112.67
+=sora.chatgpt.com 193.233.112.67
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
@@ -154,7 +155,6 @@ codeium.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
-=sora.chatgpt.com 193.233.112.67
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
