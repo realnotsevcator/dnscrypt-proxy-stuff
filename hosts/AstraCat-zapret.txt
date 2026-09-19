@@ -50,7 +50,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-18.65.210.44 cdn.auth0.com
+65.9.68.34 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -62,7 +62,7 @@
 193.233.112.68 client-api.linear.app
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
-193.233.112.68 constellation.linear.app
+217.60.179.6 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
@@ -138,7 +138,7 @@
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
-193.233.112.68 public.linear.app
+217.60.179.6 public.linear.app
 193.233.112.68 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
@@ -152,7 +152,7 @@
 103.27.157.38 security.id.supercell.com
 193.233.112.68 server.codeium.com
 103.27.157.38 shield.deepl.com
-193.233.112.67 sora.chatgpt.com
+217.60.179.6 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
 103.27.157.38 static-assets-1.truthsocial.com
 193.233.112.68 static.canva.com

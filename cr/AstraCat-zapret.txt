@@ -92,7 +92,7 @@ elevenlabs.io 103.27.157.38
 =auth.anthropic.com 162.159.140.167
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
-=cdn.auth0.com 18.65.210.44
+=cdn.auth0.com 65.9.68.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
@@ -103,6 +103,8 @@ elevenlabs.io 103.27.157.38
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
+=constellation.linear.app 217.60.179.6
+=public.linear.app 217.60.179.6
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
@@ -146,7 +148,6 @@ codeium.com 193.233.112.68
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
-=sora.chatgpt.com 193.233.112.67
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
@@ -155,6 +156,7 @@ codeium.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
+=sora.chatgpt.com 217.60.179.6
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
