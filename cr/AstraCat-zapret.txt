@@ -147,7 +147,8 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 162.159.140.167
+=patreon.com 217.60.179.6
+=www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 217.60.179.6
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
@@ -168,7 +169,6 @@ codeium.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
-=www.patreon.com 217.60.179.6
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
