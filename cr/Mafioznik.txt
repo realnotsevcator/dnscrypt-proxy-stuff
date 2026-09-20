@@ -46,7 +46,6 @@ api-v2.soundcloud.com 185.31.40.18
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 193.233.112.68
-=www.autodesk.com 193.233.112.68
 =accounts.scdn.co 193.233.112.68
 =www-growth.scdn.co 193.233.112.68
 =accounts.spotify.com 103.27.157.38
@@ -90,8 +89,6 @@ api-v2.soundcloud.com 185.31.40.18
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 193.233.112.68
-=api.trae.ai 193.233.112.68
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -115,14 +112,12 @@ elevenlabs.io 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
-=developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
 =gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
-codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
@@ -144,7 +139,6 @@ codeium.com 193.233.112.68
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
-=framer.com 193.233.112.68
 =frontend-api-v3.pump.fun 193.233.112.68
 =pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
@@ -157,10 +151,9 @@ codeium.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
+=inference.codeium.com 193.233.112.68
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
-=marketplace.windsurf.com 193.233.112.68
-=windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
