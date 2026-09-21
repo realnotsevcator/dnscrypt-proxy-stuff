@@ -58,6 +58,7 @@
 193.233.112.68 client-api.linear.app
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
+193.233.112.68 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info

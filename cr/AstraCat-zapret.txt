@@ -12,6 +12,7 @@ api-v2.soundcloud.com 193.233.112.68
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
+=webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -21,6 +22,7 @@ api-v2.soundcloud.com 193.233.112.68
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 193.233.112.68
+=www.autodesk.com 193.233.112.68
 =accounts.scdn.co 193.233.112.68
 =www-growth.scdn.co 193.233.112.68
 =accounts.spotify.com 103.27.157.38
@@ -100,8 +102,7 @@ elevenlabs.io 103.27.157.38
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
-=codeium.com 217.60.179.6
-=inference.codeium.com 217.60.179.6
+codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
@@ -138,7 +139,7 @@ linear.app 193.233.112.68
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
-=manus.im 217.60.179.6
+=manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
 =windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
@@ -154,11 +155,6 @@ linear.app 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
-=server.codeium.com 193.233.112.68
-=unleash.codeium.com 193.233.112.68
-=web-backend.codeium.com 193.233.112.68
-=windsurf-stable.codeium.com 193.233.112.68
-=windsurf-telemetry.codeium.com 193.233.112.68
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
@@ -166,8 +162,6 @@ linear.app 193.233.112.68
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=webrtc.chatgpt.com 162.159.140.167
-=www.autodesk.com 217.60.179.6
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38

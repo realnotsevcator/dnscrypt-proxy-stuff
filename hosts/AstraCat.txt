@@ -60,7 +60,7 @@
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
 193.233.112.68 client-api.linear.app
-217.60.179.6 codeium.com
+193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
 193.233.112.68 content-management-files.canva.com
@@ -107,7 +107,7 @@
 103.27.157.38 i.dell.com
 193.233.112.67 images.pump.fun
 103.27.157.38 images.tidal.com
-217.60.179.6 inference.codeium.com
+193.233.112.68 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -120,7 +120,7 @@
 103.27.157.38 login-wall.deepl.com
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
-217.60.179.6 manus.im
+193.233.112.68 manus.im
 193.233.112.68 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
@@ -178,13 +178,12 @@
 193.233.112.68 web-backend.codeium.com
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
-162.159.140.167 webrtc.chatgpt.com
+193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
-193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
-217.60.179.6 www.autodesk.com
+193.233.112.68 www.autodesk.com
 103.137.248.179 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
@@ -225,10 +224,6 @@
 65.9.68.34 www.soundcloud.com
 65.9.68.34 promoted.soundcloud.com
 65.9.68.34 api-v2.soundcloud.com
-217.60.179.6 soundcloud.com
-217.60.179.6 www.soundcloud.com
-217.60.179.6 promoted.soundcloud.com
-217.60.179.6 api-v2.soundcloud.com
 172.64.33.155 soundcloud.com
 172.64.33.155 www.soundcloud.com
 172.64.33.155 promoted.soundcloud.com
@@ -245,6 +240,10 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
+217.60.179.6 soundcloud.com
+217.60.179.6 www.soundcloud.com
+217.60.179.6 promoted.soundcloud.com
+217.60.179.6 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
