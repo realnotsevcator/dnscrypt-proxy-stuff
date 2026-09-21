@@ -89,9 +89,8 @@ elevenlabs.io 103.27.157.38
 =app.notion.com 193.233.112.68
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
-=auth.anthropic.com 45.88.174.254
-=b.i.instagram.com 157.240.205.174
-=instagram.com 157.240.205.174
+=auth.anthropic.com 132.243.119.73
+instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 3.164.212.39
@@ -119,7 +118,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 2.20.255.138
+=dzcdn.net 139.45.206.144
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -140,8 +139,6 @@ codeium.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
-=help.instagram.com 57.144.244.34
-=www.instagram.com 57.144.244.34
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
@@ -155,7 +152,7 @@ codeium.com 193.233.112.68
 =patreon.com 104.16.24.14
 =www.patreon.com 104.16.24.14
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 45.88.174.254
+=robinfrontend-pa.googleapis.com 132.243.119.73
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
