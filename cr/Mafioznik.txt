@@ -118,11 +118,10 @@ elevenlabs.io 103.27.157.38
 =developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
-=gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
-linear.app 193.233.112.68
 codeium.com 193.233.112.68
+linear.app 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
@@ -146,7 +145,6 @@ codeium.com 193.233.112.68
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 193.233.112.68
 =frontend-api-v3.pump.fun 193.233.112.68
-=pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38

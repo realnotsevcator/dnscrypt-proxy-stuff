@@ -90,7 +90,9 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 132.243.119.73
-instagram.com 157.240.205.174
+=b.i.instagram.com 157.240.205.174
+=help.instagram.com 157.240.205.174
+=www.instagram.com 157.240.205.174
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 3.164.212.39
@@ -105,7 +107,6 @@ instagram.com 157.240.205.174
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
-=static.canva.com 193.233.112.68
 =controlplane.tailscale.com 192.200.0.102
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
@@ -140,6 +141,7 @@ codeium.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
+=instagram.com 57.144.244.34
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
@@ -156,11 +158,13 @@ codeium.com 193.233.112.68
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
-=sdmntprukwest.oaiusercontent.com 193.233.112.68
+=sdmntprukwest.oaiusercontent.com 132.243.119.73
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=static.canva.com 132.243.119.73
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
+=uploads.linear.app 8.47.69.0
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38

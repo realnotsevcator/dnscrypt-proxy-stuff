@@ -92,7 +92,6 @@ elevenlabs.io 103.27.157.38
 =auth.anthropic.com 162.159.140.167
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
-=www.notion.so 193.233.112.68
 =cdn.auth0.com 18.64.195.35
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
@@ -141,8 +140,7 @@ codeium.com 193.233.112.68
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
-=marketplace.windsurf.com 193.233.112.68
-=windsurf.com 193.233.112.68
+=marketplace.windsurf.com 217.60.179.6
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -156,6 +154,8 @@ codeium.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
+=server.codeium.com 217.60.179.6
+=windsurf-stable.codeium.com 217.60.179.6
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
@@ -163,12 +163,14 @@ codeium.com 193.233.112.68
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf.com 193.233.112.68
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
 =www.elgato.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
+=www.notion.so 103.27.157.38
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
 telegram.org 149.154.167.220
