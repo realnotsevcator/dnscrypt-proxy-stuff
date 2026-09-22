@@ -63,7 +63,7 @@
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
-217.60.179.6 content-management-files.canva.com
+193.233.112.68 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-184.51.252.132 dzcdn.net
+2.18.121.68 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -133,7 +133,7 @@
 103.27.157.38 ott.deepl.com
 217.60.179.6 patreon.com
 103.27.157.38 payment.deezer.com
-162.159.140.167 platform.claude.com
+193.233.112.68 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -180,8 +180,8 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
-193.233.112.68 windsurf-telemetry.codeium.com
-217.60.179.6 windsurf.com
+217.60.179.6 windsurf-telemetry.codeium.com
+193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
 193.233.112.68 www.autodesk.com
@@ -197,7 +197,7 @@
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 217.60.179.6 www.patreon.com
-217.60.179.6 www.qwant.com
+193.233.112.68 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
