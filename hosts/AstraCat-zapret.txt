@@ -50,7 +50,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-18.239.17.70 cdn.auth0.com
+3.164.212.39 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-184.51.252.149 dzcdn.net
+184.51.252.148 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -184,7 +184,7 @@
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
-217.60.179.6 www.autodesk.com
+193.233.112.68 www.autodesk.com
 103.137.248.179 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
