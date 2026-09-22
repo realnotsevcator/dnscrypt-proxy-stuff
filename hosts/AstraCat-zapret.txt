@@ -50,7 +50,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+3.164.212.39 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -63,7 +63,7 @@
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
-193.233.112.68 content-management-files.canva.com
+217.60.179.6 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-184.51.252.149 dzcdn.net
+184.51.252.132 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -121,7 +121,7 @@
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
 193.233.112.68 manus.im
-217.60.179.6 marketplace.windsurf.com
+193.233.112.68 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
 103.27.157.38 notebooklm.google.com
@@ -133,7 +133,7 @@
 103.27.157.38 ott.deepl.com
 217.60.179.6 patreon.com
 103.27.157.38 payment.deezer.com
-193.233.112.68 platform.claude.com
+162.159.140.167 platform.claude.com
 103.27.157.38 platform.openai.com
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
@@ -142,7 +142,7 @@
 193.233.112.68 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-216.239.32.27 robinfrontend-pa.googleapis.com
+217.60.179.6 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 193.233.112.68 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
@@ -150,7 +150,7 @@
 193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
 193.233.112.68 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
-217.60.179.6 server.codeium.com
+193.233.112.68 server.codeium.com
 103.27.157.38 shield.deepl.com
 193.233.112.67 sora.chatgpt.com
 103.27.157.38 spclient.wg.spotify.com
@@ -179,9 +179,9 @@
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
-217.60.179.6 windsurf-stable.codeium.com
+193.233.112.68 windsurf-stable.codeium.com
 193.233.112.68 windsurf-telemetry.codeium.com
-193.233.112.68 windsurf.com
+217.60.179.6 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
 193.233.112.68 www.autodesk.com
@@ -197,7 +197,7 @@
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
 217.60.179.6 www.patreon.com
-193.233.112.68 www.qwant.com
+217.60.179.6 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
