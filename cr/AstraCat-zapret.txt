@@ -150,7 +150,7 @@ codeium.com 193.233.112.68
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 217.60.179.6
+=robinfrontend-pa.googleapis.com 216.239.32.27
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68

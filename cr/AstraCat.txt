@@ -49,6 +49,10 @@ soundcloud.com 217.60.179.6
 www.soundcloud.com 217.60.179.6
 promoted.soundcloud.com 217.60.179.6
 api-v2.soundcloud.com 217.60.179.6
+soundcloud.com 216.239.32.27
+www.soundcloud.com 216.239.32.27
+promoted.soundcloud.com 216.239.32.27
+api-v2.soundcloud.com 216.239.32.27
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -194,7 +198,7 @@ codeium.com 193.233.112.68
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
-=robinfrontend-pa.googleapis.com 217.60.179.6
+=robinfrontend-pa.googleapis.com 216.239.32.27
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
