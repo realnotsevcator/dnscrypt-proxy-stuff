@@ -49,7 +49,6 @@
 193.233.112.68 calendar.notion.so
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
-193.233.112.68 cdn.platform.openai.com
 193.233.112.68 chatgpt.com
 193.233.112.68 checkout.www.deepl.com
 103.27.157.38 clashofclans.inbox.supercell.com
@@ -59,7 +58,6 @@
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
-193.233.112.68 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -140,7 +138,6 @@
 193.233.112.68 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
 193.233.112.68 sdmntprnortheu.oaiusercontent.com
-193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
 193.233.112.68 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 193.233.112.68 server.codeium.com
@@ -173,7 +170,6 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
-193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co

@@ -50,7 +50,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-99.86.9.143 cdn.auth0.com
+18.239.17.70 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -63,7 +63,7 @@
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
-193.233.112.68 content-management-files.canva.com
+217.60.179.6 content-management-files.canva.com
 103.27.157.38 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 103.27.157.38 datalore.jetbrains.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-23.214.96.149 dzcdn.net
+2.16.168.38 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -105,7 +105,7 @@
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
 103.27.157.38 i.dell.com
-193.233.112.67 images.pump.fun
+217.60.179.6 images.pump.fun
 103.27.157.38 images.tidal.com
 193.233.112.68 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
@@ -142,7 +142,7 @@
 193.233.112.68 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
-217.60.179.6 robinfrontend-pa.googleapis.com
+216.239.32.27 robinfrontend-pa.googleapis.com
 103.27.157.38 s.deepl.com
 193.233.112.68 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
@@ -180,7 +180,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
-217.60.179.6 windsurf-telemetry.codeium.com
+193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
@@ -196,7 +196,7 @@
 103.27.157.38 www.intel.com
 103.27.157.38 www.intel.de
 103.27.157.38 www.notion.so
-217.60.179.6 www.patreon.com
+162.159.140.167 www.patreon.com
 193.233.112.68 www.qwant.com
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
