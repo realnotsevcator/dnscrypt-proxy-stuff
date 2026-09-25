@@ -5,7 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-193.233.112.68 a.claude.ai
+162.159.140.167 a.claude.ai
 193.233.112.68 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -50,7 +50,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-18.239.17.70 cdn.auth0.com
+18.244.147.34 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -147,7 +147,7 @@
 193.233.112.68 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
 193.233.112.68 sdmntprnortheu.oaiusercontent.com
-193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
+8.47.69.0 sdmntprpolandcentral.oaiusercontent.com
 193.233.112.68 sdmntprukwest.oaiusercontent.com
 103.27.157.38 security.id.supercell.com
 193.233.112.68 server.codeium.com
@@ -201,10 +201,10 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-193.233.112.68 soundcloud.com
-193.233.112.68 www.soundcloud.com
-193.233.112.68 promoted.soundcloud.com
-193.233.112.68 api-v2.soundcloud.com
+162.159.140.167 soundcloud.com
+162.159.140.167 www.soundcloud.com
+162.159.140.167 promoted.soundcloud.com
+162.159.140.167 api-v2.soundcloud.com
 149.154.167.220 api.telegram.org
 149.154.167.220 cdn.telesco.pe
 149.154.167.220 cdn1.telesco.pe

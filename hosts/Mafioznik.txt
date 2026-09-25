@@ -34,7 +34,6 @@
 103.27.157.38 api.spotify.com
 103.27.157.38 api.squareup.com
 103.27.157.38 api.tidal.com
-193.233.112.68 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
 193.233.112.68 app.notion.com
@@ -95,7 +94,6 @@
 193.233.112.68 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
-193.233.112.68 gtm.deepl.com
 193.233.112.68 guidedhacking.com
 103.27.157.38 guilded.gg
 103.27.157.38 help.elevenlabs.io
@@ -137,7 +135,6 @@
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
 103.27.157.38 s.deepl.com
-193.233.112.68 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
 193.233.112.68 sdmntprnortheu.oaiusercontent.com
 193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
@@ -160,7 +157,6 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-193.233.112.68 unleash.codeium.com
 193.233.112.68 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
