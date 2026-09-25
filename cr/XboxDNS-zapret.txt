@@ -5,11 +5,11 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 87.228.47.204
-www.soundcloud.com 87.228.47.204
-promoted.soundcloud.com 87.228.47.204
-api-v2.soundcloud.com 87.228.47.204
-=a.claude.ai 87.228.47.204
+soundcloud.com 193.233.112.68
+www.soundcloud.com 193.233.112.68
+promoted.soundcloud.com 193.233.112.68
+api-v2.soundcloud.com 193.233.112.68
+=a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
@@ -66,7 +66,8 @@ api-v2.soundcloud.com 87.228.47.204
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 2.20.255.152
+=api-sg-central.trae.ai 193.233.112.68
+=api.trae.ai 193.233.112.68
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -81,14 +82,13 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.trae.ai 193.233.112.68
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
-=app.notion.com 193.233.112.68
+=app.notion.com 87.228.47.199
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =auth.anthropic.com 104.16.102.112
-instagram.com 57.144.74.34
+instagram.com 57.144.78.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.auth0.com 18.64.195.35
@@ -104,7 +104,7 @@ linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
-=controlplane.tailscale.com 192.200.0.102
+=controlplane.tailscale.com 192.200.0.101
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 184.51.252.149
+=dzcdn.net 184.51.252.10
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -140,7 +140,7 @@ codeium.com 193.233.112.68
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
-=marketplace.windsurf.com 193.233.112.68
+=marketplace.windsurf.com 35.223.238.178
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -161,7 +161,7 @@ codeium.com 193.233.112.68
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
-=windsurf.com 76.76.21.21
+=windsurf.com 193.233.112.68
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
@@ -171,7 +171,7 @@ codeium.com 193.233.112.68
 =www.notion.so 103.27.157.38
 =www.qwant.com 193.233.112.68
 =www.tiktok.com 103.27.157.38
-=z-p42-chat-e2ee-ig.facebook.com 57.144.74.34
+=z-p42-chat-e2ee-ig.facebook.com 57.144.78.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =discord.com 162.159.128.233
