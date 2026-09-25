@@ -68,7 +68,8 @@ api-v2.soundcloud.com 193.233.112.68
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 217.60.179.6
+=api-sg-central.trae.ai 193.233.112.68
+=api.trae.ai 193.233.112.68
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -83,7 +84,6 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
-=api.trae.ai 193.233.112.68
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 193.233.112.68
@@ -92,12 +92,14 @@ elevenlabs.io 103.27.157.38
 =auth.anthropic.com 162.159.140.167
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
-=cdn.auth0.com 18.64.195.35
+=cdn.auth0.com 65.9.68.34
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
-=checkout.www.deepl.com 217.60.179.6
+=checkout.www.deepl.com 193.233.112.68
+=gtm.deepl.com 193.233.112.68
+=voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
@@ -114,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 2.16.168.53
+=dzcdn.net 184.51.252.203
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -132,8 +134,6 @@ codeium.com 193.233.112.68
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 193.233.112.68
-=gtm.deepl.com 193.233.112.68
-=voice-proxy.www.deepl.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
@@ -151,11 +151,10 @@ codeium.com 193.233.112.68
 =www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 217.60.179.6
-=s.linear.app 217.60.179.6
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
+=sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
-=sdmntprpolandcentral.oaiusercontent.com 8.47.69.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
