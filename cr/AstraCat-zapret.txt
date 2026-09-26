@@ -5,11 +5,11 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 193.233.112.68
-www.soundcloud.com 193.233.112.68
-promoted.soundcloud.com 193.233.112.68
-api-v2.soundcloud.com 193.233.112.68
-=a.claude.ai 193.233.112.68
+soundcloud.com 217.60.179.6
+www.soundcloud.com 217.60.179.6
+promoted.soundcloud.com 217.60.179.6
+api-v2.soundcloud.com 217.60.179.6
+=a.claude.ai 217.60.179.6
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
@@ -98,7 +98,6 @@ elevenlabs.io 103.27.157.38
 =developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
-=gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
@@ -127,21 +126,20 @@ codeium.com 193.233.112.68
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 193.233.112.68
 =frontend-api-v3.pump.fun 193.233.112.68
-=pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 193.233.112.68
+=gtm.deepl.com 217.60.179.6
 =guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
-=marketplace.windsurf.com 193.233.112.68
-=windsurf.com 193.233.112.68
+=marketplace.windsurf.com 217.60.179.6
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
@@ -150,6 +148,10 @@ codeium.com 193.233.112.68
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
+=public.linear.app 217.60.179.6
+=s.linear.app 217.60.179.6
+=static.linear.app 217.60.179.6
+=pump.fun 217.60.179.6
 =robinfrontend-pa.googleapis.com 217.60.179.6
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
@@ -159,9 +161,12 @@ codeium.com 193.233.112.68
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
+=unleash.codeium.com 217.60.179.6
+=web-backend.codeium.com 217.60.179.6
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38
+=windsurf.com 193.233.112.68
 =www.canva.com 103.137.248.179
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
