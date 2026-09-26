@@ -91,7 +91,7 @@ elevenlabs.io 103.27.157.38
 instagram.com 57.144.216.34
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
-=cdn.auth0.com 65.9.68.34
+=cdn.auth0.com 3.164.212.39
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
 =developers.openai.com 193.233.112.68
@@ -104,7 +104,7 @@ linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
-=controlplane.tailscale.com 192.200.0.104
+=controlplane.tailscale.com 192.200.0.103
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
 =dyson.com 193.233.112.68
-=dzcdn.net 184.51.252.14
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -147,8 +147,8 @@ codeium.com 193.233.112.68
 =o.pki.goog 103.27.157.38
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
-=patreon.com 104.16.24.14
-=www.patreon.com 104.16.24.14
+=patreon.com 104.16.102.112
+=www.patreon.com 104.16.102.112
 =platform.claude.com 193.233.112.68
 =robinfrontend-pa.googleapis.com 87.228.47.194
 =sdmntpritalynorth.oaiusercontent.com 193.233.112.68
