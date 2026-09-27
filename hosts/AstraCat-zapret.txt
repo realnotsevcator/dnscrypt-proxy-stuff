@@ -50,7 +50,7 @@
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+3.164.212.39 cdn.auth0.com
 103.27.157.38 cdn.id.supercell.com
 103.27.157.38 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -76,7 +76,7 @@
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
-184.51.252.132 dzcdn.net
+184.51.252.149 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -97,7 +97,7 @@
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
-217.60.179.6 gew1-dealer.spotify.com
+193.233.112.68 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 193.233.112.68 gtm.deepl.com
@@ -107,7 +107,7 @@
 103.27.157.38 i.dell.com
 193.233.112.67 images.pump.fun
 103.27.157.38 images.tidal.com
-193.233.112.68 inference.codeium.com
+217.60.179.6 inference.codeium.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
