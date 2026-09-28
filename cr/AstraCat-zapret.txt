@@ -66,7 +66,6 @@ deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
 =api-sg-central.trae.ai 217.60.179.6
-=api.trae.ai 217.60.179.6
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -81,6 +80,7 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.trae.ai 184.51.252.149
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 208.103.161.1
@@ -89,10 +89,10 @@ elevenlabs.io 103.27.157.38
 =auth.anthropic.com 162.159.140.167
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 217.60.179.6
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 65.9.68.34
 =cdn.oaistatic.com 103.27.157.38
-=cdn.platform.openai.com 217.60.179.6
-=videos.openai.com 217.60.179.6
+=cdn.platform.openai.com 162.159.140.167
+=developers.openai.com 162.159.140.167
 =checkout.www.deepl.com 217.60.179.6
 =gtm.deepl.com 217.60.179.6
 =voice-proxy.www.deepl.com 217.60.179.6
@@ -100,7 +100,6 @@ elevenlabs.io 103.27.157.38
 linear.app 217.60.179.6
 codeium.com 217.60.179.6
 =content-management-files.canva.com 217.60.179.6
-=static.canva.com 217.60.179.6
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -111,9 +110,8 @@ codeium.com 217.60.179.6
 =payment.deezer.com 103.27.157.38
 =www.deezer.com 103.27.157.38
 =developer.nvidia.com 103.27.157.38
-=developers.openai.com 162.159.140.167
-=dyson.com 217.60.179.6
-=dzcdn.net 184.51.252.138
+=dyson.com 162.159.140.167
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 103.27.157.38
 =rewards.bing.com 103.27.157.38
 =sydney.bing.com 103.27.157.38
@@ -133,7 +131,7 @@ pump.fun 217.60.179.6
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =labs.google 103.27.157.38
-=manus.im 217.60.179.6
+=manus.im 3.174.113.114
 =marketplace.windsurf.com 217.60.179.6
 =windsurf.com 217.60.179.6
 =notebooklm.google 103.27.157.38
@@ -149,10 +147,12 @@ pump.fun 217.60.179.6
 =sdmntprukwest.oaiusercontent.com 8.47.69.0
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=static.canva.com 162.159.140.167
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
+=videos.openai.com 217.60.179.6
 =web.archive.org 103.27.157.38
 =www-growth.scdn.co 23.215.2.166
 =www.canva.com 103.27.157.38
