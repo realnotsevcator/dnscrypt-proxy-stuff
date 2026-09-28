@@ -7,7 +7,6 @@
 
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
-193.233.112.68 accounts.scdn.co
 103.27.157.38 accounts.spotify.com
 103.27.157.38 accounts.supercell.com
 103.27.157.38 accounts.x.ai
@@ -74,7 +73,6 @@
 103.27.157.38 gemini.google.com
 103.27.157.38 generativelanguage.googleapis.com
 103.27.157.38 geolocation.onetrust.com
-193.233.112.68 gew1-dealer.spotify.com
 103.27.157.38 gew1-spclient.spotify.com
 103.27.157.38 grok.com
 103.27.157.38 guilded.gg
@@ -128,7 +126,6 @@
 103.27.157.38 web.archive.org
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 103.27.157.38 write-free.www.deepl.com
-193.233.112.68 www-growth.scdn.co
 103.27.157.38 www.canva.com
 103.27.157.38 www.deepl.com
 103.27.157.38 www.deezer.com
