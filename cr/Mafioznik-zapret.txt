@@ -84,12 +84,13 @@ elevenlabs.io 103.27.157.38
 =resources.tidal.com 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
+=app.notion.com 193.233.112.68
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
-=calendar.notion.so 193.233.112.68
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
+=developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
 =gtm.deepl.com 193.233.112.68
@@ -97,8 +98,6 @@ elevenlabs.io 103.27.157.38
 =claude.ai 103.27.157.38
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
-=content-management-files.canva.com 193.233.112.68
-=static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
 =d.rutor.info 172.64.33.155
 =dds.dell.com 103.27.157.38
@@ -132,7 +131,6 @@ codeium.com 193.233.112.68
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
-=manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
 =windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
@@ -147,6 +145,7 @@ codeium.com 193.233.112.68
 =sdmntprukwest.oaiusercontent.com 193.233.112.68
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
+=static.canva.com 193.233.112.68
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
 =upsx.weather.com 103.27.157.38
