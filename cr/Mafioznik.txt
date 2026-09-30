@@ -31,6 +31,7 @@ promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
 =a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
+=chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
@@ -40,6 +41,8 @@ api-v2.soundcloud.com 185.31.40.18
 =datalore.jetbrains.com 103.27.157.38
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
+=accounts.autodesk.com 193.233.112.68
+=www.autodesk.com 193.233.112.68
 =accounts.scdn.co 193.233.112.68
 =www-growth.scdn.co 193.233.112.68
 =accounts.spotify.com 103.27.157.38
@@ -137,6 +140,7 @@ codeium.com 193.233.112.68
 =eu.posthog.com 103.27.157.38
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
+=framer.com 193.233.112.68
 =frontend-api-v3.pump.fun 193.233.112.68
 =pump.fun 193.233.112.68
 =swap-api.pump.fun 193.233.112.68
@@ -145,12 +149,14 @@ codeium.com 193.233.112.68
 =game-assets.clashroyaleapp.com 103.27.157.38
 =geolocation.onetrust.com 103.27.157.38
 =gew1-dealer.spotify.com 193.233.112.68
+=guidedhacking.com 193.233.112.68
 =guilded.gg 103.27.157.38
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
 =manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
+=windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
 =ntc.party 130.255.77.28
 =o.pki.goog 103.27.157.38
