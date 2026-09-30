@@ -104,14 +104,12 @@ elevenlabs.io 103.27.157.38
 =resources.tidal.com 103.27.157.38
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
-=app.notion.com 193.233.112.68
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
 =calendar.notion.so 193.233.112.68
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
-=developers.openai.com 193.233.112.68
 =videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
 =gtm.deepl.com 193.233.112.68

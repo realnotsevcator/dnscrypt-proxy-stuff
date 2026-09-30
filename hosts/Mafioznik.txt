@@ -37,7 +37,6 @@
 193.233.112.68 api.trae.ai
 103.27.157.38 api.us.elevenlabs.io
 103.27.157.38 api16-normal-alisg.mchost.guru
-193.233.112.68 app.notion.com
 103.27.157.38 assets.grok.com
 103.27.157.38 assistant-s3-pa.googleapis.com
 103.27.157.38 auth.deepl.com
@@ -68,7 +67,6 @@
 103.27.157.38 deepl.com
 103.27.157.38 deezer.com
 103.27.157.38 developer.nvidia.com
-193.233.112.68 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
 193.233.112.68 dyson.com
