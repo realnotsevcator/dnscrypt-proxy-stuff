@@ -47,7 +47,7 @@
 103.27.157.38 auth.openai.com
 103.27.157.38 auth.tidal.com
 103.27.157.38 auth0.openai.com
-157.240.205.174 b.i.instagram.com
+157.240.0.174 b.i.instagram.com
 103.27.157.38 backend.deepl.com
 103.27.157.38 builds.parsec.app
 193.233.112.68 calendar.notion.so
@@ -77,8 +77,8 @@
 193.233.112.68 developers.openai.com
 103.27.157.38 dict.deepl.com
 103.27.157.38 download.jetbrains.com
-193.233.112.68 dyson.com
-128.75.237.42 dzcdn.net
+162.159.142.173 dyson.com
+128.75.237.16 dzcdn.net
 103.27.157.38 edgeservices.bing.com
 103.27.157.38 elevenlabs.io
 103.27.157.38 elevenreader.io
@@ -111,7 +111,7 @@
 193.233.112.67 images.pump.fun
 103.27.157.38 images.tidal.com
 193.233.112.68 inference.codeium.com
-157.240.0.174 instagram.com
+157.240.205.174 instagram.com
 103.27.157.38 ios.chat.openai.com
 103.27.157.38 ita-free.app.deepl.com
 103.27.157.38 ita-free.www.deepl.com
@@ -124,7 +124,7 @@
 103.27.157.38 login-wall.deepl.com
 103.27.157.38 login.tidal.com
 103.27.157.38 login5.spotify.com
-193.233.112.68 manus.im
+45.88.174.254 manus.im
 193.233.112.68 marketplace.windsurf.com
 103.27.157.38 nexus.dell.com
 103.27.157.38 notebooklm.google
@@ -142,8 +142,8 @@
 103.27.157.38 plugins.jetbrains.com
 103.27.157.38 proactivebackend-pa.googleapis.com
 103.27.157.38 profile.broadcom.com
-8.47.69.0 public.linear.app
-193.233.112.68 pump.fun
+193.233.112.68 public.linear.app
+8.47.69.0 pump.fun
 103.27.157.38 resources.tidal.com
 103.27.157.38 rewards.bing.com
 45.88.174.254 robinfrontend-pa.googleapis.com
