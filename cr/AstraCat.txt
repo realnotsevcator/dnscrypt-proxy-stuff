@@ -5,10 +5,6 @@
 # by sevcator <3
 # Enjoy :D
 
-soundcloud.com 217.60.179.6
-www.soundcloud.com 217.60.179.6
-promoted.soundcloud.com 217.60.179.6
-api-v2.soundcloud.com 217.60.179.6
 soundcloud.com 193.233.112.68
 www.soundcloud.com 193.233.112.68
 promoted.soundcloud.com 193.233.112.68
@@ -21,6 +17,10 @@ soundcloud.com 35.186.224.24
 www.soundcloud.com 35.186.224.24
 promoted.soundcloud.com 35.186.224.24
 api-v2.soundcloud.com 35.186.224.24
+soundcloud.com 217.60.179.6
+www.soundcloud.com 217.60.179.6
+promoted.soundcloud.com 217.60.179.6
+api-v2.soundcloud.com 217.60.179.6
 soundcloud.com 162.159.140.167
 www.soundcloud.com 162.159.140.167
 promoted.soundcloud.com 162.159.140.167
@@ -49,7 +49,7 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-=a.claude.ai 217.60.179.6
+=a.claude.ai 193.233.112.68
 =ab.chatgpt.com 193.233.112.68
 =chatgpt.com 193.233.112.68
 =webrtc.chatgpt.com 193.233.112.68
@@ -108,8 +108,7 @@ api-v2.soundcloud.com 185.31.40.18
 deepl.com 103.27.157.38
 =api-global.squareup.com 103.27.157.38
 =api.squareup.com 103.27.157.38
-=api-sg-central.trae.ai 193.233.112.68
-=api.trae.ai 193.233.112.68
+=api-sg-central.trae.ai 217.60.179.6
 =api.anthropic.com 103.27.157.38
 =console.anthropic.com 103.27.157.38
 elevenlabs.io 103.27.157.38
@@ -124,6 +123,7 @@ elevenlabs.io 103.27.157.38
 =listen.tidal.com 103.27.157.38
 =login.tidal.com 103.27.157.38
 =resources.tidal.com 103.27.157.38
+=api.trae.ai 193.233.112.68
 =api16-normal-alisg.mchost.guru 103.27.157.38
 =trae-api-sg.mchost.guru 103.27.157.38
 =app.notion.com 193.233.112.68
@@ -141,8 +141,14 @@ elevenlabs.io 103.27.157.38
 =gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
-linear.app 193.233.112.68
+=client-api.linear.app 217.60.179.6
+=linear.app 217.60.179.6
 codeium.com 193.233.112.68
+=constellation.linear.app 193.233.112.68
+=public.linear.app 193.233.112.68
+=s.linear.app 193.233.112.68
+=static.linear.app 193.233.112.68
+=uploads.linear.app 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
 =copilot.microsoft.com 103.27.157.38
@@ -199,8 +205,6 @@ codeium.com 193.233.112.68
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
 =tria.ge 103.27.157.38
-=unleash.codeium.com 217.60.179.6
-=windsurf-telemetry.codeium.com 217.60.179.6
 =upsx.weather.com 103.27.157.38
 =weather.com 103.27.157.38
 =web.archive.org 103.27.157.38

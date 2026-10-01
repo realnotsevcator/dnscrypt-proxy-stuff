@@ -5,7 +5,7 @@
 # by sevcator <3
 # Enjoy :D
 
-217.60.179.6 a.claude.ai
+193.233.112.68 a.claude.ai
 193.233.112.68 ab.chatgpt.com
 103.27.157.38 access.broadcom.com
 103.27.157.38 account.jetbrains.com
@@ -25,7 +25,7 @@
 103.27.157.38 api-free.deepl.com
 103.27.157.38 api-global.squareup.com
 103.27.157.38 api-partner.spotify.com
-193.233.112.68 api-sg-central.trae.ai
+217.60.179.6 api-sg-central.trae.ai
 103.27.157.38 api.anthropic.com
 103.27.157.38 api.elevenlabs.io
 103.27.157.38 api.fitbit.com
@@ -59,7 +59,7 @@
 103.27.157.38 clashofclans.inbox.supercell.com
 103.27.157.38 claude.ai
 103.27.157.38 clearance.deepl.com
-193.233.112.68 client-api.linear.app
+217.60.179.6 client-api.linear.app
 193.233.112.68 codeium.com
 103.27.157.38 console.anthropic.com
 193.233.112.68 constellation.linear.app
@@ -114,7 +114,7 @@
 103.27.157.38 jules.google.com
 103.27.157.38 knowledge.broadcom.com
 103.27.157.38 labs.google
-193.233.112.68 linear.app
+217.60.179.6 linear.app
 103.27.157.38 link.tidal.com
 103.27.157.38 listen.tidal.com
 103.27.157.38 login-wall.deepl.com
@@ -167,7 +167,7 @@
 103.27.157.38 trae-api-sg.mchost.guru
 103.27.157.38 tria.ge
 103.27.157.38 truthsocial.com
-217.60.179.6 unleash.codeium.com
+193.233.112.68 unleash.codeium.com
 193.233.112.68 uploads.linear.app
 103.27.157.38 upsx.weather.com
 103.27.157.38 us.posthog.com
@@ -180,7 +180,7 @@
 103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
-217.60.179.6 windsurf-telemetry.codeium.com
+193.233.112.68 windsurf-telemetry.codeium.com
 193.233.112.68 windsurf.com
 103.27.157.38 write-free.www.deepl.com
 193.233.112.68 www-growth.scdn.co
@@ -201,10 +201,10 @@
 103.27.157.38 www.spotify.com
 103.27.157.38 www.tiktok.com
 103.27.157.38 www2.deepl.com
-217.60.179.6 soundcloud.com
-217.60.179.6 www.soundcloud.com
-217.60.179.6 promoted.soundcloud.com
-217.60.179.6 api-v2.soundcloud.com
+193.233.112.68 soundcloud.com
+193.233.112.68 www.soundcloud.com
+193.233.112.68 promoted.soundcloud.com
+193.233.112.68 api-v2.soundcloud.com
 149.154.167.220 api.telegram.org
 149.154.167.220 cdn.telesco.pe
 149.154.167.220 cdn1.telesco.pe
