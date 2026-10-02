@@ -30,9 +30,6 @@ www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
 =a.claude.ai 193.233.112.68
-=ab.chatgpt.com 193.233.112.68
-=chatgpt.com 193.233.112.68
-=webrtc.chatgpt.com 193.233.112.68
 =access.broadcom.com 103.27.157.38
 =knowledge.broadcom.com 103.27.157.38
 =profile.broadcom.com 103.27.157.38
@@ -42,7 +39,6 @@ api-v2.soundcloud.com 185.31.40.18
 =download.jetbrains.com 103.27.157.38
 =plugins.jetbrains.com 103.27.157.38
 =accounts.autodesk.com 193.233.112.68
-=www.autodesk.com 193.233.112.68
 =accounts.scdn.co 193.233.112.68
 =www-growth.scdn.co 193.233.112.68
 =accounts.spotify.com 103.27.157.38
@@ -108,19 +104,14 @@ elevenlabs.io 103.27.157.38
 =assets.grok.com 103.27.157.38
 =grok.com 103.27.157.38
 =builds.parsec.app 103.27.157.38
-=calendar.notion.so 193.233.112.68
 =cdn.oaistatic.com 103.27.157.38
 =cdn.platform.openai.com 193.233.112.68
-=developers.openai.com 193.233.112.68
+=videos.openai.com 193.233.112.68
 =checkout.www.deepl.com 193.233.112.68
 =gtm.deepl.com 193.233.112.68
 =voice-proxy.www.deepl.com 193.233.112.68
 =claude.ai 103.27.157.38
-=client-api.linear.app 193.233.112.68
-=constellation.linear.app 193.233.112.68
-=public.linear.app 193.233.112.68
-=s.linear.app 193.233.112.68
-=static.linear.app 193.233.112.68
+linear.app 193.233.112.68
 codeium.com 193.233.112.68
 =content-management-files.canva.com 193.233.112.68
 =static.canva.com 193.233.112.68
@@ -144,9 +135,6 @@ codeium.com 193.233.112.68
 =us.posthog.com 103.27.157.38
 =files.oaiusercontent.com 103.27.157.38
 =framer.com 193.233.112.68
-=frontend-api-v3.pump.fun 193.233.112.68
-=pump.fun 193.233.112.68
-=swap-api.pump.fun 193.233.112.68
 =game-assets.brawlstarsgame.com 103.27.157.38
 =game-assets.clashofclans.com 103.27.157.38
 =game-assets.clashroyaleapp.com 103.27.157.38
@@ -157,7 +145,6 @@ codeium.com 193.233.112.68
 =www.guilded.gg 103.27.157.38
 =images.pump.fun 193.233.112.67
 =labs.google 103.27.157.38
-=manus.im 193.233.112.68
 =marketplace.windsurf.com 193.233.112.68
 =windsurf.com 193.233.112.68
 =notebooklm.google 103.27.157.38
@@ -166,8 +153,10 @@ codeium.com 193.233.112.68
 =operator.chatgpt.com 193.233.112.67
 =sora.chatgpt.com 193.233.112.67
 =platform.claude.com 193.233.112.68
+=sdmntpritalynorth.oaiusercontent.com 193.233.112.68
 =sdmntprnortheu.oaiusercontent.com 193.233.112.68
 =sdmntprpolandcentral.oaiusercontent.com 193.233.112.68
+=sdmntprukwest.oaiusercontent.com 193.233.112.68
 =static-assets-1.truthsocial.com 103.27.157.38
 =truthsocial.com 103.27.157.38
 =test.dns.malw.link 185.31.40.18
@@ -178,6 +167,7 @@ codeium.com 193.233.112.68
 =www.canva.com 103.27.157.38
 =www.dyson.com 103.27.157.38
 =www.dyson.fr 103.27.157.38
+=www.elgato.com 193.233.112.68
 =www.intel.com 103.27.157.38
 =www.intel.de 103.27.157.38
 =www.notion.so 103.27.157.38
