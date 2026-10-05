@@ -100,7 +100,7 @@ elevenlabs.io 193.233.112.68
 =builds.parsec.app 193.233.112.68
 =calendar.notion.so 193.233.112.68
 =www.notion.so 193.233.112.68
-=cdn.auth0.com 65.9.68.34
+=cdn.auth0.com 3.174.16.159
 =cdn.oaistatic.com 193.233.112.68
 linear.app 193.233.112.68
 codeium.com 193.233.112.68
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =developer.nvidia.com 193.233.112.68
 =dyson.com 193.233.112.68
 =www.dyson.com 193.233.112.68
-=dzcdn.net 185.5.160.66
+=dzcdn.net 2.16.56.208
 =edgeservices.bing.com 193.233.112.67
 =sydney.bing.com 193.233.112.67
 =elevenreader.io 193.233.112.68
@@ -135,7 +135,7 @@ codeium.com 193.233.112.68
 =game-assets.clashroyaleapp.com 193.233.112.68
 =geolocation.onetrust.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
-=guilded.gg 65.9.62.10
+=guilded.gg 3.174.18.26
 =i.dell.com 23.197.162.100
 =images.pump.fun 193.233.112.67
 =labs.google 217.60.179.6
@@ -157,13 +157,13 @@ codeium.com 193.233.112.68
 =tria.ge 193.233.112.68
 =upsx.weather.com 193.233.112.68
 =weather.com 193.233.112.68
-=us.posthog.com 3.41.202.153
+=us.posthog.com 3.41.202.149
 =web.archive.org 193.233.112.68
 =www.canva.com 217.60.179.6
 =www.dell.com 193.233.112.68
 =www.dyson.fr 162.159.142.173
 =www.elgato.com 193.233.112.68
-=www.guilded.gg 65.9.46.112
+=www.guilded.gg 3.174.18.100
 =www.intel.com 193.233.112.68
 =www.intel.de 96.17.7.19
 =www.qwant.com 193.233.112.68
