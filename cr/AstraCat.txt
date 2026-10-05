@@ -29,6 +29,10 @@ soundcloud.com 193.233.112.67
 www.soundcloud.com 193.233.112.67
 promoted.soundcloud.com 193.233.112.67
 api-v2.soundcloud.com 193.233.112.67
+soundcloud.com 104.18.43.204
+www.soundcloud.com 104.18.43.204
+promoted.soundcloud.com 104.18.43.204
+api-v2.soundcloud.com 104.18.43.204
 soundcloud.com 3.174.16.159
 www.soundcloud.com 3.174.16.159
 promoted.soundcloud.com 3.174.16.159
@@ -37,10 +41,10 @@ soundcloud.com 172.64.33.155
 www.soundcloud.com 172.64.33.155
 promoted.soundcloud.com 172.64.33.155
 api-v2.soundcloud.com 172.64.33.155
-soundcloud.com 2.16.56.208
-www.soundcloud.com 2.16.56.208
-promoted.soundcloud.com 2.16.56.208
-api-v2.soundcloud.com 2.16.56.208
+soundcloud.com 185.5.160.66
+www.soundcloud.com 185.5.160.66
+promoted.soundcloud.com 185.5.160.66
+api-v2.soundcloud.com 185.5.160.66
 soundcloud.com 3.40.4.212
 www.soundcloud.com 3.40.4.212
 promoted.soundcloud.com 3.40.4.212
@@ -65,10 +69,10 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-soundcloud.com 3.41.202.149
-www.soundcloud.com 3.41.202.149
-promoted.soundcloud.com 3.41.202.149
-api-v2.soundcloud.com 3.41.202.149
+soundcloud.com 3.41.202.157
+www.soundcloud.com 3.41.202.157
+promoted.soundcloud.com 3.41.202.157
+api-v2.soundcloud.com 3.41.202.157
 soundcloud.com 162.159.142.173
 www.soundcloud.com 162.159.142.173
 promoted.soundcloud.com 162.159.142.173
@@ -167,7 +171,7 @@ elevenlabs.io 193.233.112.68
 =app.notion.com 193.233.112.68
 =assets.grok.com 193.233.112.68
 =grok.com 193.233.112.68
-=auth.anthropic.com 162.159.140.167
+=auth.anthropic.com 104.18.43.204
 =auth0.openai.com 193.233.112.67
 =builds.parsec.app 193.233.112.68
 =calendar.notion.so 193.233.112.68
@@ -188,7 +192,7 @@ codeium.com 193.233.112.68
 =developer.nvidia.com 193.233.112.68
 =dyson.com 193.233.112.68
 =www.dyson.com 193.233.112.68
-=dzcdn.net 2.16.56.208
+=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 193.233.112.67
 =sydney.bing.com 193.233.112.67
 =elevenreader.io 193.233.112.68
@@ -229,7 +233,7 @@ codeium.com 193.233.112.68
 =tria.ge 193.233.112.68
 =upsx.weather.com 193.233.112.68
 =weather.com 193.233.112.68
-=us.posthog.com 3.41.202.149
+=us.posthog.com 3.41.202.157
 =web.archive.org 193.233.112.68
 =www.canva.com 217.60.179.6
 =www.dell.com 193.233.112.68

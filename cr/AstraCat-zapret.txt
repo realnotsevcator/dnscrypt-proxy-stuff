@@ -95,7 +95,7 @@ elevenlabs.io 193.233.112.68
 =app.notion.com 193.233.112.68
 =assets.grok.com 193.233.112.68
 =grok.com 193.233.112.68
-=auth.anthropic.com 162.159.140.167
+=auth.anthropic.com 104.18.43.204
 =auth0.openai.com 193.233.112.67
 =builds.parsec.app 193.233.112.68
 =calendar.notion.so 193.233.112.68
@@ -116,7 +116,7 @@ codeium.com 193.233.112.68
 =developer.nvidia.com 193.233.112.68
 =dyson.com 193.233.112.68
 =www.dyson.com 193.233.112.68
-=dzcdn.net 2.16.56.208
+=dzcdn.net 185.5.160.66
 =edgeservices.bing.com 193.233.112.67
 =sydney.bing.com 193.233.112.67
 =elevenreader.io 193.233.112.68
@@ -157,7 +157,7 @@ codeium.com 193.233.112.68
 =tria.ge 193.233.112.68
 =upsx.weather.com 193.233.112.68
 =weather.com 193.233.112.68
-=us.posthog.com 3.41.202.149
+=us.posthog.com 3.41.202.157
 =web.archive.org 193.233.112.68
 =www.canva.com 217.60.179.6
 =www.dell.com 193.233.112.68
