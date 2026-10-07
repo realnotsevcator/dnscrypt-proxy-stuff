@@ -33,7 +33,7 @@
 193.233.112.68 api.openai.com
 193.233.112.68 api.spotify.com
 193.233.112.68 api.squareup.com
-3.164.68.19 api.tidal.com
+13.227.146.27 api.tidal.com
 193.233.112.68 api.trae.ai
 193.233.112.68 api.us.elevenlabs.io
 193.233.112.68 api16-normal-alisg.mchost.guru
@@ -67,8 +67,8 @@
 193.233.112.68 copilot.microsoft.com
 172.64.33.155 d.rutor.info
 193.233.112.68 datalore.jetbrains.com
-65.9.46.106 dd.tidal.com
-159.194.200.33 dds.dell.com
+18.165.122.18 dd.tidal.com
+193.233.112.67 dds.dell.com
 193.233.112.68 deepl.com
 193.233.112.68 deezer.com
 193.233.112.68 developer.nvidia.com
@@ -76,7 +76,7 @@
 193.233.112.68 dict.deepl.com
 193.233.112.68 download.jetbrains.com
 193.233.112.68 dyson.com
-184.51.252.203 dzcdn.net
+2.16.56.83 dzcdn.net
 193.233.112.67 edgeservices.bing.com
 193.233.112.68 elevenlabs.io
 193.233.112.68 elevenreader.io
@@ -99,7 +99,7 @@
 193.233.112.68 geolocation.onetrust.com
 193.233.112.68 gew1-dealer.spotify.com
 193.233.112.68 gew1-spclient.spotify.com
-104.16.24.14 grok.com
+193.233.112.68 grok.com
 193.233.112.68 gtm.deepl.com
 193.233.112.68 guidedhacking.com
 159.194.200.33 guilded.gg
@@ -142,7 +142,7 @@
 193.233.112.68 profile.broadcom.com
 193.233.112.68 public.linear.app
 193.233.112.68 pump.fun
-65.9.87.243 resources.tidal.com
+13.32.119.251 resources.tidal.com
 193.233.112.68 rewards.bing.com
 159.194.200.33 robinfrontend-pa.googleapis.com
 193.233.112.68 s.deepl.com
@@ -202,7 +202,7 @@
 104.16.24.14 www.patreon.com
 193.233.112.68 www.qwant.com
 193.233.112.68 www.spotify.com
-23.216.134.10 www.tiktok.com
+23.73.2.137 www.tiktok.com
 193.233.112.68 www2.deepl.com
 57.144.244.34 z-p42-chat-e2ee-ig.facebook.com
 193.233.112.68 soundcloud.com
