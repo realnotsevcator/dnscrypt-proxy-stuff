@@ -15,7 +15,7 @@
 193.233.112.68 accounts.supercell.com
 193.233.112.68 accounts.x.ai
 193.233.112.68 aet.spotify.com
-104.103.64.8 afcs.dellcdn.com
+184.24.152.98 afcs.dellcdn.com
 217.60.179.6 aisandbox-pa.googleapis.com
 217.60.179.6 aistudio.google.com
 217.60.179.6 aitestkitchen.withgoogle.com
@@ -50,7 +50,7 @@
 193.233.112.68 backend.deepl.com
 193.233.112.68 builds.parsec.app
 193.233.112.68 calendar.notion.so
-3.164.212.39 cdn.auth0.com
+3.174.16.159 cdn.auth0.com
 193.233.112.68 cdn.id.supercell.com
 193.233.112.68 cdn.oaistatic.com
 193.233.112.68 cdn.platform.openai.com
@@ -68,7 +68,7 @@
 172.64.33.155 d.rutor.info
 193.233.112.68 datalore.jetbrains.com
 217.60.179.6 dd.tidal.com
-104.103.64.8 dds.dell.com
+184.24.152.98 dds.dell.com
 193.233.112.68 deepl.com
 193.233.112.68 deezer.com
 193.233.112.68 developer.nvidia.com
@@ -76,7 +76,7 @@
 193.233.112.68 dict.deepl.com
 193.233.112.68 download.jetbrains.com
 193.233.112.68 dyson.com
-23.196.236.56 dzcdn.net
+139.45.207.120 dzcdn.net
 193.233.112.67 edgeservices.bing.com
 193.233.112.68 elevenlabs.io
 193.233.112.68 elevenreader.io
@@ -102,9 +102,9 @@
 193.233.112.68 grok.com
 193.233.112.68 gtm.deepl.com
 193.233.112.68 guidedhacking.com
-52.85.154.105 guilded.gg
+3.174.18.26 guilded.gg
 193.233.112.68 help.elevenlabs.io
-23.197.162.100 i.dell.com
+23.12.158.96 i.dell.com
 193.233.112.67 images.pump.fun
 217.60.179.6 images.tidal.com
 193.233.112.68 inference.codeium.com
@@ -122,7 +122,7 @@
 193.233.112.68 login5.spotify.com
 193.233.112.68 manus.im
 193.233.112.68 marketplace.windsurf.com
-104.103.64.8 nexus.dell.com
+184.24.152.98 nexus.dell.com
 216.239.32.27 notebooklm.google
 217.60.179.6 notebooklm.google.com
 130.255.77.28 ntc.party
@@ -135,7 +135,7 @@
 193.233.112.68 payment.deezer.com
 193.233.112.68 platform.claude.com
 193.233.112.68 platform.openai.com
-217.60.179.6 plugins.jetbrains.com
+193.233.112.68 plugins.jetbrains.com
 217.60.179.6 proactivebackend-pa.googleapis.com
 193.233.112.68 profile.broadcom.com
 193.233.112.68 public.linear.app
@@ -170,13 +170,13 @@
 193.233.112.68 unleash.codeium.com
 193.233.112.68 uploads.linear.app
 193.233.112.68 upsx.weather.com
-3.41.202.147 us.posthog.com
+3.41.202.145 us.posthog.com
 193.233.112.68 videos.openai.com
 193.233.112.68 voice-proxy.www.deepl.com
 193.233.112.68 w.deepl.com
 193.233.112.68 weather.com
 193.233.112.68 web-backend.codeium.com
-217.60.179.6 web.archive.org
+193.233.112.68 web.archive.org
 217.60.179.6 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
@@ -192,9 +192,9 @@
 193.233.112.68 www.dyson.com
 162.159.142.173 www.dyson.fr
 193.233.112.68 www.elgato.com
-3.174.113.114 www.guilded.gg
-193.233.112.68 www.intel.com
-96.17.7.19 www.intel.de
+3.174.18.100 www.guilded.gg
+217.60.179.6 www.intel.com
+23.49.110.197 www.intel.de
 193.233.112.68 www.notion.so
 217.60.179.6 www.patreon.com
 193.233.112.68 www.qwant.com
