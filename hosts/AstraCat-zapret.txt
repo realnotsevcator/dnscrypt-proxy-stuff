@@ -76,7 +76,7 @@
 193.233.112.68 dict.deepl.com
 193.233.112.68 download.jetbrains.com
 193.233.112.68 dyson.com
-2.18.244.204 dzcdn.net
+185.5.160.11 dzcdn.net
 193.233.112.67 edgeservices.bing.com
 193.233.112.68 elevenlabs.io
 193.233.112.68 elevenreader.io
@@ -104,7 +104,7 @@
 193.233.112.68 guidedhacking.com
 52.85.154.105 guilded.gg
 193.233.112.68 help.elevenlabs.io
-23.197.162.100 i.dell.com
+104.103.64.8 i.dell.com
 193.233.112.67 images.pump.fun
 217.60.179.6 images.tidal.com
 193.233.112.68 inference.codeium.com
@@ -176,7 +176,7 @@
 193.233.112.68 w.deepl.com
 193.233.112.68 weather.com
 193.233.112.68 web-backend.codeium.com
-217.60.179.6 web.archive.org
+193.233.112.68 web.archive.org
 217.60.179.6 webchannel-alkalimakersuite-pa.clients6.google.com
 193.233.112.68 webrtc.chatgpt.com
 193.233.112.68 windsurf-stable.codeium.com
