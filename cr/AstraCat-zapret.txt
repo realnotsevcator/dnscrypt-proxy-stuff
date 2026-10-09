@@ -20,7 +20,6 @@ api-v2.soundcloud.com 193.233.112.68
 =account.jetbrains.com 193.233.112.68
 =datalore.jetbrains.com 193.233.112.68
 =download.jetbrains.com 193.233.112.68
-=plugins.jetbrains.com 193.233.112.68
 =accounts.autodesk.com 193.233.112.68
 =www.autodesk.com 193.233.112.68
 =accounts.scdn.co 193.233.112.68
@@ -109,7 +108,6 @@ codeium.com 193.233.112.68
 =copilot.microsoft.com 193.233.112.68
 =d.rutor.info 172.64.33.155
 =dds.dell.com 104.103.64.8
-=i.dell.com 104.103.64.8
 =nexus.dell.com 104.103.64.8
 =deezer.com 193.233.112.68
 =payment.deezer.com 193.233.112.68
@@ -117,7 +115,7 @@ codeium.com 193.233.112.68
 =developer.nvidia.com 193.233.112.68
 =dyson.com 193.233.112.68
 =www.dyson.com 193.233.112.68
-=dzcdn.net 185.5.160.11
+=dzcdn.net 23.196.236.56
 =edgeservices.bing.com 193.233.112.67
 =sydney.bing.com 193.233.112.67
 =elevenreader.io 193.233.112.68
@@ -137,6 +135,7 @@ codeium.com 193.233.112.68
 =geolocation.onetrust.com 193.233.112.68
 =guidedhacking.com 193.233.112.68
 =guilded.gg 52.85.154.105
+=i.dell.com 23.197.162.100
 =images.pump.fun 193.233.112.67
 =labs.google 217.60.179.6
 =marketplace.windsurf.com 193.233.112.68
@@ -149,6 +148,7 @@ codeium.com 193.233.112.68
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 193.233.112.68
+=plugins.jetbrains.com 217.60.179.6
 =profile.broadcom.com 193.233.112.68
 =rewards.bing.com 193.233.112.68
 =static-assets-1.truthsocial.com 193.233.112.68
@@ -157,8 +157,8 @@ codeium.com 193.233.112.68
 =tria.ge 193.233.112.68
 =upsx.weather.com 193.233.112.68
 =weather.com 193.233.112.68
-=us.posthog.com 3.41.202.145
-=web.archive.org 193.233.112.68
+=us.posthog.com 3.41.202.147
+=web.archive.org 217.60.179.6
 =www.canva.com 217.60.179.6
 =www.dell.com 193.233.112.68
 =www.dyson.fr 162.159.142.173
