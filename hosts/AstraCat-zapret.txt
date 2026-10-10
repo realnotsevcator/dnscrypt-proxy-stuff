@@ -27,7 +27,7 @@
 193.233.112.68 api-partner.spotify.com
 193.233.112.68 api-sg-central.trae.ai
 193.233.112.68 api.anthropic.com
-217.60.179.6 api.elevenlabs.io
+193.233.112.68 api.elevenlabs.io
 217.60.179.6 api.fitbit.com
 193.233.112.67 api.jetbrains.ai
 193.233.112.68 api.manus.im
@@ -36,7 +36,7 @@
 193.233.112.68 api.squareup.com
 217.60.179.6 api.tidal.com
 193.233.112.68 api.trae.ai
-217.60.179.6 api.us.elevenlabs.io
+193.233.112.68 api.us.elevenlabs.io
 193.233.112.68 api16-normal-alisg.mchost.guru
 193.233.112.68 app.notion.com
 35.186.224.24 appresolve.spotify.com
@@ -76,13 +76,13 @@
 193.233.112.68 dict.deepl.com
 193.233.112.68 download.jetbrains.com
 193.233.112.68 dyson.com
-2.19.181.35 dzcdn.net
+185.5.160.16 dzcdn.net
 193.233.112.67 edgeservices.bing.com
-217.60.179.6 elevenlabs.io
-217.60.179.6 elevenreader.io
+193.233.112.68 elevenlabs.io
+193.233.112.68 elevenreader.io
 193.233.112.68 encore.scdn.co
 193.233.112.68 errortracking.deepl.com
-3.40.4.212 eu.posthog.com
+3.40.4.210 eu.posthog.com
 193.233.112.68 experimentation-grpc.deepl.com
 193.233.112.68 experimentation.deepl.com
 193.233.112.68 files.oaiusercontent.com
@@ -144,7 +144,7 @@
 193.233.112.68 rewards.bing.com
 217.60.179.6 robinfrontend-pa.googleapis.com
 193.233.112.68 s.deepl.com
-193.233.112.68 s.linear.app
+217.60.179.6 s.linear.app
 193.233.112.68 sdmntpritalynorth.oaiusercontent.com
 193.233.112.68 sdmntprnortheu.oaiusercontent.com
 193.233.112.68 sdmntprpolandcentral.oaiusercontent.com
