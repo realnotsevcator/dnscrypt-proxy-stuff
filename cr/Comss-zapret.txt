@@ -12,10 +12,9 @@ api-v2.soundcloud.com 143.20.64.55
 =a.claude.ai 143.20.64.55
 =claude.ai 143.20.64.55
 chatgpt.com 143.20.64.55
-=access.broadcom.com 132.243.112.221
-=knowledge.broadcom.com 132.243.112.221
-=profile.broadcom.com 132.243.112.221
-=support.broadcom.com 132.243.112.221
+=access.broadcom.com 157.22.177.90
+=knowledge.broadcom.com 157.22.177.90
+=support.broadcom.com 157.22.177.90
 =account.jetbrains.com 143.20.64.55
 =datalore.jetbrains.com 143.20.64.55
 =download.jetbrains.com 143.20.64.55
@@ -39,7 +38,7 @@ chatgpt.com 143.20.64.55
 =security.id.supercell.com 143.20.64.55
 =store.supercell.com 143.20.64.55
 =accounts.x.ai 143.20.64.55
-=afcs.dellcdn.com 95.100.176.23
+=afcs.dellcdn.com 104.103.64.8
 =aisandbox-pa.googleapis.com 179.254.166.174
 =assistant-s3-pa.googleapis.com 179.254.166.174
 =fitbit-pa.googleapis.com 179.254.166.174
@@ -53,6 +52,7 @@ chatgpt.com 143.20.64.55
 =gemini.google.com 179.254.166.174
 =jules.google.com 179.254.166.174
 =notebooklm.google.com 179.254.166.174
+=webchannel-alkalimakersuite-pa.clients6.google.com 179.254.166.174
 =aitestkitchen.withgoogle.com 179.254.166.174
 =stitch.withgoogle.com 179.254.166.174
 =android.chat.openai.com 143.20.64.55
@@ -84,7 +84,7 @@ elevenlabs.io 143.20.64.55
 =listen.tidal.com 143.20.64.55
 =login.tidal.com 143.20.64.55
 =resources.tidal.com 143.20.64.55
-=api16-normal-alisg.mchost.guru 23.215.2.133
+=api16-normal-alisg.mchost.guru 2.16.56.204
 =app.notion.com 143.20.64.55
 =assets.grok.com 143.20.64.55
 =grok.com 143.20.64.55
@@ -101,7 +101,6 @@ linear.app 143.20.64.55
 =www.canva.com 143.20.64.55
 =copilot.microsoft.com 143.20.64.55
 =dds.dell.com 104.103.64.8
-=nexus.dell.com 104.103.64.8
 =www.dell.com 104.103.64.8
 =deezer.com 143.20.64.55
 =payment.deezer.com 143.20.64.55
@@ -124,14 +123,16 @@ linear.app 143.20.64.55
 =game-assets.clashofclans.com 143.20.64.55
 =game-assets.clashroyaleapp.com 143.20.64.55
 =geolocation.onetrust.com 143.20.64.55
-=guilded.gg 52.85.154.105
+=guilded.gg 65.9.62.10
 =i.dell.com 23.197.162.100
 =labs.google 179.254.166.174
+=nexus.dell.com 23.32.25.192
 =notebooklm.google 132.243.112.221
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
 =patreon.com 217.60.179.6
 =platform.claude.com 143.20.64.55
+=profile.broadcom.com 132.243.112.221
 =static-assets-1.truthsocial.com 143.20.64.55
 =truthsocial.com 143.20.64.55
 =test.dns.malw.link 185.31.40.18
@@ -139,9 +140,8 @@ linear.app 143.20.64.55
 =tria.ge 8.47.69.0
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
-=us.posthog.com 3.41.202.145
+=us.posthog.com 3.41.202.154
 =web.archive.org 143.20.64.55
-=webchannel-alkalimakersuite-pa.clients6.google.com 132.243.112.221
 =www.dyson.fr 143.20.64.55
 =www.guilded.gg 132.243.112.221
 =www.intel.com 132.243.112.221
