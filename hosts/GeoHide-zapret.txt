@@ -46,7 +46,7 @@
 143.20.64.55 backend.deepl.com
 143.20.64.55 builds.parsec.app
 143.20.64.55 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+3.164.212.39 cdn.auth0.com
 143.20.64.55 cdn.id.supercell.com
 143.20.64.55 cdn.oaistatic.com
 143.20.64.55 cdn.platform.openai.com
@@ -70,7 +70,7 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-2.17.251.26 dzcdn.net
+184.51.252.149 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
@@ -155,7 +155,7 @@
 143.20.64.55 truthsocial.com
 143.20.64.55 uploads.linear.app
 143.20.64.55 upsx.weather.com
-3.41.202.156 us.posthog.com
+3.41.202.145 us.posthog.com
 143.20.64.55 videos.openai.com
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com

@@ -93,7 +93,7 @@ instagram.com 57.144.248.34
 =builds.parsec.app 143.20.64.55
 =calendar.notion.so 143.20.64.55
 =www.notion.so 143.20.64.55
-=cdn.auth0.com 18.64.195.35
+=cdn.auth0.com 3.164.212.39
 =cdn.oaistatic.com 143.20.64.55
 linear.app 143.20.64.55
 =content-management-files.canva.com 143.20.64.55
@@ -110,7 +110,7 @@ linear.app 143.20.64.55
 =developer.nvidia.com 143.20.64.55
 =dyson.com 143.20.64.55
 =www.dyson.com 143.20.64.55
-=dzcdn.net 2.17.251.26
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 143.20.64.55
 =rewards.bing.com 143.20.64.55
 =sydney.bing.com 143.20.64.55
@@ -139,7 +139,7 @@ linear.app 143.20.64.55
 =tria.ge 159.194.200.33
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
-=us.posthog.com 3.41.202.156
+=us.posthog.com 3.41.202.145
 =web.archive.org 143.20.64.55
 =www.dyson.fr 143.20.64.55
 =www.intel.com 159.194.200.33
