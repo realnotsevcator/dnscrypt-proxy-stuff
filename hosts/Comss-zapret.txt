@@ -14,7 +14,7 @@
 143.20.64.55 accounts.supercell.com
 143.20.64.55 accounts.x.ai
 143.20.64.55 aet.spotify.com
-95.100.176.23 afcs.dellcdn.com
+104.103.64.8 afcs.dellcdn.com
 179.254.166.174 aisandbox-pa.googleapis.com
 179.254.166.174 aistudio.google.com
 179.254.166.174 aitestkitchen.withgoogle.com
@@ -34,7 +34,7 @@
 143.20.64.55 api.squareup.com
 143.20.64.55 api.tidal.com
 143.20.64.55 api.us.elevenlabs.io
-23.215.2.133 api16-normal-alisg.mchost.guru
+164.215.74.17 api16-normal-alisg.mchost.guru
 143.20.64.55 app.notion.com
 35.186.224.24 appresolve.spotify.com
 143.20.64.55 assets.grok.com
@@ -72,7 +72,7 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-139.45.206.144 dzcdn.net
+104.69.222.137 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
@@ -98,7 +98,7 @@
 52.85.154.105 guilded.gg
 143.20.64.55 help.elevenlabs.io
 57.144.248.34 help.instagram.com
-104.103.64.8 i.dell.com
+23.197.162.100 i.dell.com
 143.20.64.55 images.tidal.com
 57.144.248.34 instagram.com
 143.20.64.55 ios.chat.openai.com
@@ -113,8 +113,8 @@
 143.20.64.55 login-wall.deepl.com
 143.20.64.55 login.tidal.com
 143.20.64.55 login5.spotify.com
-95.100.176.23 nexus.dell.com
-132.243.112.221 notebooklm.google
+104.103.64.8 nexus.dell.com
+157.22.177.90 notebooklm.google
 179.254.166.174 notebooklm.google.com
 130.255.77.28 ntc.party
 179.254.166.174 o.pki.goog
@@ -170,12 +170,11 @@
 143.20.64.55 www.canva.com
 143.20.64.55 www.deepl.com
 143.20.64.55 www.deezer.com
-104.103.64.8 www.dell.com
+95.100.176.23 www.dell.com
 143.20.64.55 www.dyson.com
 143.20.64.55 www.dyson.fr
 132.243.112.221 www.guilded.gg
 57.144.248.34 www.instagram.com
-132.243.112.221 www.intel.com
 96.17.7.19 www.intel.de
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
