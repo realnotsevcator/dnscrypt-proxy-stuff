@@ -154,7 +154,6 @@
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
 143.20.64.55 www.spotify.com
-217.60.179.6 www.tiktok.com
 143.20.64.55 www2.deepl.com
 57.144.248.34 z-p42-chat-e2ee-ig.facebook.com
 143.20.64.55 soundcloud.com

@@ -121,7 +121,6 @@ linear.app 143.20.64.55
 =weather.com 143.20.64.55
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
-=www.tiktok.com 217.60.179.6
 =z-p42-chat-e2ee-ig.facebook.com 57.144.248.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
