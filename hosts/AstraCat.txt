@@ -141,6 +141,7 @@
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com
 143.20.64.55 weather.com
+143.20.64.55 web.archive.org
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
 143.20.64.55 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com
@@ -154,6 +155,7 @@
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
 143.20.64.55 www.spotify.com
+217.60.179.6 www.tiktok.com
 143.20.64.55 www2.deepl.com
 57.144.248.34 z-p42-chat-e2ee-ig.facebook.com
 143.20.64.55 soundcloud.com
@@ -168,10 +170,6 @@
 57.144.248.34 www.soundcloud.com
 57.144.248.34 promoted.soundcloud.com
 57.144.248.34 api-v2.soundcloud.com
-132.243.112.221 soundcloud.com
-132.243.112.221 www.soundcloud.com
-132.243.112.221 promoted.soundcloud.com
-132.243.112.221 api-v2.soundcloud.com
 130.255.77.28 soundcloud.com
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
