@@ -91,8 +91,6 @@
 143.20.64.55 ios.chat.openai.com
 143.20.64.55 ita-free.app.deepl.com
 143.20.64.55 ita-free.www.deepl.com
-179.254.166.174 jules.google.com
-179.254.166.174 labs.google
 143.20.64.55 linear.app
 143.20.64.55 link.tidal.com
 143.20.64.55 listen.tidal.com
