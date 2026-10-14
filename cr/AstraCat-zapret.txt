@@ -36,6 +36,7 @@ chatgpt.com 143.20.64.55
 =store.supercell.com 143.20.64.55
 =accounts.x.ai 143.20.64.55
 =aisandbox-pa.googleapis.com 179.254.166.174
+=assistant-s3-pa.googleapis.com 179.254.166.174
 =fitbit-pa.googleapis.com 179.254.166.174
 =fitbitvestibuleshim-pa.googleapis.com 179.254.166.174
 =generativelanguage.googleapis.com 179.254.166.174
@@ -118,7 +119,6 @@ linear.app 143.20.64.55
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
-=web.archive.org 143.20.64.55
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6
