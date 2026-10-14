@@ -14,7 +14,7 @@
 143.20.64.55 accounts.supercell.com
 143.20.64.55 accounts.x.ai
 143.20.64.55 aet.spotify.com
-159.194.200.33 afcs.dellcdn.com
+193.233.112.67 afcs.dellcdn.com
 179.254.166.174 aisandbox-pa.googleapis.com
 179.254.166.174 aistudio.google.com
 179.254.166.174 aitestkitchen.withgoogle.com
@@ -27,13 +27,13 @@
 143.20.64.55 api.elevenlabs.io
 179.254.166.174 api.fitbit.com
 143.20.64.55 api.jetbrains.ai
-143.20.64.192 api.manus.im
+193.233.112.67 api.manus.im
 143.20.64.55 api.openai.com
 143.20.64.55 api.spotify.com
 143.20.64.55 api.squareup.com
 143.20.64.55 api.tidal.com
 143.20.64.55 api.us.elevenlabs.io
-159.194.200.33 api16-normal-alisg.mchost.guru
+143.20.64.192 api16-normal-alisg.mchost.guru
 143.20.64.55 app.notion.com
 143.20.64.55 assets.grok.com
 179.254.166.174 assistant-s3-pa.googleapis.com
@@ -45,6 +45,7 @@
 143.20.64.55 backend.deepl.com
 143.20.64.55 builds.parsec.app
 143.20.64.55 calendar.notion.so
+18.64.195.35 cdn.auth0.com
 143.20.64.55 cdn.id.supercell.com
 143.20.64.55 cdn.oaistatic.com
 143.20.64.55 cdn.platform.openai.com
@@ -68,7 +69,7 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-23.216.134.85 dzcdn.net
+184.51.252.132 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
@@ -91,7 +92,7 @@
 143.20.64.55 gew1-spclient.spotify.com
 143.20.64.55 grok.com
 143.20.64.55 gtm.deepl.com
-143.20.64.192 guilded.gg
+13.249.8.109 guilded.gg
 143.20.64.55 help.elevenlabs.io
 57.144.248.34 help.instagram.com
 143.20.64.192 i.dell.com
@@ -168,7 +169,7 @@
 143.20.64.192 www.dell.com
 143.20.64.55 www.dyson.com
 143.20.64.55 www.dyson.fr
-143.20.64.192 www.guilded.gg
+13.249.8.109 www.guilded.gg
 57.144.248.34 www.instagram.com
 143.20.64.192 www.intel.com
 143.20.64.192 www.intel.de
