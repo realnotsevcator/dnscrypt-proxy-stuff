@@ -32,7 +32,6 @@
 143.20.64.55 api.us.elevenlabs.io
 143.20.64.55 app.notion.com
 143.20.64.55 assets.grok.com
-179.254.166.174 assistant-s3-pa.googleapis.com
 143.20.64.55 auth.deepl.com
 143.20.64.55 auth.openai.com
 143.20.64.55 auth.tidal.com

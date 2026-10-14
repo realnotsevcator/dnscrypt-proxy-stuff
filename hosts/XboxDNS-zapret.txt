@@ -33,7 +33,7 @@
 143.20.64.55 api.squareup.com
 143.20.64.55 api.tidal.com
 143.20.64.55 api.us.elevenlabs.io
-23.215.2.133 api16-normal-alisg.mchost.guru
+2.16.56.200 api16-normal-alisg.mchost.guru
 143.20.64.55 app.notion.com
 35.186.224.24 appresolve.spotify.com
 143.20.64.55 assets.grok.com
@@ -47,7 +47,7 @@
 143.20.64.55 backend.deepl.com
 143.20.64.55 builds.parsec.app
 143.20.64.55 calendar.notion.so
-3.164.212.39 cdn.auth0.com
+18.64.195.35 cdn.auth0.com
 143.20.64.55 cdn.id.supercell.com
 143.20.64.55 cdn.oaistatic.com
 143.20.64.55 cdn.platform.openai.com
@@ -71,7 +71,7 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-184.51.252.186 dzcdn.net
+184.51.88.48 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
@@ -97,7 +97,7 @@
 52.85.154.105 guilded.gg
 143.20.64.55 help.elevenlabs.io
 57.144.248.34 help.instagram.com
-23.12.158.96 i.dell.com
+95.100.176.23 i.dell.com
 143.20.64.55 images.tidal.com
 57.144.248.34 instagram.com
 143.20.64.55 ios.chat.openai.com
@@ -113,7 +113,7 @@
 143.20.64.55 login.tidal.com
 143.20.64.55 login5.spotify.com
 23.12.158.96 nexus.dell.com
-142.250.27.94 notebooklm.google
+108.177.14.100 notebooklm.google
 179.254.166.174 notebooklm.google.com
 130.255.77.28 ntc.party
 179.254.166.174 o.pki.goog
@@ -127,7 +127,7 @@
 143.20.64.55 platform.openai.com
 143.20.64.55 plugins.jetbrains.com
 179.254.166.174 proactivebackend-pa.googleapis.com
-104.16.102.112 profile.broadcom.com
+162.159.140.167 profile.broadcom.com
 143.20.64.55 public.linear.app
 143.20.64.55 resources.tidal.com
 143.20.64.55 rewards.bing.com
@@ -169,12 +169,12 @@
 143.20.64.55 www.canva.com
 143.20.64.55 www.deepl.com
 143.20.64.55 www.deezer.com
-23.12.158.96 www.dell.com
+184.24.152.98 www.dell.com
 143.20.64.55 www.dyson.com
 143.20.64.55 www.dyson.fr
 65.9.46.112 www.guilded.gg
 57.144.248.34 www.instagram.com
-23.58.206.87 www.intel.de
+23.49.110.197 www.intel.de
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
 143.20.64.55 www.spotify.com
