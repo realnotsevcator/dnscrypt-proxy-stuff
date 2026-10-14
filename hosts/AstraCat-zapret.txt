@@ -91,6 +91,8 @@
 143.20.64.55 ios.chat.openai.com
 143.20.64.55 ita-free.app.deepl.com
 143.20.64.55 ita-free.www.deepl.com
+179.254.166.174 jules.google.com
+179.254.166.174 labs.google
 143.20.64.55 linear.app
 143.20.64.55 link.tidal.com
 143.20.64.55 listen.tidal.com
@@ -139,7 +141,6 @@
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com
 143.20.64.55 weather.com
-143.20.64.55 web.archive.org
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
 143.20.64.55 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com

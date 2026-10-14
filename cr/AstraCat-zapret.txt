@@ -46,6 +46,7 @@ chatgpt.com 143.20.64.55
 =alkalimakersuite-pa.clients6.google.com 179.254.166.174
 =fitbit.google.com 179.254.166.174
 =gemini.google.com 179.254.166.174
+=jules.google.com 179.254.166.174
 =notebooklm.google.com 179.254.166.174
 =webchannel-alkalimakersuite-pa.clients6.google.com 179.254.166.174
 =aitestkitchen.withgoogle.com 179.254.166.174
@@ -108,6 +109,7 @@ linear.app 143.20.64.55
 =game-assets.clashofclans.com 143.20.64.55
 =game-assets.clashroyaleapp.com 143.20.64.55
 =geolocation.onetrust.com 143.20.64.55
+=labs.google 179.254.166.174
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
 =patreon.com 217.60.179.6
@@ -117,7 +119,6 @@ linear.app 143.20.64.55
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
-=web.archive.org 143.20.64.55
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6
