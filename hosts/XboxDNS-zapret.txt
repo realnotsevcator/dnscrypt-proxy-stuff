@@ -63,7 +63,7 @@
 143.20.64.55 copilot.microsoft.com
 143.20.64.55 datalore.jetbrains.com
 143.20.64.55 dd.tidal.com
-95.101.192.5 dds.dell.com
+92.122.73.134 dds.dell.com
 143.20.64.55 deepl.com
 143.20.64.55 deezer.com
 143.20.64.55 developer.nvidia.com
@@ -71,7 +71,7 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-184.25.50.104 dzcdn.net
+104.123.68.17 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
@@ -97,7 +97,7 @@
 52.85.154.105 guilded.gg
 143.20.64.55 help.elevenlabs.io
 57.144.248.34 help.instagram.com
-95.101.192.5 i.dell.com
+23.32.25.192 i.dell.com
 143.20.64.55 images.tidal.com
 57.144.248.34 instagram.com
 143.20.64.55 ios.chat.openai.com
@@ -112,8 +112,8 @@
 143.20.64.55 login-wall.deepl.com
 143.20.64.55 login.tidal.com
 143.20.64.55 login5.spotify.com
-184.24.152.98 nexus.dell.com
-108.177.14.141 notebooklm.google
+95.100.176.23 nexus.dell.com
+108.177.14.100 notebooklm.google
 179.254.166.174 notebooklm.google.com
 130.255.77.28 ntc.party
 179.254.166.174 o.pki.goog
@@ -121,7 +121,7 @@
 143.20.64.55 open.spotify.com
 143.20.64.55 operator.chatgpt.com
 143.20.64.55 ott.deepl.com
-104.16.24.14 patreon.com
+217.60.179.6 patreon.com
 143.20.64.55 payment.deezer.com
 143.20.64.55 platform.claude.com
 143.20.64.55 platform.openai.com
@@ -151,7 +151,7 @@
 143.20.64.55 sydney.bing.com
 143.20.64.55 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
-2.18.66.84 trae-api-sg.mchost.guru
+2.16.21.72 trae-api-sg.mchost.guru
 104.16.102.112 tria.ge
 143.20.64.55 truthsocial.com
 143.20.64.55 uploads.linear.app
@@ -178,7 +178,7 @@
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
 143.20.64.55 www.spotify.com
-2.17.251.186 www.tiktok.com
+217.60.179.6 www.tiktok.com
 143.20.64.55 www2.deepl.com
 57.144.248.34 z-p42-chat-e2ee-ig.facebook.com
 143.20.64.55 soundcloud.com

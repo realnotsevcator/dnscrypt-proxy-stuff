@@ -112,6 +112,7 @@ linear.app 143.20.64.55
 =labs.google 179.254.166.174
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
+=patreon.com 217.60.179.6
 =platform.claude.com 143.20.64.55
 =static-assets-1.truthsocial.com 143.20.64.55
 =truthsocial.com 143.20.64.55
@@ -121,6 +122,7 @@ linear.app 143.20.64.55
 =web.archive.org 143.20.64.55
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
+=www.tiktok.com 217.60.179.6
 =z-p42-chat-e2ee-ig.facebook.com 57.144.248.34
 telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
