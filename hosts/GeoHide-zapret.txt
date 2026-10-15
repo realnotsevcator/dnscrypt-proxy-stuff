@@ -45,7 +45,7 @@
 143.20.64.55 backend.deepl.com
 143.20.64.55 builds.parsec.app
 143.20.64.55 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+143.204.238.48 cdn.auth0.com
 143.20.64.55 cdn.id.supercell.com
 143.20.64.55 cdn.oaistatic.com
 143.20.64.55 cdn.platform.openai.com
@@ -61,7 +61,7 @@
 143.20.64.55 copilot.microsoft.com
 143.20.64.55 datalore.jetbrains.com
 143.20.64.55 dd.tidal.com
-193.233.112.67 dds.dell.com
+143.20.64.192 dds.dell.com
 143.20.64.55 deepl.com
 143.20.64.55 deezer.com
 143.20.64.55 developer.nvidia.com
@@ -69,7 +69,7 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-23.75.20.105 dzcdn.net
+184.25.50.104 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
@@ -92,10 +92,10 @@
 143.20.64.55 gew1-spclient.spotify.com
 143.20.64.55 grok.com
 143.20.64.55 gtm.deepl.com
-193.233.112.67 guilded.gg
+143.20.64.192 guilded.gg
 143.20.64.55 help.elevenlabs.io
 57.144.248.34 help.instagram.com
-193.233.112.67 i.dell.com
+143.20.64.192 i.dell.com
 143.20.64.55 images.tidal.com
 57.144.248.34 instagram.com
 143.20.64.55 ios.chat.openai.com
@@ -119,7 +119,6 @@
 143.20.64.55 open.spotify.com
 143.20.64.55 operator.chatgpt.com
 143.20.64.55 ott.deepl.com
-217.60.179.6 patreon.com
 143.20.64.55 payment.deezer.com
 143.20.64.55 platform.claude.com
 143.20.64.55 platform.openai.com
@@ -158,7 +157,7 @@
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com
 143.20.64.55 weather.com
-143.20.64.192 web.archive.org
+143.20.64.55 web.archive.org
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
 143.20.64.55 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com
@@ -169,14 +168,14 @@
 143.20.64.192 www.dell.com
 143.20.64.55 www.dyson.com
 143.20.64.55 www.dyson.fr
-13.249.8.109 www.guilded.gg
+143.20.64.192 www.guilded.gg
 57.144.248.34 www.instagram.com
 143.20.64.192 www.intel.com
 143.20.64.192 www.intel.de
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
 143.20.64.55 www.spotify.com
-217.60.179.6 www.tiktok.com
+184.25.50.104 www.tiktok.com
 143.20.64.55 www2.deepl.com
 57.144.248.34 z-p42-chat-e2ee-ig.facebook.com
 143.20.64.55 soundcloud.com
