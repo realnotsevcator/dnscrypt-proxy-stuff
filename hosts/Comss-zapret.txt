@@ -34,7 +34,7 @@
 143.20.64.55 api.squareup.com
 143.20.64.55 api.tidal.com
 143.20.64.55 api.us.elevenlabs.io
-2.20.255.138 api16-normal-alisg.mchost.guru
+23.215.2.133 api16-normal-alisg.mchost.guru
 143.20.64.55 app.notion.com
 35.186.224.24 appresolve.spotify.com
 143.20.64.55 assets.grok.com
@@ -48,7 +48,7 @@
 143.20.64.55 backend.deepl.com
 143.20.64.55 builds.parsec.app
 143.20.64.55 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+18.239.17.70 cdn.auth0.com
 143.20.64.55 cdn.id.supercell.com
 143.20.64.55 cdn.oaistatic.com
 143.20.64.55 cdn.platform.openai.com
@@ -72,13 +72,13 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-139.45.206.170 dzcdn.net
+185.5.160.66 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
 143.20.64.55 encore.scdn.co
 143.20.64.55 errortracking.deepl.com
-3.40.4.210 eu.posthog.com
+3.40.4.211 eu.posthog.com
 143.20.64.55 experimentation-grpc.deepl.com
 143.20.64.55 experimentation.deepl.com
 143.20.64.55 files.oaiusercontent.com
@@ -95,7 +95,7 @@
 143.20.64.55 gew1-spclient.spotify.com
 143.20.64.55 grok.com
 143.20.64.55 gtm.deepl.com
-52.85.154.105 guilded.gg
+108.156.60.126 guilded.gg
 143.20.64.55 help.elevenlabs.io
 57.144.248.34 help.instagram.com
 104.103.64.8 i.dell.com
@@ -113,7 +113,7 @@
 143.20.64.55 login-wall.deepl.com
 143.20.64.55 login.tidal.com
 143.20.64.55 login5.spotify.com
-104.103.64.8 nexus.dell.com
+23.32.25.192 nexus.dell.com
 132.243.112.221 notebooklm.google
 179.254.166.174 notebooklm.google.com
 130.255.77.28 ntc.party
@@ -153,7 +153,7 @@
 143.20.64.55 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
 132.243.112.221 trae-api-sg.mchost.guru
-8.47.69.0 tria.ge
+8.47.69.5 tria.ge
 143.20.64.55 truthsocial.com
 143.20.64.55 uploads.linear.app
 143.20.64.55 upsx.weather.com
@@ -162,7 +162,7 @@
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com
 143.20.64.55 weather.com
-207.241.237.3 web.archive.org
+143.20.64.55 web.archive.org
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
 143.20.64.55 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com

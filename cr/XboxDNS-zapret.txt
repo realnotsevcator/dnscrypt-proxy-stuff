@@ -84,7 +84,7 @@ elevenlabs.io 143.20.64.55
 =listen.tidal.com 143.20.64.55
 =login.tidal.com 143.20.64.55
 =resources.tidal.com 143.20.64.55
-=api16-normal-alisg.mchost.guru 2.20.255.138
+=api16-normal-alisg.mchost.guru 23.215.2.133
 =app.notion.com 143.20.64.55
 =assets.grok.com 143.20.64.55
 =grok.com 143.20.64.55
@@ -93,7 +93,7 @@ instagram.com 57.144.248.34
 =builds.parsec.app 143.20.64.55
 =calendar.notion.so 143.20.64.55
 =www.notion.so 143.20.64.55
-=cdn.auth0.com 3.164.212.39
+=cdn.auth0.com 18.64.195.35
 =cdn.oaistatic.com 143.20.64.55
 linear.app 143.20.64.55
 =content-management-files.canva.com 143.20.64.55
@@ -101,6 +101,7 @@ linear.app 143.20.64.55
 =www.canva.com 143.20.64.55
 =copilot.microsoft.com 143.20.64.55
 =dds.dell.com 23.12.158.96
+=nexus.dell.com 23.12.158.96
 =www.dell.com 23.12.158.96
 =deezer.com 143.20.64.55
 =payment.deezer.com 143.20.64.55
@@ -108,7 +109,7 @@ linear.app 143.20.64.55
 =developer.nvidia.com 143.20.64.55
 =dyson.com 143.20.64.55
 =www.dyson.com 143.20.64.55
-=dzcdn.net 184.51.252.148
+=dzcdn.net 184.51.252.149
 =edgeservices.bing.com 143.20.64.55
 =rewards.bing.com 143.20.64.55
 =sydney.bing.com 143.20.64.55
@@ -124,11 +125,10 @@ linear.app 143.20.64.55
 =game-assets.clashofclans.com 143.20.64.55
 =game-assets.clashroyaleapp.com 143.20.64.55
 =geolocation.onetrust.com 143.20.64.55
-=guilded.gg 65.9.62.10
-=i.dell.com 95.100.176.23
-=nexus.dell.com 95.100.176.23
+=guilded.gg 52.85.154.105
+=i.dell.com 23.32.25.192
 =labs.google 179.254.166.174
-=notebooklm.google 108.177.14.100
+=notebooklm.google 142.250.180.14
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
 =patreon.com 217.60.179.6
@@ -140,9 +140,9 @@ linear.app 143.20.64.55
 =tria.ge 104.16.102.112
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
-=web.archive.org 207.241.237.3
+=web.archive.org 143.20.64.55
 =www.dyson.fr 143.20.64.55
-=www.guilded.gg 3.174.113.114
+=www.guilded.gg 65.9.46.112
 =www.intel.de 23.58.206.87
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6

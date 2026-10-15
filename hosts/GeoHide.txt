@@ -46,7 +46,7 @@
 143.20.64.55 backend.deepl.com
 143.20.64.55 builds.parsec.app
 143.20.64.55 calendar.notion.so
-18.64.195.35 cdn.auth0.com
+18.244.147.34 cdn.auth0.com
 143.20.64.55 cdn.id.supercell.com
 143.20.64.55 cdn.oaistatic.com
 143.20.64.55 cdn.platform.openai.com
@@ -155,7 +155,7 @@
 143.20.64.55 truthsocial.com
 143.20.64.55 uploads.linear.app
 143.20.64.55 upsx.weather.com
-3.41.202.158 us.posthog.com
+3.41.202.145 us.posthog.com
 143.20.64.55 videos.openai.com
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com
@@ -201,10 +201,10 @@
 57.144.248.34 www.soundcloud.com
 57.144.248.34 promoted.soundcloud.com
 57.144.248.34 api-v2.soundcloud.com
-18.64.195.35 soundcloud.com
-18.64.195.35 www.soundcloud.com
-18.64.195.35 promoted.soundcloud.com
-18.64.195.35 api-v2.soundcloud.com
+18.244.147.34 soundcloud.com
+18.244.147.34 www.soundcloud.com
+18.244.147.34 promoted.soundcloud.com
+18.244.147.34 api-v2.soundcloud.com
 184.51.252.149 soundcloud.com
 184.51.252.149 www.soundcloud.com
 184.51.252.149 promoted.soundcloud.com
@@ -225,7 +225,7 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-3.41.202.158 soundcloud.com
-3.41.202.158 www.soundcloud.com
-3.41.202.158 promoted.soundcloud.com
-3.41.202.158 api-v2.soundcloud.com
+3.41.202.145 soundcloud.com
+3.41.202.145 www.soundcloud.com
+3.41.202.145 promoted.soundcloud.com
+3.41.202.145 api-v2.soundcloud.com
