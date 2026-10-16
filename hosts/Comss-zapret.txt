@@ -14,7 +14,7 @@
 143.20.64.55 accounts.supercell.com
 143.20.64.55 accounts.x.ai
 143.20.64.55 aet.spotify.com
-104.103.64.8 afcs.dellcdn.com
+23.12.158.96 afcs.dellcdn.com
 179.254.166.174 aisandbox-pa.googleapis.com
 179.254.166.174 aistudio.google.com
 179.254.166.174 aitestkitchen.withgoogle.com
@@ -34,7 +34,7 @@
 143.20.64.55 api.squareup.com
 143.20.64.55 api.tidal.com
 143.20.64.55 api.us.elevenlabs.io
-2.20.255.138 api16-normal-alisg.mchost.guru
+23.215.2.133 api16-normal-alisg.mchost.guru
 143.20.64.55 app.notion.com
 35.186.224.24 appresolve.spotify.com
 143.20.64.55 assets.grok.com
@@ -64,7 +64,7 @@
 143.20.64.55 copilot.microsoft.com
 143.20.64.55 datalore.jetbrains.com
 143.20.64.55 dd.tidal.com
-104.103.64.8 dds.dell.com
+95.100.176.23 dds.dell.com
 143.20.64.55 deepl.com
 143.20.64.55 deezer.com
 143.20.64.55 developer.nvidia.com
@@ -72,13 +72,13 @@
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
-139.45.206.163 dzcdn.net
+139.45.206.144 dzcdn.net
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
 143.20.64.55 encore.scdn.co
 143.20.64.55 errortracking.deepl.com
-3.40.4.211 eu.posthog.com
+3.40.4.210 eu.posthog.com
 143.20.64.55 experimentation-grpc.deepl.com
 143.20.64.55 experimentation.deepl.com
 143.20.64.55 files.oaiusercontent.com
@@ -98,7 +98,7 @@
 52.85.154.105 guilded.gg
 143.20.64.55 help.elevenlabs.io
 57.144.248.34 help.instagram.com
-23.12.158.96 i.dell.com
+104.103.64.8 i.dell.com
 143.20.64.55 images.tidal.com
 57.144.248.34 instagram.com
 143.20.64.55 ios.chat.openai.com
@@ -113,7 +113,7 @@
 143.20.64.55 login-wall.deepl.com
 143.20.64.55 login.tidal.com
 143.20.64.55 login5.spotify.com
-104.103.64.8 nexus.dell.com
+23.12.158.96 nexus.dell.com
 132.243.112.221 notebooklm.google
 179.254.166.174 notebooklm.google.com
 130.255.77.28 ntc.party
@@ -157,7 +157,7 @@
 143.20.64.55 truthsocial.com
 143.20.64.55 uploads.linear.app
 143.20.64.55 upsx.weather.com
-3.41.202.159 us.posthog.com
+3.41.202.145 us.posthog.com
 143.20.64.55 videos.openai.com
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com
@@ -170,7 +170,7 @@
 143.20.64.55 www.canva.com
 143.20.64.55 www.deepl.com
 143.20.64.55 www.deezer.com
-95.100.176.23 www.dell.com
+23.12.158.96 www.dell.com
 143.20.64.55 www.dyson.com
 143.20.64.55 www.dyson.fr
 132.243.112.221 www.guilded.gg
