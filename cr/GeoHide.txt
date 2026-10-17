@@ -43,7 +43,9 @@ promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
 =a.claude.ai 143.20.64.55
 =claude.ai 143.20.64.55
-chatgpt.com 159.194.200.33
+=ab.chatgpt.com 159.194.200.33
+=operator.chatgpt.com 159.194.200.33
+=sora.chatgpt.com 159.194.200.33
 =account.jetbrains.com 143.20.64.55
 =datalore.jetbrains.com 143.20.64.55
 =download.jetbrains.com 143.20.64.55
@@ -88,10 +90,8 @@ chatgpt.com 159.194.200.33
 =auth.openai.com 159.194.200.33
 =auth0.openai.com 159.194.200.33
 =cdn.platform.openai.com 159.194.200.33
-=developers.openai.com 159.194.200.33
 =ios.chat.openai.com 159.194.200.33
 =platform.openai.com 159.194.200.33
-=tcr9i.chat.openai.com 159.194.200.33
 =videos.openai.com 159.194.200.33
 deepl.com 143.20.64.55
 =api-global.squareup.com 143.20.64.55
@@ -117,6 +117,8 @@ instagram.com 57.144.248.34
 =calendar.notion.so 143.20.64.55
 =www.notion.so 143.20.64.55
 =cdn.oaistatic.com 159.194.200.33
+=chatgpt.com 104.16.24.14
+=webrtc.chatgpt.com 104.16.24.14
 linear.app 143.20.64.55
 =content-management-files.canva.com 143.20.64.55
 =static.canva.com 143.20.64.55
@@ -126,6 +128,8 @@ linear.app 143.20.64.55
 =payment.deezer.com 143.20.64.55
 =www.deezer.com 143.20.64.55
 =developer.nvidia.com 143.20.64.55
+=developers.openai.com 104.16.24.14
+=tcr9i.chat.openai.com 104.16.24.14
 =dyson.com 143.20.64.55
 =www.dyson.com 143.20.64.55
 =edgeservices.bing.com 143.20.64.55
