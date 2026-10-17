@@ -44,7 +44,7 @@
 143.20.64.55 cdn.id.supercell.com
 159.194.200.33 cdn.oaistatic.com
 159.194.200.33 cdn.platform.openai.com
-104.16.24.14 chatgpt.com
+159.194.200.33 chatgpt.com
 143.20.64.55 checkout.www.deepl.com
 143.20.64.55 clashofclans.inbox.supercell.com
 143.20.64.55 claude.ai
@@ -59,7 +59,7 @@
 143.20.64.55 deepl.com
 143.20.64.55 deezer.com
 143.20.64.55 developer.nvidia.com
-104.16.24.14 developers.openai.com
+159.194.200.33 developers.openai.com
 143.20.64.55 dict.deepl.com
 143.20.64.55 download.jetbrains.com
 143.20.64.55 dyson.com
@@ -70,7 +70,7 @@
 143.20.64.55 errortracking.deepl.com
 143.20.64.55 experimentation-grpc.deepl.com
 143.20.64.55 experimentation.deepl.com
-104.16.24.14 files.oaiusercontent.com
+159.194.200.33 files.oaiusercontent.com
 179.254.166.174 fitbit-pa.googleapis.com
 179.254.166.174 fitbit.google.com
 179.254.166.174 fitbitvestibuleshim-pa.googleapis.com
@@ -132,7 +132,7 @@
 179.254.166.174 stitch.withgoogle.com
 143.20.64.55 store.supercell.com
 143.20.64.55 sydney.bing.com
-104.16.24.14 tcr9i.chat.openai.com
+159.194.200.33 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
 143.20.64.55 truthsocial.com
 143.20.64.55 uploads.linear.app
@@ -143,7 +143,7 @@
 143.20.64.55 weather.com
 143.20.64.55 web.archive.org
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
-104.16.24.14 webrtc.chatgpt.com
+159.194.200.33 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com
 159.194.200.33 www-growth.scdn.co
 143.20.64.55 www.canva.com
