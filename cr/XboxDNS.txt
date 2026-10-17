@@ -13,10 +13,10 @@ soundcloud.com 104.16.102.112
 www.soundcloud.com 104.16.102.112
 promoted.soundcloud.com 104.16.102.112
 api-v2.soundcloud.com 104.16.102.112
-soundcloud.com 199.232.210.248
-www.soundcloud.com 199.232.210.248
-promoted.soundcloud.com 199.232.210.248
-api-v2.soundcloud.com 199.232.210.248
+soundcloud.com 146.75.118.248
+www.soundcloud.com 146.75.118.248
+promoted.soundcloud.com 146.75.118.248
+api-v2.soundcloud.com 146.75.118.248
 soundcloud.com 151.101.131.42
 www.soundcloud.com 151.101.131.42
 promoted.soundcloud.com 151.101.131.42
@@ -69,10 +69,10 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
-soundcloud.com 2.16.21.27
-www.soundcloud.com 2.16.21.27
-promoted.soundcloud.com 2.16.21.27
-api-v2.soundcloud.com 2.16.21.27
+soundcloud.com 188.43.75.82
+www.soundcloud.com 188.43.75.82
+promoted.soundcloud.com 188.43.75.82
+api-v2.soundcloud.com 188.43.75.82
 =a.claude.ai 143.20.64.55
 =claude.ai 143.20.64.55
 chatgpt.com 104.16.102.112
@@ -80,7 +80,7 @@ chatgpt.com 104.16.102.112
 =datalore.jetbrains.com 143.20.64.55
 =download.jetbrains.com 143.20.64.55
 =plugins.jetbrains.com 143.20.64.55
-=accounts.scdn.co 199.232.210.248
+=accounts.scdn.co 146.75.118.248
 =accounts.spotify.com 151.101.131.42
 =www.spotify.com 151.101.131.42
 =accounts.supercell.com 143.20.64.55
@@ -183,7 +183,7 @@ linear.app 143.20.64.55
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
 =web.archive.org 143.20.64.55
-=www-growth.scdn.co 2.16.21.27
+=www-growth.scdn.co 188.43.75.82
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6

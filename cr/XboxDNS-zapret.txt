@@ -16,7 +16,7 @@ chatgpt.com 104.16.102.112
 =datalore.jetbrains.com 143.20.64.55
 =download.jetbrains.com 143.20.64.55
 =plugins.jetbrains.com 143.20.64.55
-=accounts.scdn.co 199.232.210.248
+=accounts.scdn.co 146.75.118.248
 =accounts.spotify.com 151.101.131.42
 =www.spotify.com 151.101.131.42
 =accounts.supercell.com 143.20.64.55
@@ -119,7 +119,7 @@ linear.app 143.20.64.55
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
 =web.archive.org 143.20.64.55
-=www-growth.scdn.co 2.16.21.27
+=www-growth.scdn.co 188.43.75.82
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6
