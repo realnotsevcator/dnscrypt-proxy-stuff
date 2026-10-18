@@ -17,9 +17,9 @@ chatgpt.com 104.16.102.112
 =download.jetbrains.com 143.20.64.55
 =plugins.jetbrains.com 143.20.64.55
 =accounts.scdn.co 146.75.118.248
-=accounts.spotify.com 146.75.119.42
-=open.spotify.com 146.75.119.42
-=www.spotify.com 146.75.119.42
+=accounts.spotify.com 151.101.131.42
+=open.spotify.com 151.101.131.42
+=www.spotify.com 151.101.131.42
 =accounts.supercell.com 143.20.64.55
 =cdn.id.supercell.com 143.20.64.55
 =clashofclans.inbox.supercell.com 143.20.64.55
@@ -87,7 +87,6 @@ linear.app 143.20.64.55
 =www.canva.com 143.20.64.55
 =copilot.microsoft.com 143.20.64.55
 =deezer.com 143.20.64.55
-=payment.deezer.com 143.20.64.55
 =www.deezer.com 143.20.64.55
 =developer.nvidia.com 143.20.64.55
 =dyson.com 143.20.64.55
@@ -96,7 +95,8 @@ linear.app 143.20.64.55
 =rewards.bing.com 143.20.64.55
 =sydney.bing.com 143.20.64.55
 =elevenreader.io 143.20.64.55
-=encore.scdn.co 2.16.56.41
+=encore.scdn.co 23.215.2.166
+=www-growth.scdn.co 23.215.2.166
 =files.oaiusercontent.com 104.16.102.112
 =sdmntpritalynorth.oaiusercontent.com 104.16.102.112
 =sdmntprnortheu.oaiusercontent.com 104.16.102.112
@@ -112,14 +112,14 @@ linear.app 143.20.64.55
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
 =patreon.com 217.60.179.6
+=payment.deezer.com 96.16.49.19
 =platform.claude.com 143.20.64.55
 =static-assets-1.truthsocial.com 143.20.64.55
 =truthsocial.com 143.20.64.55
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
-=web.archive.org 143.20.64.55
-=www-growth.scdn.co 23.215.2.147
+=web.archive.org 207.241.237.3
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6

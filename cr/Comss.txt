@@ -33,10 +33,10 @@ soundcloud.com 57.144.248.34
 www.soundcloud.com 57.144.248.34
 promoted.soundcloud.com 57.144.248.34
 api-v2.soundcloud.com 57.144.248.34
-soundcloud.com 23.75.20.112
-www.soundcloud.com 23.75.20.112
-promoted.soundcloud.com 23.75.20.112
-api-v2.soundcloud.com 23.75.20.112
+soundcloud.com 23.75.20.72
+www.soundcloud.com 23.75.20.72
+promoted.soundcloud.com 23.75.20.72
+api-v2.soundcloud.com 23.75.20.72
 soundcloud.com 35.186.224.33
 www.soundcloud.com 35.186.224.33
 promoted.soundcloud.com 35.186.224.33
@@ -49,10 +49,6 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
-soundcloud.com 146.75.119.42
-www.soundcloud.com 146.75.119.42
-promoted.soundcloud.com 146.75.119.42
-api-v2.soundcloud.com 146.75.119.42
 soundcloud.com 217.60.179.6
 www.soundcloud.com 217.60.179.6
 promoted.soundcloud.com 217.60.179.6
@@ -61,6 +57,10 @@ soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
 api-v2.soundcloud.com 185.31.40.18
+soundcloud.com 2.16.21.27
+www.soundcloud.com 2.16.21.27
+promoted.soundcloud.com 2.16.21.27
+api-v2.soundcloud.com 2.16.21.27
 soundcloud.com 199.232.43.42
 www.soundcloud.com 199.232.43.42
 promoted.soundcloud.com 199.232.43.42
@@ -74,6 +74,7 @@ chatgpt.com 132.243.112.221
 =plugins.jetbrains.com 143.20.64.55
 =accounts.scdn.co 146.75.118.248
 =accounts.spotify.com 140.248.139.42
+=open.spotify.com 140.248.139.42
 =accounts.supercell.com 143.20.64.55
 =cdn.id.supercell.com 143.20.64.55
 =clashofclans.inbox.supercell.com 143.20.64.55
@@ -93,14 +94,14 @@ chatgpt.com 132.243.112.221
 =proactivebackend-pa.googleapis.com 179.254.166.174
 =robinfrontend-pa.googleapis.com 179.254.166.174
 =aistudio.google.com 179.254.166.174
+=alkalimakersuite-pa.clients6.google.com 179.254.166.174
 =fitbit.google.com 179.254.166.174
 =gemini.google.com 179.254.166.174
+=jules.google.com 179.254.166.174
 =notebooklm.google.com 179.254.166.174
 =webchannel-alkalimakersuite-pa.clients6.google.com 179.254.166.174
 =aitestkitchen.withgoogle.com 179.254.166.174
 =stitch.withgoogle.com 179.254.166.174
-=alkalimakersuite-pa.clients6.google.com 132.243.112.221
-=jules.google.com 132.243.112.221
 =android.chat.openai.com 132.243.112.221
 =api.openai.com 132.243.112.221
 =auth.openai.com 132.243.112.221
@@ -150,8 +151,7 @@ linear.app 143.20.64.55
 =rewards.bing.com 143.20.64.55
 =sydney.bing.com 143.20.64.55
 =elevenreader.io 143.20.64.55
-=encore.scdn.co 23.75.20.112
-=www-growth.scdn.co 23.75.20.112
+=encore.scdn.co 23.75.20.72
 =files.oaiusercontent.com 132.243.112.221
 =sdmntpritalynorth.oaiusercontent.com 132.243.112.221
 =sdmntprnortheu.oaiusercontent.com 132.243.112.221
@@ -166,7 +166,6 @@ linear.app 143.20.64.55
 =labs.google 179.254.166.174
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
-=open.spotify.com 146.75.119.42
 =patreon.com 217.60.179.6
 =platform.claude.com 143.20.64.55
 =static-assets-1.truthsocial.com 143.20.64.55
@@ -175,6 +174,7 @@ linear.app 143.20.64.55
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
 =web.archive.org 143.20.64.55
+=www-growth.scdn.co 2.16.21.27
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
 =www.spotify.com 199.232.43.42

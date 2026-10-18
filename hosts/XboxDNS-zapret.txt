@@ -9,7 +9,7 @@
 104.16.102.112 ab.chatgpt.com
 143.20.64.55 account.jetbrains.com
 146.75.118.248 accounts.scdn.co
-146.75.119.42 accounts.spotify.com
+151.101.131.42 accounts.spotify.com
 143.20.64.55 accounts.supercell.com
 143.20.64.55 accounts.x.ai
 35.186.224.24 aet.spotify.com
@@ -66,7 +66,7 @@
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
-2.16.56.41 encore.scdn.co
+23.215.2.166 encore.scdn.co
 143.20.64.55 errortracking.deepl.com
 143.20.64.55 experimentation-grpc.deepl.com
 143.20.64.55 experimentation.deepl.com
@@ -103,11 +103,11 @@
 130.255.77.28 ntc.party
 179.254.166.174 o.pki.goog
 143.20.64.55 oneshot-free.www.deepl.com
-146.75.119.42 open.spotify.com
+151.101.131.42 open.spotify.com
 104.16.102.112 operator.chatgpt.com
 143.20.64.55 ott.deepl.com
 217.60.179.6 patreon.com
-143.20.64.55 payment.deezer.com
+96.16.49.19 payment.deezer.com
 143.20.64.55 platform.claude.com
 104.16.102.112 platform.openai.com
 143.20.64.55 plugins.jetbrains.com
@@ -141,11 +141,11 @@
 143.20.64.55 voice-proxy.www.deepl.com
 143.20.64.55 w.deepl.com
 143.20.64.55 weather.com
-143.20.64.55 web.archive.org
+207.241.237.3 web.archive.org
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
 104.16.102.112 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com
-23.215.2.147 www-growth.scdn.co
+23.215.2.166 www-growth.scdn.co
 143.20.64.55 www.canva.com
 143.20.64.55 www.deepl.com
 143.20.64.55 www.deezer.com
@@ -154,7 +154,7 @@
 57.144.248.34 www.instagram.com
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
-146.75.119.42 www.spotify.com
+151.101.131.42 www.spotify.com
 217.60.179.6 www.tiktok.com
 143.20.64.55 www2.deepl.com
 57.144.248.34 z-p42-chat-e2ee-ig.facebook.com
