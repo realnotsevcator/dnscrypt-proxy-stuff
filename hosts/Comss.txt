@@ -16,7 +16,7 @@
 179.254.166.174 aisandbox-pa.googleapis.com
 179.254.166.174 aistudio.google.com
 179.254.166.174 aitestkitchen.withgoogle.com
-179.254.166.174 alkalimakersuite-pa.clients6.google.com
+132.243.112.221 alkalimakersuite-pa.clients6.google.com
 132.243.112.221 android.chat.openai.com
 143.20.64.55 api-free.deepl.com
 143.20.64.55 api-global.squareup.com
@@ -66,7 +66,7 @@
 143.20.64.55 edgeservices.bing.com
 143.20.64.55 elevenlabs.io
 143.20.64.55 elevenreader.io
-2.17.144.65 encore.scdn.co
+23.75.20.112 encore.scdn.co
 143.20.64.55 errortracking.deepl.com
 143.20.64.55 experimentation-grpc.deepl.com
 143.20.64.55 experimentation.deepl.com
@@ -91,7 +91,7 @@
 132.243.112.221 ios.chat.openai.com
 143.20.64.55 ita-free.app.deepl.com
 143.20.64.55 ita-free.www.deepl.com
-179.254.166.174 jules.google.com
+132.243.112.221 jules.google.com
 179.254.166.174 labs.google
 143.20.64.55 linear.app
 143.20.64.55 link.tidal.com
@@ -103,7 +103,7 @@
 130.255.77.28 ntc.party
 179.254.166.174 o.pki.goog
 143.20.64.55 oneshot-free.www.deepl.com
-140.248.139.42 open.spotify.com
+146.75.119.42 open.spotify.com
 132.243.112.221 operator.chatgpt.com
 143.20.64.55 ott.deepl.com
 217.60.179.6 patreon.com
@@ -145,7 +145,7 @@
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
 132.243.112.221 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com
-23.75.20.72 www-growth.scdn.co
+23.75.20.112 www-growth.scdn.co
 143.20.64.55 www.canva.com
 143.20.64.55 www.deepl.com
 143.20.64.55 www.deezer.com
@@ -154,7 +154,7 @@
 57.144.248.34 www.instagram.com
 143.20.64.55 www.notion.so
 143.20.64.55 www.patreon.com
-199.232.175.42 www.spotify.com
+199.232.43.42 www.spotify.com
 217.60.179.6 www.tiktok.com
 143.20.64.55 www2.deepl.com
 57.144.248.34 z-p42-chat-e2ee-ig.facebook.com
@@ -186,10 +186,10 @@
 57.144.248.34 www.soundcloud.com
 57.144.248.34 promoted.soundcloud.com
 57.144.248.34 api-v2.soundcloud.com
-2.17.144.65 soundcloud.com
-2.17.144.65 www.soundcloud.com
-2.17.144.65 promoted.soundcloud.com
-2.17.144.65 api-v2.soundcloud.com
+23.75.20.112 soundcloud.com
+23.75.20.112 www.soundcloud.com
+23.75.20.112 promoted.soundcloud.com
+23.75.20.112 api-v2.soundcloud.com
 35.186.224.33 soundcloud.com
 35.186.224.33 www.soundcloud.com
 35.186.224.33 promoted.soundcloud.com
@@ -202,6 +202,10 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
+146.75.119.42 soundcloud.com
+146.75.119.42 www.soundcloud.com
+146.75.119.42 promoted.soundcloud.com
+146.75.119.42 api-v2.soundcloud.com
 217.60.179.6 soundcloud.com
 217.60.179.6 www.soundcloud.com
 217.60.179.6 promoted.soundcloud.com
@@ -210,11 +214,7 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-23.75.20.72 soundcloud.com
-23.75.20.72 www.soundcloud.com
-23.75.20.72 promoted.soundcloud.com
-23.75.20.72 api-v2.soundcloud.com
-199.232.175.42 soundcloud.com
-199.232.175.42 www.soundcloud.com
-199.232.175.42 promoted.soundcloud.com
-199.232.175.42 api-v2.soundcloud.com
+199.232.43.42 soundcloud.com
+199.232.43.42 www.soundcloud.com
+199.232.43.42 promoted.soundcloud.com
+199.232.43.42 api-v2.soundcloud.com
