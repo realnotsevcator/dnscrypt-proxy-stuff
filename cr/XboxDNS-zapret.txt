@@ -16,7 +16,7 @@ chatgpt.com 104.16.102.112
 =datalore.jetbrains.com 143.20.64.55
 =download.jetbrains.com 143.20.64.55
 =plugins.jetbrains.com 143.20.64.55
-=accounts.scdn.co 146.75.118.248
+=accounts.scdn.co 199.232.210.248
 =accounts.spotify.com 151.101.131.42
 =accounts.supercell.com 143.20.64.55
 =cdn.id.supercell.com 143.20.64.55
@@ -94,8 +94,8 @@ linear.app 143.20.64.55
 =rewards.bing.com 143.20.64.55
 =sydney.bing.com 143.20.64.55
 =elevenreader.io 143.20.64.55
-=encore.scdn.co 2.16.21.27
-=www-growth.scdn.co 2.16.21.27
+=encore.scdn.co 23.215.2.166
+=www-growth.scdn.co 23.215.2.166
 =files.oaiusercontent.com 104.16.102.112
 =sdmntpritalynorth.oaiusercontent.com 104.16.102.112
 =sdmntprnortheu.oaiusercontent.com 104.16.102.112

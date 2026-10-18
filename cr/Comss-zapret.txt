@@ -16,9 +16,9 @@ chatgpt.com 132.243.112.221
 =datalore.jetbrains.com 143.20.64.55
 =download.jetbrains.com 143.20.64.55
 =plugins.jetbrains.com 143.20.64.55
-=accounts.scdn.co 140.248.138.248
-=accounts.spotify.com 199.232.175.42
-=open.spotify.com 199.232.175.42
+=accounts.scdn.co 146.75.118.248
+=accounts.spotify.com 140.248.139.42
+=open.spotify.com 140.248.139.42
 =accounts.supercell.com 143.20.64.55
 =cdn.id.supercell.com 143.20.64.55
 =clashofclans.inbox.supercell.com 143.20.64.55
@@ -95,7 +95,7 @@ linear.app 143.20.64.55
 =rewards.bing.com 143.20.64.55
 =sydney.bing.com 143.20.64.55
 =elevenreader.io 143.20.64.55
-=encore.scdn.co 164.215.74.17
+=encore.scdn.co 2.17.144.65
 =files.oaiusercontent.com 132.243.112.221
 =sdmntpritalynorth.oaiusercontent.com 132.243.112.221
 =sdmntprnortheu.oaiusercontent.com 132.243.112.221
@@ -118,10 +118,10 @@ linear.app 143.20.64.55
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
 =web.archive.org 143.20.64.55
-=www-growth.scdn.co 185.5.160.65
+=www-growth.scdn.co 23.75.20.72
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
-=www.spotify.com 140.248.139.42
+=www.spotify.com 199.232.175.42
 =www.tiktok.com 217.60.179.6
 =z-p42-chat-e2ee-ig.facebook.com 57.144.248.34
 telegram.org 149.154.167.220
