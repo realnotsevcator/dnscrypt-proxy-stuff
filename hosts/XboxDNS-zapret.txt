@@ -103,7 +103,7 @@
 130.255.77.28 ntc.party
 179.254.166.174 o.pki.goog
 143.20.64.55 oneshot-free.www.deepl.com
-146.75.119.42 open.spotify.com
+151.101.131.42 open.spotify.com
 104.16.102.112 operator.chatgpt.com
 143.20.64.55 ott.deepl.com
 217.60.179.6 patreon.com
@@ -145,7 +145,7 @@
 179.254.166.174 webchannel-alkalimakersuite-pa.clients6.google.com
 104.16.102.112 webrtc.chatgpt.com
 143.20.64.55 write-free.www.deepl.com
-2.16.21.27 www-growth.scdn.co
+23.215.2.166 www-growth.scdn.co
 143.20.64.55 www.canva.com
 143.20.64.55 www.deepl.com
 143.20.64.55 www.deezer.com
