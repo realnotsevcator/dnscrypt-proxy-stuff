@@ -72,7 +72,7 @@
 143.20.64.55 experimentation.deepl.com
 143.20.64.55 files.oaiusercontent.com
 179.254.166.174 fitbit-pa.googleapis.com
-108.177.14.100 fitbit.google.com
+179.254.166.174 fitbit.google.com
 179.254.166.174 fitbitvestibuleshim-pa.googleapis.com
 143.20.64.55 game-assets.brawlstarsgame.com
 143.20.64.55 game-assets.clashofclans.com
