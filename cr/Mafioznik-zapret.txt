@@ -48,7 +48,6 @@ chatgpt.com 143.20.64.55
 =gemini.google.com 179.254.166.174
 =jules.google.com 179.254.166.174
 =notebooklm.google.com 179.254.166.174
-=webchannel-alkalimakersuite-pa.clients6.google.com 179.254.166.174
 =aitestkitchen.withgoogle.com 179.254.166.174
 =stitch.withgoogle.com 179.254.166.174
 =android.chat.openai.com 143.20.64.55
@@ -120,6 +119,7 @@ linear.app 143.20.64.55
 =upsx.weather.com 143.20.64.55
 =weather.com 143.20.64.55
 =web.archive.org 143.20.64.55
+=webchannel-alkalimakersuite-pa.clients6.google.com 143.20.64.192
 =www.dyson.fr 143.20.64.55
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6
