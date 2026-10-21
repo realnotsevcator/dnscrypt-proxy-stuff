@@ -63,12 +63,12 @@ chatgpt.com 143.20.64.55
 =videos.openai.com 143.20.64.55
 deepl.com 143.20.64.55
 =api-global.squareup.com 143.20.64.55
+=api.squareup.com 143.20.64.55
 =api.anthropic.com 143.20.64.55
 =console.anthropic.com 143.20.64.55
 elevenlabs.io 143.20.64.55
 =api.fitbit.com 179.254.166.174
 =api.jetbrains.ai 143.20.64.55
-=api.squareup.com 162.159.136.66
 =api.tidal.com 143.20.64.55
 =auth.tidal.com 143.20.64.55
 =dd.tidal.com 143.20.64.55
