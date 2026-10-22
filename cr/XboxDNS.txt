@@ -13,6 +13,10 @@ soundcloud.com 179.254.166.174
 www.soundcloud.com 179.254.166.174
 promoted.soundcloud.com 179.254.166.174
 api-v2.soundcloud.com 179.254.166.174
+soundcloud.com 104.16.102.112
+www.soundcloud.com 104.16.102.112
+promoted.soundcloud.com 104.16.102.112
+api-v2.soundcloud.com 104.16.102.112
 soundcloud.com 57.144.248.34
 www.soundcloud.com 57.144.248.34
 promoted.soundcloud.com 57.144.248.34
@@ -97,13 +101,12 @@ elevenlabs.io 143.20.64.55
 =listen.tidal.com 143.20.64.55
 =login.tidal.com 143.20.64.55
 =resources.tidal.com 143.20.64.55
-=app.notion.com 143.20.64.55
+=app.notion.com 104.16.102.112
 =assets.grok.com 143.20.64.55
 =grok.com 143.20.64.55
 instagram.com 57.144.248.34
 =builds.parsec.app 143.20.64.55
 =calendar.notion.so 143.20.64.55
-=www.notion.so 143.20.64.55
 =cdn.oaistatic.com 143.20.64.55
 linear.app 143.20.64.55
 =content-management-files.canva.com 143.20.64.55
@@ -141,6 +144,7 @@ linear.app 143.20.64.55
 =weather.com 143.20.64.55
 =web.archive.org 143.20.64.55
 =www.dyson.fr 143.20.64.55
+=www.notion.so 104.16.102.112
 =www.patreon.com 143.20.64.55
 =www.tiktok.com 217.60.179.6
 =z-p42-chat-e2ee-ig.facebook.com 57.144.248.34

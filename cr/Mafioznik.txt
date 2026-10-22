@@ -101,13 +101,11 @@ elevenlabs.io 143.20.64.55
 =listen.tidal.com 143.20.64.55
 =login.tidal.com 143.20.64.55
 =resources.tidal.com 143.20.64.55
-=app.notion.com 143.20.64.55
 =assets.grok.com 143.20.64.55
 =grok.com 143.20.64.55
 instagram.com 57.144.248.34
 =builds.parsec.app 143.20.64.55
 =calendar.notion.so 143.20.64.55
-=www.notion.so 143.20.64.55
 =cdn.oaistatic.com 143.20.64.55
 linear.app 143.20.64.55
 =content-management-files.canva.com 143.20.64.55
