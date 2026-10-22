@@ -77,7 +77,7 @@ elevenlabs.io 143.20.64.55
 =listen.tidal.com 143.20.64.55
 =login.tidal.com 143.20.64.55
 =resources.tidal.com 143.20.64.55
-=app.notion.com 159.194.200.33
+=app.notion.com 143.20.64.55
 =assets.grok.com 143.20.64.55
 =grok.com 143.20.64.55
 instagram.com 57.144.248.34
@@ -91,7 +91,6 @@ linear.app 143.20.64.55
 =www.canva.com 143.20.64.55
 =copilot.microsoft.com 143.20.64.55
 =deezer.com 143.20.64.55
-=payment.deezer.com 143.20.64.55
 =www.deezer.com 143.20.64.55
 =developer.nvidia.com 143.20.64.55
 =dyson.com 143.20.64.55
@@ -113,6 +112,7 @@ linear.app 143.20.64.55
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
 =patreon.com 217.60.179.6
+=payment.deezer.com 143.20.64.192
 =platform.claude.com 143.20.64.55
 =static-assets-1.truthsocial.com 143.20.64.55
 =truthsocial.com 143.20.64.55
