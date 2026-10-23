@@ -107,7 +107,7 @@
 143.20.64.55 operator.chatgpt.com
 143.20.64.55 ott.deepl.com
 217.60.179.6 patreon.com
-143.20.64.192 payment.deezer.com
+143.20.64.55 payment.deezer.com
 143.20.64.55 platform.claude.com
 143.20.64.55 platform.openai.com
 143.20.64.55 plugins.jetbrains.com
@@ -182,10 +182,6 @@
 217.60.179.6 www.soundcloud.com
 217.60.179.6 promoted.soundcloud.com
 217.60.179.6 api-v2.soundcloud.com
-143.20.64.192 soundcloud.com
-143.20.64.192 www.soundcloud.com
-143.20.64.192 promoted.soundcloud.com
-143.20.64.192 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
