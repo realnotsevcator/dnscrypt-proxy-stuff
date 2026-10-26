@@ -25,10 +25,6 @@ soundcloud.com 157.22.178.170
 www.soundcloud.com 157.22.178.170
 promoted.soundcloud.com 157.22.178.170
 api-v2.soundcloud.com 157.22.178.170
-soundcloud.com 130.255.77.28
-www.soundcloud.com 130.255.77.28
-promoted.soundcloud.com 130.255.77.28
-api-v2.soundcloud.com 130.255.77.28
 soundcloud.com 217.60.179.6
 www.soundcloud.com 217.60.179.6
 promoted.soundcloud.com 217.60.179.6
@@ -140,7 +136,6 @@ linear.app 143.20.64.55
 =game-assets.clashroyaleapp.com 143.20.64.55
 =geolocation.onetrust.com 143.20.64.55
 =labs.google 179.254.166.174
-=ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
 =patreon.com 217.60.179.6
 =platform.claude.com 143.20.64.55
