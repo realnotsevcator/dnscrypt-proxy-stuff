@@ -68,8 +68,8 @@
 143.20.64.55 elevenreader.io
 143.20.64.55 encore.scdn.co
 143.20.64.55 errortracking.deepl.com
-143.20.64.55 experimentation-grpc.deepl.com
-143.20.64.55 experimentation.deepl.com
+104.16.24.14 experimentation-grpc.deepl.com
+104.16.24.14 experimentation.deepl.com
 143.20.64.55 files.oaiusercontent.com
 179.254.166.174 fitbit-pa.googleapis.com
 179.254.166.174 fitbit.google.com
@@ -170,6 +170,10 @@
 57.144.248.34 www.soundcloud.com
 57.144.248.34 promoted.soundcloud.com
 57.144.248.34 api-v2.soundcloud.com
+104.16.24.14 soundcloud.com
+104.16.24.14 www.soundcloud.com
+104.16.24.14 promoted.soundcloud.com
+104.16.24.14 api-v2.soundcloud.com
 157.22.178.170 soundcloud.com
 157.22.178.170 www.soundcloud.com
 157.22.178.170 promoted.soundcloud.com

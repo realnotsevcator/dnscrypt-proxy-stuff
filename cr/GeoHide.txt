@@ -17,10 +17,6 @@ soundcloud.com 57.144.248.34
 www.soundcloud.com 57.144.248.34
 promoted.soundcloud.com 57.144.248.34
 api-v2.soundcloud.com 57.144.248.34
-soundcloud.com 143.20.64.192
-www.soundcloud.com 143.20.64.192
-promoted.soundcloud.com 143.20.64.192
-api-v2.soundcloud.com 143.20.64.192
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
