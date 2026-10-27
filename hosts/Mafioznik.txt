@@ -167,6 +167,10 @@
 57.144.248.34 www.soundcloud.com
 57.144.248.34 promoted.soundcloud.com
 57.144.248.34 api-v2.soundcloud.com
+159.194.200.33 soundcloud.com
+159.194.200.33 www.soundcloud.com
+159.194.200.33 promoted.soundcloud.com
+159.194.200.33 api-v2.soundcloud.com
 217.60.179.6 soundcloud.com
 217.60.179.6 www.soundcloud.com
 217.60.179.6 promoted.soundcloud.com
