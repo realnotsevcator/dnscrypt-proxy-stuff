@@ -68,8 +68,6 @@
 143.20.64.55 elevenreader.io
 143.20.64.55 encore.scdn.co
 143.20.64.55 errortracking.deepl.com
-104.16.24.14 experimentation-grpc.deepl.com
-104.16.24.14 experimentation.deepl.com
 143.20.64.55 files.oaiusercontent.com
 179.254.166.174 fitbit-pa.googleapis.com
 179.254.166.174 fitbit.google.com
