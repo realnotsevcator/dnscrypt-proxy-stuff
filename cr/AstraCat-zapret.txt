@@ -93,7 +93,6 @@ linear.app 143.20.64.55
 =deezer.com 143.20.64.55
 =payment.deezer.com 143.20.64.55
 =www.deezer.com 143.20.64.55
-=developer.nvidia.com 143.20.64.55
 =dyson.com 143.20.64.55
 =www.dyson.com 143.20.64.55
 =edgeservices.bing.com 143.20.64.55
