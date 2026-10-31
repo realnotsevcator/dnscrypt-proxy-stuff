@@ -67,7 +67,7 @@ deepl.com 143.20.64.55
 =api.anthropic.com 143.20.64.55
 =console.anthropic.com 143.20.64.55
 elevenlabs.io 143.20.64.55
-=api.fitbit.com 179.254.166.174
+=api.fitbit.com 172.217.112.4
 =api.jetbrains.ai 143.20.64.55
 =api.tidal.com 143.20.64.55
 =auth.tidal.com 143.20.64.55
