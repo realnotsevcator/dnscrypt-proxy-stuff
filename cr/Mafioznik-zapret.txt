@@ -60,6 +60,7 @@ chatgpt.com 143.20.64.55
 =ios.chat.openai.com 143.20.64.55
 =platform.openai.com 143.20.64.55
 =tcr9i.chat.openai.com 143.20.64.55
+=videos.openai.com 143.20.64.55
 deepl.com 143.20.64.55
 =api-global.squareup.com 143.20.64.55
 =api.squareup.com 143.20.64.55
