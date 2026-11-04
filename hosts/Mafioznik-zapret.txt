@@ -16,6 +16,7 @@
 179.254.166.174 aisandbox-pa.googleapis.com
 179.254.166.174 aistudio.google.com
 179.254.166.174 aitestkitchen.withgoogle.com
+179.254.166.174 alkalimakersuite-pa.clients6.google.com
 31.58.216.201 android.chat.openai.com
 31.58.216.201 api-free.deepl.com
 31.58.216.201 api-global.squareup.com
