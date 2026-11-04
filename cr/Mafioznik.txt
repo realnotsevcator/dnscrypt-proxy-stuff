@@ -139,7 +139,6 @@ linear.app 31.58.216.201
 =labs.google 179.254.166.174
 =ntc.party 130.255.77.28
 =o.pki.goog 179.254.166.174
-=patreon.com 31.31.207.68
 =platform.claude.com 31.58.216.201
 =static-assets-1.truthsocial.com 31.58.216.201
 =truthsocial.com 31.58.216.201
