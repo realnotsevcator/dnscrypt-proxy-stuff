@@ -52,8 +52,6 @@ chatgpt.com 31.58.216.201
 =notebook.google.com 179.254.166.174
 =notebooklm.google.com 179.254.166.174
 =webchannel-alkalimakersuite-pa.clients6.google.com 179.254.166.174
-=aitestkitchen.withgoogle.com 179.254.166.174
-=stitch.withgoogle.com 179.254.166.174
 =android.chat.openai.com 31.58.216.201
 =api.openai.com 31.58.216.201
 =auth.openai.com 31.58.216.201
@@ -119,6 +117,7 @@ linear.app 31.58.216.201
 =platform.claude.com 31.58.216.201
 =static-assets-1.truthsocial.com 31.58.216.201
 =truthsocial.com 31.58.216.201
+=stitch.withgoogle.com 179.254.166.174
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 31.58.216.201
 =weather.com 31.58.216.201

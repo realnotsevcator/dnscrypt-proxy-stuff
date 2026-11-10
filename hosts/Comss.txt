@@ -107,7 +107,7 @@
 31.58.216.201 open.spotify.com
 31.58.216.201 operator.chatgpt.com
 31.58.216.201 ott.deepl.com
-104.16.24.14 patreon.com
+31.31.207.68 patreon.com
 31.58.216.201 payment.deezer.com
 31.58.216.201 platform.claude.com
 31.58.216.201 platform.openai.com
@@ -179,10 +179,6 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
-104.16.24.14 soundcloud.com
-104.16.24.14 www.soundcloud.com
-104.16.24.14 promoted.soundcloud.com
-104.16.24.14 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
