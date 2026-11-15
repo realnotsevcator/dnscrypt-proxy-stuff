@@ -117,8 +117,8 @@ linear.app 217.60.179.6
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 217.60.179.6
-=static-assets-1.truthsocial.com 8.47.69.0
-=truthsocial.com 8.47.69.0
+=static-assets-1.truthsocial.com 104.16.102.112
+=truthsocial.com 104.16.102.112
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 217.60.179.6
 =weather.com 217.60.179.6
