@@ -133,7 +133,7 @@
 217.60.179.6 sydney.bing.com
 217.60.179.6 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
-104.16.102.112 truthsocial.com
+8.47.69.0 truthsocial.com
 217.60.179.6 uploads.linear.app
 217.60.179.6 upsx.weather.com
 217.60.179.6 videos.openai.com
@@ -181,7 +181,3 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-104.16.102.112 soundcloud.com
-104.16.102.112 www.soundcloud.com
-104.16.102.112 promoted.soundcloud.com
-104.16.102.112 api-v2.soundcloud.com
