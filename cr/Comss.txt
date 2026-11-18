@@ -21,6 +21,10 @@ soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
 api-v2.soundcloud.com 130.255.77.28
+soundcloud.com 8.47.69.0
+www.soundcloud.com 8.47.69.0
+promoted.soundcloud.com 8.47.69.0
+api-v2.soundcloud.com 8.47.69.0
 soundcloud.com 185.31.40.18
 www.soundcloud.com 185.31.40.18
 promoted.soundcloud.com 185.31.40.18
@@ -133,6 +137,8 @@ linear.app 217.60.179.6
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 217.60.179.6
+=static-assets-1.truthsocial.com 8.47.69.0
+=truthsocial.com 8.47.69.0
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 217.60.179.6
 =weather.com 217.60.179.6
