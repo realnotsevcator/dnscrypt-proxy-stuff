@@ -141,7 +141,7 @@
 217.60.179.6 w.deepl.com
 217.60.179.6 weather.com
 217.60.179.6 web.archive.org
-142.251.150.2 webchannel-alkalimakersuite-pa.clients6.google.com
+48.102.233.174 webchannel-alkalimakersuite-pa.clients6.google.com
 217.60.179.6 webrtc.chatgpt.com
 217.60.179.6 write-free.www.deepl.com
 217.60.179.6 www-growth.scdn.co
@@ -181,7 +181,3 @@
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
 185.31.40.18 api-v2.soundcloud.com
-142.251.150.2 soundcloud.com
-142.251.150.2 www.soundcloud.com
-142.251.150.2 promoted.soundcloud.com
-142.251.150.2 api-v2.soundcloud.com
