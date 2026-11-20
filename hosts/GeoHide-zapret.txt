@@ -125,7 +125,7 @@
 217.60.179.6 shield.deepl.com
 217.60.179.6 sora.chatgpt.com
 217.60.179.6 spclient.wg.spotify.com
-143.20.64.192 static-assets-1.truthsocial.com
+104.16.24.14 static-assets-1.truthsocial.com
 217.60.179.6 static.canva.com
 217.60.179.6 static.linear.app
 48.102.233.174 stitch.withgoogle.com
@@ -133,7 +133,7 @@
 217.60.179.6 sydney.bing.com
 217.60.179.6 tcr9i.chat.openai.com
 185.31.40.18 test.dns.malw.link
-143.20.64.192 truthsocial.com
+104.16.24.14 truthsocial.com
 217.60.179.6 uploads.linear.app
 217.60.179.6 upsx.weather.com
 217.60.179.6 videos.openai.com
