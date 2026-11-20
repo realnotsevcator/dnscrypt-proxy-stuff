@@ -40,6 +40,7 @@ chatgpt.com 217.60.179.6
 =robinfrontend-pa.googleapis.com 142.251.110.100
 =aistudio.google.com 142.251.110.100
 =alkalimakersuite-pa.clients6.google.com 142.251.110.100
+=fitbit.google.com 142.251.110.100
 =flow.google.com 142.251.110.100
 =gemini.google.com 142.251.110.100
 =geminiweb-pa.clients6.google.com 142.251.110.100
@@ -105,14 +106,13 @@ linear.app 217.60.179.6
 =sdmntprnortheu.oaiusercontent.com 217.60.179.6
 =sdmntprpolandcentral.oaiusercontent.com 217.60.179.6
 =sdmntprukwest.oaiusercontent.com 217.60.179.6
-=fitbit.google.com 142.251.13.100
 =game-assets.brawlstarsgame.com 217.60.179.6
 =game-assets.clashofclans.com 217.60.179.6
 =game-assets.clashroyaleapp.com 217.60.179.6
 =geolocation.onetrust.com 217.60.179.6
 =labs.google 142.251.142.241
 =ntc.party 130.255.77.28
-=o.pki.goog 142.251.20.94
+=o.pki.goog 142.251.14.94
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 217.60.179.6
@@ -122,7 +122,7 @@ linear.app 217.60.179.6
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 217.60.179.6
 =weather.com 217.60.179.6
-=web.archive.org 207.241.237.3
+=web.archive.org 217.60.179.6
 =www.dyson.fr 217.60.179.6
 =www.tiktok.com 217.60.179.6
 =z-p42-chat-e2ee-ig.facebook.com 57.144.248.34

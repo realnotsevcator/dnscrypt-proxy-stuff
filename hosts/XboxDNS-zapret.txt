@@ -69,7 +69,7 @@
 217.60.179.6 errortracking.deepl.com
 217.60.179.6 files.oaiusercontent.com
 172.217.112.4 fitbit-pa.googleapis.com
-142.251.13.100 fitbit.google.com
+142.251.110.100 fitbit.google.com
 172.217.112.4 fitbitvestibuleshim-pa.googleapis.com
 142.251.110.100 flow.google.com
 217.60.179.6 game-assets.brawlstarsgame.com
@@ -101,7 +101,7 @@
 142.251.110.100 notebook.google.com
 142.251.110.100 notebooklm.google.com
 130.255.77.28 ntc.party
-142.251.20.94 o.pki.goog
+142.251.14.94 o.pki.goog
 217.60.179.6 oneshot-free.www.deepl.com
 217.60.179.6 open.spotify.com
 217.60.179.6 operator.chatgpt.com
@@ -140,7 +140,7 @@
 217.60.179.6 voice-proxy.www.deepl.com
 217.60.179.6 w.deepl.com
 217.60.179.6 weather.com
-207.241.237.3 web.archive.org
+217.60.179.6 web.archive.org
 142.251.110.100 webchannel-alkalimakersuite-pa.clients6.google.com
 217.60.179.6 webrtc.chatgpt.com
 217.60.179.6 write-free.www.deepl.com
