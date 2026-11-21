@@ -17,6 +17,10 @@ soundcloud.com 57.144.248.34
 www.soundcloud.com 57.144.248.34
 promoted.soundcloud.com 57.144.248.34
 api-v2.soundcloud.com 57.144.248.34
+soundcloud.com 142.251.150.2
+www.soundcloud.com 142.251.150.2
+promoted.soundcloud.com 142.251.150.2
+api-v2.soundcloud.com 142.251.150.2
 soundcloud.com 130.255.77.28
 www.soundcloud.com 130.255.77.28
 promoted.soundcloud.com 130.255.77.28
@@ -65,7 +69,6 @@ chatgpt.com 217.60.179.6
 =alkalimakersuite-pa.clients6.google.com 48.102.233.174
 =fitbit.google.com 48.102.233.174
 =flow.google.com 48.102.233.174
-=gemini.google.com 48.102.233.174
 =geminiweb-pa.clients6.google.com 48.102.233.174
 =jules.google.com 48.102.233.174
 =notebook.google.com 48.102.233.174
@@ -130,6 +133,7 @@ linear.app 217.60.179.6
 =game-assets.brawlstarsgame.com 217.60.179.6
 =game-assets.clashofclans.com 217.60.179.6
 =game-assets.clashroyaleapp.com 217.60.179.6
+=gemini.google.com 142.251.150.2
 =geolocation.onetrust.com 217.60.179.6
 =labs.google 48.102.233.174
 =ntc.party 130.255.77.28

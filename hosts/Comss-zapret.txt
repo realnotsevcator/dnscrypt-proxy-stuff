@@ -75,7 +75,7 @@
 217.60.179.6 game-assets.brawlstarsgame.com
 217.60.179.6 game-assets.clashofclans.com
 217.60.179.6 game-assets.clashroyaleapp.com
-48.102.233.174 gemini.google.com
+142.251.150.2 gemini.google.com
 48.102.233.174 geminiweb-pa.clients6.google.com
 48.102.233.174 generativelanguage.googleapis.com
 217.60.179.6 geolocation.onetrust.com

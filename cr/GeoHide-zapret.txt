@@ -111,14 +111,11 @@ linear.app 217.60.179.6
 =game-assets.clashofclans.com 217.60.179.6
 =game-assets.clashroyaleapp.com 217.60.179.6
 =geolocation.onetrust.com 217.60.179.6
-=labs.google 48.102.233.174
 =ntc.party 130.255.77.28
 =o.pki.goog 48.102.233.174
 =patreon.com 217.60.179.6
 =www.patreon.com 217.60.179.6
 =platform.claude.com 217.60.179.6
-=static-assets-1.truthsocial.com 104.16.24.14
-=truthsocial.com 104.16.24.14
 =test.dns.malw.link 185.31.40.18
 =upsx.weather.com 217.60.179.6
 =weather.com 217.60.179.6
