@@ -106,6 +106,8 @@ telegram.org 149.154.167.220
 telesco.pe 149.154.167.220
 =discord.com 162.159.128.233
 =updates.discord.com 162.159.128.233
+=images-ext-1.discordapp.net 162.159.128.233
+=media.discordapp.net 162.159.128.233
 =oauth.tg.dev 149.154.167.220
 =tg.dev 149.154.167.220
 =t.me 149.154.167.220

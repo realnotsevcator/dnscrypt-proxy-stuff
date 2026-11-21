@@ -148,11 +148,13 @@
 149.154.167.220 core.telegram.org
 149.154.167.220 desktop.telegram.org
 162.159.128.233 discord.com
+162.159.128.233 images-ext-1.discordapp.net
 149.154.167.220 kws2-1.web.telegram.org
 149.154.167.220 kws2.web.telegram.org
 149.154.167.220 kws4-1.web.telegram.org
 149.154.167.220 kws4.web.telegram.org
 149.154.167.220 macos.telegram.org
+162.159.128.233 media.discordapp.net
 149.154.167.220 my.telegram.org
 149.154.167.220 oauth.telegram.org
 149.154.167.220 oauth.tg.dev
