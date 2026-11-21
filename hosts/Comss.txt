@@ -111,7 +111,7 @@
 217.60.179.6 platform.claude.com
 217.60.179.6 platform.openai.com
 217.60.179.6 plugins.jetbrains.com
-142.251.150.2 proactivebackend-pa.googleapis.com
+48.102.233.174 proactivebackend-pa.googleapis.com
 217.60.179.6 public.linear.app
 217.60.179.6 resources.tidal.com
 217.60.179.6 rewards.bing.com
@@ -128,7 +128,7 @@
 8.47.69.0 static-assets-1.truthsocial.com
 217.60.179.6 static.canva.com
 217.60.179.6 static.linear.app
-64.233.165.100 stitch.withgoogle.com
+48.102.233.174 stitch.withgoogle.com
 217.60.179.6 store.supercell.com
 217.60.179.6 sydney.bing.com
 217.60.179.6 tcr9i.chat.openai.com
@@ -141,7 +141,7 @@
 217.60.179.6 w.deepl.com
 217.60.179.6 weather.com
 217.60.179.6 web.archive.org
-142.251.150.2 webchannel-alkalimakersuite-pa.clients6.google.com
+48.102.233.174 webchannel-alkalimakersuite-pa.clients6.google.com
 217.60.179.6 webrtc.chatgpt.com
 217.60.179.6 write-free.www.deepl.com
 217.60.179.6 www-growth.scdn.co
@@ -173,18 +173,10 @@
 130.255.77.28 www.soundcloud.com
 130.255.77.28 promoted.soundcloud.com
 130.255.77.28 api-v2.soundcloud.com
-142.251.150.2 soundcloud.com
-142.251.150.2 www.soundcloud.com
-142.251.150.2 promoted.soundcloud.com
-142.251.150.2 api-v2.soundcloud.com
 8.47.69.0 soundcloud.com
 8.47.69.0 www.soundcloud.com
 8.47.69.0 promoted.soundcloud.com
 8.47.69.0 api-v2.soundcloud.com
-64.233.165.100 soundcloud.com
-64.233.165.100 www.soundcloud.com
-64.233.165.100 promoted.soundcloud.com
-64.233.165.100 api-v2.soundcloud.com
 185.31.40.18 soundcloud.com
 185.31.40.18 www.soundcloud.com
 185.31.40.18 promoted.soundcloud.com
