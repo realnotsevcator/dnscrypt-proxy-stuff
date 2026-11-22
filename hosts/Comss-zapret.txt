@@ -14,7 +14,7 @@
 217.60.179.6 accounts.x.ai
 142.251.150.2 aisandbox-pa.googleapis.com
 142.251.150.2 aistudio.google.com
-172.217.19.241 aitestkitchen.withgoogle.com
+209.85.233.141 aitestkitchen.withgoogle.com
 142.251.150.2 alkalimakersuite-pa.clients6.google.com
 217.60.179.6 android.chat.openai.com
 217.60.179.6 api-free.deepl.com
@@ -71,12 +71,12 @@
 172.217.112.4 fitbit-pa.googleapis.com
 142.250.178.46 fitbit.google.com
 172.217.112.4 fitbitvestibuleshim-pa.googleapis.com
-172.217.20.174 flow.google.com
+142.250.178.110 flow.google.com
 217.60.179.6 game-assets.brawlstarsgame.com
 217.60.179.6 game-assets.clashofclans.com
 217.60.179.6 game-assets.clashroyaleapp.com
 142.251.150.2 gemini.google.com
-142.251.143.138 geminiweb-pa.clients6.google.com
+142.250.178.42 geminiweb-pa.clients6.google.com
 142.251.150.2 generativelanguage.googleapis.com
 217.60.179.6 geolocation.onetrust.com
 217.60.179.6 gew1-dealer.spotify.com
@@ -90,7 +90,7 @@
 217.60.179.6 ios.chat.openai.com
 217.60.179.6 ita-free.app.deepl.com
 217.60.179.6 ita-free.www.deepl.com
-64.233.163.100 jules.google.com
+173.194.220.100 jules.google.com
 142.251.150.2 labs.google
 217.60.179.6 linear.app
 217.60.179.6 link.tidal.com
@@ -101,7 +101,7 @@
 142.251.150.2 notebook.google.com
 142.251.150.2 notebooklm.google.com
 130.255.77.28 ntc.party
-142.250.178.99 o.pki.goog
+142.251.142.227 o.pki.goog
 217.60.179.6 oneshot-free.www.deepl.com
 217.60.179.6 open.spotify.com
 217.60.179.6 operator.chatgpt.com

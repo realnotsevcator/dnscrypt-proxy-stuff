@@ -66,7 +66,6 @@
 217.60.179.6 game-assets.clashofclans.com
 217.60.179.6 game-assets.clashroyaleapp.com
 217.60.179.6 geolocation.onetrust.com
-217.60.179.6 gew1-dealer.spotify.com
 217.60.179.6 gew1-spclient.spotify.com
 217.60.179.6 grok.com
 217.60.179.6 gtm.deepl.com
