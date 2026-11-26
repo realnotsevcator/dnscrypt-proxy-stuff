@@ -13,7 +13,7 @@
 217.60.179.6 accounts.supercell.com
 217.60.179.6 accounts.x.ai
 48.102.233.174 aisandbox-pa.googleapis.com
-48.102.233.174 aitestkitchen.withgoogle.com
+48.102.233.174 alkalimakersuite-pa.clients6.google.com
 217.60.179.6 android.chat.openai.com
 217.60.179.6 api-free.deepl.com
 217.60.179.6 api-global.squareup.com
@@ -69,10 +69,11 @@
 48.102.233.174 fitbit-pa.googleapis.com
 48.102.233.174 fitbit.google.com
 48.102.233.174 fitbitvestibuleshim-pa.googleapis.com
-48.102.233.174 flow.google.com
 217.60.179.6 game-assets.brawlstarsgame.com
 217.60.179.6 game-assets.clashofclans.com
 217.60.179.6 game-assets.clashroyaleapp.com
+48.102.233.174 gemini.google.com
+48.102.233.174 geminiweb-pa.clients6.google.com
 48.102.233.174 generativelanguage.googleapis.com
 217.60.179.6 geolocation.onetrust.com
 217.60.179.6 gew1-dealer.spotify.com
@@ -123,7 +124,6 @@
 217.60.179.6 spclient.wg.spotify.com
 217.60.179.6 static.canva.com
 217.60.179.6 static.linear.app
-48.102.233.174 stitch.withgoogle.com
 217.60.179.6 store.supercell.com
 217.60.179.6 sydney.bing.com
 217.60.179.6 tcr9i.chat.openai.com
