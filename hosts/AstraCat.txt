@@ -13,7 +13,6 @@
 217.60.179.6 accounts.supercell.com
 217.60.179.6 accounts.x.ai
 48.102.233.174 aisandbox-pa.googleapis.com
-48.102.233.174 aistudio.google.com
 48.102.233.174 aitestkitchen.withgoogle.com
 48.102.233.174 alkalimakersuite-pa.clients6.google.com
 217.60.179.6 android.chat.openai.com
@@ -139,7 +138,6 @@
 217.60.179.6 w.deepl.com
 217.60.179.6 weather.com
 217.60.179.6 web.archive.org
-48.102.233.174 webchannel-alkalimakersuite-pa.clients6.google.com
 217.60.179.6 webrtc.chatgpt.com
 217.60.179.6 write-free.www.deepl.com
 217.60.179.6 www-growth.scdn.co
