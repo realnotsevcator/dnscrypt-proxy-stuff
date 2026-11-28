@@ -132,7 +132,7 @@
 217.60.179.6 store.supercell.com
 217.60.179.6 sydney.bing.com
 217.60.179.6 tcr9i.chat.openai.com
-143.20.64.192 truthsocial.com
+104.16.24.14 truthsocial.com
 217.60.179.6 uploads.linear.app
 217.60.179.6 upsx.weather.com
 217.60.179.6 videos.openai.com
